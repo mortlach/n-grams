@@ -1,0 +1,10 @@
+quad 436137
+quay 1081664
+ques 369595
+quid 1630287
+quin 157084
+quip 229630
+quit 4569524
+quiz 971775
+quoth 803363
+quot 113684
