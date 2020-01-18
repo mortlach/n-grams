@@ -1,0 +1,14 @@
+zeolites a 2760
+zeolites h 188
+zeolites x 1479
+zeolites y 916
+zestful a 123
+zigzags a 640
+zigzags i 228
+zippers a 153
+zloties a 330
+zombies a 133
+zombies i 123
+zoology a 1101
+zoology i 688
+zygotes a 52

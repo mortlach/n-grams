@@ -1,0 +1,5 @@
+qr values 59
+qt denote 249
+qt quarts 127
+qt should 123
+qt values 184

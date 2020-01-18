@@ -1,0 +1,5 @@
+qr otherwise 41
+qr parallel 86
+qt capacity 111
+qt increases 122
+qt saucepan 693

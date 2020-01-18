@@ -1,0 +1,5 @@
+qr a 570
+qr s 160
+qt a 334
+qt e 53
+qt i 73

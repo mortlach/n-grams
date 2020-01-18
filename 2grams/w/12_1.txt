@@ -1,0 +1,16 @@
+warehouseman a 586
+wastefulness a 87
+watchfulness a 445
+watchfulness i 782
+watercourses a 276
+watercourses i 147
+waterproofed a 45
+wheelbarrows a 102
+wheelbarrows i 40
+whippoorwill i 51
+wildernesses a 58
+wildernesses i 147
+worthlessness a 198
+worthlessness i 331
+wretchedness a 2442
+wretchedness i 4502
