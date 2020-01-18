@@ -1,0 +1,6 @@
+jg a 1619
+jg g 61
+jg i 251
+jg j 109
+jg m 63
+jg o 90
