@@ -1,2 +1,0 @@
-allele frequencies p and q 141
-atomic propositions p and q 81

@@ -1,9 +1,0 @@
-Qc documentation 136
-Qc laboratories 487
-Qc participants 79
-Qc requirements 1015
-Qr decomposition 21142
-Qr factorization 20320
-Qr quantitative 68
-Qr respectively 75
-Qt respectively 103

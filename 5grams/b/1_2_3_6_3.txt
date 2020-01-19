@@ -1,2 +1,0 @@
-b is not greater than 222
-b is then closed and 94

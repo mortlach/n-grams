@@ -1,6 +1,0 @@
-Wittgenstein a 4945
-Wittgenstein e 560
-Wittgenstein i 1646
-Wittgenstein l 1255
-Wittgenstein s 2530
-Wittgenstein y 207
