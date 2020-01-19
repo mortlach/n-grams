@@ -1,0 +1,12 @@
+Qc applications 228
+Qc calculations 208
+Qc departments 241
+Qc environment 160
+Qc measurements 275
+Qc organization 201
+Qc performance 155
+Qm calculations 1502
+Qt applications 526
+Qt corresponding 46
+Qt measurements 233
+Qt prolongations 95

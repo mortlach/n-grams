@@ -98,3 +98,12 @@ xylem should 222
 xylem showed 41
 xylem solute 112
 xylem strand 7205
+xylem system 923
+xylem tension 672
+xylem through 668
+xylem tissue 19159
+xylem toward 846
+xylem varies 170
+xylem vessel 5224
+xylem wedges 260
+xylem without 399

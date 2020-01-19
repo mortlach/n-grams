@@ -98,3 +98,10 @@ overpressure a 116
 overpressure p 1056
 overproduced a 152
 overproduces a 130
+overprotecting a 115
+overshadowed a 7150
+oversimplify a 9086
+overstressed a 89
+overstretching a 501
+overwhelmingly a 24935
+overwhelmingly i 108

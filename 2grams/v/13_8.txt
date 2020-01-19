@@ -98,3 +98,17 @@ vulnerability scanners 3404
 vulnerability scenarios 69
 vulnerability seriously 47
 vulnerability situation 75
+vulnerability somewhat 141
+vulnerability specific 45
+vulnerability suddenly 45
+vulnerability suggests 210
+vulnerability surfaced 75
+vulnerability surfaces 92
+vulnerability syndrome 63
+vulnerability therefore 77
+vulnerability threshold 280
+vulnerability underlying 113
+vulnerability underneath 104
+vulnerability vanished 56
+vulnerability variables 216
+vulnerability whenever 79

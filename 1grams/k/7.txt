@@ -98,3 +98,7 @@ koshering 2811
 koshers 62
 kowtowing 41069
 kowtows 8200
+krypton 208244
+kuchens 447
+kumquat 23995
+kvetching 9596

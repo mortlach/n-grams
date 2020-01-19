@@ -1,0 +1,14 @@
+Qb a 55
+Qb i 172
+Qc a 1580
+Qc i 377
+Qc o 235
+Qm a 234
+Qm i 76
+Qm v 104
+Qr a 861
+Qr i 137
+Qr m 82
+Qr s 344
+Qt a 407
+Qt i 292

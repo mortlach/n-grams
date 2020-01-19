@@ -98,3 +98,11 @@ ovate 705592
 ovens 1287197
 overs 423838
 overt 5134551
+ovoid 628529
+ovule 352365
+owlet 32625
+owned 29197012
+owner 35534114
+oxbow 58200
+oxide 11983140
+ozone 3208598

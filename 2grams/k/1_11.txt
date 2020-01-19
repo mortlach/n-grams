@@ -98,3 +98,11 @@ k strategists 73
 k substituted 299
 k substitution 284
 k superscript 180
+k tablespoons 94
+k temperature 955
+k transactions 86
+k transferred 45
+k transformed 62
+k transistors 66
+k transmission 161
+k transmitted 51

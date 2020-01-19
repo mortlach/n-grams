@@ -1,0 +1,12 @@
+Jacksonville a 1477
+Jacksonville i 1225
+Jacksonville u 459
+Jacksonville v 140
+Johannesburg a 5137
+Johannesburg i 4089
+Johannesburg j 41
+Johannesburg v 216
+Jurisdictions a 339
+Justification a 2135
+Justification i 1144
+Justification j 95

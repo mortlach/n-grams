@@ -98,3 +98,15 @@ zeppelin commander 138
 zigzagging aimlessly 42
 zigzagging backwards 178
 zigzagging corridors 69
+zigzagging maneuvers 49
+zigzagging movements 104
+zigzagging radically 70
+zigzagging staircase 121
+zippered briefcase 100
+zippered container 58
+zippered coveralls 94
+zippered sweatshirt 453
+zucchini casserole 970
+zucchini crosswise 309
+zucchini diagonally 83
+zucchini thoroughly 129

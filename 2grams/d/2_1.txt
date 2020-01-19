@@ -98,3 +98,13 @@ do t 35416
 do u 9982
 do v 37121
 do w 14502
+do x 223589
+do y 40657
+do z 9177
+dz a 393
+dz c 48
+dz d 169
+dz i 238
+dz o 91
+dz p 53
+dz r 167
