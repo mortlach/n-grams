@@ -1,0 +1,6 @@
+cm axial field of view 77
+cm from front to back 117
+cm thick layer of clay 53
+cm thick layer of dark 67
+cm thick layer of sand 197
+cm thick layer of soil 139
