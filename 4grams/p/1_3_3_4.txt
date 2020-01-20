@@ -1,0 +1,13 @@
+p other 125 p other
+123 p some 89 p
+there 101 p true 242
+p have 252 p fall
+107 p give 113 p
+have 931 p hold 656
+p know 64 p make
+88 p need 49 p
+seem 171 p vary 622
+p trial 246 p unit
+126 p case 111 p
+been 109 p been 606
+p been 140 p other

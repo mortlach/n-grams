@@ -1,0 +1,14 @@
+knowledge agent 102 knowledge agent 105
+knowledge child 102 knowledge human 65
+knowledge pupil 44 knowledge study 121
+knowledge field 142 knowledge first 158
+knowledge study 145 knowledge point 70
+knowledge world 69 knowledge facts 50
+knowledge human 84 knowledge right 52
+knowledge field 55 knowledge study 57
+knowledge first 49 knowledge study 47
+knowledge first 83 knowledge social 60
+knowledge social 84 knowledge issue 72
+knowledge needs 90 knowledge study 55
+knowledge topic 101 knowledge reader 116
+knowledge cause 52 knowledge facts 61

@@ -1,0 +1,4 @@
+t every 66 t enter
+180 t about 585 t
+ketch 154 t appear 43
+t again 40 t about

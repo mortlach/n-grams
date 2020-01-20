@@ -1,0 +1,9 @@
+recognition a 114 reflective a 61
+reformation a 49 refractive x 49
+refractory a 421 refractory a 1224
+regulations a 83 regulatory c 69
+remembered a 93 reportable a 79
+researchers a 72 researchers a 46
+resistance a 211 resolutions a 79
+responsive a 88 restricted a 40
+restriction a 54 retrospect a 40

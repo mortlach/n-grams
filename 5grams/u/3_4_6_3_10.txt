@@ -1,0 +1,4 @@
+use experience 472 use imagination 48
+use experience 220 use interpreting 58
+use information 115 use experience 50
+using likelihood 80 using experience 119

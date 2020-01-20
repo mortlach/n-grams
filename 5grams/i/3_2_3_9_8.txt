@@ -1,0 +1,4 @@
+idea accepted 120 idea accepted 72
+idea distance 147 idea capacity 53
+idea facility 93 idea ornament 50
+idea ingredient 47 idea exposure 77

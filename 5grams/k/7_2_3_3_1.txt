@@ -1,0 +1,6 @@
+kindest a 50 kitchen a 100
+kitchen a 43 kitchen a 172
+kitchen a 177 knocked a 99
+knocked a 151 knocked i 52
+knocked i 142 knocked a 298
+knocked a 159 knocked a 112

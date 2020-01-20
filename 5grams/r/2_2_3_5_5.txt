@@ -1,0 +1,3 @@
+ring which 181 ring which 273
+ring chant 276 ring index 71
+ring index 143 ring pinky 54

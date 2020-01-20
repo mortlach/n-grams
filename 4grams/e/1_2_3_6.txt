@@ -1,0 +1,12 @@
+e accept 117 e always
+48 e decide 211 e
+depend 145 e expect 113
+e intend 208 e regard
+101 e remove 43 e
+english 72 e figure 105
+e manner 93 e section
+46 e charge 307 e
+always 88 e greater 83
+e likely 42 e needed
+42 e closed 61 e
+energy 49 e initial 2039

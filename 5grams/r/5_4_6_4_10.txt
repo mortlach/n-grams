@@ -1,0 +1,3 @@
+reader discovered 146 reader recognized 58
+reader understood 62 reader instruction 65
+reader information 81 reader elementary 54

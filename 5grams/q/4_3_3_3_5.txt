@@ -1,0 +1,6 @@
+quit began 122 quit moved 379
+quit spent 83 quit start 94
+quit began 247 quit found 46
+quit headed 60 quit moved 496
+quit spent 173 quit start 146
+quit write 43 quit father 42

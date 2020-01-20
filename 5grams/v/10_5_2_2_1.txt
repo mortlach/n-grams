@@ -1,0 +1,3 @@
+variability a 84 velocities a 59
+vibrational a 49 vibrational b 109
+vocabulary a 52 vulnerable t 158

@@ -1,0 +1,3 @@
+m positive 67 m constant
+40 m velocity 123 m
+provided 74 m interest 78

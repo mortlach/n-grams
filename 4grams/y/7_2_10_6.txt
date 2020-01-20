@@ -1,0 +1,3 @@
+yielded amount 77 yielded number
+57 yielded result 162 yielded
+result 42 yielded result 62

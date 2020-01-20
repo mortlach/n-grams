@@ -1,0 +1,4 @@
+king sum 42 king for
+44 king sum 311 king
+sum 73 king who 48
+king not 64 king too

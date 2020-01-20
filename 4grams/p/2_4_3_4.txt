@@ -1,0 +1,7 @@
+pa bank 97 pea cook
+67 pea stir 41 pea
+bread 133 pea pork 66
+pea salt 89 pea pork
+93 ph been 130 ph
+have 88 ph most 326
+ph been 109 ph from

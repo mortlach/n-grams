@@ -1,0 +1,3 @@
+chance alive 41 coiled limbs 46
+common lower 61 common start 56
+common first 152 common first 1803

@@ -1,0 +1,4 @@
+q center 263 q origin
+56 q common 716 q
+chosen 162 q greater 162
+q called 128 q greater

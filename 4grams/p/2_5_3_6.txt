@@ -1,0 +1,4 @@
+pa shadow 45 pea yellow
+56 ph occurs 193 ph
+normal 45 ph adjust 166
+ph measuring 51 ph degree

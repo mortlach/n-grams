@@ -1,0 +1,2 @@
+prices levels 42 public issues 81
+public weight 40 public france 64

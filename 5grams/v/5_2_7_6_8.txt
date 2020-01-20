@@ -1,0 +1,4 @@
+value benefits 52 value pressure 75
+value improved 40 value momentum 112
+views questions 75 views questions 82
+vision provided 43 voice suddenly 42

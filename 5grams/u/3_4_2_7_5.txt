@@ -1,0 +1,13 @@
+use coast 42 use irish 93
+use people 116 use saxon 198
+use growth 89 use period 277
+use season 51 use period 105
+use period 128 use period 159
+use times 1514 use trade 129
+use alike 68 use about 123
+use times 40 use cases 41
+use terms 101 use which 65
+use force 122 use tense 44
+use words 210 use anything 96
+use arose 51 use names 158
+using tense 51 using words 300

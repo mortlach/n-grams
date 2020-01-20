@@ -1,0 +1,1 @@
+qt charge 86 qt output

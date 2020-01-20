@@ -1,0 +1,14 @@
+go best 115 go dust 51
+go same 78 go lord 92
+go nothing 102 go door 119
+go mine 82 go wind 85
+go left 123 go body 45
+go body 92 go city 44
+go door 51 go heart 60
+go list 53 go roof 300
+go side 40 go skin 63
+go town 82 go wall 183
+go wood 65 go land 46
+go room 49 go their 49
+go their 223 go seek 80
+go same 51 go eyes 45

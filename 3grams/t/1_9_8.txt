@@ -1,0 +1,4 @@
+t hamilton 93 t
+infinity 270 t relations
+106 t american 160
+t computed 360 t

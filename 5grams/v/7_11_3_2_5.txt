@@ -1,0 +1,1 @@
+vehicle truck 65 visited first 51

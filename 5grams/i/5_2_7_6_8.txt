@@ -1,0 +1,4 @@
+index pressure 117 issue magazine 53
+issue military 96 issue magazine 102
+issue interest 117 issue specific 95
+issue quantity 265 items actually 48

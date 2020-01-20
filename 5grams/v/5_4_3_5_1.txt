@@ -1,0 +1,2 @@
+value a 69 value a 49
+voice a 42 vowed a 62

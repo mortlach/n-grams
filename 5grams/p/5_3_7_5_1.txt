@@ -1,0 +1,13 @@
+paper a 56 paper i 685
+parts a 56 people a 152
+people i 52 people a 62
+people a 40 people a 46
+people a 91 people a 48
+people a 185 period a 45
+period a 70 period a 48
+period a 64 period i 136
+phone a 50 place a 108
+place i 68 place a 46
+power a 53 power a 215
+power a 96 power a 47
+power a 42 power a 89

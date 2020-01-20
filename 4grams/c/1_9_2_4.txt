@@ -1,0 +1,4 @@
+c used 163 c grid
+269 c load 125 c
+used 48 c cost 101
+c length 75 c same

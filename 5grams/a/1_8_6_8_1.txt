@@ -1,0 +1,11 @@
+a a 59 a a 47
+a a 50 a a 41
+a a 79 a a 195
+a o 198 a q 176
+a u 433 a w 763
+a a 269 a a 65
+a a 76 a a 74
+a a 74 a a 57
+a a 109 a a 107
+a a 55 a a 67
+a a 58 a a 44

@@ -1,0 +1,2 @@
+detect stars 78 detect stars 47
+direct short 103 double place 64

@@ -1,0 +1,2 @@
+language fixed 50 license shall 50
+limited others 64 limited bound 45

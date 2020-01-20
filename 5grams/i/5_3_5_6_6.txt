@@ -1,0 +1,3 @@
+infer nomads 50 inner phases 55
+inner layers 118 inner layers 810
+inner become 44 inner through 122

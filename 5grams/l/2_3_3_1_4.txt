@@ -1,0 +1,4 @@
+ll nice 45 ll beer 111
+ll copy 45 ll good 59
+ll nice 48 ll word 86
+ll feel 63 ll have 50

@@ -1,0 +1,2 @@
+use thing 41 use do 80
+use king 50 use am 42

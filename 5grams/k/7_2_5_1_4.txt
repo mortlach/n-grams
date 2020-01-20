@@ -1,0 +1,3 @@
+kindles fire 40 kitchen fire 45
+kitchen fire 43 kitchen fire 70
+knocked good 40 knocked great 43

@@ -1,0 +1,4 @@
+before action 42 before close 53
+before place 92 before taken 64
+before cutting 50 bellow bulls 47
+borrow fancy 99 broken awoke 42

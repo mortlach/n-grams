@@ -1,0 +1,9 @@
+keg anvils 91 keg supper 64
+keg potent 89 key always 50
+key puzzle 336 kings assyria 151
+kings cyprus 114 kings armenia 87
+kings albania 46 kings armenia 154
+kings wessex 148 kings england 258
+kings france 797 kings naples 200
+kings poland 62 kings prussia 71
+kings sicily 226 kings sweden 313

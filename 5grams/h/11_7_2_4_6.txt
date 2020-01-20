@@ -1,0 +1,2 @@
+hostilities powers 83 hostilities states 45
+hostilities nobles 72 hostilities powers 42

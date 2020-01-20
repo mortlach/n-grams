@@ -1,0 +1,10 @@
+net a 61 nor i 177
+not i 51 not a 46
+not a 289 not i 650
+not i 48 not i 62
+not i 44 not i 112
+not i 94 not a 47
+not a 81 not i 41
+not a 46 not a 281
+not i 86 not i 48
+not i 53 now i 57

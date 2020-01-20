@@ -1,0 +1,5 @@
+damage a 99 dangers a 40
+defend a 112 derive a 184
+derive a 63 design a 56
+direct a 92 direct a 87
+direct a 52 double a 65

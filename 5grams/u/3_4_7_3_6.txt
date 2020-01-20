@@ -1,0 +1,7 @@
+use worker 66 use worker 216
+use energy 72 use script 67
+use luxury 49 use energy 54
+use skills 243 use training 97
+use biceps 189 use skills 63
+use skills 74 using worker 50
+using regard 40 using skills 51

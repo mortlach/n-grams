@@ -1,0 +1,7 @@
+each a 148 each a 78
+each a 146 each a 261
+each a 46 each a 44
+earth a 197 easy a 40
+egg a 42 end a 54
+end a 95 era a 48
+eye a 44 eye a 46

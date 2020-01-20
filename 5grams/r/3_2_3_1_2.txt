@@ -1,0 +1,3 @@
+read am 116 read do 279
+read am 44 read do 100
+read thing 188 rid do 42

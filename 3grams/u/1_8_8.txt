@@ -1,0 +1,2 @@
+u invariant 61 u
+symmetry 220 u internal

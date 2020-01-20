@@ -1,0 +1,10 @@
+quantity produced 78 quantity ingredient 129
+quantity employed 68 quantity directly 41
+quantity required 242 quantity clustering 62
+quantity consumed 158 quantity exported 99
+quantity imported 210 quantity demanded 110
+quarrels assembly 42 quarters situated 80
+questioning disabled 349 questioning detained 52
+questions answered 108 questions consists 364
+questions concerning 51 quickening followed 60
+quotation conveyed 55 quotient variables 71

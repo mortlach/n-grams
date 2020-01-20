@@ -1,0 +1,3 @@
+j diameter 43 j beginning
+42 j diameter 828 j
+produce 45 j denoted 374

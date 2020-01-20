@@ -1,0 +1,7 @@
+each a 53 each a 124
+each a 77 each a 41
+each a 112 each a 45
+each a 152 each a 46
+each a 41 each a 83
+each a 47 earth a 122
+end a 219 eye a 42

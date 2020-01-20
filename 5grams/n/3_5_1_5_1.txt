@@ -1,0 +1,4 @@
+nor a 52 nor a 57
+nor i 51 nor a 86
+not a 259 not i 53
+not a 123 not a 59

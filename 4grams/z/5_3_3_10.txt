@@ -1,0 +1,3 @@
+zeros considered 40 zeros suppressed
+42 zones considered 52 zones
+continuous 53 zones considered 45

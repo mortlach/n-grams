@@ -1,0 +1,7 @@
+yielded range 75 yielded rate
+62 yielded body 246 yielded
+crop 146 yielded part 117
+yielded rate 80 yielded crop
+40 yielded crop 63 yielded
+flow 79 yielded range 45
+yielded range 53 yielded rent

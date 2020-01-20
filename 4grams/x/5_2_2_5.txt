@@ -1,0 +1,6 @@
+xylem roots 208 xylem veins
+99 xylem first 59 xylem
+plant 103 xylem roots 248
+xylem trunk 95 xylem inner
+314 xylem phloem 135 xylem
+leaves 585 xylem phloem 121

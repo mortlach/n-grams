@@ -1,0 +1,1 @@
+yield slopes 41 yield stress

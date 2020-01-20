@@ -1,0 +1,5 @@
+jail a 53 jury a 49
+jury a 85 just a 146
+just i 62 just a 142
+just a 60 just i 114
+just a 84 just i 125

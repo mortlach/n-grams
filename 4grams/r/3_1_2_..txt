@@ -1,0 +1,5 @@
+rat . 248 read .
+251 read . 283 real
+. 45 real . 163
+real . 193 ref .
+121 reg . 64 rur

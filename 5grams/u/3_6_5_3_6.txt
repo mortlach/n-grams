@@ -1,0 +1,3 @@
+use caution 90 use follow 123
+use simple 50 use places 82
+using repeating 225 using output 64

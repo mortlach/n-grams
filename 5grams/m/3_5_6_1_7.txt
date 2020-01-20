@@ -1,0 +1,16 @@
+man citizen 51 man freeman 62
+man divorce 54 man keyhole 42
+man preacher 155 man deposit 89
+man quarrel 99 man counter 54
+man trample 93 man painter 131
+man country 408 may stranger 47
+may process 40 may variety 133
+may formula 61 may warrant 112
+may nucleus 225 may subject 40
+may process 130 may variety 280
+may history 162 may preceding 210
+may previous 76 may neutral 50
+may thousand 40 may warrant 215
+may skyward 44 may foreign 46
+may problem 65 may question 73
+may certain 93 men certain 179

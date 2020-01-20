@@ -1,0 +1,6 @@
+up village 50 up covered 84
+up tainted 40 up brought 57
+us example 61 us central 83
+us equation 48 us example 64
+us problem 106 us question 226
+us question 133 us equation 83

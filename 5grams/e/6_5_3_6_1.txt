@@ -1,0 +1,4 @@
+effect a 103 empire a 106
+entire a 104 entire a 42
+entire a 121 entity a 42
+equity a 75 equity a 49

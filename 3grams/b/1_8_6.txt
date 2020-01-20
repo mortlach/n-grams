@@ -1,0 +1,5 @@
+b income 280 b
+school 246 b public
+101 b amount 246
+b disease 140 b
+choice 201 b errors

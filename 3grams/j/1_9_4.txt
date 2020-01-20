@@ -1,0 +1,4 @@
+j font 43 j
+from 480 j those
+58 j when 1056
+j word 58 j

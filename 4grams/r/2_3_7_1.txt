@@ -1,0 +1,5 @@
+re i 127 re a
+195 re a 41 ring
+a 51 ring a 40
+ring a 57 ring a
+59 ring a 58 ring

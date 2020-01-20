@@ -1,0 +1,2 @@
+ring nitrogen 78 ring nitrogen
+102 ring climatic 126 ring

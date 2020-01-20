@@ -1,0 +1,5 @@
+no a 45 no a 66
+no a 45 no a 126
+no a 83 no a 54
+no a 117 no a 82
+no a 49 no a 73

@@ -1,0 +1,4 @@
+t money 70 t grace
+280 t about 210 t
+where 116 t about 121
+t table 272 t comes

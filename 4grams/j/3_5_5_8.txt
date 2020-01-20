@@ -1,0 +1,3 @@
+jar otherwise 41 job children
+55 job normally 81 job
+otherwise 68 job employed 110

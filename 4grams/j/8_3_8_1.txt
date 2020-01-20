@@ -1,0 +1,6 @@
+journals a 42 judgment i
+45 judgment a 49 judgment
+a 49 judgment i 42
+judgment a 41 judgment i
+63 judgment a 62 judgment
+a 56 judgment a 69

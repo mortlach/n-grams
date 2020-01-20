@@ -1,0 +1,17 @@
+path a 129 path a 59
+path a 45 pay a 235
+pay i 41 pay a 76
+pay a 90 pay a 42
+pay a 162 pay a 148
+pay a 106 pay a 46
+pay a 91 pay a 74
+pay a 99 pay a 179
+pay a 44 pay a 201
+pay a 42 pay a 70
+pay a 57 plea a 66
+poem a 96 poem a 44
+poem a 55 poet a 43
+poet a 75 poet a 165
+poet a 197 poet a 41
+pot a 80 put i 44
+put a 54 put a 48

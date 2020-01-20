@@ -1,0 +1,2 @@
+quid right 43 quit tough 64
+quit until 55 quit start 122

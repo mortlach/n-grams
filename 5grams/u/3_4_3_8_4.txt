@@ -1,0 +1,3 @@
+use meaning 92 use care 310
+use word 49 use risk 100
+use when 186 use here 49

@@ -1,0 +1,3 @@
+paper block 41 paper sanding 128
+party phase 50 people large 64
+people small 47 people table 235

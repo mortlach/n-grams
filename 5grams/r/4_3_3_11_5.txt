@@ -1,0 +1,7 @@
+rate imply 209 ratio imply 105
+reading tests 228 reading imply 89
+risk imply 44 risk prove 111
+role imply 52 room image 40
+room walls 118 rule apply 397
+rule imply 97 rule within 123
+rule until 48 rule would 56

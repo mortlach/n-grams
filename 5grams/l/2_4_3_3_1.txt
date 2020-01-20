@@ -1,0 +1,12 @@
+la a 87 ll a 40
+ll i 74 ll i 65
+ll a 48 ll i 148
+ll a 65 ll i 52
+ll a 44 ll a 63
+ll a 50 ll i 180
+ll i 154 ll a 62
+ll a 317 ll i 55
+ll i 89 ll i 56
+ll i 225 ll i 684
+ll i 233 ll i 196
+ll i 643 ls l 108

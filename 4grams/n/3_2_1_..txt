@@ -1,0 +1,7 @@
+nor . 40 not ?
+76 not . 103 not
+. 178 not ? 63
+not ? 77 not .
+176 not ? 42 not
+. 47 not ? 57
+now ? 365 now ?

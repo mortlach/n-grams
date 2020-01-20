@@ -1,0 +1,12 @@
+go stairs 60 go source 45
+go station 60 go ground 46
+go london 56 go berlin 43
+go england 219 go london 244
+go school 117 go middle 251
+go street 51 go toilet 42
+go valley 41 go church 85
+go london 49 go market 106
+go office 120 go station 65
+go forest 48 go garden 59
+go ground 187 go middle 43
+go office 53 go pocket 53

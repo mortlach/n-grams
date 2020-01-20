@@ -1,0 +1,4 @@
+zero energy 143 zero system 42
+zero reached 111 zero values 40
+zinc carbon 47 zinc copper 395
+zinc silver 70 zinc copper 45

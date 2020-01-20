@@ -1,0 +1,6 @@
+p have 83 p angle
+111 p mass 362 p
+rate 59 p ratio 101
+p time 41 p sign
+58 p truth 42 p
+form 78 p same 531

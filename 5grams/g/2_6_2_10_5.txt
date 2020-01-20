@@ -1,0 +1,12 @@
+go judge 49 go level 187
+go stage 117 go given 70
+go level 78 go given 4423
+go facts 47 go facts 53
+go world 80 go level 123
+go social 163 go focus 92
+go forms 70 go notion 50
+go scope 51 go period 166
+go which 51 go gorge 42
+go court 337 go phase 47
+go stage 214 go again 293
+go steps 41 go period 58

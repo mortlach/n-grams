@@ -1,0 +1,12 @@
+c coefficient 137 c difference
+55 c horizontal 118 c
+components 221 c intercepts 46
+c parameters 246 c respective
+136 c velocities 78 c
+coefficient 164 c calculated 2044
+c considered 573 c determined
+2544 c eliminated 189 c
+identified 211 c understood 119
+c particular 123 c calculated
+475 c considered 452 c
+determined 961 c horizontal 40

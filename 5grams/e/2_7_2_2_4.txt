@@ -1,0 +1,10 @@
+ear other 79 ear life 132
+ear door 1151 ear radio 45
+ear wall 207 ear wood 97
+eat time 119 eat pain 107
+eat menu 132 eat wall 432
+eat deck 58 eat patio 81
+eat half 92 eat same 395
+eat dining 371 eat mess 106
+eat name 40 eat same 298
+eat same 48 ed wall 130

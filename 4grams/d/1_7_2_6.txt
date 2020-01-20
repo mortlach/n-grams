@@ -1,0 +1,11 @@
+d center 45 d layers
+51 d planes 97 d
+plates 1002 d points 366
+d source 164 d stairs
+81 d delete 63 d
+border 127 d bridge 99
+d become 127 d number
+276 d states 182 d
+escape 211 d forget 110
+d listen 85 d corner
+101 d chance 51 d

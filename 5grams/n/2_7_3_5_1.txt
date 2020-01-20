@@ -1,0 +1,9 @@
+no a 100 no a 40
+no i 48 no a 43
+no a 41 no a 72
+no a 41 no a 89
+no a 196 no a 56
+no a 59 no a 42
+no a 48 no a 49
+no a 85 no a 108
+no i 64 no a 40

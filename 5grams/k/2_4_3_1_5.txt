@@ -1,0 +1,4 @@
+kg speed 158 king grant 47
+king large 113 king sword 59
+king faint 52 king grant 79
+king visit 71 king smile 88

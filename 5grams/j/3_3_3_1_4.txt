@@ -1,0 +1,6 @@
+job good 64 job good 48
+job living 931 job poor 47
+job good 57 job have 41
+job have 44 job good 58
+job week 70 job half 46
+job good 92 job very 70

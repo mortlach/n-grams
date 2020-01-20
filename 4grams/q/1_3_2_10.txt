@@ -1,0 +1,9 @@
+q coefficient 90 q importance
+137 q components 122 q
+parameters 94 q proportions 87
+q respective 234 q chromosome
+523 q calculated 1252 q
+considered 277 q decomposed 47
+q determined 1009 q eliminated
+51 q identified 61 q
+calculated 241 q considered 288

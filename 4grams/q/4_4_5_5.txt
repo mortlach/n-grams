@@ -1,0 +1,3 @@
+quit order 55 quit abode
+52 quit homes 55 quit
+stand 44 quit after 155

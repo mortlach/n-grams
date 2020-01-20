@@ -1,0 +1,4 @@
+up friendship 98 up percentage 249
+up percentage 1172 up resistance 109
+up resistance 56 up resistance 141
+us description 65 us description 102

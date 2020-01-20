@@ -1,0 +1,6 @@
+zero a 142 zero a
+125 zero a 104 zero
+n 44 zero a 107
+zinc a 41 zone a
+66 zone a 59 zone
+a 224 zone a 124

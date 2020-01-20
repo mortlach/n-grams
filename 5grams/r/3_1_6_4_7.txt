@@ -1,0 +1,5 @@
+read captain 97 read charles 61
+read colonel 64 read general 407
+read senator 61 read closely 45
+read together 92 run between 68
+run smoothly 499 run against 69

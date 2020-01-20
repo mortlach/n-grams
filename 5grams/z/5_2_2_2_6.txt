@@ -1,0 +1,3 @@
+zeroed little 42 zeroed second 43
+zeroed source 69 zeroed target 279
+zeroing target 100 zoned permit 102

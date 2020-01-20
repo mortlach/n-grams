@@ -1,0 +1,14 @@
+q time 271 q step
+44 q have 205 q
+take 43 q feel 143
+q have 428 q know
+122 q think 259 q
+want 66 q only 2172
+q have 300 q want
+52 q were 50 q
+case 112 q case 423
+q flux 125 q flux
+56 q less 64 q
+only 52 q true 554
+q very 54 q zero
+260 q been 46 q

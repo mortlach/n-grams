@@ -1,0 +1,10 @@
+image a 90 imaging a
+46 inner i 50 inner
+v 118 inner a 48
+inner i 60 inner a
+51 inner a 84 inner
+r 70 input a 132
+iodide a 54 iodide a
+50 iodine a 148 iodine
+a 412 issue a 92
+issue a 44 items a

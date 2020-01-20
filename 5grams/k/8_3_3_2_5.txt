@@ -1,0 +1,3 @@
+kindness force 67 kindness others 46
+kindness world 55 kindness first 79
+kindness shewn 60 kindness shown 137

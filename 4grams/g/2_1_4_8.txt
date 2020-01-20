@@ -1,0 +1,3 @@
+go distance 172 go isolated
+40 go distance 403 go
+distance 1677 go distance 52

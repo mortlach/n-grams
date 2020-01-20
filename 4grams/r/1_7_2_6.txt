@@ -1,0 +1,9 @@
+r radius 48 r center
+48 r limits 152 r
+nuclei 207 r number 63
+r points 148 r scores
+61 r source 116 r
+number 1059 r radius 1816
+r vector 210 r degree
+363 r extent 46 r
+strength 333 r sphere 42

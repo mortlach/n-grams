@@ -1,0 +1,11 @@
+b corner 57 b points
+304 b depend 171 b
+differ 46 b diagram 68
+b figure 235 b number
+267 b vector 55 b
+always 171 b called 42
+b changed 91 b greater
+222 b closed 394 b
+opened 63 b turned 122
+b figure 220 b section
+617 b section 61 b

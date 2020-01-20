@@ -1,0 +1,10 @@
+darkness . 88 darkness .
+49 darkness . 126 darkness
+. 89 decisions . 291
+deduction . 47 detailed .
+91 detailed . 64 detailed
+. 102 developing . 72
+diffusion . 49 diffusion .
+136 directions . 75 directly
+. 238 directly . 221
+directly . 106 disorders .

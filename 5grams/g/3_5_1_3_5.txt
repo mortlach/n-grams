@@ -1,0 +1,8 @@
+gas times 48 get calls 52
+get people 64 get miles 171
+get paces 66 get yards 425
+going under 63 got times 107
+got about 51 got people 74
+got order 46 got times 57
+got miles 564 got paces 145
+got steps 111 got yards 1041

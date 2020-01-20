@@ -1,0 +1,3 @@
+each adventure 83 earth jerusalem 172
+egg spoonfuls 40 end generation 45
+end discharge 44 era generation 50

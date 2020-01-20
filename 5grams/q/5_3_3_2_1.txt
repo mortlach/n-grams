@@ -1,0 +1,7 @@
+queen a 81 query a 46
+quest a 88 quest a 45
+quick a 63 quick a 55
+quick a 112 quiet a 49
+quiet a 41 quite a 76
+quite a 49 quite a 76
+quits a 86 quits a 147

@@ -1,0 +1,3 @@
+l ones 86 l when 98
+l back 100 l sure 133
+l care 165 l hard 57

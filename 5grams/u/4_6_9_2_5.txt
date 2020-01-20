@@ -1,0 +1,2 @@
+upon state 65 upon turns 48
+used whole 56 used world 1055

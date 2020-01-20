@@ -1,0 +1,4 @@
+go snarling 68 go clothes 55
+go sphere 40 go faster 55
+go assert 78 go assume 78
+go demand 92 go safety 43

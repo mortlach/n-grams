@@ -1,0 +1,1 @@
+w radius 175 w energy 44

@@ -1,0 +1,3 @@
+zero value 111 zero value 45
+zinc metal 199 zinc oxide 68
+zone weather 61 zone which 170

@@ -1,0 +1,3 @@
+zero states 59 zero inside
+58 zero strength 54 zero
+socket 144 zero strength 139

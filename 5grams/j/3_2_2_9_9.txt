@@ -1,0 +1,4 @@
+job executive 104 job cameraman 61
+job principal 69 job professor 494
+job secretary 115 job assistant 167
+job secretary 509 job scientist 48

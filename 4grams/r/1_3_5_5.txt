@@ -1,0 +1,2 @@
+r enter 80 r below
+51 r equal 45 r

@@ -1,0 +1,4 @@
+give right 42 give changing 42
+give creating 55 give finding 49
+give getting 40 give joining 59
+give small 49 give women 72

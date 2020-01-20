@@ -1,0 +1,8 @@
+king england 44 king france 92
+king england 47 king england 41
+king center 49 king middle 118
+king palace 235 king buried 93
+king called 144 king chosen 122
+king obeyed 54 king treated 95
+king barons 41 king nobles 41
+king church 50 king person 63

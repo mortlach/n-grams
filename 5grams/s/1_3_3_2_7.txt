@@ -1,0 +1,12 @@
+s achieve 44 s develop 52
+s present 46 s produce 63
+s provide 89 s present 147
+s letters 40 s written 40
+s pacific 59 s natural 40
+s measured 65 s arrival 51
+s beginning 44 s funeral 44
+s provide 53 s applied 212
+s written 342 s applied 88
+s written 229 s explain 188
+s believe 105 s language 72
+s germans 58 s origins 137

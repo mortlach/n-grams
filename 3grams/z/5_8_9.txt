@@ -1,0 +1,3 @@
+zenith corrected 47 zonal
+gradients 63 zonal component
+555 zones different 50

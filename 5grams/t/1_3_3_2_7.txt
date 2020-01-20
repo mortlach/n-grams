@@ -1,0 +1,4 @@
+t written 100 t written 41
+t assumed 58 t doubted 167
+t measured 86 t written 206
+t following 270 t purpose 60

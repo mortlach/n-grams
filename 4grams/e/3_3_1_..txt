@@ -1,0 +1,3 @@
+each . 41 earth ?
+59 earth ? 250 end
+. 1302 end . 119

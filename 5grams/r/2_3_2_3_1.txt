@@ -1,0 +1,8 @@
+re a 121 re a 477
+re a 3106 re a 127
+re a 56 re a 104
+re a 300 re a 57
+re a 102 re i 62
+re a 1138 re a 89
+re a 600 re a 52
+re i 127 re i 90

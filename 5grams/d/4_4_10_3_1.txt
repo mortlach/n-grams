@@ -1,0 +1,7 @@
+dark a 68 data a 96
+data a 44 data a 56
+data a 59 data a 82
+data a 591 days a 99
+days a 45 deny a 45
+dining a 87 done a 78
+down a 137 duty a 141

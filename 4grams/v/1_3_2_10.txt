@@ -1,0 +1,12 @@
+v coefficient 105 v difference
+54 v horizontal 169 v
+parameters 44 v components 1003
+v horizontal 767 v mobilities
+206 v parameters 131 v
+respective 227 v velocities 780
+v calculated 2119 v considered
+540 v decomposed 149 v
+determined 2021 v eliminated 364
+v identified 116 v components
+109 v calculated 458 v
+considered 365 v determined 544

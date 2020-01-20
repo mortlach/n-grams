@@ -1,0 +1,7 @@
+r point 114 r sound
+78 r radii 45 r
+total 130 r cover 118
+r value 55 r equal
+75 r given 74 r
+large 129 r taken 166
+r table 74 r about

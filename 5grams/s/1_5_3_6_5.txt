@@ -1,0 +1,4 @@
+s trials 111 s names 40
+s grave 86 s staff 47
+s under 109 s women 52
+s after 216 s above 43

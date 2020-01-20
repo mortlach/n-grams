@@ -1,0 +1,9 @@
+gel . 131 get .
+48 get . 71 get
+. 63 get . 79
+get . 57 get .
+45 goes . 93 goes
+. 68 going . 94
+going . 177 going .
+321 got . 51 got
+. 358 got . 49

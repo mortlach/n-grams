@@ -1,0 +1,3 @@
+go toward 47 go without 703
+go better 121 go faster 53
+go further 154 go without 209

@@ -1,0 +1,3 @@
+w center 45 w chosen
+125 w greater 262 w
+entire 96 w called 122

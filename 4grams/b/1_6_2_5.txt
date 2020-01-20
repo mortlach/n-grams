@@ -1,0 +1,6 @@
+b breadth 41 b lengths
+69 b cases 48 b
+state 326 b about 136
+b close 132 b equal
+257 b large 42 b
+taken 222 b space 45

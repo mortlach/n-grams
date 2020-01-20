@@ -1,0 +1,2 @@
+quarks isolated 41 quarks observed 44
+queens chartres 65 quorum obtained 672

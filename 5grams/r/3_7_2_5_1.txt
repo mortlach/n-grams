@@ -1,0 +1,7 @@
+rat a 74 raw a 89
+raw a 149 raw a 46
+raw a 81 read a 580
+read i 58 read a 422
+real a 51 real a 143
+real a 45 real a 75
+real a 40 red a 60

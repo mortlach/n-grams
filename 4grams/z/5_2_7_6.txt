@@ -1,0 +1,14 @@
+zeros fields 100 zones europe
+492 zones waters 43 zones
+europe 66 zones europe 67
+zones linked 81 zones cortex
+52 zones supply 66 zones
+europe 67 zones spaced 328
+zones states 1000 zones tissue
+62 zones should 56 zones
+africa 65 zones europe 59
+zones mexico 60 zones faults
+59 zones wonder 65 zones
+africa 78 zones stress 152
+zones through 64 zones africa
+57 zones europe 229 zones

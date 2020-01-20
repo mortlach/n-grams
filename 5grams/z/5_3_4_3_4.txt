@@ -1,0 +1,1 @@
+zeros make 67 zones south 42

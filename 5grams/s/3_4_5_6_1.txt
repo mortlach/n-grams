@@ -1,0 +1,13 @@
+sat a 120 say i 47
+see i 62 see a 41
+see i 40 see a 51
+see i 60 set a 54
+she a 73 she a 50
+she a 76 she a 48
+she a 380 she a 91
+she a 92 she a 43
+she a 62 she a 122
+she a 285 she a 67
+she a 309 six i 40
+six a 48 six a 111
+spy i 59 sun a 61

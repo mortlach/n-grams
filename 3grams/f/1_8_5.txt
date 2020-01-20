@@ -1,0 +1,6 @@
+f state 728 f
+growth 98 f field
+342 f force 105
+f field 2090 f
+cause 300 f group
+1355 f curve 1111

@@ -1,0 +1,15 @@
+jar table 41 jet world 64
+jet skies 41 jet upper 191
+jet upper 62 job inner 41
+job region 55 job rural 52
+job urban 43 job region 48
+job short 61 job state 74
+job steel 114 job first 46
+job tight 85 job basis 51
+job table 48 job field 181
+job local 49 job state 53
+job basis 157 job people 77
+job field 156 job first 48
+job plant 41 joy world 42
+joy bliss 42 joy whole 46
+joy alive 45 joy cruel 54

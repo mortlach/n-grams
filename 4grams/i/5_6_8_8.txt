@@ -1,0 +1,3 @@
+index retention 63 inner proteins
+216 inner transfer 290 input
+constant 49 issue directed 210

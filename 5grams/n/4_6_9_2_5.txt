@@ -1,0 +1,9 @@
+name world 49 name world 895
+need start 107 need reader 58
+need enter 59 need visit 47
+news world 47 next issue 97
+next basic 118 next first 46
+next method 72 next model 211
+next steps 61 next basic 45
+next major 45 nine equal 55
+nine greek 92 note which 45

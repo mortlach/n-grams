@@ -1,0 +1,7 @@
+p limits 95 p number
+1261 p partial 63 p
+radius 317 p vector 182
+p volume 64 p liquid
+43 p whether 66 p
+whether 162 p degree 117
+p strength 90 p carbon

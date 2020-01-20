@@ -1,0 +1,3 @@
+pea genetic 89 ph content
+577 ph balance 47 ph
+content 52 ph between 182

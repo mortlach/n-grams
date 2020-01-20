@@ -1,0 +1,5 @@
+job assistant 161 job operations 59
+job specialist 46 job technician 267
+job assistant 119 job counselor 148
+job detective 54 job assistant 85
+job developer 50 job different 64

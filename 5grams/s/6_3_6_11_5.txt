@@ -1,0 +1,4 @@
+settle which 100 should rates 104
+signal change 75 states after 50
+static loading 113 strain power 95
+strange which 127 stress within 123

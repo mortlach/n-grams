@@ -1,0 +1,16 @@
+race a 64 rank a 65
+rays a 102 rays a 66
+rays a 218 rays a 102
+reach a 45 rest a 150
+rise a 470 rise a 41
+rise a 42 risk a 68
+risk a 93 road a 41
+road a 54 road a 59
+road a 76 road a 119
+road a 61 rock a 61
+rode a 103 room a 110
+room a 54 room a 62
+rope a 43 rose a 74
+rose a 50 rose a 70
+rose a 46 ruin a 92
+rule a 60 rule a 62

@@ -1,0 +1,5 @@
+use forth 63 use three 47
+use have 149 use ways 43
+use form 59 use away 98
+use bread 86 use forth 52
+use land 63 using type 82

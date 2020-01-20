@@ -1,0 +1,6 @@
+k elements 276 k
+variables 72 k disjoint
+64 k integers 193
+k outcomes 941 k
+selected 134 k elements
+124 k deviations 2886

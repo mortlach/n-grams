@@ -1,0 +1,2 @@
+keep points 52 kind before 62
+kind should 154 kind diagram 57

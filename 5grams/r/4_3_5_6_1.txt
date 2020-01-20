@@ -1,0 +1,16 @@
+rail a 66 rate a 57
+rate a 62 reading a 41
+reading a 41 reading a 122
+rich a 42 rich a 4062
+riding a 40 riding a 47
+rising a 99 rising a 59
+rising i 64 road a 66
+road a 229 road a 42
+road a 211 road a 47
+rock a 51 rode a 72
+rode a 73 room i 50
+room a 40 room a 49
+room a 129 room a 64
+room a 131 room i 56
+room i 40 room a 55
+rule a 73 rule a 79

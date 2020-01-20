@@ -1,0 +1,6 @@
+o times 42 o point
+356 o cases 41 o
+cases 53 o equal 42
+o known 285 o given
+40 o found 42 o
+cases 106 o total 92

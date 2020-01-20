@@ -1,0 +1,4 @@
+generations size 104 government view 41
+government task 63 government time 147
+government duty 46 government task 41
+government evil 660 grandmother cook 46

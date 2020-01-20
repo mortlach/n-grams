@@ -1,0 +1,10 @@
+economy new 59 economy new 123
+economy new 83 economy new 82
+election new 48 election new 57
+election new 45 elevate bad 60
+embrace die 45 enacted law 43
+endured year 42 enjoyed lot 45
+enzymes path 60 example new 99
+exceeding day 53 exceeding day 57
+excused few 64 existed year 147
+existed was 107 exposed rag 46

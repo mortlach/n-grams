@@ -1,0 +1,2 @@
+h constant 54 h
+exposure 57 h thereafter

@@ -1,0 +1,4 @@
+qualms now 138 quitting end 116
+quotas set 68 quotas met 84
+quoted say 370 quoted with 46
+quoted old 41 quotes mid 162

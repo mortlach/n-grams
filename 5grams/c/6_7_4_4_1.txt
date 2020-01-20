@@ -1,0 +1,6 @@
+career a 62 carpet a 83
+chairs a 44 changed a 48
+changed a 167 changes a 61
+cheery a 58 clearly a 49
+commit a 67 commit a 86
+course a 50 curled a 42

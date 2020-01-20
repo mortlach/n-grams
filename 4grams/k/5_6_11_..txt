@@ -1,0 +1,6 @@
+keeping . 64 known .
+48 known . 57 known
+. 67 known . 305
+known . 61 known .
+231 known . 56 known
+. 175 known . 49

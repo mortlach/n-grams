@@ -1,0 +1,11 @@
+factor a 195 factor a 50
+family a 747 family a 51
+family a 141 family a 65
+family a 75 family a 42
+faults a 59 fences a 54
+fighting a 47 filter a 126
+filter a 83 flight a 47
+forest a 87 formal a 68
+former a 45 former a 47
+former a 408 former a 54
+further a 45 further a 61

@@ -1,0 +1,5 @@
+joint . 75 joint .
+118 joint . 425 joint
+. 78 joint . 68
+joint . 414 joint .
+88 judge . 40 juice

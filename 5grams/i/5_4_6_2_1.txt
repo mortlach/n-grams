@@ -1,0 +1,10 @@
+image a 61 image a 79
+image a 121 index a 119
+index a 145 index a 77
+inner a 75 input a 335
+issue a 61 issue i 230
+issue a 94 issue a 75
+items a 192 items a 120
+items a 47 items a 374
+items a 73 items a 55
+items a 109 ivory a 45

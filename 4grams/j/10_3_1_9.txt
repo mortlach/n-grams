@@ -1,0 +1,7 @@
+journalism necessary 40 journalism profession
+127 journalist newspaper 166 journalist
+political 182 journalist politician 274
+journalist professor 110 journalist prominent
+57 journalist publicist 64 journalist
+publisher 49 journalist television 40
+journalist newspaper 222 journalist reputation

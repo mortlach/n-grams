@@ -1,0 +1,8 @@
+jar a 79 jar a 71
+job a 72 job a 84
+job a 146 job a 66
+job a 44 job a 116
+job a 60 job a 127
+job a 100 job i 109
+joy a 48 joy a 56
+joy i 79 joy a 100

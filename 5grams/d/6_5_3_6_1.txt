@@ -1,0 +1,6 @@
+damage a 64 damned a 68
+decree a 44 desert a 71
+desert a 54 device a 42
+device a 53 dinner a 43
+direct a 150 disease a 53
+dressing a 104 drinking a 252

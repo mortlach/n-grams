@@ -1,0 +1,15 @@
+re right 252 re right 41
+re allow 133 re begin 43
+re bother 73 re build 48
+re catch 100 re change 336
+re cover 45 re drink 53
+re drive 61 re enjoy 44
+re faint 40 re fight 98
+re marry 192 re shoot 148
+re sleep 95 re solve 92
+re spend 158 re spoil 43
+re stand 177 re start 279
+re stick 62 re touch 67
+re waste 72 re worry 68
+re write 132 ring shape 46
+ring bells 46 ring sound 142

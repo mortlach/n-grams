@@ -1,0 +1,3 @@
+geometrical control 104 government accepts 42
+government operate 44 government efforts 45
+government function 145 government operate 139

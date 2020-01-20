@@ -1,0 +1,2 @@
+zeros fill 44 zones most 155
+zones less 418 zones used 67

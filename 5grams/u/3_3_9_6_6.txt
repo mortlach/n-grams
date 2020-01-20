@@ -1,0 +1,1 @@
+use forces 72 use weapons 46

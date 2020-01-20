@@ -1,0 +1,6 @@
+p modulus 56 p between
+106 p integer 46 p
+assumed 277 p defined 235
+p derived 49 p measured
+109 p omitted 41 p
+reduced 111 p removed 47

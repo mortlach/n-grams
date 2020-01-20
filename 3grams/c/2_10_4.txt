@@ -1,0 +1,7 @@
+cc tube 78 cc
+ratio 995 cm from
+147 cm line 328
+cm skin 41 cm
+along 70 cm from
+306 cm skin 328
+cm from 105 co

@@ -1,0 +1,13 @@
+go again 63 go again 101
+go enemy 48 go organ 44
+go about 136 go father 50
+go mother 64 go light 63
+go night 101 go night 147
+go found 87 go point 76
+go which 119 go level 40
+go limit 58 go point 98
+go would 84 go could 123
+go lunch 58 go lodging 42
+go night 49 go dancing 155
+go usual 58 go mother 58
+go after 77 go knows 205

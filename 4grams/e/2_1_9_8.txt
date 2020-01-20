@@ -1,0 +1,3 @@
+eat sandwich 44 eat breakfast
+247 eat breakfast 242 eat
+balanced 41 eat quantity 75

@@ -1,0 +1,3 @@
+ring given 77 ring given 63
+ring white 57 ring round 43
+ring flame 59 ring phloem 159

@@ -1,0 +1,6 @@
+value dollar 55 value geodesy 293
+varying nature 55 varying stress 65
+varying placed 103 varying strength 45
+varying toward 51 varying evoked 135
+veils shafts 43 views nature 41
+virus plants 64 voted budget 54

@@ -1,0 +1,12 @@
+up wall 5746 up wall 174
+up game 50 up wall 8188
+up post 135 up door 94
+up wall 91 up rock 273
+up tree 217 up pole 101
+up tree 90 up tree 154
+up wall 107 up tree 51
+up mass 189 up wall 1257
+up hill 51 up wall 8521
+up tide 44 up wind 152
+up wall 292 up find 236
+us flying 51 us line 40

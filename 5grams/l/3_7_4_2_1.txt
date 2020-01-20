@@ -1,0 +1,17 @@
+law a 87 law a 292
+law a 114 law a 47
+lay a 67 lay a 40
+lay a 67 lay a 893
+lay a 113 lead a 50
+leap a 41 led a 51
+leg a 200 let a 76
+let a 278 let a 45
+let a 50 let a 711
+let a 90 let a 132
+let a 144 let a 222
+let a 69 lie a 209
+lip a 123 long a 136
+long a 52 long a 128
+long a 43 long a 83
+low a 150 low a 61
+low a 44 low a 56

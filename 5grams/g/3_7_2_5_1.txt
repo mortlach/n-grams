@@ -1,0 +1,12 @@
+gap n 45 gas p 171
+gas a 66 get a 65
+get a 106 get a 42
+get a 55 get a 73
+get a 97 get a 144
+get a 146 get a 103
+get a 96 get a 153
+get a 97 get a 69
+goes a 46 going a 68
+got a 162 got a 155
+got a 47 got a 52
+got a 54 got a 105

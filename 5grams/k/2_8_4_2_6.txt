@@ -1,0 +1,3 @@
+king animal 59 king attack 82
+king garden 47 king palace 116
+km source 47 km target 128

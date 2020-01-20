@@ -1,0 +1,4 @@
+db noise 115 do about
+132 do about 52 do
+short 41 do about 99
+do adorn 46 do about

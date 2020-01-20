@@ -1,0 +1,14 @@
+zero . 185 zero .
+69 zero . 66 zero
+. 51 zero . 749
+zero . 1054 zero .
+110 zero . 560 zero
+. 1018 zero . 109
+zero . 826 zero .
+5628 zero . 500 zero
+. 167 zero . 372
+zero . 295 zero .
+291 zero . 1091 zinc
+. 133 zinc . 43
+zone . 77 zone .
+132 zones . 215 zoom

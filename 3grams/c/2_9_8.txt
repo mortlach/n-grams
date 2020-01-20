@@ -1,0 +1,3 @@
+cc cylinder 156 cm
+distance 96 cm equipped
+56 co movement 353

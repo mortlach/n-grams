@@ -1,0 +1,7 @@
+king throne 48 king power
+50 king right 113 king
+court 69 king manor 221
+king chief 95 king woman
+50 king horse 92 king
+large 43 king grand 48
+king large 65 king table

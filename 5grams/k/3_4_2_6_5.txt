@@ -1,0 +1,3 @@
+key setting 47 key every 83
+key which 88 key action 71
+key which 78 kings right 550

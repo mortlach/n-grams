@@ -1,0 +1,1 @@
+zones africa 112 zones europe 64

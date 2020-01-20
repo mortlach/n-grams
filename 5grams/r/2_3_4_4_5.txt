@@ -1,0 +1,3 @@
+re parts 46 re until 41
+ring which 41 ring order 59
+ring coals 128 ring taken 58

@@ -1,0 +1,3 @@
+quit early 180 quit time
+78 quit whom 81 quit
+clear 50 quoth youth 43

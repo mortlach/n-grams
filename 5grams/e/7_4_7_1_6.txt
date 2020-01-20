@@ -1,0 +1,5 @@
+election greater 137 entered debtor 78
+entered member 77 entered person 100
+entered public 81 entered retail 43
+examine number 48 examine pocket 50
+exchange basket 120 exchange random 308

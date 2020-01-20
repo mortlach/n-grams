@@ -1,0 +1,3 @@
+key certificate 250 key corresponding
+300 key corresponding 56 key
+corresponding 97 khz temperature 46

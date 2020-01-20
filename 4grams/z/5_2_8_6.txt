@@ -1,0 +1,4 @@
+zones excess 59 zones signal
+53 zones organs 67 zones
+tissue 51 zones building 98
+zones escape 79 zones africa

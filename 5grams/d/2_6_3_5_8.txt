@@ -1,0 +1,5 @@
+do patients 63 do verbatim 135
+do solemnly 49 do mattered 42
+do convince 41 do displease 46
+do normally 51 do otherwise 192
+do surprise 55 do otherwise 111

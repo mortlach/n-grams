@@ -1,0 +1,7 @@
+go everyone 45 go attempts 46
+go consider 42 go overturn 52
+go direction 263 go direction 488
+go analysis 137 go direction 737
+go analysis 53 go direction 2946
+go contract 76 go relations 966
+go progress 94 go applause 81

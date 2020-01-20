@@ -1,0 +1,3 @@
+narrow trees 55 narrow walls 70
+narrow stone 41 nations power 48
+noticing place 74 number drawn 44

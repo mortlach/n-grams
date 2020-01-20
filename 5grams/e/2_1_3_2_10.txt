@@ -1,0 +1,2 @@
+eat chocolates 49 eat hamburgers 56
+eat sandwiches 45 eat sauerkraut 45

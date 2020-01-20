@@ -1,0 +1,14 @@
+range range 90 rate half 156
+rate like 42 rate high 58
+rate bond 134 rays single 45
+rely single 198 room single 141
+room side 50 room flow 132
+room rate 592 room bowl 44
+room clean 92 room cold 51
+room cool 126 room dark 849
+room dust 245 room fume 389
+room high 138 room hood 65
+room swinging 47 room test 43
+room well 231 room good 51
+room very 45 room rack 99
+room wire 168 room dose 84

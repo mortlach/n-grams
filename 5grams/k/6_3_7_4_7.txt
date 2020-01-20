@@ -1,0 +1,9 @@
+killed injured 41 killed wounded 99
+killed injured 146 killed wounded 440
+killed injured 261 killed wounded 908
+killed wounded 73 killed wounded 66
+killed outside 43 killed hundred 54
+killed hundred 83 killed numbers 130
+killed persons 46 killed hundred 68
+killed brought 55 killed carried 147
+killed several 104 killed hundred 76

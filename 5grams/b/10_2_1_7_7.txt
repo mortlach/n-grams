@@ -1,0 +1,7 @@
+background decline 45 background increase 42
+background expanding 55 banishment country 52
+bankruptcy partner 161 bankruptcy partner 260
+bedchamber monarch 144 boundaries country 47
+brightness variable 160 brightness element 52
+brightness depends 90 broadcasting language 45
+broadcasts language 45 businesses country 52

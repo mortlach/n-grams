@@ -1,0 +1,9 @@
+ph acid 113 ph broth
+300 ph back 234 ph
+down 93 ph from 116
+ph from 780 ph from
+335 ph from 117 ph
+high 82 ph less 252
+ph media 509 ph acid
+68 ph acid 112 ph
+soil 69 pm were 60

@@ -1,0 +1,7 @@
+eat nuts 47 eat rice 49
+eat five 78 eat bread 395
+eat food 507 eat what 57
+eat beef 41 eat fish 119
+eat food 507 eat meats 60
+eat other 189 eat prey 118
+eat these 63 eat wild 46

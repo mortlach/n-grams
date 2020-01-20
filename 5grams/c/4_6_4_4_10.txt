@@ -1,0 +1,3 @@
+care discovered 121 case considered 78
+cell identified 115 cell identified 95
+coal discovered 51 crop introduced 55

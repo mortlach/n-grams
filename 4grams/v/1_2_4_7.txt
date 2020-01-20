@@ -1,0 +1,3 @@
+v smaller 752 v function
+50 v average 174 v
+defined 51 v between 135

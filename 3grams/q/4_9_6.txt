@@ -1,0 +1,3 @@
+quad switch 475 quit
+public 263 quit closed
+118 quit school 48

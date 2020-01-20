@@ -1,0 +1,5 @@
+eat knife 109 eat dozen 104
+eat pound 92 eat small 134
+eat piece 45 eat small 77
+eat knife 52 eat spoon 243
+eat while 49 en could 119

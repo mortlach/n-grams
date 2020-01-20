@@ -1,0 +1,13 @@
+b path 96 b new
+50 b area 360 b
+mean 363 b end 59
+b mean 44 b set
+43 b top 55 b
+two 173 b gas 41
+b odd 47 b real
+47 b set 105 b
+two 107 b two 178
+b one 106 b you
+1194 b its 169 b
+this 92 b and 81
+b one 48 b set

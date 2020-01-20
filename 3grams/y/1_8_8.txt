@@ -1,0 +1,7 @@
+y parallel 88 y
+produces 97 y relative
+55 y velocity 61
+y children 133 y
+fractions 58 y variables
+59 y equations 413
+y downward 153 y

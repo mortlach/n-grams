@@ -1,0 +1,4 @@
+object wave 168 obtain from 139
+obtain some 46 opened firing 52
+opened soon 44 origin from 67
+output years 47 output unit 52

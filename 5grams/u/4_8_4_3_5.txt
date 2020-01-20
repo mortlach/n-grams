@@ -1,0 +1,4 @@
+union period 208 unit owner 40
+upon smoke 222 upon rolling 43
+upon engaging 42 upon point 110
+upon blowing 95 used skill 176

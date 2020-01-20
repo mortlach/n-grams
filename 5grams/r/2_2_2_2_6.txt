@@ -1,0 +1,3 @@
+ring bottom 114 ring placed 69
+ring office 84 ring mobile 53
+ring inguinal 64 ring middle 118

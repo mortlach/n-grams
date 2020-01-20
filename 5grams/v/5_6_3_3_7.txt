@@ -1,0 +1,7 @@
+valid absence 52 valid failure 67
+valid attending 41 valid justify 45
+valid require 50 value applied 41
+value carried 54 value related 57
+visit purpose 147 vital needful 42
+vocal purpose 52 voice screamed 85
+voice taunted 40 voted against 57

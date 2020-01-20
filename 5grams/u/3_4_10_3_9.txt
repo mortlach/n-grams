@@ -1,0 +1,6 @@
+use solemnity 72 use expertise 153
+use knowledge 226 use creativity 198
+use initiative 51 use knowledge 48
+use creativity 167 use visualize 91
+using confident 40 using moderation 92
+using knowledge 79 using creativity 66

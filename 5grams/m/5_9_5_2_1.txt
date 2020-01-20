@@ -1,0 +1,8 @@
+major a 58 major a 62
+major a 44 major a 52
+makes a 70 method a 160
+method a 160 might a 42
+might a 78 might a 65
+minor a 106 model a 44
+model a 206 model a 114
+model a 48 moral a 82

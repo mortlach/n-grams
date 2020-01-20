@@ -1,0 +1,4 @@
+quantities calculated 969 quantities considered
+57 quantities determined 646 quantities
+discovered 165 quantities identified 60
+quantities integrated 148 quantities introduced

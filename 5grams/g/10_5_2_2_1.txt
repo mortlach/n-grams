@@ -1,0 +1,11 @@
+government a 46 government a 413
+government a 688 government a 40
+government a 86 government a 49
+government a 217 government a 371
+government a 138 government a 91
+government a 66 government a 105
+government a 40 government a 105
+government a 113 government a 1245
+grandfather i 47 grandfather a 133
+grandmother i 83 grandmother a 57
+greenhouse a 52 guidelines a 43

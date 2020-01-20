@@ -1,0 +1,8 @@
+la plot 102 la single
+48 ll fire 86 ll
+cold 227 ll ride 40
+ll ride 40 ll fire
+74 ll good 43 ll
+good 41 ll fire 54
+ll book 227 ll line
+40 ll note 178 lo

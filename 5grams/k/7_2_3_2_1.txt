@@ -1,0 +1,5 @@
+kitchen a 68 kitchen a 57
+kitchen a 132 kitchen a 49
+kitchen a 69 kitchen a 49
+kitchen a 347 kitchen i 228
+knocked a 71 knocked a 152

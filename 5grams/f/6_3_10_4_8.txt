@@ -1,0 +1,3 @@
+factor monetary 75 flower guernsey 53
+fruits increased 50 fruits consumed 51
+fruits produced 75 fruits possible 74

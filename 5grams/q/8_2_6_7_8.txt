@@ -1,0 +1,3 @@
+quantity consumed 136 quantity constant 145
+quantity unchanged 65 quantity constant 82
+quantity unchanged 339 quantity required 53

@@ -1,0 +1,3 @@
+ph pressure 93 ph hardness
+201 ph activity 734 ph
+hardness 333 ph otherwise 116

@@ -1,0 +1,5 @@
+only language 59 only intakes 657
+only studies 49 open exchange 728
+other contain 43 other account 49
+other explain 44 other account 123
+other explain 81 other history 141

@@ -1,0 +1,4 @@
+into france 101 into sweden 71
+into eurasia 65 into europe 470
+into siberia 56 into tracts 54
+into layers 175 into nations 71

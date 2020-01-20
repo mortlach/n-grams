@@ -1,0 +1,3 @@
+d employed 43 d positive
+66 d constant 82 d
+capacity 70 d thickness 257

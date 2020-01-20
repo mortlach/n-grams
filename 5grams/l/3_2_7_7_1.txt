@@ -1,0 +1,7 @@
+lead a 113 let a 43
+let a 43 let a 42
+let a 75 let a 154
+let a 92 log a 50
+long a 84 long a 67
+long a 58 long a 57
+lot i 59 lot i 155

@@ -1,0 +1,4 @@
+value increase 49 value imports 82
+value radiation 47 value quality 110
+value voltage 49 value jointly 45
+value sections 63 value claimed 118

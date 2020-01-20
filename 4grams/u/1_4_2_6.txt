@@ -1,0 +1,7 @@
+u center 85 u initial
+145 u origin 42 u
+packed 59 u french 51
+u chosen 66 u greater
+126 u another 103 u
+something 45 u soviet 60
+u called 257 u greater

@@ -1,0 +1,15 @@
+race a 59 radio a 45
+rain i 48 rash a 96
+rate a 61 rate a 56
+rate a 166 reading i 77
+ready i 71 ready a 67
+rest a 54 rich a 100
+rich a 46 rich a 113
+road a 50 road a 41
+road a 300 rock a 124
+rock a 79 rode a 63
+role a 60 role a 74
+room a 62 room a 60
+room a 98 rude a 47
+rule a 73 rule a 51
+rule a 59 rule a 129

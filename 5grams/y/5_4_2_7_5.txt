@@ -1,0 +1,8 @@
+yards short 44 yards slope 69
+yards front 159 yards lines 173
+yards works 171 yards where 40
+yards lines 42 yards where 40
+yards shore 113 yards stand 42
+yards wharf 49 yards lines 55
+yards flank 50 yards shore 55
+yield force 109 yield gains 44

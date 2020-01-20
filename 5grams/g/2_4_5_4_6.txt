@@ -1,0 +1,5 @@
+go expect 54 go feasted 44
+go whence 51 go ground 49
+go causes 47 go school 49
+go detail 93 go detail 94
+go summer 42 go without 80

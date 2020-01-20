@@ -1,0 +1,1 @@
+object when 52 obtain from 71

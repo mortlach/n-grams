@@ -1,0 +1,3 @@
+k values 97 k limits
+62 k number 1915 k
+radius 78 k thermal 168

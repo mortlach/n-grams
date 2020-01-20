@@ -1,0 +1,7 @@
+quality a 43 quarter a 215
+quarter a 103 question a 42
+question a 73 question a 46
+question a 99 question a 41
+question a 53 question a 90
+question a 68 question i 44
+quickly a 45 quickly a 46

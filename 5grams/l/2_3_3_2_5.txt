@@ -1,0 +1,6 @@
+ll touch 82 ll sleep 40
+ll about 48 ll works 88
+ll apply 48 ll create 185
+ll first 55 ll eight 57
+ll lunch 67 ll seven 199
+ll about 323 ll court 197

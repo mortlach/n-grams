@@ -1,0 +1,2 @@
+quit roof 46 quit life
+65 quit game 42 quiz

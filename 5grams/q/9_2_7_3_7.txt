@@ -1,0 +1,10 @@
+qualified question 71 qualified subject 259
+qualified function 53 qualified function 291
+qualified service 123 qualified subject 169
+qualified service 56 qualities genuine 86
+qualities bravery 70 qualities cruelty 67
+qualities devotion 59 qualities heroism 52
+qualities honesty 45 qualities loyalty 83
+qualities courage 44 qualities courage 56
+qualities devotion 64 qualities concern 114
+qualities musician 49 qualities painful 43

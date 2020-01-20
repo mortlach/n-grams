@@ -1,0 +1,9 @@
+demand date 127 device into 57
+differ other 368 differ race 56
+differ other 115 differ other 120
+differ other 142 differ other 161
+differ other 147 differ other 209
+differ other 1170 differ seen 80
+differ used 97 differ other 83
+differ other 218 differ other 259
+differ other 103 disease more 47

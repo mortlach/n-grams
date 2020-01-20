@@ -1,0 +1,4 @@
+economy rates 462 effects rates 40
+element which 52 eternal stood 51
+exchange rates 63 exchange blood 68
+extends miles 42 extends float 67

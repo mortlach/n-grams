@@ -1,0 +1,13 @@
+have collapse 81 have collision 52
+have complete 699 have condition 442
+have conflict 41 have critical 50
+have decisive 65 have definite 119
+have distinct 62 have dramatic 250
+have movement 41 have positive 63
+have profound 237 have reduction 462
+have religious 49 have reversal 105
+have situation 1144 have somewhat 45
+have prisoner 44 have received 139
+have returned 63 have suitable 227
+have straight 103 have received 83
+having situation 41 having suitable 104

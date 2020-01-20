@@ -1,0 +1,2 @@
+use pregnancy 280 use resources 41
+use allocation 94 use sustained 204

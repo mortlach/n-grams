@@ -1,0 +1,3 @@
+say . 60 say .
+65 see . 45 she
+! 158 she . 85

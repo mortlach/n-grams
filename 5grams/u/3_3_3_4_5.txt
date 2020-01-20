@@ -1,0 +1,13 @@
+use power 60 use found 166
+use shown 115 use until 56
+use place 48 use within 123
+use place 64 use words 50
+use reason 218 use found 343
+use fully 326 use shown 263
+use found 610 use skill 68
+use sense 48 use water 110
+use method 54 use yarns 127
+use creed 42 use glory 113
+use skill 65 use people 214
+using water 198 using power 44
+using hands 49 using people 59

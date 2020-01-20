@@ -1,0 +1,3 @@
+go which 193 go walks 99
+go haste 57 go speed 170
+go morning 75 go night 126

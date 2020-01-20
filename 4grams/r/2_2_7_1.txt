@@ -1,0 +1,4 @@
+re i 44 re a
+330 ring a 40 ring
+a 134 ring i 116
+ring a 228 ring a

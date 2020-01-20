@@ -1,0 +1,9 @@
+get do 85 get do 89
+get thing 170 get thing 179
+get am 54 get do 53
+get do 70 get do 47
+get sea 469 get do 62
+get do 106 get eat 41
+get do 106 get thing 165
+going sea 97 going am 50
+got thing 137 got sea 77

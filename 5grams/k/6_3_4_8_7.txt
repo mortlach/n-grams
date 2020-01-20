@@ -1,0 +1,10 @@
+killed injured 42 killed wounded 61
+killed wounded 41 killed wounded 71
+killed injured 48 killed wounded 55
+killed wounded 78 killed wounded 40
+killed injured 67 killed wounded 65
+killed injured 51 killed wounded 50
+killed wounded 57 killed injured 42
+killed injured 116 killed wounded 106
+killed wounded 98 killed wounded 55
+killed beliefs 64 killed silence 42

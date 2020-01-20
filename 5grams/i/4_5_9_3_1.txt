@@ -1,0 +1,6 @@
+ideal a 53 idle a 82
+into a 112 into a 210
+into a 83 into a 296
+into a 44 into a 69
+into a 42 into a 46
+into a 48 into a 188

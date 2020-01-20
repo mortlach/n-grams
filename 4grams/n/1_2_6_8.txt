@@ -1,0 +1,4 @@
+n constant 48 n positive
+270 n constant 152 n
+carriers 103 n velocity 66
+n interest 50 n exponent

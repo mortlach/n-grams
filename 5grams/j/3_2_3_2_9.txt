@@ -1,0 +1,13 @@
+jar preserves 45 job production 41
+job available 69 job difficult 85
+job important 169 job difficult 60
+job important 69 job criticize 48
+job determine 112 job entertain 48
+job interfere 45 job interpret 43
+job necessary 48 job accompany 49
+job determine 189 job encourage 71
+job entertain 57 job establish 80
+job implement 105 job interpret 139
+job introduce 62 job represent 82
+job supervise 293 job translate 70
+job transport 74 joy believers 45

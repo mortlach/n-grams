@@ -1,0 +1,6 @@
+use decade 796 use device 111
+use pageant 53 use person 121
+use secret 57 use system 229
+use matter 107 use fellow 112
+use younger 53 use needed 67
+use wanted 72 use figure 81

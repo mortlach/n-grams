@@ -1,0 +1,1 @@
+re shape 290 ring every 140

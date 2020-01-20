@@ -1,0 +1,2 @@
+value inputs 189 varying domain 108
+views placed 47 vital status 272

@@ -1,0 +1,15 @@
+each a 126 each a 274
+each a 65 each a 43
+each a 121 each a 100
+each a 63 each a 52
+each a 261 each a 51
+each a 49 each a 75
+each a 326 each a 133
+earth x 56 ease a 316
+ease a 65 east y 57
+easy a 248 easy a 81
+easy a 69 easy a 53
+easy a 119 easy a 162
+easy a 64 easy a 65
+ebb a 43 end i 115
+ere a 40 eye i 44

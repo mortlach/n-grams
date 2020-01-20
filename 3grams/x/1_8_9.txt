@@ -1,0 +1,2 @@
+x component 48 x
+traversed 71 x component

@@ -1,0 +1,7 @@
+path perilous 48 pay physician 99
+pay materials 204 pay services 101
+pay supplies 64 pay enlisted 88
+pay soldiers 45 pay holidays 147
+pay fiduciary 60 pay services 917
+pay products 105 pay supplies 48
+pay rendered 317 pay services 73

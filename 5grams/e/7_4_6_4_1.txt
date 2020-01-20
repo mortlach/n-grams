@@ -1,0 +1,16 @@
+economy a 42 economy a 67
+effects a 47 effects a 251
+effects a 75 element a 93
+eleventh a 71 embarking a 69
+emerges a 134 emerges a 178
+emerges a 129 enclosing a 44
+entered a 63 entered a 237
+entered a 60 equally a 56
+evolved a 129 exactly a 88
+examine a 87 examine a 84
+examine a 53 exchange a 100
+exchange a 46 exclude a 62
+excused a 102 exhaust a 51
+explain i 274 explore a 40
+exploring a 74 express i 168
+express a 47 extending a 42

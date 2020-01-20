@@ -1,0 +1,6 @@
+key move 72 key turn 94
+key move 87 key work 266
+key move 257 kings time 45
+kings great 49 kings great 51
+kings have 44 kings give 65
+kings have 64 kings have 40

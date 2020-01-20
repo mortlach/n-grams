@@ -1,0 +1,8 @@
+key . 225 key .
+46 key . 43 key
+. 52 key . 140
+key . 48 key .
+83 key . 48 key
+. 75 key . 78
+key . 74 key .
+93 key . 93 khz

@@ -1,0 +1,11 @@
+unless defined 57 unless guarded 60
+unless handled 80 unless managed 58
+unless planned 65 unless removed 42
+unless watched 118 unless renewed 51
+unless careful 51 unless against 82
+unless certain 133 unless familiar 49
+unless trained 52 unless matched 40
+unless touched 51 unless forward 70
+unless careful 136 unless certain 58
+unless certain 145 unless material 49
+unless familiar 237 useful purpose 112

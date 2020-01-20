@@ -1,0 +1,8 @@
+use situations 86 use equipment 109
+use personnel 43 use illegally 64
+use practices 159 use structure 53
+use equipment 137 use regression 74
+use midwifery 64 use technique 73
+use convention 114 using definition 72
+using technique 331 using convention 77
+using technique 47 using electrode 89

@@ -1,0 +1,17 @@
+kilometer capital 42 kilometer village 46
+knowledge predict 45 knowledge subject 91
+knowledge highest 56 knowledge rational 44
+knowledge language 154 knowledge subject 51
+knowledge capable 65 knowledge matters 102
+knowledge content 107 knowledge subject 159
+knowledge expense 55 knowledge research 57
+knowledge student 89 knowledge chapter 55
+knowledge preceding 210 knowledge previous 275
+knowledge process 237 knowledge project 109
+knowledge research 216 knowledge highest 41
+knowledge relation 42 knowledge affects 46
+knowledge highest 60 knowledge ability 58
+knowledge process 42 knowledge history 57
+knowledge problem 62 knowledge subject 422
+knowledge members 79 knowledge variable 137
+knowledge primary 52 knowledge schools 119

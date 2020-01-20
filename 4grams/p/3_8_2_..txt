@@ -1,0 +1,13 @@
+pad . 50 path .
+47 pay . 90 pay
+! 25322 pay . 343
+pen . 55 pen .
+44 per . 46 per
+. 64 per . 77
+per . 396 per .
+159 per . 44 per
+. 399 per . 113
+poem . 125 put .
+73 put . 213 put
+. 47 put . 253
+put . 471 put .

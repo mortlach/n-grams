@@ -1,0 +1,10 @@
+cm mirror 424 cm second
+47 cm target 72 cm
+vertex 62 cm distal 170
+cm margin 45 cm needle
+140 cm origin 94 cm
+center 125 cm packed 55
+cm liquid 44 cm silica
+337 cm inches 494 cm
+normal 1433 cm modern 412
+cm treated 104 cm section

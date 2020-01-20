@@ -1,0 +1,4 @@
+t good 186 t have 56
+t great 132 t late 51
+t much 143 t seem 138
+t been 124 t only 110

@@ -1,0 +1,7 @@
+key success 74 key question 68
+key present 136 key success 43
+key decline 104 key failure 232
+key increase 56 key success 288
+key follows 95 key follows 54
+key follows 78 kid college 288
+kid herself 93 kid college 92

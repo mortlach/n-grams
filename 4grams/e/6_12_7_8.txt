@@ -1,0 +1,4 @@
+effect exposure 63 effect specific
+122 effect treatment 53 effect
+variables 667 enzyme constant 42
+existing insurers 93 existing variables

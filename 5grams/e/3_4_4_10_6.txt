@@ -1,0 +1,2 @@
+each powers 73 each usages 62
+each should 46 end without 41

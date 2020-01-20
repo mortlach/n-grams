@@ -1,0 +1,5 @@
+k vectors 3246 k integer
+46 k adopted 96 k
+assumed 138 k defined 113
+k dropped 196 k measured
+125 k omitted 74 k

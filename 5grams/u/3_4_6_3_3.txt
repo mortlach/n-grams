@@ -1,0 +1,6 @@
+use gay 57 use man 453
+use run 43 use any 110
+use they 222 use you 77
+use say 75 use not 140
+use are 58 use god 63
+using they 45 using not 42

@@ -1,0 +1,3 @@
+f writers 104 f details
+99 f remarks 40 f
+assumed 43 f defined 153

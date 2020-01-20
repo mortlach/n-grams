@@ -1,0 +1,7 @@
+use applying 139 use choosing 81
+use deciding 167 use decide 82
+use assist 44 use ensure 114
+use coercion 52 use energy 83
+use speech 40 use reasoning 180
+use future 42 using reduce 74
+using energy 41 using visual 129

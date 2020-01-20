@@ -1,0 +1,16 @@
+economic a 62 economic a 65
+economic a 42 education a 106
+education a 54 education a 45
+electric a 190 electric a 75
+electric a 63 elements a 73
+elements a 62 elongated a 44
+emotional a 101 enormous a 75
+erroneous a 56 essential a 83
+essential a 45 evaluate a 59
+everyone a 138 evidence a 60
+evidence a 416 exception a 55
+exercise a 40 exercise a 60
+expanded a 52 expected a 54
+extended a 92 extended a 133
+extended a 89 extended a 59
+external a 221 external a 51

@@ -1,0 +1,9 @@
+job completed 252 job delegated 41
+job performed 191 job processed 72
+job scheduled 58 job separated 44
+job available 75 job completed 72
+job delegated 50 job performed 160
+job qualified 45 job important 60
+job difficult 52 job assistant 105
+joy contained 44 joy described 130
+joy explained 45 joy expressed 60

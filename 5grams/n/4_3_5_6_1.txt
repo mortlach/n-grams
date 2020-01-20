@@ -1,0 +1,8 @@
+name i 68 name a 105
+name a 81 name a 225
+need a 46 need a 95
+next i 119 next i 180
+nods a 758 nothing a 320
+nothing a 45 nothing a 58
+nothing a 454 nothing a 62
+nothing a 68 nothing a 168

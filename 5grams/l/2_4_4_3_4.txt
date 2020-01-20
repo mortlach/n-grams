@@ -1,0 +1,8 @@
+ll some 48 ll find 44
+ll help 93 ll take 82
+ll tell 68 ll more 121
+ll need 76 ll need 55
+ll what 119 ll need 43
+ll want 40 ll gets 72
+ll have 91 ll spin 111
+ll what 71 ll keep 42

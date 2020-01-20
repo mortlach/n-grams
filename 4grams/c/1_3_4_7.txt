@@ -1,0 +1,6 @@
+c numbers 124 c vectors
+52 c similar 63 c
+assumed 111 c defined 58
+c measured 133 c omitted
+41 c removed 46 c
+studied 147 c answers 143

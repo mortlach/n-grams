@@ -1,0 +1,17 @@
+declaration moratorium 46 department university 65
+department government 209 department university 109
+department university 77 dependence breadwinner 520
+dependence individual 132 dependency breadwinner 50
+description substitute 83 description discoverer 47
+description individual 188 description dimensional 43
+description remarkable 62 destruction percentage 47
+destruction individual 133 determined distinction 40
+determined examination 79 determined arbitrator 447
+determined experiment 69 determined individual 126
+determined measurement 225 determined observation 134
+determined circuitous 49 determined experiment 158
+difference difference 106 difficulty formidable 79
+diminished transaction 68 diminished lamentable 148
+discharged appropriate 46 disclosure embodiment 64
+discounted appropriate 127 discovered reformation 56
+distressed unexpected 53 duplication chromosome 100

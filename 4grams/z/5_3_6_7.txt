@@ -1,0 +1,4 @@
+zeroth moments 194 zoned density
+46 zones dilution 61 zones
+defined 80 zones visible 151
+zones divided 87 zones compact

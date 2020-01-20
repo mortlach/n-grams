@@ -1,0 +1,4 @@
+go specific 100 go mountain
+137 go distance 640 go
+mountain 82 go answered 41
+go promised 62 go deserved

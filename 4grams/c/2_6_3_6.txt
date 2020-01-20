@@ -1,0 +1,3 @@
+cm origin 133 cm eluted
+118 cm packed 187 cm
+column 1004 co second 759

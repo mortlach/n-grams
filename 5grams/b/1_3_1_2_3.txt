@@ -1,0 +1,7 @@
+b fig 40 b not 149
+b two 91 b not 550
+b fig 1975 b one 66
+b this 180 b not 276
+b that 61 b fig 1005
+b this 630 b that 252
+b not 183 b fig 286

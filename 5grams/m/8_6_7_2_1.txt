@@ -1,0 +1,7 @@
+magnetic a 108 maintain a 180
+maintain a 57 maximize a 92
+maximize a 57 meaningless a 49
+medieval a 67 mentally a 89
+mentioned a 78 metallic a 58
+mistaken a 63 monetary a 48
+monument a 71 multiple a 59

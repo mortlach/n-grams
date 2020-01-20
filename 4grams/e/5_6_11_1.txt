@@ -1,0 +1,3 @@
+ethnic a 52 ethnic a
+49 every a 64 every
+a 139 every a 61

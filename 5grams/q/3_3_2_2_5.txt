@@ -1,0 +1,8 @@
+qua study 57 qua treaty 105
+qua first 40 qua genre 125
+qua growth 59 qua human 265
+qua indian 42 qua moral 61
+qua nation 48 qua novel 110
+qua others 147 qua right 46
+qua social 177 qua state 169
+qua treaty 214 qua whole 786

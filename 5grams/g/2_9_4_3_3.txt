@@ -1,0 +1,6 @@
+go her 74 go him 123
+go get 61 go buy 49
+go get 293 go say 48
+go see 58 go then 53
+go try 83 go you 72
+go his 80 go his 41

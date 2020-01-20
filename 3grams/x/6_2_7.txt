@@ -1,0 +1,6 @@
+xylene solvent 304 xylene
+aquifer 48 xylene removed
+87 xylene usually 46
+xylene acetone 201 xylene
+alcohol 101 xylene benzene
+1040 xylene toluene 4123

@@ -1,0 +1,10 @@
+ll place 48 ll brief 168
+ll check 123 ll drink 77
+ll penny 52 ll piece 208
+ll quick 217 ll short 44
+ll slice 50 ll story 61
+ll taste 94 ll toast 46
+ll touch 45 ll whole 65
+ll check 120 ll loser 81
+ll trick 46 ll while 50
+ll funny 60 ll story 1090

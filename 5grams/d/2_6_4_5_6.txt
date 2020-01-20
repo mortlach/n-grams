@@ -1,0 +1,1 @@
+do without 42 do strength 451

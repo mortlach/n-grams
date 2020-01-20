@@ -1,0 +1,13 @@
+go moorish 84 go problem 43
+go decision 322 go country 52
+go achieve 254 go explain 105
+go improve 170 go resolve 105
+go satisfy 40 go friends 50
+go chamber 81 go highest 65
+go unknown 40 go village 43
+go prairie 74 go material 57
+go forward 80 go details 161
+go history 89 go question 466
+go subject 627 go country 43
+go interior 93 go kitchen 146
+go turmoil 58 go vatican 174

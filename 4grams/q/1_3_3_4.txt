@@ -1,0 +1,4 @@
+q even 115 q true
+2251 q zero 122 q
+have 291 q hold 147
+q vary 72 q been

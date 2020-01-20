@@ -1,0 +1,7 @@
+ranges a 50 rather a 54
+reader a 86 reader a 42
+reader a 125 really a 43
+really a 89 really i 45
+ridgy a 42 right i 94
+right a 42 right a 69
+round a 46 running a 186

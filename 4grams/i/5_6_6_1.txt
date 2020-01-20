@@ -1,0 +1,10 @@
+image a 68 image a
+51 image a 170 image
+a 96 index a 48
+innings a 202 input a
+238 input x 61 input
+a 77 input a 142
+input a 121 input a
+209 issue a 135 issue
+a 44 issue a 47
+issue a 145 issue a

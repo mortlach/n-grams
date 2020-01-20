@@ -1,0 +1,5 @@
+no education 148 no produced 53
+no deferred 52 no exhibiting 87
+no variables 60 no achieved 40
+no observed 64 no observed 41
+no possible 49 no reported 69

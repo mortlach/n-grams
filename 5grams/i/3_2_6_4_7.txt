@@ -1,0 +1,3 @@
+idea control 116 idea movable 42
+idea society 49 idea perfect 157
+idea scratch 65 idea animals 40

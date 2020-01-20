@@ -1,0 +1,7 @@
+parallel a 68 physical a 47
+plainest a 49 pollution a 95
+possible a 46 possible a 53
+potential a 330 powerful a 44
+presence a 57 probably i 45
+promptly a 54 promptly a 43
+properly a 57 protests a 128

@@ -1,0 +1,2 @@
+q center 168 q points
+85 q charge 250 q

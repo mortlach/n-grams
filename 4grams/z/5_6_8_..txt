@@ -1,0 +1,10 @@
+zero . 2156 zero .
+285 zero . 132 zero
+. 402 zero . 102
+zero . 101 zero .
+333 zero . 380 zero
+. 1605 zero . 169
+zero . 41 zero .
+452 zero . 105 zero
+. 183 zero . 98
+zone . 124 zone .

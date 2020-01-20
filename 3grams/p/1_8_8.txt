@@ -1,0 +1,7 @@
+p pressure 58 p
+variables 346 p involved
+174 p oriented 136
+p produces 325 p
+variables 350 p definite
+186 p elements 257
+p constant 139 p

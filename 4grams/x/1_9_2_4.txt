@@ -1,0 +1,4 @@
+x curl 68 x spin
+81 x cost 128 x
+length 700 x side 40
+x time 256 x width

@@ -1,0 +1,12 @@
+dark a 45 dark a 142
+data a 47 data a 45
+data a 78 data a 71
+data a 141 data a 44
+data a 72 data a 56
+days a 74 deaths a 132
+deem a 47 dogs a 44
+down a 60 down a 45
+down a 99 draw a 50
+draw a 49 drop a 48
+during a 48 during a 147
+during a 42 dust a 58

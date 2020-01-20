@@ -1,0 +1,4 @@
+rate change 47 ratio limit
+96 ratio value 109 risk
+minor 96 room small 87
+room woman 41 rule change

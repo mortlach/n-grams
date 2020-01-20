@@ -1,0 +1,5 @@
+job assigned 156 job promised 91
+job finished 47 job assigned 44
+job properly 113 job complete 136
+job finished 142 job properly 110
+job assigned 42 job employee 97

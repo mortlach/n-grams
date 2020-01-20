@@ -1,0 +1,8 @@
+large whip 45 light high 93
+light lens 61 light body 61
+light clear 56 light flat 52
+light hole 207 light lens 1160
+light pair 55 light single 330
+light slit 337 light slot 101
+light very 165 light whip 63
+linear single 128 local left 69

@@ -1,0 +1,2 @@
+image rate 53 index upon 70
+inner plan 401 inner from 40

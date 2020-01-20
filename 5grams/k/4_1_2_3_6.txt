@@ -1,0 +1,17 @@
+know mortal 40 know summer 140
+know something 105 know friend 66
+know afraid 352 know always 90
+know clever 210 know guilty 214
+know likely 68 know pretty 43
+know singular 47 know stupid 51
+know wanted 68 know without 76
+know enough 41 know pressing 53
+know accept 49 know already 45
+know always 451 know amount 53
+know answer 45 know attend 42
+know expect 195 know follow 63
+know forget 85 know gamble 48
+know gossip 45 know handle 67
+know intend 210 know listen 85
+know meddle 75 know regret 91
+know suffer 45 know afraid 61

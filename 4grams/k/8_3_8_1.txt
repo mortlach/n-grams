@@ -1,0 +1,5 @@
+keyboard a 41 kindness i
+165 kindness i 542 kindness
+i 455 kindness i 70
+kindness a 40 knapsack a
+51 knighted a 78 knightly

@@ -1,0 +1,15 @@
+variety a 76 variety i 145
+variety a 49 venture a 50
+venture a 88 venture i 491
+venture a 1184 venture a 314
+venture a 47 venture a 131
+venture a 88 venture a 5562
+venture i 8656 venturing i 72
+vessels a 205 vessels a 53
+victims a 45 victory a 42
+village a 43 village a 63
+violation a 121 violation a 160
+violation a 80 violation a 50
+violence a 63 visited a 43
+visited a 57 visited a 57
+vitiated a 94 volubly a 68

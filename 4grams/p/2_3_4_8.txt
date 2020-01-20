@@ -1,0 +1,10 @@
+pea tendrils 79 ph salinity
+43 ph chemical 373 ph
+physical 94 ph variables 194
+ph moisture 113 ph potential
+49 ph constant 48 ph
+adjusted 185 ph adjusted 738
+ph increased 40 ph observed
+324 ph proposed 91 ph
+reported 531 ph restored 40
+ph observed 56 ph constant

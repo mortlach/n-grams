@@ -1,0 +1,13 @@
+up ground 125 up ground 53
+up scraps 190 up ground 105
+up border 61 up bottom 54
+up detail 62 up ground 44
+up ground 86 up ground 108
+up deeper 47 us detail 176
+us effect 55 us detail 52
+us called 52 us likely 74
+us effect 83 us nature 79
+us result 49 us should 121
+us french 184 us periods 42
+us second 72 us nature 222
+us thought 69 us middle 52

@@ -1,0 +1,16 @@
+no x 91 no a 110
+no a 57 no a 48
+no a 52 no a 45
+no a 1160 no a 286
+no a 323 no a 85
+no a 91 no a 67
+no a 46 no a 54
+no a 41 no a 55
+no a 74 no a 48
+no a 44 no a 59
+no a 46 no a 41
+no a 226 no a 44
+no a 204 no a 124
+no a 59 no a 142
+no a 63 no a 113
+no a 69 no a 45

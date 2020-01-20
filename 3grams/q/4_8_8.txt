@@ -1,0 +1,3 @@
+quit entirely 105 quit
+explorer 102 quit premises
+51 quit entirely 64

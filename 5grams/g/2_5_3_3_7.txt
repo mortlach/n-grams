@@ -1,0 +1,9 @@
+go everything 70 go affairs 40
+go affairs 405 go affairs 50
+go explain 41 go everything 63
+go because 52 go quarter 144
+go friends 47 go friends 63
+go minutes 71 go rehearse 70
+go purpose 71 go general 45
+go knocked 45 go invited 61
+go ordered 102 go receive 46

@@ -1,0 +1,12 @@
+r points 48 r radius
+103 r affect 49 r
+depend 67 r remove 1446
+r england 56 r manner
+51 r section 57 r
+number 192 r radius 116
+r vector 162 r radius
+1780 r always 145 r
+changed 170 r greater 256
+r likely 42 r normal
+247 r closed 103 r
+circle 117 r radius 563

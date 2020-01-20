@@ -1,0 +1,11 @@
+banks a 53 banks a 97
+basic a 52 batch a 105
+begin i 47 begun a 69
+below a 61 below i 110
+beneath i 41 black i 55
+blank a 50 blank b 50
+block i 194 books i 40
+bother a 53 broad a 91
+brown a 87 brush a 353
+brush a 492 built i 44
+built a 50 burst a 73

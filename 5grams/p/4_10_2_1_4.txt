@@ -1,0 +1,8 @@
+park high 265 park wall 137
+past mere 107 past full 307
+past good 80 past verb 94
+past main 101 past verb 2800
+past well 183 pious pious 62
+pious good 41 plan single 100
+plan dome 44 plan single 58
+plot high 46 prior young 47

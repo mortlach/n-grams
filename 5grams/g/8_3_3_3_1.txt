@@ -1,0 +1,7 @@
+garrison a 40 generals a 46
+generals a 52 governor a 87
+governor a 128 graduate a 89
+grandeur i 271 grateful i 402
+grateful i 93 grateful a 174
+grateful a 89 grateful a 78
+grateful a 46 grimaced a 46

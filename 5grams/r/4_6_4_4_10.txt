@@ -1,0 +1,3 @@
+rate currencies 94 reading identified 177
+ready difficulty 78 risk identified 292
+roam frequently 45 root identified 180

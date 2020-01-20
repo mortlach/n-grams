@@ -1,0 +1,13 @@
+k coefficient 242 k dissipation
+108 k parameters 129 k
+refractive 89 k components 168
+k parameters 203 k refractive
+43 k respective 136 k
+coefficient 131 k calculated 3491
+k considered 697 k decomposed
+116 k determined 4046 k
+eliminated 213 k identified 197
+k introduced 48 k understood
+92 k particular 127 k
+calculated 850 k considered 462
+k determined 1092 k eliminated

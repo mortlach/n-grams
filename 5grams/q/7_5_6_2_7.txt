@@ -1,0 +1,9 @@
+quality degrees 72 quarter current 149
+question company 52 question patient 87
+question supreme 164 question company 50
+question phrased 45 question spanish 42
+question relation 255 question hottest 59
+question subject 156 question decided 211
+question settled 313 question studied 69
+quickly country 464 quickly country 64
+quickly borders 41 quickly country 144

@@ -1,0 +1,7 @@
+collision a 71 colonizing a 42
+computer a 71 computer a 73
+computer a 143 computer a 53
+computer a 60 contains a 57
+contenting a 45 contents a 150
+contents a 165 critical a 91
+critical a 62 cultural a 61

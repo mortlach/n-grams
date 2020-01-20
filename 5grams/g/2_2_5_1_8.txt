@@ -1,0 +1,2 @@
+go steamboat 233 go blighter 45
+go physical 97 go distance 62

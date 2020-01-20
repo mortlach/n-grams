@@ -1,0 +1,8 @@
+ring gate 152 ring bell 44
+ring door 238 ring wire 46
+ring bell 51 ring door 91
+ring size 59 ring gold 43
+ring bell 51 ring mary 113
+ring finger 166 ring finger 99
+ring finger 4737 ring finger 1887
+ring finger 75 ring finger 350

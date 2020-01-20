@@ -1,0 +1,2 @@
+gas discovered 42 get difficulty 48
+got difficulty 68 got difficulty 40

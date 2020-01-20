@@ -1,0 +1,4 @@
+quantified possible 256 quantities possible 42
+quantities required 316 quantities detected 42
+quantities elements 92 quantities essential 147
+quantities materials 117 quantities products 78

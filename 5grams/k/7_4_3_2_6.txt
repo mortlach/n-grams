@@ -1,0 +1,5 @@
+kinetic reaction 110 kinetic number 40
+kitchen frozen 46 kitchen bottom 263
+kitchen stones 55 knocked animal 103
+knocked houses 55 knocked shovel 44
+knocked chairs 59 knocked answer 115

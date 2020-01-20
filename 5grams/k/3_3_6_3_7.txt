@@ -1,0 +1,5 @@
+kings plotted 42 kings priests 115
+kings battles 96 kings bishops 70
+kings castles 56 kings knights 171
+kings princes 601 kings warriors 57
+kings crowned 213 kings reigned 52

@@ -1,0 +1,3 @@
+king cloth 52 king from
+42 king other 73 king
+more 49 king from 42

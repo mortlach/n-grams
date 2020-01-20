@@ -1,0 +1,9 @@
+p pitch 52 p price
+380 p total 45 p
+growth 43 p value 149
+p about 118 p close
+125 p equal 203 p
+found 117 p given 57
+p large 139 p small
+117 p taken 238 p
+point 45 p table 189

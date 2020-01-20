@@ -1,0 +1,5 @@
+generosity individual 40 government consistent 45
+government individual 77 government enterprise 99
+government government 59 government government 92
+government convenient 42 government individual 373
+government omnipotent 67 grievances government 42

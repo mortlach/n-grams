@@ -1,0 +1,6 @@
+party a 57 petty a 47
+place a 71 plane a 65
+plane a 62 playing a 42
+playing a 68 power a 64
+press a 51 prose a 94
+prove a 65 prove a 165

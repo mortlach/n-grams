@@ -1,0 +1,3 @@
+q uniformly 90 q
+maximizes 172 q minimizes
+173 q satisfies 246

@@ -1,0 +1,2 @@
+income a 190 income a 54
+initial a 126 injury a 48

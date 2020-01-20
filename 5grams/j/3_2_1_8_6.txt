@@ -1,0 +1,5 @@
+job worker 148 job lawyer 42
+job driver 47 job worker 343
+job porter 90 job editor 164
+job worker 40 job typist 61
+job office 98 job office 40

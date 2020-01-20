@@ -1,0 +1,7 @@
+re ride 145 re walk 176
+re very 41 re walk 50
+ring blue 78 ring fine 87
+ring great 40 ring huge 56
+ring pearl 95 ring ruby 736
+ring single 150 ring tiny 59
+ring very 74 ring root 145

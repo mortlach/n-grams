@@ -1,0 +1,7 @@
+queen a 47 quite i
+48 quite a 252 quite
+i 523 quite a 46
+quite i 83 quite a
+100 quite a 63 quite
+a 116 quite a 71
+quite a 45 quite a

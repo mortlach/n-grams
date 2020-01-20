@@ -1,0 +1,4 @@
+use stone 117 use sense 355
+use about 50 use words 63
+use terms 254 use sense 76
+use paper 57 use signs 82

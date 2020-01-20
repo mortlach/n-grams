@@ -1,0 +1,5 @@
+yellow success 44 yellow general 70
+yellow candles 41 yellow doorway 46
+yellow hallway 56 yellow kitchen 68
+yellow lantern 112 yellow windows 97
+yellow northern 45 yields bellowing 60

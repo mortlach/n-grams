@@ -1,0 +1,14 @@
+fairly i 41 family a 42
+family a 46 feeble a 44
+female a 82 figure a 62
+figure a 102 figure a 43
+figure a 94 firmly a 48
+firmly a 96 firmly i 91
+firmly a 93 fitted a 43
+flight a 87 flower a 58
+foliage a 44 forced a 40
+formal a 79 format a 57
+friend a 42 friend a 113
+friend a 144 further a 48
+further a 141 further a 62
+future a 117 future a 524

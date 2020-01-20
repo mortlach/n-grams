@@ -1,0 +1,13 @@
+education a 50 education a 259
+elections a 46 elections a 46
+elevates a 44 employee a 60
+employee a 85 employee a 187
+essential a 106 essential a 55
+estimate a 125 estimate a 142
+estimate i 54 estimate a 97
+estimate a 57 everyone a 116
+everyone a 110 evidence a 63
+evidence a 83 exercise a 55
+exercise a 1375 exercise a 65
+existent i 45 expected a 42
+extended i 43 extinguish i 107

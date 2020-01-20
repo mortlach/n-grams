@@ -1,0 +1,2 @@
+image parts 61 inner begin 42
+inner cause 40 inner drawn 42

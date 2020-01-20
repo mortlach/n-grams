@@ -1,0 +1,7 @@
+ideals cover 40 image steps 77
+image focus 389 image sharp 68
+image small 154 image never 60
+image author 42 inner cells 62
+issue focus 50 issue notes 196
+issue paper 70 issue about 236
+issue which 192 issue notes 1373

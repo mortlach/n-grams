@@ -1,0 +1,3 @@
+object a 105 obtain a
+127 obtain i 193 origin
+b 159 output a 46

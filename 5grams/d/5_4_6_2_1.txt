@@ -1,0 +1,16 @@
+daily a 122 daily a 64
+danger a 47 danger a 56
+debit a 73 delay a 223
+dimly a 47 discs a 79
+discs a 51 disks a 82
+doors a 57 doors a 71
+doors a 42 doors a 169
+doors a 107 doubt a 43
+doubt a 46 doubt a 51
+doubt a 100 doubt a 64
+doubt a 41 dozen a 237
+dozen a 45 drawing a 41
+drawn a 74 drawn a 45
+dreams a 40 dress a 86
+drink a 151 drive a 97
+driving a 40 drugs a 85

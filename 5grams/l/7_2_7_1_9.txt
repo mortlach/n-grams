@@ -1,0 +1,3 @@
+language conclusion 53 license broadcast 150
+license commercial 82 license television 189
+license newspaper 60 limited framework 113

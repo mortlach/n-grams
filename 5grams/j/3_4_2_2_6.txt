@@ -1,0 +1,11 @@
+jar ground 44 jar ground 62
+job states 93 job abrupt 65
+job lowest 67 job palace 41
+job united 529 job needed 53
+job result 68 job assist 63
+job decide 85 job ensure 88
+job figure 56 job listen 59
+job locate 52 job manage 61
+job select 48 job someone 45
+jot margin 307 jot margin 97
+joy convoy 73 joy greater 89

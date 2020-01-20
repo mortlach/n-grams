@@ -1,0 +1,3 @@
+zero interval 129 zero interval
+509 zinc hydrogen 113 zone
+adjacent 148 zone distinct 90

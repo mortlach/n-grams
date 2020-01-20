@@ -1,0 +1,4 @@
+b vectors 165 b similar
+259 b details 88 b
+assumed 42 b measured 42
+b reduced 41 b answers

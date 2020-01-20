@@ -1,0 +1,3 @@
+zebra infestation 248 zebra
+populations 624 zones individual
+50 zones territorial 53

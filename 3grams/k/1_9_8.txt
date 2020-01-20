@@ -1,0 +1,6 @@
+k constant 2499 k
+matrices 121 k variables
+56 k elements 47
+k variables 98 k
+variables 193 k functions
+145 k variances 119

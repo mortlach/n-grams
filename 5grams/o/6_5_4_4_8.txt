@@ -1,0 +1,15 @@
+object achieved 108 object attained 154
+object effected 51 object obtained 40
+object achieved 42 object attained 200
+object effected 71 object obtained 44
+object attained 85 object achieved 112
+object attained 282 object obtained 62
+office entitled 68 office proposed 78
+operas produced 65 opinion expected 55
+opinion produces 40 opinion outraged 69
+opposing differed 42 opposing advanced 45
+orders received 73 orders rendered 105
+organs invented 49 organs mentioned 73
+output achieved 79 output increased 87
+output obtained 52 output produced 148
+output produced 71 owners entitled 52

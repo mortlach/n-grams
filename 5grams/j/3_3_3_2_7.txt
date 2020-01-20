@@ -1,0 +1,12 @@
+jar mixture 40 jar charged 78
+job company 41 job college 50
+job unearned 42 job relates 99
+job company 45 job company 77
+job handled 62 job measured 66
+job started 64 job carried 46
+job handled 79 job extreme 305
+job provide 117 job perform 98
+job tarried 51 job enviable 58
+job jeopardy 194 job question 99
+job optical 77 joy greatest 53
+joy members 110 joy derived 50

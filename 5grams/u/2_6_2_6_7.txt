@@ -1,0 +1,13 @@
+up surface 46 up workers 53
+up freezes 46 up doorway 41
+up himself 54 up hoarded 50
+up between 227 up channel 119
+up animals 99 up classes 126
+up passage 60 up streets 260
+up schools 130 up between 217
+up century 58 up imagery 90
+up reserve 64 us channel 78
+us question 126 us question 48
+us variable 189 us product 62
+us natural 48 us between 67
+us process 115 us channel 73

@@ -1,0 +1,3 @@
+jar monotony 56 job satisfying 88
+job accepted 48 job extended 145
+joy excesses 85 joy prepared 51

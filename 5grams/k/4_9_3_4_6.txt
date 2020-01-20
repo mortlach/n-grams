@@ -1,0 +1,3 @@
+keep cattle 41 keep clothes 105
+keep family 46 keep horses 55
+keep houses 80 kill allies 787

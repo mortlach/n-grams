@@ -1,0 +1,3 @@
+behaviors gymnasts 102 blockade recovery 49
+branches education 49 business activity 102
+business property 69 business entirely 90

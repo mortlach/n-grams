@@ -1,0 +1,2 @@
+zero energy 100 zero second 47
+zinc copper 84 zone origin 57

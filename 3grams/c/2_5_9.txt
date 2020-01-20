@@ -1,0 +1,4 @@
+cc connected 49 cm
+umbilicus 231 cm umbilicus
+73 cm separation 49
+cw excitation 334 cw

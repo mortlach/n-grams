@@ -1,0 +1,4 @@
+kg require 51 king superior
+48 king inflict 63 king
+himself 63 king consent 464
+king forgive 123 king himself

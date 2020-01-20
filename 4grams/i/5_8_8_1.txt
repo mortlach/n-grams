@@ -1,0 +1,4 @@
+image a 122 image a
+46 index a 59 inner
+a 92 input a 44
+ionizing a 92 ionizing a

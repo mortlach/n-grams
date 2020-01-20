@@ -1,0 +1,6 @@
+quit because 55 quit
+because 55 quit service
+64 quit because 101
+quit service 70 quit
+because 53 quit forever
+83 quit against 66

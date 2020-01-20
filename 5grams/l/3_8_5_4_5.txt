@@ -1,0 +1,2 @@
+long apace 50 long which 85
+long place 60 long light 90

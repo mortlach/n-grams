@@ -1,0 +1,9 @@
+do premises 60 do children 45
+do subjects 56 do possible 235
+do attention 98 do american 115
+do education 58 do judgment 42
+do suzerain 86 do direction 99
+do supposed 43 do direction 622
+do business 45 do direction 1054
+do situation 68 do requires 111
+do attention 47 do yourself 83

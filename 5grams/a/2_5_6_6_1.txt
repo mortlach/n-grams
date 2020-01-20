@@ -1,0 +1,17 @@
+an a 84 an a 98
+an a 55 an a 56
+an a 44 an a 91
+an a 41 an a 43
+an a 94 an a 53
+as a 53 as a 42
+as a 49 as a 99
+as a 690 as a 60
+as i 64 as a 209
+as i 51 as a 281
+at a 69 at a 49
+at a 89 at a 66
+at a 65 at a 43
+at a 113 at a 83
+at a 160 at a 122
+at a 44 at a 46
+at a 79 at a 51

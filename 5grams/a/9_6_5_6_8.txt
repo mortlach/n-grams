@@ -1,0 +1,2 @@
+aggregate leftward 476 aggregate downward 1570
+aggregate downward 96 aggregate leftward 1211

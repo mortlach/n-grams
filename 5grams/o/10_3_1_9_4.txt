@@ -1,0 +1,2 @@
+orientation range 55 originally meaning 73
+oscillation rate 126 oscillator range 51

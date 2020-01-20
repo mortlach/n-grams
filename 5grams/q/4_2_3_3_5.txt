@@ -1,0 +1,4 @@
+quit hours 41 quit began 68
+quit moved 240 quit spent 85
+quit start 96 quit write 48
+quit prank 42 quit steer 131

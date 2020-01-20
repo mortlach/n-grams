@@ -1,0 +1,4 @@
+do time 58 do lord 42
+do from 65 do from 42
+do from 43 do from 61
+do toil 60 do from 50

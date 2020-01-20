@@ -1,0 +1,6 @@
+per a 45 pin a 43
+put a 43 put a 90
+put a 240 put a 113
+put a 90 put a 406
+put a 45 put a 164
+put a 109 put a 123

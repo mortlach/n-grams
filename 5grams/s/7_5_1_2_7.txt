@@ -1,0 +1,1 @@
+service capable 45 subject certain 47

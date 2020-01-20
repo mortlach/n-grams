@@ -1,0 +1,3 @@
+gathering a 44 gentle a 56
+gentle a 50 global a 43
+global a 101 greater a 68

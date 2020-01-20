@@ -1,0 +1,13 @@
+scientific a 66 scientists a 225
+securities a 49 segregation a 52
+settlement a 56 similarity a 67
+simplicity a 52 simplicity a 51
+solicitude a 50 speculation a 61
+statements a 68 statistics a 68
+stewardess i 48 stimulation a 109
+strategies a 50 strategies a 55
+structures a 189 structures a 110
+subsequent a 84 substances a 40
+successful a 40 sufficient a 52
+sufficient a 98 supervisor i 65
+supervisor a 91 suppression a 69

@@ -1,0 +1,2 @@
+gas resource 45 get attention 84
+get attention 102 got concealed 63

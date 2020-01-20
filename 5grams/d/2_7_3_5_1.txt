@@ -1,0 +1,3 @@
+do i 192 do a 170
+do a 50 do i 128
+do i 116 do a 124

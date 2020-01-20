@@ -1,0 +1,3 @@
+ft intervals 233 ft
+parabolic 105 ft propeller
+132 ft spherical 53

@@ -1,0 +1,13 @@
+p normal 72 p center
+1106 p initial 43 p
+mirror 45 p normal 117
+p origin 665 p sample
+264 p second 133 p
+source 140 p vertex 105
+p common 42 p changed
+97 p chosen 284 p
+greater 621 p larger 161
+p entire 176 p sample
+105 p called 466 p
+chosen 137 p greater 397
+p higher 95 p larger

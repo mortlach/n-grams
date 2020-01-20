@@ -1,0 +1,4 @@
+k rate 107 k ratio
+203 k time 188 k
+unit 93 k wave 339
+k same 273 k size

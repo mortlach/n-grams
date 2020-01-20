@@ -1,0 +1,6 @@
+part play 437 part take 73
+part show 161 part plot 113
+part from 85 part like 65
+part show 88 part peace 41
+part show 50 part tail 51
+pick like 60 plot show 105

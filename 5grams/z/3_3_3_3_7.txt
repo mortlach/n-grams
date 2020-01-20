@@ -1,0 +1,3 @@
+zeal ability 41 zeal religion 442
+zeal vocation 65 zeal religion 107
+zeal religion 105 zeal justice 40

@@ -1,0 +1,5 @@
+t all 62 t two
+280 t ask 160 t
+use 83 t say 128
+t this 50 t its
+53 t that 131 t

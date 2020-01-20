@@ -1,0 +1,3 @@
+day other 42 deal type 87
+due other 42 due been 43
+due been 163 due been 67

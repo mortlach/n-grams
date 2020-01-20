@@ -1,0 +1,3 @@
+ll room 94 ll time 1431
+ll look 63 ll show 51
+ll talk 54 ll tell 67

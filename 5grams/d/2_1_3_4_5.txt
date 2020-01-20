@@ -1,0 +1,15 @@
+do digging 103 do thinking 41
+do later 73 do deeds 42
+do bends 81 do hours 47
+do tests 145 do people 52
+do hence 73 do later 726
+do search 349 do about 96
+do digging 43 do stuff 46
+do talking 287 do thinking 558
+do walking 45 do takes 46
+do others 41 do sails 40
+do books 59 do where 47
+do money 51 do words 50
+do about 90 do again 82
+do about 64 do visit 100
+do known 44 do people 60

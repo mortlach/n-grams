@@ -1,0 +1,3 @@
+c circuits 245 c
+armature 108 c consists
+47 c supplies 60

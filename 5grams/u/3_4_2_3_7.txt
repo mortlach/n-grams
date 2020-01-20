@@ -1,0 +1,9 @@
+use capital 57 use century 262
+use hundred 43 use medical 49
+use depends 58 use concept 54
+use material 451 use passage 151
+use material 146 use material 240
+use features 59 use limited 40
+use profits 58 use material 128
+use material 265 use occasion 41
+using symbols 53 using material 74

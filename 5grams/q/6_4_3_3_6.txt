@@ -1,0 +1,2 @@
+quaked fairly 64 quarry follow 50
+quills yellow 105 quoted letter 40

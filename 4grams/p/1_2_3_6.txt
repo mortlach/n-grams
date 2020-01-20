@@ -1,0 +1,11 @@
+p points 148 p points
+41 p affect 41 p
+depend 236 p differ 99
+p section 113 p number
+222 p radius 41 p
+always 245 p changed 114
+p greater 254 p itself
+40 p likely 46 p
+merely 41 p needed 42
+p simply 105 p unique
+112 p called 52 p

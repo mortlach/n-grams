@@ -1,0 +1,2 @@
+ring laws 111 ring wood 40
+ring other 43 ring door 93

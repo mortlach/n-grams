@@ -1,0 +1,6 @@
+e center 557 e middle
+43 e origin 95 e
+second 106 e values 116
+e chosen 238 e greater
+286 e raised 271 e
+suffix 443 e called 152

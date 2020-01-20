@@ -1,0 +1,14 @@
+patent a 66 patent a 75
+perish a 46 person a 55
+person a 160 person a 55
+person a 87 person a 41
+person a 77 person a 490
+person a 184 person a 62
+phrase a 230 placed a 42
+plains a 44 plasma b 768
+police a 55 police a 41
+prison a 53 proper a 50
+proper a 49 proper a 53
+public a 41 public a 128
+public a 58 public a 67
+public a 183 pungent a 60

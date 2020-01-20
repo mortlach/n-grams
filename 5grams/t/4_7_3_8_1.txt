@@ -1,0 +1,15 @@
+term a 85 test a 51
+test a 45 their a 81
+their a 44 their a 173
+their a 94 their i 63
+their a 110 their a 60
+theory a 43 these a 54
+these a 114 these a 60
+these a 55 think a 50
+those a 44 those a 43
+those a 52 three a 50
+three a 45 three a 2946
+three a 45 time a 43
+time a 56 time a 112
+time a 61 time a 1154
+time a 40 time a 41

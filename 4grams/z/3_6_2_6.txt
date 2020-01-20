@@ -1,0 +1,4 @@
+zeal bounds 72 zeal degree
+141 zeal limits 74 zeal
+rights 50 zeal supply 119
+zip screen 138 zoo street

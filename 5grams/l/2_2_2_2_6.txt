@@ -1,0 +1,8 @@
+ll bottom 42 ll office 50
+ll station 60 ll office 239
+ll middle 199 ll office 128
+ll papers 50 ll ground 47
+ll street 45 ll bottom 108
+ll doctor 42 ll market 43
+ll movies 103 ll office 55
+ll police 323 ll station 52

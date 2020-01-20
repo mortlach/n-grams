@@ -1,0 +1,4 @@
+ph capacity 846 ph activity
+101 ph pressure 54 ph
+pressure 419 ph chloride 414
+ph activity 209 ph activity

@@ -1,0 +1,4 @@
+vetoed soviet 46 vision clearer 51
+voice emotion 155 voice emotion 124
+voice louder 333 voice softer 74
+voice eagerly 80 voice shouting 94

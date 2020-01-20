@@ -1,0 +1,1 @@
+ring her 42 ring his 49
