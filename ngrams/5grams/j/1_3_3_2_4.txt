@@ -1,5 +1,10 @@
-j other 49 j same 44
-j will 61 j fame 52
-j said 193 j same 50
-j have 55 j what 62
-j same 50 j only 44
+j and all the other 49
+j and for the same 44
+j and that he will 61
+j and that the fame 52
+j and that the said 193
+j and that the same 50
+j and that we have 55
+j and this is what 62
+j are not the same 50
+j but this is only 44

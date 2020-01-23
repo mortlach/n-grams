@@ -1,1 +1,3 @@
-raw export 75 raw export 135
+raw materials destined for export 75
+raw materials imported for export 135
+raw materials required for export 51

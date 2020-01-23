@@ -1,1 +1,2 @@
-vehicle truck 65 visited first 51
+vehicle registration for the truck 65
+visited switzerland for the first 51

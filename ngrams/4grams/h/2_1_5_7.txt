@@ -1,4 +1,8 @@
-he officer 57 he servant
-60 he accuser 43 he
-prophet 114 he officer 43
-he idealist 71 he catholic
+he a civil officer 57
+he a civil servant 60
+he a false accuser 43
+he a false prophet 114
+he a naval officer 43
+he a pagan idealist 71
+he a roman catholic 449
+he a whole chapter 62

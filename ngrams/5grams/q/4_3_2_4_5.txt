@@ -1,1 +1,2 @@
-quit reason 95 quit sleep 59
+quit for the same reason 95
+quit them in their sleep 59

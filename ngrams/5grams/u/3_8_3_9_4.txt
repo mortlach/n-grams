@@ -1,2 +1,5 @@
-use used 56 use care 496
-use cues 124 using flow 42
+use controls are generally used 56
+use ordinary and reasonable care 496
+use semantic and syntactic cues 124
+using diffusion and curvature flow 42
+using semantic and syntactic cues 52

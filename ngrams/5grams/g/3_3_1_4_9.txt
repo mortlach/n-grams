@@ -1,2 +1,4 @@
-gas calorific 116 gas calorific 49
-going somewhere 117 got imperfect 64
+gas has a high calorific 116
+gas with a high calorific 49
+going for a ride somewhere 117
+got but a very imperfect 64

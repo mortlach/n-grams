@@ -1,4 +1,7 @@
-image a 122 image a
-46 index a 59 inner
-a 92 input a 44
-ionizing a 92 ionizing a
+image analysis provides a 122
+image processing requires a 46
+index register contains a 59
+inner membrane contains a 92
+input sequence undergoes a 44
+ionizing particle produces a 92
+ionizing particle traversing a 64

@@ -1,6 +1,11 @@
-y which 42 y close
-51 y large 82 y
-small 276 y value 106
-y added 115 y found
-428 y given 59 y
-shown 674 y taken 176
+y are those which 42
+y are very close 51
+y are very large 82
+y are very small 276
+y for some value 106
+y has been added 115
+y has been found 428
+y has been given 59
+y has been shown 674
+y has been taken 176
+y per unit change 833

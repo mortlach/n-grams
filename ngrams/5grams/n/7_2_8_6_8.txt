@@ -1,3 +1,6 @@
-network relations 102 network junctions 134
-neurons synapses 50 neutral solutions 97
-numbers partners 44 numbers children 50
+network of actually existing relations 102
+network of boundary triple junctions 134
+neurons at junctions called synapses 50
+neutral or slightly acidic solutions 97
+numbers of lifetime sexual partners 44
+numbers of sexually abused children 50

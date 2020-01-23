@@ -1,5 +1,9 @@
-t all 62 t two
-280 t ask 160 t
-use 83 t say 128
-t this 50 t its
-53 t that 131 t
+t consists of all 62
+t consists of two 280
+t hesitate to ask 160
+t hesitate to use 83
+t needless to say 128
+t obtained in this 50
+t relative to its 53
+t relative to that 131
+t supposed to die 61

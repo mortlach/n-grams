@@ -1,1 +1,3 @@
-zigzagging from 75 zigzagging like 41
+zigzagging back and forth from 75
+zigzagging back and forth like 41
+zigzagging back and forth over 64

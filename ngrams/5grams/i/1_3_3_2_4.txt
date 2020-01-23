@@ -1,5 +1,10 @@
-i other 58 i least 132
-i same 46 i used 145
-i back 103 i more 43
-i have 44 i have 43
-i only 100 i those 117
+i and all the other 58
+i and for at least 132
+i are not the same 46
+i can not be used 145
+i can not go back 103
+i had not no more 43
+i now that we have 44
+i was going to have 43
+i was not the only 100
+i was one of those 117

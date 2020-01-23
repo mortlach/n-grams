@@ -1,1 +1,2 @@
-mean below 110 mean below 195
+mean daily temperature drops below 110
+mean daily temperature falls below 195

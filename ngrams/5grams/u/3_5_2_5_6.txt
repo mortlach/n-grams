@@ -1,2 +1,4 @@
-use market 110 use towels 72
-use edition 61 use images 136
+use either the closing market 110
+use rolls of paper towels 72
+use since the first edition 61
+use words to create images 136

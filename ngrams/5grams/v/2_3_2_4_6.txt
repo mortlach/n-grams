@@ -1,2 +1,4 @@
-via methods 54 via routes 45
-via methods 52 via routes 87
+via any of these methods 54
+via any of these routes 45
+via one of these methods 52
+via one of three routes 87

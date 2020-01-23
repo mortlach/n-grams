@@ -1,1 +1,3 @@
-ring another 40 ring through
+ring passing through another 40
+ring which passed through 50
+ring which passes through 134

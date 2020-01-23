@@ -1,5 +1,9 @@
-g calculated 1031 g considered
-347 g decomposed 95 g
-determined 1240 g eliminated 113
-g identified 98 g calculated
-270 g considered 314 g
+g can be calculated 1031
+g can be considered 347
+g can be decomposed 95
+g can be determined 1240
+g can be eliminated 113
+g can be identified 98
+g may be calculated 270
+g may be considered 314
+g may be determined 337

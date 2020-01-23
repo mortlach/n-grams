@@ -1,4 +1,8 @@
-value increase 49 value imports 82
-value radiation 47 value quality 110
-value voltage 49 value jointly 45
-value sections 63 value claimed 118
+value if interest rates increase 49
+value of consumer goods imports 82
+value of extended field radiation 47
+value of improved water quality 110
+value of positive anode voltage 49
+value of property owned jointly 45
+value of relevant cross sections 63
+value or adjusted basis claimed 118

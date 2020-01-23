@@ -1,1 +1,3 @@
-fa states 65 foe states
+fa the united states 65
+foe the united states 44
+ft of carbon dioxide 63

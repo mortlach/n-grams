@@ -1,3 +1,6 @@
-f writers 104 f details
-99 f remarks 40 f
-assumed 43 f defined 153
+f and other writers 104
+f for more details 99
+f for some remarks 40
+f has been assumed 43
+f has been defined 153
+f new york medical 54

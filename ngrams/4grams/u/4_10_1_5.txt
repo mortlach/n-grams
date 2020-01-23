@@ -1,5 +1,9 @@
-union craft 104 union group
-70 union large 67 unit
-change 56 unit major 40
-upon group 50 upon strong
-59 upon found 688 user
+union representing a craft 104
+union representing a group 70
+union represents a large 67
+unit represents a change 56
+unit represents a major 40
+upon encountering a group 50
+upon establishing a strong 59
+upon examination i found 688
+user formulates a query 123

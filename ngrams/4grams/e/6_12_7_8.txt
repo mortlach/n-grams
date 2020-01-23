@@ -1,4 +1,7 @@
-effect exposure 63 effect specific
-122 effect treatment 53 effect
-variables 667 enzyme constant 42
-existing insurers 93 existing variables
+effect relationships between exposure 63
+effect relationships between specific 122
+effect relationships between treatment 53
+effect relationships between variables 667
+enzyme concentration remains constant 42
+existing relationships between insurers 93
+existing relationships between variables 43

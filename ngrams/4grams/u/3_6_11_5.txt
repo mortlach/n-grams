@@ -1,3 +1,6 @@
-use tests 43 using words
-68 using paper 91 using
-plots 116 using tools 57
+use formal statistical tests 43
+using futile deprecatory words 68
+using normal probability paper 91
+using normal probability plots 116
+using simple statistical tools 57
+using various statistical tests 88

@@ -1,1 +1,2 @@
-c output 131 c suites
+c input and output 131
+c rooms and suites 88

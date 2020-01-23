@@ -1,3 +1,7 @@
-ring given 77 ring given 63
-ring white 57 ring round 43
-ring flame 59 ring phloem 159
+ring my father had given 77
+ring my mother had given 63
+ring of black and white 57
+ring of light all round 43
+ring of smoke and flame 59
+ring of xylem and phloem 159
+ring the bells for hours 492

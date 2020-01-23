@@ -1,1 +1,2 @@
-c only 40 c unit
+c depends not only 40
+c dollars per unit 74

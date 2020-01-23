@@ -1,4 +1,9 @@
-with before 46 with should 160
-with treated 771 with without 90
-with itself 43 with disease 61
-with before 42 with toward 55
+with acute myocardial infarction before 46
+with acute myocardial infarction should 160
+with acute myocardial infarction treated 771
+with acute myocardial infarction without 90
+with anything unpleasant confessed itself 43
+with lower extremity occlusive disease 61
+with minds perfectly convinced before 42
+with quite different attitudes toward 55
+with total anomalous pulmonary venous 2271

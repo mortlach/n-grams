@@ -1,5 +1,10 @@
-technology resource 140 technology ventures 48
-territorial trumbull 49 traditional patterns 48
-traditional patterns 77 traditional relations 65
-transaction processing 44 transverse neuritis 61
-tremendous benefits 45 tremendous problems 116
+technology transfer and human resource 140
+technology transfer and joint ventures 48
+territorial governor and judge trumbull 49
+traditional cultural and social patterns 48
+traditional economic and social patterns 77
+traditional economic and social relations 65
+transaction processing and batch processing 44
+transverse myelitis and optic neuritis 61
+tremendous economic and social benefits 45
+tremendous economic and social problems 116

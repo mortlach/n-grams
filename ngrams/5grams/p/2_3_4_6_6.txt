@@ -1,1 +1,2 @@
-ph changes 49 ph values 128
+ph and ionic strength changes 49
+ph and ionic strength values 128

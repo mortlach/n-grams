@@ -1,2 +1,4 @@
-u smaller 305 u function
-205 u between 42 u
+u is much smaller 305
+u is some function 205
+u the angle between 42
+u the shear modulus 44

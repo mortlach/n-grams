@@ -1,1 +1,2 @@
-e fig 127 e not 108
+e and f in fig 127
+e and o do not 108

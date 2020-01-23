@@ -1,2 +1,4 @@
-t better 93 t chosen
-91 t choice 49 t
+t have been better 93
+t have been chosen 91
+t have much choice 49
+t leave home without 167

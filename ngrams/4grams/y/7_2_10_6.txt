@@ -1,3 +1,5 @@
-yielded amount 77 yielded number
-57 yielded result 162 yielded
-result 42 yielded result 62
+yielded an impressive amount 77
+yielded an impressive number 57
+yielded an unexpected result 162
+yielded the remarkable result 42
+yielded the unexpected result 62

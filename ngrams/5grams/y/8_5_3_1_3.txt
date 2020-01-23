@@ -1,1 +1,3 @@
-yourself job 50 yourself new 78
+yourself looking for a job 50
+yourself looking for a new 78
+yourself lucky that i did 60

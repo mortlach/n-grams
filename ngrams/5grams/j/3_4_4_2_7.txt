@@ -1,1 +1,2 @@
-job general 48 job overall 286
+job fits into the general 48
+job fits into the overall 286

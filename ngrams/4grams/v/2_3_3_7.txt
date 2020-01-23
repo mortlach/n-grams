@@ -1,1 +1,2 @@
-via browser 68 via network
+via any web browser 68
+via its own network 68

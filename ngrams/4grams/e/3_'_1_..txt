@@ -1,2 +1,4 @@
-earl . 52 earth .
-1048 emf . 156 eye
+earl ' s . 52
+earth ' s . 1048
+emf ' s . 156
+eye ' s . 40

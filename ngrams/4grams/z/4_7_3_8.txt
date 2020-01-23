@@ -1,3 +1,6 @@
-zero interval 129 zero interval
-509 zinc hydrogen 113 zone
-adjacent 148 zone distinct 90
+zero outside that interval 129
+zero outside this interval 509
+zinc sulfate and hydrogen 113
+zone between two adjacent 148
+zone between two distinct 90
+zone between two parallel 57

@@ -1,4 +1,8 @@
-generations size 104 government view 41
-government task 63 government time 147
-government duty 46 government task 41
-government evil 660 grandmother cook 46
+generations with a population size 104
+government had a different view 41
+government had a difficult task 63
+government had a difficult time 147
+government has a difficult duty 46
+government has a difficult task 41
+government was a necessary evil 660
+grandmother was a wonderful cook 46

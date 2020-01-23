@@ -1,4 +1,8 @@
-c two 208 c arc
-48 c arc 43 c
-this 55 c all 152
-c any 105 c its
+c consists of two 208
+c describe an arc 48
+c describe the arc 43
+c obtained in this 55
+c relative to all 152
+c relative to any 105
+c relative to its 113
+c relative to that 118

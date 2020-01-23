@@ -1,4 +1,8 @@
-d same 89 d come 60
-d take 45 d made 76
-d used 44 d here 71
-d those 52 d time 60
+d are not the same 89
+d ask you to come 60
+d ask you to take 45
+d can not be made 76
+d can not be used 44
+d get out of here 71
+d had one of those 52
+d run out of time 60

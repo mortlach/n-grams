@@ -1,1 +1,2 @@
-zero values 117 zone through 244
+zero or other starting values 117
+zone to zone guides through 244

@@ -1,4 +1,9 @@
-into france 101 into sweden 71
-into eurasia 65 into europe 470
-into siberia 56 into tracts 54
-into layers 175 into nations 71
+into great britain from france 101
+into great britain from sweden 71
+into north america from eurasia 65
+into north america from europe 470
+into north america from siberia 56
+into their account those tracts 54
+into three primary germ layers 175
+into wars between other nations 71
+into your article from another 66

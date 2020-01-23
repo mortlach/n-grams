@@ -1,6 +1,10 @@
-z zero 44 z three
-129 z zero 129 z
-used 44 z have 42
-z fall 182 z have
-267 z vary 54 z
-been 121 z look 128
+z are all zero 44
+z are any three 129
+z are both zero 129
+z are not used 44
+z can not have 42
+z does not fall 182
+z does not have 267
+z does not vary 54
+z has not been 121
+z you can look 128

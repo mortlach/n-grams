@@ -1,1 +1,2 @@
-z axial 302 z same
+z denotes the axial 302
+z remains the same 125

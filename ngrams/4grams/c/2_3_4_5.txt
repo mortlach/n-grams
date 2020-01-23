@@ -1,3 +1,5 @@
-cm found 319 cm shown
-105 cm found 95 cm
-taken 101 cm fully 151
+cm has been found 319
+cm has been shown 105
+cm long were found 95
+cm long were taken 101
+cm long when fully 151

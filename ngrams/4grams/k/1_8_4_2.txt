@@ -1,2 +1,4 @@
-k the 56 k the
-63 k the 540 k
+k directed along the 56
+k elements from the 63
+k obtained from the 540
+k shortest paths in 101

@@ -1,4 +1,8 @@
-key . 375 key .
-74 key . 117 key
-. 70 key . 469
-key . 49 kin .
+key between them . 375
+key numeric pad . 74
+key players are . 117
+key problem area . 70
+key process area . 469
+key research area . 49
+kin against kin . 159
+kings against him . 67

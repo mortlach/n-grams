@@ -1,6 +1,10 @@
-quantifier all 117 quantities way
-161 quantities are 136 quantities
-one 306 quantities two 75
-quantities both 90 quantities not
-123 quantities with 271 quantities
-not 100 quantities not 79
+quantifier ranges over all 117
+quantities found their way 161
+quantities given here are 136
+quantities varying from one 306
+quantities varying from two 75
+quantities which have both 90
+quantities which have not 123
+quantities which vary with 271
+quantities which were not 100
+quantities which will not 79

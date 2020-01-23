@@ -1,2 +1,4 @@
-a protoplasm 66 a accountant 175
-a accountant 144 a translation 66
+a cellular structure called protoplasm 66
+a licensed certified public accountant 175
+a practicing certified public accountant 144
+a slightly different english translation 66

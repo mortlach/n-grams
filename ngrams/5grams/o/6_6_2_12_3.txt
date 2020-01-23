@@ -1,2 +1,4 @@
-oxygen and 313 oxygen for 66
-oxygen with 102 oxygen for 53
+oxygen should be administered and 313
+oxygen should be administered for 66
+oxygen should be administered with 102
+oxygen supply is insufficient for 53

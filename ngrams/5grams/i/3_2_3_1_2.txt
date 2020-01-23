@@ -1,4 +1,9 @@
-idea thing 125 idea thing 79
-idea am 134 idea king 100
-idea thing 79 idea am 146
-idea am 652 idea am 71
+idea is not a thing 125
+idea is that a thing 79
+idea is that i am 134
+idea of being a king 100
+idea of doing a thing 79
+idea of how i am 146
+idea of who i am 652
+idea of why i am 71
+idea to get a ring 44

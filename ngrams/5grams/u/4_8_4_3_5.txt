@@ -1,4 +1,9 @@
-union period 208 unit owner 40
-upon smoke 222 upon rolling 43
-upon engaging 42 upon point 110
-upon blowing 95 used skill 176
+union movement during this period 208
+unit distinct from its owner 40
+upon furnaces used for smoke 222
+upon landsmen from her rolling 43
+upon problems just then engaging 42
+upon richmond from that point 110
+upon whatever wind was blowing 95
+used ordinary care and skill 176
+used whatever means they could 139

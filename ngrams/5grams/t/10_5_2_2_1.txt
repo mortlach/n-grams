@@ -1,5 +1,10 @@
-techniques a 90 techniques a 71
-technology a 267 technology a 56
-tenaciously a 50 toadstools a 49
-transaction a 106 transaction a 54
-translation a 90 translation a 60
+techniques appear to be a 90
+techniques seems to be a 71
+technology seems to be a 267
+technology tends to be a 56
+tenaciously holding on to a 50
+toadstools springing up in a 49
+transaction ceases to be a 106
+transaction seems to be a 54
+translation seems to be a 90
+translation seems to me a 60

@@ -1,1 +1,2 @@
-go a 41 go a 50
+go fifteen miles to a 41
+go wandering about in a 50

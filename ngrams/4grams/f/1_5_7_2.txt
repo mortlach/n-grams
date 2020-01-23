@@ -1,1 +1,3 @@
-f in 42 f on
+f which appeared in 42
+f which depends on 113
+f which satisfy the 47

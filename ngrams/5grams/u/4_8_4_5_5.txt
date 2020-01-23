@@ -1,1 +1,3 @@
-union hours 163 union hours 95
+union activity during working hours 163
+union business during working hours 95
+upon warrants duly drawn thereon 49

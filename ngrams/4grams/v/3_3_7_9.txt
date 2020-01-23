@@ -1,1 +1,2 @@
-vie resources 126 vying resources
+vie for limited resources 126
+vying for limited resources 104

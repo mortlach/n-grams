@@ -1,2 +1,4 @@
-re percent 48 ring bridles
-53 ring minutes 462 ring
+re one hundred percent 48
+ring for fastening bridles 53
+ring for several minutes 462
+ring for several seconds 44

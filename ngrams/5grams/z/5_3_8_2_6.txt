@@ -1,1 +1,2 @@
-zeros blanks 61 zones various 65
+zeros are replaced by blanks 61
+zones are detected by various 65

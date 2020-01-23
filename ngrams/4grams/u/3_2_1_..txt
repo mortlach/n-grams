@@ -1,6 +1,11 @@
-up ? 41 up .
-49 up . 52 up
-. 236 up . 201
-up . 53 up .
-142 use ? 642 use
-. 40 use . 41
+up am i ? 41
+up as a . 49
+up by th . 52
+up in a . 236
+up to a . 201
+up to c . 53
+up to i . 142
+use am i ? 642
+use as a . 40
+use in a . 41
+use of a . 764

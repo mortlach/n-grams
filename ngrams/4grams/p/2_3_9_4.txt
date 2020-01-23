@@ -1,1 +1,3 @@
-ph time 52 ph from
+ph and incubation time 52
+ph was estimated from 85
+pm and saturdays from 135

@@ -1,4 +1,8 @@
-observed subjects 45 obtained analysis 163
-occlusion arteries 248 operation vehicles 61
-operation services 43 operation enclosed 149
-opposite vertebra 184 outcomes patients 49
+observed in normal control subjects 45
+obtained by finite element analysis 163
+occlusion of common carotid arteries 248
+operation of public service vehicles 61
+operation of public utility services 43
+operation of states bordering enclosed 149
+opposite the twelfth thoracic vertebra 184
+outcomes in cardiac surgery patients 49

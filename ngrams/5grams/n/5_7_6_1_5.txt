@@ -1,3 +1,7 @@
-nerve motor 44 never court 113
-never train 81 never court 250
-never judge 47 never first 42
+nerve impulse reaches a motor 44
+never appeared before a court 113
+never appeared without a train 81
+never brought before a court 250
+never brought before a judge 47
+never carried beyond a first 42
+newly married couple a visit 95

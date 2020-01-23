@@ -1,2 +1,4 @@
-income taxes 50 income taxes 535
-income minus 110 island within 78
+income before deducting income taxes 50
+income before federal income taxes 535
+income equals national income minus 110
+island should descend gently within 78

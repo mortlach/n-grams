@@ -1,1 +1,3 @@
-zero firms 49 zone night 42
+zero profits for all firms 49
+zone between day and night 42
+zone between earth and heaven 40

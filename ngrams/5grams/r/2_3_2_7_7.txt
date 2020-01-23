@@ -1,1 +1,2 @@
-ring machine 81 ring diameter 94
+ring and the answering machine 81
+ring with an outside diameter 94

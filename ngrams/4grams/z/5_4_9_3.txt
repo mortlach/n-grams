@@ -1,1 +1,2 @@
-zonal and 56 zones with
+zonal wind component and 56
+zones were associated with 70

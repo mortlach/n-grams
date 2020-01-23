@@ -1,3 +1,6 @@
-use this 635 use pry 733
-using his 44 using this 193
-using bar 75 using pry 51
+use a modification of this 635
+use a screwdriver to pry 733
+using a modification of his 44
+using a modification of this 193
+using a screwdriver or bar 75
+using a screwdriver to pry 51

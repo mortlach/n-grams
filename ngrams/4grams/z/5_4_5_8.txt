@@ -1,1 +1,2 @@
-zones american 61 zones american
+zones from which american 61
+zones into which american 47

@@ -1,5 +1,11 @@
-use traditional 276 use endowments 78
-use experience 40 use experience 98
-use properties 74 using continuous 57
-using traditional 46 using frequently 59
-using techniques 53 using completely 42
+use both modern and traditional 276
+use his skills and endowments 78
+use his skills and experience 40
+use his training and experience 98
+use its methods and properties 74
+using both binary and continuous 57
+using both modern and traditional 46
+using long periods too frequently 59
+using new methods and techniques 53
+using this animal has completely 42
+using two phones with particular 86

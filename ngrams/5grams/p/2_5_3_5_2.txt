@@ -1,1 +1,3 @@
-ph the 96 ph to 121
+ph value for which the 96
+ph value was found to 121
+pt times new roman by 276

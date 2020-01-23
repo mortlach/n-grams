@@ -1,2 +1,4 @@
-ran distance 49 read textbook 45
-read sentence 49 real perceive 79
+ran for quite a distance 49
+read and study a textbook 45
+read and write a sentence 49
+real things which i perceive 79

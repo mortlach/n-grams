@@ -1,1 +1,2 @@
-z taken 46 z table
+z should be taken 46
+z values in table 40

@@ -1,1 +1,2 @@
-patient a 107 process a 62
+patient gradually sinks into a 107
+process continues until only a 62

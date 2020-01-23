@@ -1,1 +1,2 @@
-ring necessary 41 ring invisible 72
+ring any more than necessary 41
+ring that made him invisible 72

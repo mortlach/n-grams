@@ -1,2 +1,4 @@
-g kidney 136 g placed
-111 g minute 172 g
+g canned red kidney 136
+g sample was placed 111
+g tissue per minute 172
+g tissue wet weight 270

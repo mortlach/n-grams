@@ -1,1 +1,2 @@
-zero temperatures 49 zoning requirements
+zero and subzero temperatures 49
+zoning and licensing requirements 53

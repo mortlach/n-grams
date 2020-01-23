@@ -1,3 +1,6 @@
-quite i 81 quite a 52
-quite i 104 quite i 696
-quite a 56 quite i 99
+quite four years since i 81
+quite some time after a 52
+quite some time after i 104
+quite some time since i 696
+quite some time until a 56
+quite some time until i 99

@@ -1,2 +1,4 @@
-kid school 57 kid school 95
-kings courts 75 kings crowns 43
+kid came home from school 57
+kid coming home from school 95
+kings have held their courts 75
+kings hide away their crowns 43

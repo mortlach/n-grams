@@ -1,1 +1,3 @@
-rat . 108 read .
+rat ' s . 108
+read ' ing . 41
+rpm ' s . 70

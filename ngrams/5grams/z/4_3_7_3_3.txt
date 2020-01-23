@@ -1,1 +1,2 @@
-zero one 50 zero and 43
+zero and smaller than one 50
+zero and variance one and 43

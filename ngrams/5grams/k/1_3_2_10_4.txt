@@ -1,2 +1,5 @@
-k rate 75 k from 973
-k from 1124 k from 253
+k and the dissipation rate 75
+k can be calculated from 973
+k can be determined from 1124
+k may be calculated from 253
+k may be determined from 270

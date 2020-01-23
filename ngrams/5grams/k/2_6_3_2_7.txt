@@ -1,1 +1,2 @@
-king allowed 152 km surface 59
+king should not be allowed 152
+km across dot the surface 59

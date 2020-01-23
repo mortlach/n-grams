@@ -1,1 +1,2 @@
-vow afraid 137 vow engaged
+vow i am afraid 137
+vow i am engaged 47

@@ -1,6 +1,10 @@
-e been 103 e seen
-44 e able 142 e
-made 153 e told 60
-e used 173 e seen
-58 e been 531 e
-care 94 e able 115
+e have also been 103
+e have also seen 44
+e have been able 142
+e have been made 153
+e have been told 60
+e have been used 173
+e have just seen 58
+e must have been 531
+e must take care 94
+e when adding able 115

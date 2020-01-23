@@ -1,1 +1,2 @@
-zenith touching 103 zones exceed
+zenith already was touching 103
+zones should not exceed 54

@@ -1,1 +1,2 @@
-vapor available 134 varying structure 50
+vapor pressure data are available 134
+varying sentence length and structure 50

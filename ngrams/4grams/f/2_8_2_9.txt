@@ -1,1 +1,2 @@
-fl connected 201 ft connected
+fl resistor is connected 201
+ft resistor is connected 531

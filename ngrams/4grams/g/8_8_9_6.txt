@@ -1,2 +1,4 @@
-gasoline engines 153 generate toward
-51 generate toward 64 glittering
+gasoline internal combustion engines 153
+generate negative attitudes toward 51
+generate positive attitudes toward 64
+glittering trinkets displayed before 75

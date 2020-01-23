@@ -1,1 +1,2 @@
-drank alcohol 56 drank alcohol
+drank significantly less alcohol 56
+drank significantly more alcohol 53

@@ -1,1 +1,2 @@
-questions personal 42 questions specific 77
+questions were asked about personal 42
+questions were asked about specific 77

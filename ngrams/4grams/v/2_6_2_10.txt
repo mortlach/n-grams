@@ -1,1 +1,2 @@
-via acquisition 100 via endogenous
+via merger or acquisition 100
+via release of endogenous 63

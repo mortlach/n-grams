@@ -1,2 +1,4 @@
-zone fig 59 zone fig
-100 zone fig 109 zone
+zone a in fig 59
+zone b in fig 100
+zone c in fig 109
+zone i in fig 71

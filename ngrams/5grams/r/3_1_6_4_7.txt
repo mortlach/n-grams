@@ -1,5 +1,10 @@
-read captain 97 read charles 61
-read colonel 64 read general 407
-read senator 61 read closely 45
-read together 92 run between 68
-run smoothly 499 run against 69
+read a letter from captain 97
+read a letter from charles 61
+read a letter from colonel 64
+read a letter from general 407
+read a letter from senator 61
+read a little more closely 45
+read a second time together 92
+run a dividing line between 68
+run a little more smoothly 499
+run a little wild against 69

@@ -1,1 +1,2 @@
-down distance 45 during campaign 75
+down a small additional distance 45
+during a heated political campaign 75

@@ -1,6 +1,11 @@
-faithfully . 40 faithfully .
-47 feedback . 55 firmness
-. 51 followers . 44
-formally . 102 formally .
-61 formally . 109 formerly
-. 116 formerly . 47
+faithfully discharges it . 40
+faithfully representing it . 47
+feedback resistance rf . 55
+firmness astonishes me . 51
+followers understood it . 44
+formally introduced me . 102
+formally introduced us . 61
+formally recognized it . 109
+formerly accustomed to . 116
+formerly complained of . 47
+formerly surrounded it . 125

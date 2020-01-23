@@ -1,6 +1,10 @@
-via water 119 via train
-41 via paste 96 via
-email 99 via modem 41
-via phone 63 via paper
-51 via write 63 via
-route 45 vi modes 55
+via air and water 119
+via bus and train 41
+via cut and paste 96
+via fax and email 99
+via fax and modem 41
+via fax and phone 63
+via pen and paper 51
+via read and write 63
+via this new route 45
+vi has two modes 55

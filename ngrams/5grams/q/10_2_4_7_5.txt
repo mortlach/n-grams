@@ -1,2 +1,4 @@
-quantities juice 59 quantities water 100
-quantities water 72 quantities which 49
+quantities of acid gastric juice 59
+quantities of good quality water 100
+quantities of high quality water 72
+quantities of those oysters which 49

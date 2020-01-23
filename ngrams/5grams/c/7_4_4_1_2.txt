@@ -1,2 +1,4 @@
-control am 111 control do 634
-control eat 61 current to 139
+control over what i am 111
+control over what i do 634
+control over what i eat 61
+current flow from a to 139

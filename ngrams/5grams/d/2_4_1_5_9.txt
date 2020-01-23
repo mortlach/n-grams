@@ -1,5 +1,10 @@
-do indication 97 do amendment 111
-do influence 56 do obligation 92
-do influence 195 do obligation 422
-do incentive 103 do influence 346
-do knowledge 41 do proportion 41
+do give a rough indication 97
+do have a first amendment 111
+do have a large influence 56
+do have a legal obligation 92
+do have a major influence 195
+do have a moral obligation 422
+do have a strong incentive 103
+do have a strong influence 346
+do have a working knowledge 41
+do only a small proportion 41

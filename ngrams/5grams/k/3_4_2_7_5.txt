@@ -1,2 +1,4 @@
-key table 42 key panel 44
-key after 96 kings times 125
+key from the bedside table 42
+key into the control panel 44
+key must be pressed after 96
+kings from the earliest times 125

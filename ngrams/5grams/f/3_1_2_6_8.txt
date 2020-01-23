@@ -1,3 +1,6 @@
-for betrothed 44 for resolved 95
-for mistaken 116 for ignorant 479
-for physician 43 for ignorant 65
+for i am already betrothed 44
+for i am firmly resolved 95
+for i am greatly mistaken 116
+for i am mainly ignorant 479
+for i am neither physician 43
+for i am wholly ignorant 65

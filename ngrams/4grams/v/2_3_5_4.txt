@@ -1,3 +1,6 @@
-via over 51 via port
-127 via have 49 via
-must 42 via were 63
+via any route over 51
+via its serial port 127
+via this route have 49
+via this route must 42
+via this route were 63
+via this route will 67

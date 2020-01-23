@@ -1,1 +1,3 @@
-obligations effectually 45 observation differences 101
+obligations that were not effectually 45
+observation that there are differences 101
+observation that there are significant 41

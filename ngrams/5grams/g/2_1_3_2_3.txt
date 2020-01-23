@@ -1,1 +1,2 @@
-go two 555 go two 124
+go a day or two 555
+go a year or two 124

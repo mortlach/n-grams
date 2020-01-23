@@ -1,1 +1,2 @@
-cm each 167 cm erg
+cm distance from each 167
+cm electron volt erg 59

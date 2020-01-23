@@ -1,1 +1,3 @@
-newspaper zenger 50 noteworthy place 78
+newspaper editor john peter zenger 50
+noteworthy changes have taken place 78
+noticeable changes have taken place 128

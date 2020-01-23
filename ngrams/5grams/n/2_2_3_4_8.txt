@@ -1,2 +1,5 @@
-no questions 340 no questions 40
-no questions 229 no questions 171
+no to all these questions 340
+no to all those questions 40
+no to all three questions 229
+no to both these questions 171
+no up and down movement 60

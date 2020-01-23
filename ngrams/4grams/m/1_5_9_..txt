@@ -1,1 +1,2 @@
-m . 143 m .
+m class telescope . 143
+m pixel resolution . 60

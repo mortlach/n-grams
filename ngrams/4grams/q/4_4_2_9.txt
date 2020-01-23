@@ -1,1 +1,2 @@
-quit medication 72 quiz television
+quit taking the medication 72
+quiz show on television 242

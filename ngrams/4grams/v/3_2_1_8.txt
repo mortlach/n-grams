@@ -1,6 +1,11 @@
-van distance 51 van movement
-130 veal mushroom 47 veal
-delicacy 67 vie freehold 292
-vow crusader 192 vow security
-100 vow horrible 135 vow
-crusader 50 vow religious 190
+van at a distance 51
+van of a movement 130
+veal in a mushroom 47
+veal is a delicacy 67
+vie of a freehold 292
+vow as a crusader 192
+vow as a security 100
+vow is a horrible 135
+vow of a crusader 50
+vow of a religious 190
+vow or a freewill 147

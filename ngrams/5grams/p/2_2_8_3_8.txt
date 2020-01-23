@@ -1,1 +1,2 @@
-pm thursdays 139 pm holidays 175
+pm on tuesdays and thursdays 139
+pm on weekends and holidays 175

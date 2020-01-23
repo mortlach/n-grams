@@ -1,5 +1,9 @@
-foe alone 615 foe fired
-91 foe sword 101 ft
-appear 248 ft change 64
-ft about 480 ft nearly
-103 ft weigh 195 ft
+foe and one alone 615
+foe that had fired 91
+foe with his sword 101
+ft does not appear 248
+ft does not change 64
+ft long and about 480
+ft long and nearly 103
+ft long and weigh 195
+ft was not until 303

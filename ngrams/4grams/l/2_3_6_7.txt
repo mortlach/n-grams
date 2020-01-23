@@ -1,1 +1,3 @@
-lb gallons 177 ll results
+lb per million gallons 177
+ll get better results 170
+ll see something similar 71

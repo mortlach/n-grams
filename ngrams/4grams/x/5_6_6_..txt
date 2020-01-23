@@ -1,1 +1,2 @@
-xenon . 61 xylol .
+xenon strobe lights . 61
+xylol before mounting . 85

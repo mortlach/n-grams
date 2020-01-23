@@ -1,1 +1,3 @@
-u assumed 87 u dropped
+u has been assumed 87
+u has been dropped 42
+u new york tribune 53

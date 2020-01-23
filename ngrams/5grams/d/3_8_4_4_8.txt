@@ -1,1 +1,3 @@
-deaf families 99 deaf residual 43
+deaf children from hearing families 99
+deaf children have some residual 43
+did princess show more goodness 46

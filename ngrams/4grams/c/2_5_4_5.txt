@@ -1,1 +1,3 @@
-cm level 153 cm level
+cm above heart level 153
+cm above soil level 515
+cm below soil level 72

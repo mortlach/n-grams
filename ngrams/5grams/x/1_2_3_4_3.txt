@@ -1,1 +1,3 @@
-x than 461 x than 68
+x is not less than 461
+x is not more than 68
+x on one side and 91

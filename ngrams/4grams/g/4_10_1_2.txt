@@ -1,3 +1,6 @@
-gain is 139 great am
-454 great at 47 great
-am 45 great am 283
+gain coefficient g is 139
+great difficulty i am 454
+great difficulty i at 47
+great importance i am 45
+great obligations i am 283
+great reluctance i am 59

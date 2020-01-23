@@ -1,3 +1,5 @@
-path been 116 peak been
-131 peak used 56 peak
-your 110 per your 43
+path coefficients have been 116
+peak intensities have been 131
+peak intensities were used 56
+peak performance from your 110
+per instructions from your 43

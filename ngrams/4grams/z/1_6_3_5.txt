@@ -1,2 +1,4 @@
-z found 115 z given
-107 z shown 173 z
+z values are found 115
+z values are given 107
+z values are shown 173
+z values for which 107

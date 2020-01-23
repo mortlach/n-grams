@@ -1,6 +1,11 @@
-denominates a 80 departments b
-453 departments c 115 departments
-c 123 departments j 231
-departments y 118 designations b
-176 dislocations b 285 distributed
-c 104 distribution b 58
+denominates a man a 80
+departments a and b 453
+departments a and c 115
+departments b and c 123
+departments i and j 231
+departments x and y 118
+designations a and b 176
+dislocations a and b 285
+distributed l and c 104
+distribution a and b 58
+distribution a has a 111

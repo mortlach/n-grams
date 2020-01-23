@@ -1,1 +1,2 @@
-radiation tumor 79 results types 60
+radiation necrosis from recurrent tumor 79
+results obtained from different types 60

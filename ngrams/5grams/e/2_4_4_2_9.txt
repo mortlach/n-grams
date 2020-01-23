@@ -1,1 +1,3 @@
-eat necessary 61 eat available 86
+eat only what is necessary 61
+eat when food is available 86
+eat when food is presented 50

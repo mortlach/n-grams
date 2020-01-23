@@ -1,3 +1,6 @@
-say . 60 say .
-65 see . 45 she
-! 158 she . 85
+say that a . 60
+say that i . 65
+see ref s . 45
+she and i ! 158
+she was a . 85
+son was i ? 41

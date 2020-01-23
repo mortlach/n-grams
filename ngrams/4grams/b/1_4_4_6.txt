@@ -1,1 +1,2 @@
-b chosen 44 b credit
+b have been chosen 44
+b less jobs credit 203

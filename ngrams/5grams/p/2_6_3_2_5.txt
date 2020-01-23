@@ -1,1 +1,3 @@
-ph equal 187 ph below 111
+ph greater than or equal 187
+ph should not be below 111
+ph should not be lower 91

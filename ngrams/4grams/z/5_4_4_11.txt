@@ -1,2 +1,4 @@
-zones distinguished 367 zones established
-1643 zones interpreted 67 zones
+zones have been distinguished 367
+zones have been established 1643
+zones have been interpreted 67
+zones were also established 57

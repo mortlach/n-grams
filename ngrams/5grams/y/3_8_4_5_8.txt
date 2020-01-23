@@ -1,3 +1,6 @@
-year curative 101 year diagnosis 113
-year resection 327 year surgical 146
-year treatment 147 you yourself 146
+year survival rate after curative 101
+year survival rate after diagnosis 113
+year survival rate after resection 327
+year survival rate after surgical 146
+year survival rate after treatment 147
+you discover more about yourself 146

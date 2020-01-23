@@ -1,2 +1,4 @@
-blood a 46 blood a 221
-blood a 96 bugging a 103
+blood pressure checked once a 46
+blood pressure resulting from a 221
+blood pressure results from a 96
+bugging incident stemmed from a 103

@@ -1,2 +1,4 @@
-per adsorbent 55 per substance
-63 per substrate 130 put
+per g of adsorbent 55
+per g of substance 63
+per g of substrate 130
+put x to represent 40

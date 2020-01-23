@@ -1,3 +1,6 @@
-ph to 135 ph to 479
-ph to 162 ph at 107
-ph at 245 ph by 203
+ph had been adjusted to 135
+ph has been adjusted to 479
+ph has been reported to 162
+ph was held constant at 107
+ph was kept constant at 245
+ph was kept constant by 203

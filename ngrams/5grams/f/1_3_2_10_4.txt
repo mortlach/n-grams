@@ -1,2 +1,4 @@
-f from 248 f into 105
-f from 224 f from 41
+f can be calculated from 248
+f can be decomposed into 105
+f can be determined from 224
+f may be calculated from 41

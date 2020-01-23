@@ -1,3 +1,6 @@
-h levels 43 h plates
-177 h height 530 h
-number 181 h planck 42
+h between the levels 43
+h between the plates 177
+h denotes the height 530
+h denotes the number 181
+h denotes the planck 42
+h following the initial 141

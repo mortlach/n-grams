@@ -1,3 +1,6 @@
-job children 89 job children 41
-job children 418 job children 74
-job children 139 job children 44
+job in raising their children 89
+job of helping their children 41
+job of raising their children 418
+job of raising your children 74
+job of teaching their children 139
+job of teaching young children 44

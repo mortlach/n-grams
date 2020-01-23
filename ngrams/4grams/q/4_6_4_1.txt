@@ -1,3 +1,5 @@
-quit a 54 quit i
-102 quit a 94 quit
-i 435 quit a 166
+quit behaving like a 54
+quit drinking when i 102
+quit myself like a 94
+quit school when i 435
+quit thyself like a 166

@@ -1,1 +1,2 @@
-o punish 75 o second
+o define and punish 75
+o radians per second 186

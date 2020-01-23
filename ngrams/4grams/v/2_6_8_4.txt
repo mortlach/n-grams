@@ -1,1 +1,3 @@
-via from 97 via into
+via direct extension from 97
+via direct injection into 46
+via energy transfer from 166

@@ -1,3 +1,6 @@
-judges opinion 67 judges assist 42
-judges decide 94 judges impose 51
-judges refusing 69 jurors issues 67
+judges have expressed the opinion 67
+judges were appointed to assist 42
+judges were appointed to decide 94
+judges were reluctant to impose 51
+judges were unanimous in refusing 69
+jurors must determine the issues 67

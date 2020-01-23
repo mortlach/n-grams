@@ -1,4 +1,8 @@
-idea accepted 120 idea accepted 72
-idea distance 147 idea capacity 53
-idea facility 93 idea ornament 50
-idea ingredient 47 idea exposure 77
+idea is not generally accepted 120
+idea is now generally accepted 72
+idea of any different distance 147
+idea of his wonderful capacity 53
+idea of his wonderful facility 93
+idea of its elaborate ornament 50
+idea of one principal ingredient 47
+idea of this monstrous exposure 77

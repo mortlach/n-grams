@@ -1,1 +1,2 @@
-p and 170 p than 216
+p is both true and 170
+p is not less than 216

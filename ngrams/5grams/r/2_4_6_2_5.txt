@@ -1,1 +1,2 @@
-re natal 270 ring piles 53
+re lord bishop of natal 270
+ring half hidden by piles 53

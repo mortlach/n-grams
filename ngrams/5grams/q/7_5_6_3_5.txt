@@ -1,4 +1,9 @@
-quality guide 286 question would 125
-question could 48 question would 407
-question could 65 question would 48
-question rules 42 question avoid 54
+quality limit values and guide 286
+question about whether she would 125
+question about whether they could 48
+question about whether they would 407
+question arose whether they could 65
+question arose whether they would 48
+question shall comply with rules 42
+question under debate and avoid 54
+question which arises and which 56

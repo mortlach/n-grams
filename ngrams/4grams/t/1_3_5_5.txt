@@ -1,4 +1,7 @@
-t every 66 t enter
-180 t about 585 t
-ketch 154 t appear 43
-t again 40 t about
+t and dotting every 66
+t and press enter 180
+t say anything about 585
+t she could ketch 154
+t this would appear 43
+t was about again 40
+t you worry about 213

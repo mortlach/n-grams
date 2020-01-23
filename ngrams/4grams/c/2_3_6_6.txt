@@ -1,3 +1,5 @@
-cm should 127 cm always
-46 cm packed 49 cm
-beyond 129 cw lasers 159
+cm and drawings should 127
+cm are almost always 46
+cm long column packed 49
+cm now extend beyond 129
+cw and pulsed lasers 159

@@ -1,5 +1,11 @@
-killed wounded 290 killed wounded 222
-killed wounded 608 killed injured 41
-killed wounded 593 killed injured 76
-killed wounded 108 killed wounded 70
-killed captive 40 killed injured 79
+killed and about fifty wounded 290
+killed and about forty wounded 222
+killed and about sixty wounded 608
+killed and about thirty injured 41
+killed and about thirty wounded 593
+killed and eight others injured 76
+killed and eight others wounded 108
+killed and others badly wounded 70
+killed and others taken captive 40
+killed and seven others injured 79
+killed and seven others wounded 123

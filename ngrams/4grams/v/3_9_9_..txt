@@ -1,1 +1,3 @@
-vel . 58 vis .
+vel curriculo insistens . 58
+vis developed countries . 132
+vos scelerati nebulones ! 41

@@ -1,4 +1,9 @@
-t good 186 t have 56
-t great 132 t late 51
-t much 143 t seem 138
-t been 124 t only 110
+t do you any good 186
+t is ask and have 56
+t is not too great 132
+t is not too late 51
+t is not too much 143
+t it does not seem 138
+t it has not been 124
+t it was not only 110
+t it was not till 142

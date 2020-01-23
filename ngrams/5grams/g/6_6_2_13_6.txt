@@ -1,1 +1,3 @@
-global issues 51 global finite 50
+global nature of environmental issues 51
+global smoothing of discontinuous finite 50
+golden basins go unaccountably astray 43

@@ -1,4 +1,7 @@
-pay damages 104 pay damages
-985 pay private 52 pay
-exceeding 196 peak maximum 45
-peak increasing 112 pet allowed
+pay compensation and damages 104
+pay compensation for damages 985
+pay compensation for private 52
+pay compensation not exceeding 196
+peak performance and maximum 45
+peak temperature with increasing 112
+pet organization was allowed 66

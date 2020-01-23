@@ -1,1 +1,2 @@
-zone low 101 zone top 63
+zone extends from the low 101
+zone extends from the top 63

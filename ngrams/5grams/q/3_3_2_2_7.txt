@@ -1,5 +1,11 @@
-qua general 56 qua process 101
-qua british 171 qua creative 42
-qua highest 103 qua marriage 50
-qua process 291 qua solution 44
-qua subject 145 qua success 467
+qua non in the general 56
+qua non in the process 101
+qua non of the british 171
+qua non of the creative 42
+qua non of the highest 103
+qua non of the marriage 50
+qua non of the process 291
+qua non of the solution 44
+qua non of the subject 145
+qua non of the success 467
+qua non to the success 81

@@ -1,3 +1,7 @@
-refreshments all 72 refreshments him 51
-relationships job 43 relationships this 57
-requirements age 93 requirements all 40
+refreshments were offered to all 72
+refreshments were offered to him 51
+relationships among criteria of job 43
+relationships among members of this 57
+requirements vary according to age 93
+requirements were applied to all 40
+requirements were imposed on all 56

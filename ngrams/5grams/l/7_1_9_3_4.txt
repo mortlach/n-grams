@@ -1,5 +1,10 @@
-lantern more 86 lighted blew 207
-lighted came 53 lighted drew 71
-lighted flung 52 lighted gave 67
-lighted said 196 lighted threw 50
-lighted took 169 lighted went 191
+lantern i inspected them more 86
+lighted a cigarette and blew 207
+lighted a cigarette and came 53
+lighted a cigarette and drew 71
+lighted a cigarette and flung 52
+lighted a cigarette and gave 67
+lighted a cigarette and said 196
+lighted a cigarette and threw 50
+lighted a cigarette and took 169
+lighted a cigarette and went 191

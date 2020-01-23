@@ -1,3 +1,6 @@
-yield information 61 yield information
-556 yield conclusions 43 yield
-information 403 yield information 359
+yield more meaningful information 61
+yield more precise information 556
+yield more reliable conclusions 43
+yield more reliable information 403
+yield only limited information 359
+youths were receiving instruction 54

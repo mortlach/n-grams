@@ -1,4 +1,9 @@
-job months 179 job weeks 111
-job period 77 job working 68
-job still 81 job hours 43
-job months 170 job weeks 171
+job after a few months 179
+job after a few weeks 111
+job after a long period 77
+job where i was working 68
+job while i was still 81
+job within a few hours 43
+job within a few months 170
+job within a few weeks 171
+joy which i had never 89

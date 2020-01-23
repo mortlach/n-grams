@@ -1,1 +1,3 @@
-t these 966 t used
+t indicates that these 966
+t statistic was used 139
+t throughout this book 179

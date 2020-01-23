@@ -1,2 +1,4 @@
-zero field 120 zero field
-1331 zero flows 154 zero
+zero external electric field 120
+zero external magnetic field 1331
+zero pressure gradient flows 154
+zero tangential electric field 327

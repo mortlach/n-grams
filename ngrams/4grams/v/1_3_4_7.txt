@@ -1,6 +1,10 @@
-v smaller 121 v vectors
-149 v steamers 328 v
-company 63 v assumed 218
-v defined 62 v measured
-54 v liquors 112 v
-central 492 v soluble 251
+v are much smaller 121
+v are unit vectors 149
+v ben line steamers 328
+v east india company 63
+v has been assumed 218
+v has been defined 62
+v has been measured 54
+v nat bell liquors 112
+v new york central 492
+v sol very soluble 251

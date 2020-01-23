@@ -1,3 +1,7 @@
-use not 43 use not 48
-use not 85 use own 44
-use spf 46 using not 46
+use discretion and do not 43
+use equipment that is not 48
+use resources they do not 85
+use sometimes for my own 44
+use sunscreen with an spf 46
+using arguments that do not 46
+using equipment that is not 98

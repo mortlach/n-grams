@@ -1,4 +1,8 @@
-x . 178 x .
-87 x . 88 x
-. 189 x . 56
-x . 42 xxxiii .
+x are equal . 178
+x are fixed . 87
+x are given . 88
+x are known . 189
+x are shown . 56
+x are small . 42
+xxxiii and xxxiv . 91
+xylene and mount . 364

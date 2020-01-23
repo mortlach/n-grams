@@ -1,1 +1,3 @@
-y negative 74 y positive
+y is always negative 74
+y is always positive 528
+y to remain constant 44

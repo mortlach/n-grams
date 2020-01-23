@@ -1,3 +1,5 @@
-x all 71 x any
-147 x each 168 x
-this 181 x one 135
+x coordinates of all 71
+x corresponding to any 147
+x corresponding to each 168
+x corresponding to this 181
+x corresponds to one 135

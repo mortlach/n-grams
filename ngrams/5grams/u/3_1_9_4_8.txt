@@ -1,1 +1,2 @@
-use extension 47 using approach 105
+use a different file extension 47
+using a candidate gene approach 105

@@ -1,3 +1,7 @@
-foe and 45 foe was 50
-ft end 335 ft end 2622
-ft end 209 ft and 83
+foe from the north and 45
+foe from the north was 50
+ft from the free end 335
+ft from the left end 2622
+ft from the other end 209
+ft from the wall and 83
+ft will be seen that 159

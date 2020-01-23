@@ -1,1 +1,2 @@
-get betrayed 58 get condition 60
+get home before daylight betrayed 58
+get into better physical condition 60

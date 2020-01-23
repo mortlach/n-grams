@@ -1,6 +1,10 @@
-re money 60 re about
-73 re where 365 re
-talking 41 re about 330
-re money 50 ring morning
-56 ring built 43 ring
-necks 280 ring forty 45
+re getting your money 60
+re gonna talk about 73
+re right back where 365
+re sitting here talking 41
+re talking here about 330
+re wasting your money 50
+ring bells next morning 56
+ring roads were built 43
+ring round their necks 280
+ring which cost forty 45

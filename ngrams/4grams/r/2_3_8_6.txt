@@ -1,1 +1,3 @@
-ring nature 42 ring station
+ring eye inverted nature 42
+ring that monitors station 43
+ring that undergoes reaction 59

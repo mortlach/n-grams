@@ -1,3 +1,6 @@
-p from 801 p into 160
-p from 847 p from 155
-p from 226 p from 102
+p can be calculated from 801
+p can be decomposed into 160
+p can be determined from 847
+p can be eliminated from 155
+p may be calculated from 226
+p may be determined from 102

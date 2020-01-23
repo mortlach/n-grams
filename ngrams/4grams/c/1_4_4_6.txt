@@ -1,2 +1,4 @@
-c chosen 44 c primed
-50 c treated 130 c
+c have been chosen 44
+c mice were primed 50
+c mice were treated 130
+c will pass through 120

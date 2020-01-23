@@ -1,2 +1,4 @@
-job am 99 job do 88
-joy king 41 joy thing 45
+job is that i am 99
+job is that i do 88
+joy of being a king 41
+joy of doing a thing 45

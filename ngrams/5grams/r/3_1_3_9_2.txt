@@ -1,5 +1,11 @@
-read in 148 read of 511
-read on 93 read or 83
-read to 91 read of 118
-read in 54 read of 61
-read to 54 read to 78
+read a few sentences in 148
+read a few sentences of 511
+read a few sentences on 93
+read a few sentences or 83
+read a few sentences to 91
+read a few specimens of 118
+read a long statement in 54
+read a long statement of 61
+read a poem addressed to 54
+read a poem dedicated to 78
+rear a new generation of 147

@@ -1,6 +1,11 @@
-zones declared 45 zones designed
-48 zones detected 70 zones
-explored 42 zones observed 306
-zones obtained 47 zones proposed
-190 zones recorded 65 zones
-reported 167 zones selected 83
+zones have been declared 45
+zones have been designed 48
+zones have been detected 70
+zones have been explored 42
+zones have been observed 306
+zones have been obtained 47
+zones have been proposed 190
+zones have been recorded 65
+zones have been reported 167
+zones have been selected 83
+zones were also observed 43

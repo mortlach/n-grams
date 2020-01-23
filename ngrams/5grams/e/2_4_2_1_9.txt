@@ -1,1 +1,2 @@
-ed newspaper 40 en middleman 49
+ed page of a newspaper 40
+en bloc to a middleman 49

@@ -1,5 +1,10 @@
-injury a 41 injury a 52
-innate a 147 issued a 53
-issued a 52 itself a 45
-itself a 163 itself a 115
-itself a 59 itself a 51
+injury which can befall a 41
+injury which has caused a 52
+innate drive that seizes a 147
+issued under this section a 53
+issued writs for choosing a 52
+itself could not become a 45
+itself rather than merely a 163
+itself rather than simply a 115
+itself rather than through a 59
+itself would not become a 51

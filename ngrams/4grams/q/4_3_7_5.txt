@@ -1,2 +1,4 @@
-quit working 46 quit scene
-60 quit house 85 quiz
+quit and started working 46
+quit each courtly scene 60
+quit his country house 85
+quiz and variety shows 125

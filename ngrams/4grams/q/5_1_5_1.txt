@@ -1,3 +1,6 @@
-quite i 329 quite a
-45 quite i 41 quite
-o 47 quite a 250
+quite a child i 329
+quite a shock a 45
+quite a shock i 41
+quite a spell o 47
+quite a while a 250
+quite a while i 2040

@@ -1,1 +1,2 @@
-o seller 50 o master
+o buyer and seller 50
+o missy and master 51

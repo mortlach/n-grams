@@ -1,1 +1,2 @@
-use supplies 117 use students 96
+use for public water supplies 117
+use with special needs students 96

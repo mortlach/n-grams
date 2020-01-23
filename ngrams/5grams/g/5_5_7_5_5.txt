@@ -1,2 +1,4 @@
-goods wants 70 grave charm 42
-group scipio 42 guard night 46
+goods which satisfy human wants 70
+grave which doubles every charm 42
+group which gathered round scipio 42
+guard reaching decatur about night 46

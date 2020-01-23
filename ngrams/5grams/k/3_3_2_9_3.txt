@@ -1,3 +1,7 @@
-key key 52 key key 194
-key with 104 key using 52
-key with 140 key with 163
+key and the backspace key 52
+key and the decryption key 194
+key can be associated with 104
+key can be decrypted using 52
+key can be decrypted with 140
+key that is associated with 163
+kit can be purchased for 125

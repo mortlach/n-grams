@@ -1,3 +1,6 @@
-get exercise 136 get nutrition 44
-get situation 75 got situation 100
-gun fastenings 51 gun shoulder 123
+get adequate rest and exercise 136
+get adequate rest and nutrition 44
+get yourself into this situation 75
+got yourself into this situation 100
+gun detached from its fastenings 51
+gun strapped over his shoulder 123

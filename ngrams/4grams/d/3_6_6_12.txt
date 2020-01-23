@@ -1,1 +1,2 @@
-death consciousness 46 dry expectoration
+death occurs without consciousness 46
+dry coughs without expectoration 41

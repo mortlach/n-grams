@@ -1,3 +1,5 @@
-t any 145 t each
-165 t this 174 t
-not 368 t that 137
+t corresponding to any 145
+t corresponding to each 165
+t corresponding to this 174
+t distribution is not 368
+t distribution is that 137

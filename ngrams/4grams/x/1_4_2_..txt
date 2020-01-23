@@ -1,2 +1,4 @@
-x . 1036 x .
-359 x . 313 x
+x from eq . 1036
+x from it . 359
+x into eq . 313
+x will be . 154

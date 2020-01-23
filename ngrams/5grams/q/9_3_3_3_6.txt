@@ -1,5 +1,10 @@
-qualified station 42 qualifies prison 45
-qualities faults 101 qualities always 146
-qualities english 197 qualities shared 44
-qualities always 43 qualities resign 42
-qualities little 138 quarreled friend 82
+qualified him for his station 42
+qualifies one man for prison 45
+qualities and all his faults 101
+qualities that are not always 146
+qualities that are not english 197
+qualities that are not shared 44
+qualities that they are always 43
+qualities that you can resign 42
+qualities they are too little 138
+quarreled with his old friend 82

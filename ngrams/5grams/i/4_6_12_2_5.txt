@@ -1,2 +1,5 @@
-into world 41 into social 53
-into order 492 into state 99
+into active participation in world 41
+into direct participation in social 53
+into mutual consultations in order 492
+into serious consideration the state 99
+into serious difficulties in meeting 101

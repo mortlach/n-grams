@@ -1,1 +1,3 @@
-quit end 76 quit age 981
+quit expiring at the end 76
+quit school at the age 981
+quit school at the end 278

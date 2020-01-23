@@ -1,3 +1,6 @@
-raw foreign 43 raw variety 71
-raw product 189 raw compact 58
-real foreign 45 real grantor 58
+raw materials from a foreign 43
+raw materials from a variety 71
+raw materials into a product 189
+raw recruits into a compact 58
+real property from a foreign 45
+real property from a grantor 58

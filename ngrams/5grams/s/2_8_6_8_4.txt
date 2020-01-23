@@ -1,0 +1,1 @@
+so obtained always contains some 42

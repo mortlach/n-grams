@@ -1,1 +1,2 @@
-zones each 70 zones one
+zones differ from each 70
+zones differ from one 54

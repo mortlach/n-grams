@@ -1,5 +1,9 @@
-lac . 52 lear .
-678 lef . 155 let
-. 143 liar ! 333
-log . 668 long .
-56 low . 53 low
+lac t is . 52
+lear n it . 678
+lef s go . 155
+let s go . 143
+liar i am ! 333
+log a br . 668
+long a thing . 56
+low a ph . 53
+low i am . 128

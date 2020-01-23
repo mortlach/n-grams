@@ -1,1 +1,3 @@
-fl replication 183 ft considered
+fl origin of replication 183
+ft should be considered 159
+ft should be remembered 53

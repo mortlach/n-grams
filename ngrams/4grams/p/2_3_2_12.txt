@@ -1,5 +1,9 @@
-ph temperatures 67 ph concentration
-50 ph concentration 362 ph
-availability 313 ph concentration 2472
-ph conductivity 186 ph accomplished
-52 ph determination 53 ph
+ph and at temperatures 67
+ph and ca concentration 50
+ph and ion concentration 362
+ph and the availability 313
+ph and the concentration 2472
+ph and the conductivity 186
+ph can be accomplished 52
+ph for the determination 53
+ph for the precipitation 112

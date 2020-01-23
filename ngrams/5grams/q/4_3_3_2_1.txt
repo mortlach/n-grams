@@ -1,4 +1,8 @@
-quit a 40 quit a 1842
-quit a 240 quit a 173
-quit a 2596 quit a 254
-quit a 236 quit a 62
+quit and set up a 40
+quit her job as a 1842
+quit her job at a 240
+quit her job in a 173
+quit his job as a 2596
+quit his job at a 254
+quit his job in a 236
+quit his job on a 62

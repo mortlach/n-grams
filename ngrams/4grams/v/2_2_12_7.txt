@@ -1,3 +1,6 @@
-via network 51 via channel
-217 via network 261 via
-process 51 via airport 48
+via an international network 51
+via the communication channel 217
+via the communication network 261
+via the communication process 51
+via the international airport 48
+via the relationships between 43

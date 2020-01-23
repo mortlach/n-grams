@@ -1,5 +1,9 @@
-pea porridge 41 ph therefore
-83 ph analysis 118 ph
-treatment 93 ph activity 57
-ph adjusted 368 ph affected
-198 ph observed 68 ph
+pea and bean porridge 41
+ph and are therefore 83
+ph and gas analysis 118
+ph and heat treatment 93
+ph for its activity 57
+ph was not adjusted 368
+ph was not affected 198
+ph was not observed 68
+ph was then adjusted 950

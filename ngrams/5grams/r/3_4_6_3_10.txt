@@ -1,1 +1,3 @@
-red hemoglobin 150 red hemoglobin 98
+red cell counts and hemoglobin 150
+red cell volume and hemoglobin 98
+run cost curves are horizontal 43

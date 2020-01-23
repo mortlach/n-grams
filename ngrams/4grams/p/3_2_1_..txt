@@ -1,2 +1,4 @@
-path . 72 poet ?
-128 por . 199 put
+path to a . 72
+poet as i ? 128
+por el ing . 199
+put in a . 153

@@ -1,5 +1,9 @@
-h containing 660 h subjects
-119 h positive 58 h
-constant 282 h momentum 94
-h momentum 164 h constant
-1202 h complete 277 h
+h in medium containing 660
+h in normal subjects 119
+h is always positive 58
+h is planck constant 282
+h of angular momentum 94
+h the angular momentum 164
+h the planck constant 1202
+h to ensure complete 277
+h to remove residual 81

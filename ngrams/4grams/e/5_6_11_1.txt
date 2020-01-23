@@ -1,3 +1,5 @@
-ethnic a 52 ethnic a
-49 every a 64 every
-a 139 every a 61
+ethnic groups constituted a 52
+ethnic groups experienced a 49
+every member contributes a 64
+every parcel underwrites a 139
+every person experiences a 61

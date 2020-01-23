@@ -1,1 +1,3 @@
-u points 40 u remove
+u at all points 40
+u do not remove 62
+u is any vector 100

@@ -1,2 +1,4 @@
-up around 50 up entity 41
-us version 43 us wisdom 67
+up a security perimeter around 50
+up a separate corporate entity 41
+us a slightly different version 43
+us a slightly different wisdom 67

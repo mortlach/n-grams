@@ -1,2 +1,4 @@
-under temperature 46 under modification 53
-urban development 58 urban development 50
+under almost all normal temperature 46
+under nature any slight modification 53
+urban planning and policy development 58
+urban sprawl and ribbon development 50

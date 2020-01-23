@@ -1,1 +1,2 @@
-i independent 45 i distributed
+i are mutually independent 45
+i are normally distributed 54

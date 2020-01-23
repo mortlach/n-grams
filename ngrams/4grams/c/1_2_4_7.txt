@@ -1,3 +1,6 @@
-c wheeler 60 c smaller
-291 c similar 125 c
-because 144 c defects 57
+c by john wheeler 60
+c is much smaller 291
+c is very similar 125
+c is wrong because 144
+c or less defects 57
+c or when sounded 899

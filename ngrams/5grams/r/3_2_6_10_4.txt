@@ -1,2 +1,4 @@
-read from 75 read more 87
-read when 41 read from 73
+read the entire manuscript from 75
+read the entire manuscript more 87
+read the entire manuscript when 41
+read the latest dispatches from 73

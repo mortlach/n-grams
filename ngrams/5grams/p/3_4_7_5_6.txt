@@ -1,1 +1,2 @@
-path source 128 path moment 45
+path from primary sound source 128
+path grew smaller every moment 45

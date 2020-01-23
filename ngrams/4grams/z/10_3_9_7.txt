@@ -1,6 +1,10 @@
-zoological gardens 1886 zoological material
-106 zoological question 73 zoological
-research 84 zoological science 74
-zoological species 85 zoological studies
-98 zoological systems 56 zoological
-research 42 zoological results 61
+zoological and botanical gardens 1886
+zoological and botanical material 106
+zoological and botanical question 73
+zoological and botanical research 84
+zoological and botanical science 74
+zoological and botanical species 85
+zoological and botanical studies 98
+zoological and botanical systems 56
+zoological and geological research 42
+zoological and geological results 61

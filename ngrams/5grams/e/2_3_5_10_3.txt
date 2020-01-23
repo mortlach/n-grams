@@ -1,1 +1,2 @@
-eat and 40 eat and 53
+eat and drink delicately and 40
+eat and sleep contiguous and 53

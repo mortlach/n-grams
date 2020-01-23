@@ -1,2 +1,4 @@
-j from 208 j over
-181 j help 57 j
+j as appears from 208
+j is summed over 181
+j ok cancel help 57
+j the greater part 217

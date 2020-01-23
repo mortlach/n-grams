@@ -1,1 +1,2 @@
-using sterility 122 using collected
+using cytoplasmic male sterility 122
+using longitudinal data collected 51

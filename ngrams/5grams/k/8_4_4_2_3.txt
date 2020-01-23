@@ -1,1 +1,2 @@
-kerchief head 40 knockout air 148
+kerchief tied over the head 40
+knockout blow from the air 148

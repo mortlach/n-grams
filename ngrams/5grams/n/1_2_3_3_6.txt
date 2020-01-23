@@ -1,1 +1,2 @@
-n number 85 n number 354
+n is any odd number 85
+n is any real number 354

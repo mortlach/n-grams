@@ -1,2 +1,4 @@
-via carotid 55 via bermuda 206
-via ventral 198 via inferior 119
+via the aortic and carotid 55
+via the azores and bermuda 206
+via the dorsal and ventral 198
+via the middle and inferior 119

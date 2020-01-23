@@ -1,2 +1,4 @@
-yield a 40 yield a
-45 yield a 77 yield
+yield itself without a 40
+yield moscow without a 45
+yield passes through a 77
+yield without striking a 153

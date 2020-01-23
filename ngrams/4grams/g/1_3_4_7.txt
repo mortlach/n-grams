@@ -1,3 +1,5 @@
-g minutes 607 g minutes
-69 g assumed 97 g
-defined 46 g measured 126
+g for five minutes 607
+g for three minutes 69
+g has been assumed 97
+g has been defined 46
+g has been measured 126

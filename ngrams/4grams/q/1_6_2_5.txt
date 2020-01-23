@@ -1,1 +1,2 @@
-q equal 40 q taken
+q should be equal 40
+q should be taken 68

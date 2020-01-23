@@ -1,3 +1,7 @@
-legislators people 119 legislators nation 63
-legislature people 59 legislature state 519
-legislature nation 118 legislature house 102
+legislators of a free people 119
+legislators of a great nation 63
+legislature of a free people 59
+legislature of a free state 519
+legislature of a great nation 118
+legislature of a single house 102
+legislature of a single state 116

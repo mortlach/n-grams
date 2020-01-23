@@ -1,1 +1,2 @@
-roads artillery 90 roads artillery 55
+roads almost impassable for artillery 90
+roads became impassable for artillery 55

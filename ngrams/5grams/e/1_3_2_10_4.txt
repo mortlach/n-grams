@@ -1,3 +1,6 @@
-e mass 87 e from 461
-e into 43 e from 368
-e from 86 e from 49
+e are the electronic mass 87
+e can be calculated from 461
+e can be decomposed into 43
+e can be determined from 368
+e may be calculated from 86
+e may be determined from 49

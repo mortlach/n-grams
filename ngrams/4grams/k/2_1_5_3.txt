@@ -1,4 +1,8 @@
-king sum 42 king for
-44 king sum 311 king
-sum 73 king who 48
-king not 64 king too
+king a fixed sum 42
+king a grant for 44
+king a large sum 311
+king a small sum 73
+king a woman who 48
+king i could not 64
+king i dined too 183
+king i would not 112

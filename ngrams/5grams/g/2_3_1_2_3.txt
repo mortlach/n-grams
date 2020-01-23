@@ -1,3 +1,7 @@
-go going 108 go not 135
-go not 1940 go not 746
-go not 43 go not 256
+go and i am going 108
+go and i am not 135
+go and i do not 1940
+go but i do not 746
+go now i do not 43
+go out i do not 256
+go that i do not 221

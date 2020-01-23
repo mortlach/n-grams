@@ -1,1 +1,3 @@
-velocity column 137 violently moment 61
+velocity gradient across the column 137
+violently affected moment by moment 61
+vivacity decreased little by little 48

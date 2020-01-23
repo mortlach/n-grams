@@ -1,3 +1,5 @@
-r all 107 r two
-150 r vol 43 r
-this 40 r this 145
+r consists of all 107
+r consists of two 150
+r contents of vol 43
+r obtained by this 40
+r obtained in this 145

@@ -1,5 +1,9 @@
-via efferent 60 via internal
-56 via software 72 via
-external 174 via medicaid 110
-via metonymy 102 via archangel
-50 via negative 131 via
+via afferent and efferent 60
+via external and internal 56
+via hardware and software 72
+via internal and external 174
+via medicare and medicaid 110
+via metaphor and metonymy 102
+via murmansk and archangel 50
+via positive and negative 131
+via standard web browsers 58

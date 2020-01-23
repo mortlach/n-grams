@@ -1,1 +1,3 @@
-i phases 144 i number 172
+i in the two phases 144
+i is an odd number 172
+i is the row number 159

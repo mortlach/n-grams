@@ -1,2 +1,4 @@
-c from 530 c from 658
-c from 132 c from 160
+c can be calculated from 530
+c can be determined from 658
+c may be calculated from 132
+c may be determined from 160

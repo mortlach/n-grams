@@ -1,1 +1,3 @@
-keyboard . 77 kilowatt .
+keyboard shortcut set . 77
+kilowatt capacity each . 41
+knightly ancestry now . 72

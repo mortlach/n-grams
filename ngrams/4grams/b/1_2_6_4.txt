@@ -1,1 +1,3 @@
-b less 170 b such
+b is always less 170
+b is chosen such 43
+b is formed from 69

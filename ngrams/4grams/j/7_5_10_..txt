@@ -1,5 +1,9 @@
-jointly . 60 jointly .
-64 journal . 189 justice
-. 48 justice . 100
-justice . 58 justify .
-75 justify . 86 justify
+jointly owned enterprise . 60
+jointly owned properties . 64
+journal ceased publication . 189
+justice takes cognisance . 48
+justice takes cognizance . 100
+justice under capitalism . 58
+justify final conclusions . 75
+justify racial segregation . 86
+justify social inequality . 136

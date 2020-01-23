@@ -1,3 +1,6 @@
-eat sandwich 44 eat breakfast
-247 eat breakfast 242 eat
-balanced 41 eat quantity 75
+eat a butterfly sandwich 44
+eat a leisurely breakfast 247
+eat a nutritious breakfast 242
+eat a perfectly balanced 41
+eat a prodigious quantity 75
+eat a reasonably balanced 188

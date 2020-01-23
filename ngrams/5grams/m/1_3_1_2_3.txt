@@ -1,4 +1,8 @@
-m any 188 m two 264
-m not 322 m fig 302
-m this 50 m not 46
-m that 40 m that 127
+m and n be any 188
+m and n be two 264
+m and n do not 322
+m and n in fig 302
+m and n in this 50
+m and n is not 46
+m and n is that 40
+m and n so that 127

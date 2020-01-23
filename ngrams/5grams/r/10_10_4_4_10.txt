@@ -1,1 +1,2 @@
-radioactive discovered 77 resistance identified 49
+radioactive substances have been discovered 77
+resistance mechanisms have been identified 49

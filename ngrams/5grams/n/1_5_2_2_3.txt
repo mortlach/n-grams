@@ -1,2 +1,4 @@
-n sum 47 n gas 226
-n sum 110 n sum 64
+n equal to the sum 47
+n moles of the gas 226
+n terms in the sum 110
+n trials is the sum 64

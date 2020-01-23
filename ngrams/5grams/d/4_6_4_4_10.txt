@@ -1,1 +1,2 @@
-deed approbation 115 duty discharged 48
+deed should call forth approbation 115
+duty should have been discharged 48

@@ -1,6 +1,10 @@
-zeros added 118 zones added
-77 zones drawn 71 zones
-found 537 zones given 99
-zones named 53 zones noted
-56 zones shown 143 zones
-taken 69 zones found 51
+zeros have been added 118
+zones have been added 77
+zones have been drawn 71
+zones have been found 537
+zones have been given 99
+zones have been named 53
+zones have been noted 56
+zones have been shown 143
+zones have been taken 69
+zones were also found 51

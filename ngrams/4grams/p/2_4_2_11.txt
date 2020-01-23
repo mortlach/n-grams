@@ -1,1 +1,2 @@
-ph fermentation 84 ph distribution
+ph during the fermentation 84
+ph from the distribution 152

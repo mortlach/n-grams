@@ -1,2 +1,4 @@
-king controls 64 king provence 80
-king military 62 king dominions 75
+king is physical and controls 64
+king of burgundy and provence 80
+king to complete his military 62
+king to mortgage his dominions 75

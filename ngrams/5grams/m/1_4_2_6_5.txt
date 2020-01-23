@@ -1,3 +1,7 @@
-m level 373 m point 323
-m point 65 m point 274
-m floor 41 m cable 113
+m from the ground level 373
+m from the release point 323
+m from the source point 65
+m from the starting point 274
+m from the valley floor 41
+m length of coaxial cable 113
+m ready to accept jesus 103

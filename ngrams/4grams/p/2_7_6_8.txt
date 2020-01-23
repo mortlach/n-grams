@@ -1,1 +1,2 @@
-ph constant 52 pm saturday
+ph remains fairly constant 52
+pm tuesday through saturday 557

@@ -1,2 +1,5 @@
-ulcers diagnosis 43 unique assigned 134
-useful analysis 54 useful diagnosis 410
+ulcers and the differential diagnosis 43
+unique set of instructions assigned 134
+useful for the comparative analysis 54
+useful for the differential diagnosis 410
+useful for the symptomatic treatment 51

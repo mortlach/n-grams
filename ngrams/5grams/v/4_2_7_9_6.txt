@@ -1,1 +1,2 @@
-view europa 55 view profit 135
+view of galilean satellite europa 55
+view to enhancing corporate profit 135

@@ -1,4 +1,7 @@
-cm thickness 276 cm achieved
-209 cm observed 163 cm
-obtained 182 cm operated 129
-cm recorded 94 cm reported
+cm and wall thickness 276
+cm has been achieved 209
+cm has been observed 163
+cm has been obtained 182
+cm has been operated 129
+cm has been recorded 94
+cm has been reported 409

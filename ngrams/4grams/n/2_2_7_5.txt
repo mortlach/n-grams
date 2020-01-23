@@ -1,2 +1,4 @@
-no flows 84 no point
-64 no change 128 no
+no dc current flows 84
+no go decision point 64
+no or minimal change 128
+no or minimal signs 53

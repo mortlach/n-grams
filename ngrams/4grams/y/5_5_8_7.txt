@@ -1,3 +1,5 @@
-yearly product 124 yield results
-434 yield reactions 43 yield
-results 663 yield results 192
+yearly gross domestic product 124
+yield false negative results 434
+yield false positive reactions 43
+yield false positive results 663
+yield quite accurate results 192

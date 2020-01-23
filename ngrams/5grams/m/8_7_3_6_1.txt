@@ -1,2 +1,4 @@
-military a 122 military a 77
-military a 93 military a 87
+military service and became a 122
+military service had become a 77
+military service has become a 93
+military uniform and carrying a 87

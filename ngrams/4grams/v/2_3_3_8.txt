@@ -1,1 +1,2 @@
-via internal 62 via receptor
+via its own internal 62
+via its own receptor 82

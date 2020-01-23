@@ -1,2 +1,4 @@
-n york 264 n from 87
-n know 49 n mind 57
+n art in new york 264
+n can be read from 87
+n you do not know 49
+n you do not mind 57

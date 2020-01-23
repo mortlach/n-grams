@@ -1,3 +1,7 @@
-quit as 40 quit as 848
-quit the 203 quit as 198
-quit at 77 quit in 254
+quit fighting as soon as 40
+quit school as soon as 848
+quit school to join the 203
+quit school to work as 198
+quit school to work at 77
+quit school to work in 254
+quit school to work on 89

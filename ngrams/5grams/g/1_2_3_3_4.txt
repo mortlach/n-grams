@@ -1,1 +1,2 @@
-g most 104 g soil 56
+g in alt was most 104
+g of air dry soil 56

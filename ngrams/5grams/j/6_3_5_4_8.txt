@@ -1,1 +1,2 @@
-jacket trousers 47 jumper trousers 103
+jacket and white duck trousers 47
+jumper and white duck trousers 103

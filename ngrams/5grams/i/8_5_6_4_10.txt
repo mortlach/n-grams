@@ -1,1 +1,2 @@
-interest precedence 98 interest government 51
+interest which should take precedence 98
+interest would render good government 51

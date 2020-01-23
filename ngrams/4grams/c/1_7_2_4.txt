@@ -1,4 +1,8 @@
-c their 44 c cost
-111 c acid 296 c
-same 144 c rest 45
-c same 260 c means
+c according to their 44
+c denotes the cost 111
+c printed on acid 296
+c remaining the same 144
+c remains at rest 45
+c remains the same 260
+c voltage by means 47
+c voltage is used 81

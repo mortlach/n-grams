@@ -1,5 +1,11 @@
-key possible 65 key counsels 300
-key officers 97 key apparent 60
-key confusion 42 key problems 1041
-key questions 63 key sciences 335
-key treasures 392 key troubles 80
+key as long as possible 65
+key of all my counsels 300
+key so that the officers 97
+key to all the apparent 60
+key to all the confusion 42
+key to all the problems 1041
+key to all the questions 63
+key to all the sciences 335
+key to all the treasures 392
+key to all the troubles 80
+key to all thy treasures 83

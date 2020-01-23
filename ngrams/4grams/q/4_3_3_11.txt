@@ -1,1 +1,2 @@
-quit voluntarily 58 quit personality
+quit his job voluntarily 58
+quit his own personality 84

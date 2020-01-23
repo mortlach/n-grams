@@ -1,3 +1,6 @@
-general not 41 general not 290
-general out 82 grammar iii 637
-grieved not 43 guessed going 41
+general rule i am not 41
+general rule i do not 290
+general when i go out 82
+grammar from i to iii 637
+grieved when i do not 43
+guessed what i am going 41

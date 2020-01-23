@@ -1,2 +1,5 @@
-zeros fill 44 zones most 155
-zones less 418 zones used 67
+zeros are used to fill 44
+zones are among the most 155
+zones are more or less 418
+zones can also be used 67
+zones that vary in their 44

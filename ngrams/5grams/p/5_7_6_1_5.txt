@@ -1,3 +1,7 @@
-paper block 41 paper sanding 128
-party phase 50 people large 64
-people small 47 people table 235
+paper wrapped around a block 41
+paper wrapped around a sanding 128
+party loyalty became a phase 50
+people gathered around a large 64
+people gathered around a small 47
+people gathered around a table 235
+place gravely beside a table 58

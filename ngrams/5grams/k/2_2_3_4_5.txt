@@ -1,5 +1,10 @@
-king fetch 41 king house 86
-king court 58 king hours 66
-king weeks 79 king birds 51
-king words 88 king named 107
-king lives 191 king views 44
+king if they will fetch 41
+king in his great house 86
+king in his high court 58
+king in his last hours 66
+king is but three weeks 79
+king of all game birds 51
+king of all these words 88
+king of this land named 107
+king of this sort lives 191
+king on his wide views 44

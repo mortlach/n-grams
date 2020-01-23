@@ -1,1 +1,3 @@
-y coordinates 421 y independent
+y are cartesian coordinates 421
+y are mutually independent 153
+y are normally distributed 746

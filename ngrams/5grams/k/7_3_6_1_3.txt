@@ -1,2 +1,4 @@
-kitchen pot 99 kitchen can 343
-kitchen cup 241 knocked bit 48
+kitchen and brewed a pot 99
+kitchen and opened a can 343
+kitchen and poured a cup 241
+knocked him around a bit 48

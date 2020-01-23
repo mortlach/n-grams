@@ -1,4 +1,8 @@
-nations demoralizing 48 nature information 48
-nature impurities 106 nature punishment 66
-nature scientific 58 nature historical 41
-nature individual 72 nature scientific 65
+nations has acknowledged the demoralizing 48
+nature and availability of information 48
+nature and concentration of impurities 106
+nature and justification of punishment 66
+nature and justification of scientific 58
+nature and requirements of historical 41
+nature and significance of individual 72
+nature and significance of scientific 65

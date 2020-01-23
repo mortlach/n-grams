@@ -1,1 +1,2 @@
-king necessary 42 king courtiers
+king considered it necessary 42
+king surrounded by courtiers 40

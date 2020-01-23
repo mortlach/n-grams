@@ -1,5 +1,11 @@
-named general 108 names birthday 70
-nation depends 113 nearly numbers 85
-nearly natural 60 nearly similar 46
-needs parents 184 needs members 69
-noise gaussian 52 noise stopped 50
+named or included under general 108
+names of musicians whose birthday 70
+nation an education which depends 113
+nearly as possible equal numbers 85
+nearly as possible under natural 60
+nearly as possible under similar 46
+needs of children whose parents 184
+needs of minority group members 69
+noise is additive white gaussian 52
+noise of children never stopped 50
+noise of children playing outside 42

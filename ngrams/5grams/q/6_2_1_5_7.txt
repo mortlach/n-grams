@@ -1,3 +1,6 @@
-quoted example 60 quoted against 56
-quoted science 117 quoted chapter 313
-quoted exchange 44 quoted exchange 1417
+quoted as a prime example 60
+quoted as a warning against 56
+quoted at a social science 117
+quoted in a later chapter 313
+quoted in a stock exchange 44
+quoted on a stock exchange 1417

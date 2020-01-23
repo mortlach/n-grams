@@ -1,2 +1,4 @@
-gangs sovereigns 40 gene populations 50
-gene populations 157 good profitably 48
+gangs have private black sovereigns 40
+gene flow between human populations 50
+gene flow between local populations 157
+good help towards thinking profitably 48

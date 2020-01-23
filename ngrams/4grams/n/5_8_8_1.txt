@@ -1,3 +1,6 @@
-nerve a 44 never a
-126 never a 111 never
-a 95 never a 82
+nerve terminal contains a 44
+never actually attended a 126
+never actually produced a 111
+never actually received a 95
+never formally declared a 82
+nursing practice requires a 212

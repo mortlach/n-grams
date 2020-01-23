@@ -1,6 +1,10 @@
-zeitgeist early 40 zeitgeist late
-112 zeitgeist time 210 zigzagged
-face 182 zigzagged hill 350
-zigzagged side 147 zirconium form
-103 zoologist name 42 zoophytes
-ocean 76 zoophytes most 59
+zeitgeist of the early 40
+zeitgeist of the late 112
+zeitgeist of the time 210
+zigzagged up the face 182
+zigzagged up the hill 350
+zigzagged up the side 147
+zirconium in the form 103
+zoologist by the name 42
+zoophytes in the ocean 76
+zoophytes of the most 59

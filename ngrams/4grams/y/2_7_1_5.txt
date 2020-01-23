@@ -1,1 +1,2 @@
-ye jewel 42 ye truer
+ye possess a jewel 42
+ye uttered a truer 49

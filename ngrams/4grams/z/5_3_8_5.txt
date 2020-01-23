@@ -1,1 +1,2 @@
-zenith angles 213 zones savings
+zenith and azimuthal angles 213
+zones and daylight savings 82

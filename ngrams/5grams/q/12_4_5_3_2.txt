@@ -1,1 +1,2 @@
-quantitative be 60 quantitative be 185
+quantitative data could not be 60
+quantitative data which can be 185

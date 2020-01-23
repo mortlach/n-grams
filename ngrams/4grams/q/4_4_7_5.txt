@@ -1,3 +1,5 @@
-quit heroes 56 quit within
-125 quit abode 101 quit
-abode 42 quoth ralph 43
+quit making national heroes 56
+quit their country within 125
+quit their present abode 101
+quit your present abode 42
+quoth poor unthinking ralph 43

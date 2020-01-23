@@ -1,3 +1,5 @@
-human a 77 human a
-86 human a 173 human
-a 53 human a 48
+human nature constitutes a 77
+human rights constituted a 86
+human rights constitutes a 173
+human rights presupposes a 53
+human rights represented a 48

@@ -1,2 +1,5 @@
-genes production 44 genes conditions 52
-genes disorders 66 gland production 73
+genes responsible for their production 44
+genes responsible for these conditions 52
+genes responsible for these disorders 66
+gland development and milk production 73
+grave observations and wise sentences 93

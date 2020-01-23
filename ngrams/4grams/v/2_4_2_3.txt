@@ -1,6 +1,11 @@
-via pap 48 via ftp
-165 via fax 187 via
-all 51 via this 50
-via not 78 via his
-48 via being 61 via
-yet 46 via its 63
+via chap or pap 48
+via http or ftp 165
+via mail or fax 187
+via media in all 51
+via media in this 50
+via media is not 78
+via media of his 48
+via media to being 61
+via some as yet 46
+via some of its 63
+via what is now 268

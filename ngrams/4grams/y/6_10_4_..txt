@@ -1,3 +1,5 @@
-yellow . 47 yellow .
-48 yellow . 102 yields
-. 120 yonder . 51
+yellow crimescene tape . 47
+yellow gelatinous mass . 48
+yellow quarantine flag . 102
+yields phosphoric acid . 120
+yonder treacherous lake . 51

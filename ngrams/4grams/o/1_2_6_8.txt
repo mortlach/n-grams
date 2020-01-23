@@ -1,2 +1,4 @@
-o positive 44 o velocity
-203 o provided 45 o
+o is always positive 44
+o the angular velocity 203
+o the extent provided 45
+o the lerner publishing 95

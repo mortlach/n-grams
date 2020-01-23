@@ -1,3 +1,6 @@
-ll room 94 ll time 1431
-ll look 63 ll show 51
-ll talk 54 ll tell 67
+ll have plenty of room 94
+ll have plenty of time 1431
+ll have something to look 63
+ll have something to show 51
+ll have something to talk 54
+ll have something to tell 67

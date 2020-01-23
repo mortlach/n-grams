@@ -1,1 +1,2 @@
-judgments given 75 juveniles found 49
+judgments that have been given 75
+juveniles who have been found 49

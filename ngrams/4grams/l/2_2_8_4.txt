@@ -1,3 +1,6 @@
-lb lime 95 lb acid
-199 ll these 40 ll
-else 41 ll back 48
+lb of hydrated lime 95
+lb of sulfuric acid 199
+ll be discussing these 40
+ll be somebody else 41
+ll go straight back 48
+ll go straight home 66

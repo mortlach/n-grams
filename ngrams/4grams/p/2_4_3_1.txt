@@ -1,6 +1,11 @@
-pea a 127 pea a
-341 pea a 182 ph
-a 215 ph a 114
-ph a 301 ph a
-72 ph a 104 ph
-a 48 ph a 103
+pea coat and a 127
+pea soup and a 341
+pea soup with a 182
+ph also has a 215
+ph range and a 114
+ph range for a 301
+ph range with a 72
+ph there was a 104
+ph unit for a 48
+ph unit with a 103
+pm there was a 379

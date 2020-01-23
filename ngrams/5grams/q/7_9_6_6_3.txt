@@ -1,2 +1,4 @@
-question all 60 question any 114
-question they 79 question this 526
+question naturally arises whether all 60
+question naturally arises whether any 114
+question naturally arises whether they 79
+question naturally arises whether this 526

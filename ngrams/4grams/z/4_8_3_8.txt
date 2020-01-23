@@ -1,4 +1,8 @@
-zero magnetic 138 zero infinite
-97 zero therefore 100 zinc
-ammonium 683 zinc hydrogen 661
-zinc juvenile 116 zinc chloride
+zero electric and magnetic 138
+zero thickness and infinite 97
+zero velocity and therefore 100
+zinc chloride and ammonium 683
+zinc chloride and hydrogen 661
+zinc solutions for juvenile 116
+zinc sulphate and chloride 55
+zinc sulphate and hydrogen 656

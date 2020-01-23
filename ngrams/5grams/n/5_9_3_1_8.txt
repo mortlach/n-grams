@@ -1,2 +1,4 @@
-never christian 130 never portrait 47
-never vicarious 65 noise resistor 65
+never conversed with a christian 130
+never satisfied with a portrait 47
+never satisfied with a vicarious 65
+noise associated with a resistor 65

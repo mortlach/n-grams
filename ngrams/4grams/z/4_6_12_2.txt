@@ -1,1 +1,2 @@
-zero of 60 zone in
+zero initial concentration of 60
+zone varies considerably in 55

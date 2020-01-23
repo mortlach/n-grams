@@ -1,1 +1,2 @@
-xylem inside 110 xylem plants
+xylem towards the inside 110
+xylem vessels of plants 48

@@ -1,2 +1,5 @@
-receive going 40 relaxed with 96
-resolve not 41 returning fit 71
+receive what i am going 40
+relaxed when i am with 96
+resolve upon i do not 41
+returning when i am fit 71
+rotation axis w is then 60

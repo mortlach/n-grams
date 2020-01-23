@@ -1,3 +1,5 @@
-up am 123 up go
-95 up am 166 up
-go 490 us ring 103
+up whenever i am 123
+up whenever i go 95
+up wherever i am 166
+up wherever i go 490
+us consider a ring 103

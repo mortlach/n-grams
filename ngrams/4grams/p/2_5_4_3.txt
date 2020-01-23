@@ -1,3 +1,6 @@
-ph than 125 ph than
-167 ph than 1259 ph
-than 96 pm may 280
+ph level less than 125
+ph units less than 167
+ph value less than 1259
+ph value more than 96
+pm daily from may 280
+pm daily from mid 230

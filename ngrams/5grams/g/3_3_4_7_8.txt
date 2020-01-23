@@ -1,2 +1,4 @@
-gas resource 45 get attention 84
-get attention 102 got concealed 63
+gas and other natural resource 45
+get him some medical attention 84
+get you some medical attention 102
+got any more orphans concealed 63

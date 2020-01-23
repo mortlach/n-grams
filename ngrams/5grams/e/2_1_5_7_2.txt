@@ -1,2 +1,4 @@
-eat of 44 eat of 263
-eat of 75 eat of 383
+eat a given article of 44
+eat a large variety of 263
+eat a whole package of 75
+eat a wider variety of 383

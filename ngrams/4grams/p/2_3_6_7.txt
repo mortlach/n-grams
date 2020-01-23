@@ -1,3 +1,5 @@
-pea genetic 89 ph content
-577 ph balance 47 ph
-content 52 ph between 182
+pea and lentil genetic 89
+ph and oxygen content 577
+ph and sodium balance 47
+ph and solids content 52
+ph was varied between 182

@@ -1,3 +1,5 @@
-v west 86 v book
-205 v list 57 v
-part 137 v line 287
+v bristol and west 86
+v preface this book 205
+v preface vii list 57
+v preface vii part 137
+v seaboard air line 287

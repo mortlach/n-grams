@@ -1,1 +1,3 @@
-x written 51 x measured 53
+x and can be written 51
+x can not be measured 53
+x can then be written 53

@@ -1,1 +1,3 @@
-views place 88 visit place 40
+views which have taken place 88
+visit could have taken place 40
+visit would have taken place 109

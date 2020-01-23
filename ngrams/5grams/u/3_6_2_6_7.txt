@@ -1,3 +1,6 @@
-use century 50 use century 53
-use defined 66 use numbers 304
-use granted 51 using numbers 717
+use before the seventh century 50
+use before the twelfth century 53
+use should be clearly defined 66
+use tables of random numbers 304
+use thereby in effect granted 51
+using tables of random numbers 717

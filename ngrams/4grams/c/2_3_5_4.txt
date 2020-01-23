@@ -1,3 +1,5 @@
-cm length 191 cm from
-113 cm length 48 cm
-tube 151 cm from 47
+cm and focal length 191
+cm and ranged from 113
+cm and whose length 48
+cm long glass tube 151
+cm was taken from 47

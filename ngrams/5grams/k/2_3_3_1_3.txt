@@ -1,5 +1,11 @@
-king few 53 king long 86
-king boy 46 king man 66
-king long 91 king god 88
-king man 106 king son 322
-king god 74 king man 78
+king had but a few 53
+king had for a long 86
+king was but a boy 46
+king was but a man 66
+king was for a long 91
+king was not a god 88
+king was not a man 106
+king who had a son 322
+king who was a god 74
+king who was a man 78
+km long and a few 143

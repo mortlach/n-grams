@@ -1,2 +1,4 @@
-def . 1706 did ?
-92391 did ? 421 does
+def aul t . 1706
+did not i ? 92391
+did not l ? 421
+does not i ? 74

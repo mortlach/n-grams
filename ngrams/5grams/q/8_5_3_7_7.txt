@@ -1,5 +1,10 @@
-quantity language 70 questions history 103
-questions history 191 questions affairs 49
-questions scandal 48 questions answers 236
-questions answers 264 questions related 104
-quotation letters 114 quotation omitted 1029
+quantity sales and foreign language 70
+questions about her medical history 103
+questions about his medical history 191
+questions about his private affairs 49
+questions about this dreadful scandal 48
+questions rather than provide answers 236
+questions rather than providing answers 264
+questions which are closely related 104
+quotation marks and capital letters 114
+quotation marks and citation omitted 1029

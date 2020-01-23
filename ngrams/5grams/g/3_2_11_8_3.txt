@@ -1,1 +1,3 @@
-gas and 906 gas are 46
+gas at atmospheric pressure and 906
+gas at atmospheric pressure are 46
+gas at atmospheric pressure was 60

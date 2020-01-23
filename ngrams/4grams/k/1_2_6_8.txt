@@ -1,1 +1,2 @@
-k positive 328 k constant
+k is always positive 328
+k is another constant 202

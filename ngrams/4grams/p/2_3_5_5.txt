@@ -1,3 +1,6 @@
-ph gases 1420 ph level
-51 ph growth 46 ph
-occur 74 pm costs 109
+ph and blood gases 1420
+ph and water level 51
+ph for plant growth 46
+ph that would occur 74
+pm and entry costs 109
+pt ibm press roman 61

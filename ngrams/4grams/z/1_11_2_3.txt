@@ -1,4 +1,7 @@
-z all 263 z any
-41 z each 332 z
-its 96 z any 61
-z each 55 z this
+z coordinates of all 263
+z coordinates of any 41
+z coordinates of each 332
+z coordinates of its 96
+z corresponding to any 61
+z corresponding to each 55
+z corresponding to this 60

@@ -1,3 +1,5 @@
-ph for 187 ph out
-196 ph using 166 ph
-with 222 pm day 110
+ph rate profile for 187
+ph were carried out 196
+ph were measured using 166
+ph were measured with 222
+pm from memorial day 110

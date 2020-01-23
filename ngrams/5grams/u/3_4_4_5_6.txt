@@ -1,1 +1,3 @@
-use troops 79 using chests 151
+use only south korean troops 79
+using only their upper chests 151
+using your left mouse button 67

@@ -1,4 +1,7 @@
-v positive 312 v velocity
-57 v velocity 42 v
-velocity 171 v specific 263
-v velocity 91 v occupied
+v is always positive 312
+v the actual velocity 57
+v the angular velocity 42
+v the initial velocity 171
+v the partial specific 263
+v the thermal velocity 91
+v the volume occupied 101

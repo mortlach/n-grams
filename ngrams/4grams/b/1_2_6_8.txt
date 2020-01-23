@@ -1,2 +1,4 @@
-b occupied 42 b negative
-94 b positive 221 b
+b is already occupied 42
+b is always negative 94
+b is always positive 221
+b is another constant 408

@@ -1,3 +1,7 @@
-each a 86 each a 48
-each a 46 each a 52
-each v 257 each a 135
+each calendar year thereafter a 86
+each category was assigned a 48
+each district was assigned a 46
+each exercise that requires a 52
+each particle with velocity v 257
+each sentence that contains a 135
+eating disorder that involves a 53

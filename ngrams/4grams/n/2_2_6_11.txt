@@ -1,5 +1,9 @@
-no consequence 43 no improvement
-66 no involvement 47 no
-opportunity 42 no possibility 43
-no relationship 98 no sentimental
-55 no understanding 46 no
+no or little consequence 43
+no or little improvement 66
+no or little involvement 47
+no or little opportunity 42
+no or little possibility 43
+no or little relationship 98
+no or little sentimental 55
+no or little understanding 46
+no to sexual intercourse 323

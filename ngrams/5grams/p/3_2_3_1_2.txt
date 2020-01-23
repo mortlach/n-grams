@@ -1,2 +1,4 @@
-poem thing 50 put am 66
-put king 40 put thing 109
+poem is not a thing 50
+put it that i am 66
+put up with a king 40
+put up with a thing 109

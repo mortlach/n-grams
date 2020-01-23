@@ -1,5 +1,11 @@
-do patients 63 do verbatim 135
-do solemnly 49 do mattered 42
-do convince 41 do displease 46
-do normally 51 do otherwise 192
-do surprise 55 do otherwise 111
+do better than older patients 63
+do better than quote verbatim 135
+do hereby and hereon solemnly 49
+do something that really mattered 42
+do something that would convince 41
+do something that would displease 46
+do something that would normally 51
+do something that would otherwise 192
+do something that would surprise 55
+do something they would otherwise 111
+do without this world faceless 110

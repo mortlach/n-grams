@@ -1,1 +1,3 @@
-king account 43 king revenue
+king a short account 43
+king a yearly revenue 43
+king a yearly tribute 53

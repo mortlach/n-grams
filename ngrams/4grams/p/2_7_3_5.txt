@@ -1,2 +1,4 @@
-ph growth 356 ph about
-63 ph found 265 pt
+ph optimum for growth 356
+ph optimum was about 63
+ph optimum was found 265
+pt printed and bound 125

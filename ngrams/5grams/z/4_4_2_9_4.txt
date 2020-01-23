@@ -1,1 +1,3 @@
-zero grid 125 zinc upon 46
+zero when no alternating grid 125
+zinc will be deposited upon 46
+zone play an important role 42

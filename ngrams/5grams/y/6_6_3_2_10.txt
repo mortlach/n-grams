@@ -1,1 +1,2 @@
-yellow exclamation 124 yellow exclamation 163
+yellow circle with an exclamation 124
+yellow triangle with an exclamation 163

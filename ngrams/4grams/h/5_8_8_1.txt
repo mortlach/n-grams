@@ -1,5 +1,9 @@
-human a 55 human a
-62 human a 40 human
-a 77 human a 54
-human a 54 human a
-64 human a 43 human
+human activity involves a 55
+human activity requires a 62
+human condition involves a 40
+human condition requires a 77
+human estrogen receptor a 54
+human operator performing a 54
+human organism requires a 64
+human placenta contains a 43
+human subjects performing a 71

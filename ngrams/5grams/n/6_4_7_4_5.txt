@@ -1,3 +1,6 @@
-narrow trees 55 narrow walls 70
-narrow stone 41 nations power 48
-noticing place 74 number drawn 44
+narrow lane between great trees 55
+narrow lane between high walls 70
+narrow road between high stone 41
+nations have exerted such power 48
+noticing what effects take place 74
+number their daggers were drawn 44

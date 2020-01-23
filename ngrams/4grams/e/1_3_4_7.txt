@@ -1,4 +1,8 @@
-e relation 59 e vectors
-143 e between 41 e
-assumed 58 e defined 54
-e dropped 215 e measured
+e and true relation 59
+e are unit vectors 143
+e can vary between 41
+e has been assumed 58
+e has been defined 54
+e has been dropped 215
+e has been measured 61
+e has been omitted 99

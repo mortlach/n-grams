@@ -1,1 +1,2 @@
-p message 227 p denotes
+p sends a message 227
+p where p denotes 139

@@ -1,3 +1,6 @@
-question adequately 103 question considered 94
-question definitely 152 question determined 51
-question considered 86 quickly information 59
+question has never been adequately 103
+question has never been considered 94
+question has never been definitely 152
+question has never been determined 51
+question has often been considered 86
+quickly and easily find information 59

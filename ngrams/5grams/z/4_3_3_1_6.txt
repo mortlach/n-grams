@@ -1,1 +1,3 @@
-zero common 133 zero finite 131
+zero mean and a common 133
+zero mean and a finite 131
+zinc rod and a porous 41

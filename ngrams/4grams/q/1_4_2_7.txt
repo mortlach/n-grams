@@ -1,2 +1,4 @@
-q surface 47 q denoted
-128 q reduced 47 q
+q from the surface 47
+q will be denoted 128
+q will be reduced 47
+q will be smaller 44

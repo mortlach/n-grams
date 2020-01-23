@@ -1,5 +1,11 @@
-use a 53 use a 44
-use a 103 use a 117
-use a 143 use a 397
-use a 344 use a 2199
-using a 75 using a 375
+use and can provide a 53
+use does not include a 44
+use does not involve a 103
+use does not present a 117
+use does not provide a 143
+use does not require a 397
+use for that purpose a 344
+use for this purpose a 2199
+using for his purpose a 75
+using for that purpose a 375
+using for this purpose a 1521

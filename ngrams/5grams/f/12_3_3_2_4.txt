@@ -1,4 +1,9 @@
-faithlessness rest 48 firefighters fire 46
-fluorescence seen 91 fluorescence used 46
-fraternities made 49 frontiersman other 43
-functionality used 82 functionality used 349
+faithlessness did all the rest 48
+firefighters put out the fire 46
+fluorescence can not be seen 91
+fluorescence can not be used 46
+fraternities can not be made 49
+frontiersman who has no other 43
+functionality and can be used 82
+functionality that can be used 349
+functionaries had not so much 41

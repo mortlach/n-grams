@@ -1,3 +1,6 @@
-c above 41 c equal
-47 c taken 127 c
-value 194 c table 43
+c as defined above 41
+c is exactly equal 47
+c is usually taken 127
+c or average value 194
+c the following table 43
+c the viscous damping 279

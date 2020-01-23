@@ -1,4 +1,8 @@
-pea . 136 ph .
-216 ph . 127 ph
-. 95 ph . 93
-ph . 220 ph .
+pea root tips . 136
+ph over time . 216
+ph range used . 127
+ph were used . 95
+ph will drop . 93
+ph will fall . 220
+ph will rise . 271
+ps rise time . 125

@@ -1,5 +1,11 @@
-jointly claim 297 jointly group 144
-journal debit 288 journey close 51
-journey close 41 journey close 166
-journey short 47 judicial court 45
-judicial nation 57 judicial state 91
+jointly liable on a claim 297
+jointly owned by a group 144
+journal entry is a debit 288
+journey comes to a close 51
+journey drawing to a close 41
+journey draws to a close 166
+journey would be a short 47
+judicial power of a court 45
+judicial power of a nation 57
+judicial power of a state 91
+justice sitting as a court 104

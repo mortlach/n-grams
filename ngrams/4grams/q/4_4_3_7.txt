@@ -1,5 +1,9 @@
-quit because 78 quit country
-385 quit husband 50 quit
-married 82 quit married 85
-quit realized 45 quit started
-48 quit because 180 quit
+quit their job because 78
+quit their own country 385
+quit when her husband 50
+quit when she married 82
+quit when they married 85
+quit when they realized 45
+quit work and started 48
+quit your job because 180
+quit your web browser 67

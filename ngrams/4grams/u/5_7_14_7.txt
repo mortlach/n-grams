@@ -1,2 +1,4 @@
-under control 144 under control
-116 under control 56 until
+under british administrative control 144
+under central administrative control 116
+under chinese administrative control 56
+until british reinforcements arrived 59

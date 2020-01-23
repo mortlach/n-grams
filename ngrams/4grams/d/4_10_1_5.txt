@@ -1,2 +1,4 @@
-data major 45 data major
-85 days visit 46 dirt
+data constitute a major 45
+data represents a major 85
+days considered a visit 46
+dirt discovered a piece 53

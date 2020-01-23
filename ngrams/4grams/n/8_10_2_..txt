@@ -1,6 +1,11 @@
-naturally . 67 naturally .
-55 naturally . 136 naturally
-. 77 necessity . 167
-necessity . 77 newspaper .
-60 normally . 195 normally
-. 80 normally . 317
+naturally influences me . 67
+naturally interested me . 55
+naturally introduces it . 136
+naturally understand it . 77
+necessity accompanying it . 167
+necessity constrains us . 77
+newspaper classified ad . 60
+normally accustomed to . 195
+normally experience it . 80
+normally understand it . 317
+nuisance complained of . 243

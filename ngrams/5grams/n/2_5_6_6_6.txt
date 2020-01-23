@@ -1,2 +1,4 @@
-no wounds 69 no itself 100
-no exposing 54 no divert 102
+no longer forage without wounds 69
+no longer points beyond itself 100
+no longer refuse without exposing 54
+no small matter should divert 102

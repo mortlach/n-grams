@@ -1,2 +1,4 @@
-run can 106 run for 244
-run may 50 run that 94
+run industry supply curve can 106
+run industry supply curve for 244
+run industry supply curve may 50
+run industry supply curve that 94

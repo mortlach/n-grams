@@ -1,4 +1,7 @@
-re about 64 re about
-49 re about 1229 re
-about 249 re works 154
-re getting 100 re wanting
+re already talking about 64
+re already thinking about 49
+re always talking about 1229
+re always thinking about 249
+re arnold print works 154
+re serious about getting 100
+re serious about wanting 57

@@ -1,2 +1,4 @@
-ph in 43 ph to
-816 ph in 294 ph
+ph levels encountered in 43
+ph values corresponding to 816
+ph values encountered in 294
+ph versus milliliters of 295

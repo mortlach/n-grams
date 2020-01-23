@@ -1,2 +1,4 @@
-go somewhere 127 go committee 64
-go discourse 45 go discussion 482
+go have a drink somewhere 127
+go into a grand committee 64
+go into a lengthy discourse 45
+go into a lengthy discussion 482

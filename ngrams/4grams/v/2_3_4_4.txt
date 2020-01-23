@@ -1,2 +1,4 @@
-via means 12823 via city
-811 via from 66 via
+via any other means 12823
+via new york city 811
+via new york from 66
+via this rule will 67

@@ -1,1 +1,3 @@
-cm pots 137 cm been
+cm diameter clay pots 137
+cm diameter have been 249
+cm diameter were used 209

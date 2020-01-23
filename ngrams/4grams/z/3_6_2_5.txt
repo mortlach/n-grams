@@ -1,4 +1,8 @@
-zeal deity 97 zeal world
-45 zeal enemy 56 zeal
-posts 49 zip water 94
-zip world 137 zip crowd
+zeal adored the deity 97
+zeal before the world 45
+zeal charge the enemy 56
+zeal instead of posts 49
+zip across the water 94
+zip around the world 137
+zip through the crowd 195
+zip through the water 116

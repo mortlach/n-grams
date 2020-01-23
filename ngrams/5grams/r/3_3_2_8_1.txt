@@ -1,2 +1,4 @@
-ray a 57 ray x 44
-read i 60 rip i 43
+ray beam of wavelength a 57
+ray beam of wavelength x 44
+read all the articles i 60
+rip him up whenever i 43

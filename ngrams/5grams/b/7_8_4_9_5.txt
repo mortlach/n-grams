@@ -1,2 +1,5 @@
-between ethnic 77 between social 221
-between ethnic 63 between social 91
+between children from different ethnic 77
+between children from different social 221
+between students from different ethnic 63
+between students from different social 91
+brought scholars from different parts 66

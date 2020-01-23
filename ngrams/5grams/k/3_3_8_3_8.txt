@@ -1,1 +1,2 @@
-key decrypting 285 kings accepted 85
+key for encrypting and decrypting 285
+kings was proposed and accepted 85

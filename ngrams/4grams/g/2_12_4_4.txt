@@ -1,1 +1,2 @@
-go back 100 go into
+go communicator help back 100
+go sufficiently deep into 42

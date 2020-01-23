@@ -1,6 +1,11 @@
-kilometers . 339 kilometers .
-105 kilometers . 79 kilometers
-. 333 kilometres . 303
-kilometres . 54 kilometres .
-217 kindliness . 42 kindliness
-. 50 kinematics . 50
+kilometers of coastline . 339
+kilometers of railroads . 105
+kilometers of shoreline . 79
+kilometers of territory . 333
+kilometres of coastline . 303
+kilometres of shoreline . 54
+kilometres of territory . 217
+kindliness of character . 42
+kindliness of sentiment . 50
+kinematics of locomotion . 50
+kinematics of machinery . 66

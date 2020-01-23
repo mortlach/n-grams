@@ -1,1 +1,2 @@
-go information 618 go activities
+go about gathering information 618
+go about normal activities 57

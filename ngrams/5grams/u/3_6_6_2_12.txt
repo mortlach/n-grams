@@ -1,2 +1,4 @@
-use contraception 178 using contraception 208
-using investigation 45 using contraception 91
+use modern methods of contraception 178
+using modern methods of contraception 208
+using modern methods of investigation 45
+using various methods of contraception 91

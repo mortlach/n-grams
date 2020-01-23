@@ -1,1 +1,3 @@
-zero variance 88 zero columns 105
+zero means and unit variance 88
+zero rows and zero columns 105
+zoom back and forth between 94

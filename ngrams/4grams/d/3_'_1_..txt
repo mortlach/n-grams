@@ -1,6 +1,10 @@
-dad . 794 day .
-306 dean . 41 death
-. 68 did ? 139
-din ? 139 does ?
-136 dog . 777 don
-? 136 don ! 1188
+dad ' s . 794
+day ' s . 306
+dean ' s . 41
+death ' s . 68
+did ' e ? 139
+din ' i ? 139
+does ' e ? 136
+dog ' s . 777
+don ' i ? 136
+don ' t ! 1188

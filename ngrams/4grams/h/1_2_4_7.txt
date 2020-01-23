@@ -1,2 +1,4 @@
-h smaller 119 h smaller
-477 h function 101 h
+h is made smaller 119
+h is much smaller 477
+h is some function 101
+h is well defined 55

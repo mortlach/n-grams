@@ -1,3 +1,6 @@
-factor monetary 75 flower guernsey 53
-fruits increased 50 fruits consumed 51
-fruits produced 75 fruits possible 74
+factor that assessment into monetary 75
+flower was originally from guernsey 53
+fruits and vegetables have increased 50
+fruits and vegetables were consumed 51
+fruits and vegetables were produced 75
+fruits and vegetables when possible 74

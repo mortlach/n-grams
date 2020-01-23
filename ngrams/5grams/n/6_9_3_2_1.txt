@@ -1,3 +1,6 @@
-narrow a 83 nature a 57
-neither a 51 normal a 71
-normal a 88 normal a 47
+narrow staircase led to a 83
+nature resembles that of a 57
+neither precisely that of a 51
+normal conditions and at a 71
+normal conditions and in a 88
+normal conditions this is a 47

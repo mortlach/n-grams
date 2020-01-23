@@ -1,1 +1,2 @@
-use assessing 44 use selecting 140
+use different criteria for assessing 44
+use different criteria for selecting 140

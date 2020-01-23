@@ -1,5 +1,11 @@
-qua effective 149 qua conclusion 86
-qua continued 217 qua effective 174
-qua efficient 129 qua emergence 166
-qua enjoyment 65 qua existence 1043
-qua liberation 41 qua production 116
+qua non for an effective 149
+qua non for the conclusion 86
+qua non for the continued 217
+qua non for the effective 174
+qua non for the efficient 129
+qua non for the emergence 166
+qua non for the enjoyment 65
+qua non for the existence 1043
+qua non for the liberation 41
+qua non for the production 116
+qua non for the realization 369

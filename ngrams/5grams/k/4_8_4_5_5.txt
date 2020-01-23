@@ -1,1 +1,2 @@
-keep bored 52 keep about 44
+keep yourself from getting bored 52
+keep yourself from thinking about 44

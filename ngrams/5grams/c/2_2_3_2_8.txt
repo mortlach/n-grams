@@ -1,1 +1,2 @@
-cc standard 108 cc injected 76
+cc of air at standard 108
+cc of air is injected 76

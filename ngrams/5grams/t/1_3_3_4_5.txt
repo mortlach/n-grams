@@ -1,1 +1,2 @@
-t sense 107 t known 87
+t does not make sense 107
+t has long been known 87

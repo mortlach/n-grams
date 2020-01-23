@@ -1,4 +1,7 @@
-ph capacity 846 ph activity
-101 ph pressure 54 ph
-pressure 419 ph chloride 414
-ph activity 209 ph activity
+ph and buffer capacity 846
+ph and enzyme activity 101
+ph and oxygen pressure 54
+ph and partial pressure 419
+ph and sodium chloride 414
+ph for enzyme activity 209
+ph for pepsin activity 68

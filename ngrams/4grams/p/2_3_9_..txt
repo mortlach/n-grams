@@ -1,6 +1,11 @@
-ph . 50 ph .
-71 ph . 50 ph
-. 130 ph . 63
-pia . 781 ping .
-111 ping . 68 pm
-. 112 pm . 44
+ph and fertility . 50
+ph and nutrients . 71
+ph and turbidity . 50
+ph are important . 130
+ph for absorption . 63
+pia and arachnoid . 781
+ping pong diplomacy . 111
+ping pong mechanism . 68
+pm that afternoon . 112
+pm this afternoon . 44
+po are preferred . 63

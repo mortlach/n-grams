@@ -1,1 +1,3 @@
-q odd 97 q lead
+q must be odd 97
+q wave in lead 648
+q what do you 759

@@ -1,3 +1,6 @@
-use caution 90 use follow 123
-use simple 50 use places 82
-using repeating 225 using output 64
+use common sense and caution 90
+use common sense and follow 123
+use simple words and simple 50
+use stated hours and places 82
+using common words and repeating 225
+using speech input and output 64

@@ -1,4 +1,7 @@
-e plates 79 e charge
-174 e energy 93 e
-number 237 e vector 133
-e whether 47 e opinion
+e between the plates 79
+e denotes the charge 174
+e denotes the energy 93
+e denotes the number 237
+e denotes the vector 133
+e depending on whether 47
+e express no opinion 153

@@ -1,1 +1,3 @@
-observed amplitudes 341 obtained interviews
+observed structure factor amplitudes 341
+obtained primarily through interviews 42
+original knowledge called experience 40

@@ -1,1 +1,2 @@
-t since 129 t after
+t has elapsed since 129
+t was shortly after 40

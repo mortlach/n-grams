@@ -1,1 +1,2 @@
-known can 70 knows nor 50
+known before a decision can 70
+knows neither a language nor 50

@@ -1,1 +1,2 @@
-variation pressure 433 village approval 84
+variation with temperature and pressure 433
+village with satisfaction and approval 84

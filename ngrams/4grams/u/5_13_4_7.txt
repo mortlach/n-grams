@@ -1,5 +1,9 @@
-under adverse 137 under painful
-82 under peculiar 56 under
-pleasant 172 under repelling 46
-under adverse 98 under peculiar
-53 under similar 1575 under
+under circumstances less adverse 137
+under circumstances more painful 82
+under circumstances more peculiar 56
+under circumstances more pleasant 172
+under circumstances more repelling 46
+under circumstances most adverse 98
+under circumstances very peculiar 53
+under circumstances very similar 1575
+under disadvantages very similar 41

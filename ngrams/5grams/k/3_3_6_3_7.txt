@@ -1,5 +1,11 @@
-kings plotted 42 kings priests 115
-kings battles 96 kings bishops 70
-kings castles 56 kings knights 171
-kings princes 601 kings warriors 57
-kings crowned 213 kings reigned 52
+kings and kingdoms that plotted 42
+kings and nobles and priests 115
+kings and queens and battles 96
+kings and queens and bishops 70
+kings and queens and castles 56
+kings and queens and knights 171
+kings and queens and princes 601
+kings and queens and warriors 57
+kings and queens are crowned 213
+kings and queens who reigned 52
+kings was carved and painted 62

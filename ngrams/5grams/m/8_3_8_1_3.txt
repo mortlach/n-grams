@@ -1,2 +1,4 @@
-minerals and 179 movement new 42
-movement new 40 multiply and 66
+minerals and vitamins a and 179
+movement has produced a new 42
+movement has provided a new 40
+multiply two matrices a and 66

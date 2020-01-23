@@ -1,5 +1,11 @@
-saw for 50 saw with 44
-say that 41 say that 252
-say with 60 say with 52
-say with 74 say that 105
-say with 192 say that 321
+saw a tv commercial for 50
+saw a tv interview with 44
+say i am confident that 41
+say i am convinced that 252
+say i am delighted with 60
+say i am enchanted with 52
+say i am impressed with 74
+say i am satisfied that 105
+say i am satisfied with 192
+say i am surprised that 321
+see a tv commercial for 44

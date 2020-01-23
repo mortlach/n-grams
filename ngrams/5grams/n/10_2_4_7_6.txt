@@ -1,2 +1,5 @@
-narrowness notions 59 newspapers source 124
-newspapers matter 65 normalized values 108
+narrowness of their country notions 59
+newspapers as their primary source 124
+newspapers or other printed matter 65
+normalized by their maximum values 108
+normalized to their maximum values 192

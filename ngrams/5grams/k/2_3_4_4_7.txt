@@ -1,2 +1,5 @@
-king emperor 41 king estates 102
-king knights 56 king offices 57
+king and most pious emperor 41
+king and these three estates 102
+king doth only make knights 56
+king may hold their offices 57
+king was more hard pressed 43

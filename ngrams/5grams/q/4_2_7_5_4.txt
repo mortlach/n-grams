@@ -1,1 +1,2 @@
-quit pain 50 quit three 67
+quit the country under pain 50
+quit the country within three 67

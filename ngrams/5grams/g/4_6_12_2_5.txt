@@ -1,4 +1,9 @@
-give right 42 give changing 42
-give creating 55 give finding 49
-give getting 40 give joining 59
-give small 49 give women 72
+give existing shareholders the right 42
+give serious consideration to changing 42
+give serious consideration to creating 55
+give serious consideration to finding 49
+give serious consideration to getting 40
+give serious consideration to joining 59
+give special consideration to small 49
+give special consideration to women 72
+great public manifestation of feeling 80

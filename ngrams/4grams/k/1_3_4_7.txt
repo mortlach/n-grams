@@ -1,5 +1,9 @@
-k vectors 3246 k integer
-46 k adopted 96 k
-assumed 138 k defined 113
-k dropped 196 k measured
-125 k omitted 74 k
+k are unit vectors 3246
+k for some integer 46
+k has been adopted 96
+k has been assumed 138
+k has been defined 113
+k has been dropped 196
+k has been measured 125
+k has been omitted 74
+k has been written 107

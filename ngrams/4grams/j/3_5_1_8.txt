@@ -1,6 +1,10 @@
-jet pressure 153 job finished
-40 job graduate 185 job
-delivery 183 job forklift 56
-job received 56 job contract
-50 job specific 65 joy
-generous 84 joy received 41
+jet under a pressure 153
+job after i finished 40
+job after i graduate 185
+job driving a delivery 183
+job driving a forklift 56
+job offer i received 56
+job under a contract 50
+job within a specific 65
+joy which a generous 84
+joy which i received 41

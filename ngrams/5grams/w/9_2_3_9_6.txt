@@ -1,5 +1,10 @@
-watchword states 47 weaknesses system 64
-withdrawal forces 210 withdrawal forces 1023
-withdrawal troops 264 withdrawal weapons 300
-withdrawal forces 57 withdrawal forces 83
-witnesses before 129 witnesses points 42
+watchword of all civilized states 47
+weaknesses of our political system 64
+withdrawal of all argentine forces 210
+withdrawal of all occupation forces 1023
+withdrawal of all occupation troops 264
+withdrawal of all offensive weapons 300
+withdrawal of all pakistani forces 57
+withdrawal of its occupation forces 83
+witnesses in all proceedings before 129
+witnesses on all important points 42

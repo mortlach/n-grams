@@ -1,2 +1,4 @@
-ph acid 134 ph been
-52 ph from 49 ph
+ph becomes more acid 134
+ph effects have been 52
+ph optimum ranging from 49
+ph sensors have been 108

@@ -1,1 +1,3 @@
-r diameter 66 r nucleus
+r about a diameter 66
+r about a nucleus 44
+r below a certain 44

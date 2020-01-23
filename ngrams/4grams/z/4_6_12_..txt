@@ -1,3 +1,5 @@
-zero . 157 zero .
-49 zero . 166 zero
-. 128 zero . 46
+zero buffer concentration . 157
+zero oxygen concentration . 49
+zero solute concentration . 166
+zero thermal conductivity . 128
+zero winter temperatures . 46

@@ -1,1 +1,2 @@
-darts inward 778 drink thirsty 623
+darts into a thing inward 778
+drink when i am thirsty 623

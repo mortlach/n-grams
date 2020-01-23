@@ -1,1 +1,3 @@
-via york 116 via york 77
+via boston and new york 116
+via london and new york 77
+via panama and new york 58

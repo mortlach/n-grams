@@ -1,1 +1,2 @@
-o table 47 o court
+o the following table 47
+o the supreme court 113

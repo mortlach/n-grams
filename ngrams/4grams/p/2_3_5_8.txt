@@ -1,3 +1,6 @@
-ph pressure 93 ph hardness
-201 ph activity 734 ph
-hardness 333 ph otherwise 116
+ph and blood pressure 93
+ph and total hardness 201
+ph and water activity 734
+ph and water hardness 333
+ph that would otherwise 116
+ping and trace commands 54

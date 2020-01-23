@@ -1,5 +1,10 @@
-generosity individual 40 government consistent 45
-government individual 77 government enterprise 99
-government government 59 government government 92
-government convenient 42 government individual 373
-government omnipotent 67 grievances government 42
+generosity of a single individual 40
+government as a city consistent 45
+government by a single individual 77
+government in a free enterprise 99
+government is a free government 59
+government is a good government 92
+government is a very convenient 42
+government of a single individual 373
+government of a single omnipotent 67
+grievances of a hard government 42

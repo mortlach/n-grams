@@ -1,3 +1,5 @@
-v unit 98 v most
-57 v third 48 v
-univ 511 v same 302
+v denotes the unit 98
+v perhaps the most 57
+v preface to third 48
+v regents of univ 511
+v remains the same 302

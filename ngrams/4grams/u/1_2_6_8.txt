@@ -1,1 +1,3 @@
-u positive 177 u velocity
+u is always positive 177
+u the angular velocity 459
+u the initial velocity 72

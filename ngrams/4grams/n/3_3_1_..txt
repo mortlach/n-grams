@@ -1,3 +1,5 @@
-not . 45 not .
-82 now ? 1990 now
-? 476 now ? 123
+not for a . 45
+not use a . 82
+now can i ? 1990
+now did i ? 476
+now was i ? 123

@@ -1,5 +1,10 @@
-i not 41 i two 245
-i not 468 i and 116
-i this 88 i not 165
-i then 84 i that 80
-i not 53 i and 81
+i and i do not 41
+i and j be two 245
+i and j do not 468
+i and j if and 116
+i and j in this 88
+i and j is not 165
+i and j is then 84
+i and j so that 80
+i but i do not 53
+i cat i on and 81

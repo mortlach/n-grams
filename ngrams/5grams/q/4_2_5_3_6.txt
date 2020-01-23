@@ -1,3 +1,6 @@
-quit retire 55 quit return 58
-quit formed 43 quit joined 54
-quit regret 59 quit secure 59
+quit the court and retire 55
+quit the field and return 58
+quit the party and formed 43
+quit the party and joined 54
+quit the place with regret 59
+quit the plain and secure 59

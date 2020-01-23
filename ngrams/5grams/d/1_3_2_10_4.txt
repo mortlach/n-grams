@@ -1,2 +1,4 @@
-d from 226 d from 180
-d from 89 d from 44
+d can be calculated from 226
+d can be determined from 180
+d may be calculated from 89
+d may be determined from 44

@@ -1,3 +1,5 @@
-each . 41 earth ?
-59 earth ? 250 end
-. 1302 end . 119
+each with a . 41
+earth can i ? 59
+earth was i ? 250
+end with a . 1302
+end with ing . 119

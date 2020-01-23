@@ -1,5 +1,10 @@
-job assigned 156 job promised 91
-job finished 47 job assigned 44
-job properly 113 job complete 136
-job finished 142 job properly 110
-job assigned 42 job employee 97
+job he had been assigned 156
+job he had been promised 91
+job he had just finished 47
+job he has been assigned 44
+job is being done properly 113
+job is far from complete 136
+job is far from finished 142
+job is not done properly 110
+job it has been assigned 42
+job of any such employee 97

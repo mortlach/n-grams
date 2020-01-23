@@ -1,2 +1,4 @@
-cm dimension 305 cm rainfall
-497 co velocity 100 co
+cm in longest dimension 305
+cm of annual rainfall 497
+co is angular velocity 100
+co the angular velocity 949

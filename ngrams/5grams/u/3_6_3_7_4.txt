@@ -1,4 +1,9 @@
-use must 60 use make 103
-use from 93 use such 141
-use making 153 use keys 55
-using such 80 using keys 116
+use clause for modules must 60
+use indians and hunters make 103
+use losses and credits from 93
+use object for support such 141
+use planning and decision making 153
+use public and private keys 55
+using object for support such 80
+using public and private keys 116
+using rifles and machine guns 43

@@ -1,3 +1,5 @@
-feel ? 79 from .
-173 from ? 45 from
-. 94 from . 126
+feel about x ? 79
+from point a . 173
+from point b ? 45
+from table i . 94
+from within a . 126

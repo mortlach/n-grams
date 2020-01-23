@@ -1,1 +1,3 @@
-maintain rates 55 marriages people 82
+maintain their fixed exchange rates 55
+marriages take place between people 82
+marriages took place between people 45

@@ -1,5 +1,11 @@
-questions unanswered 66 questions unanswered 117
-questions considered 203 questions formulated 183
-questions identified 118 questions overlooked 48
-questions propounded 75 questions unanswered 80
-questions unanswered 305 quickening considered 109
+questions are best left unanswered 66
+questions had been left unanswered 117
+questions that have been considered 203
+questions that have been formulated 183
+questions that have been identified 118
+questions that have been overlooked 48
+questions that have been propounded 75
+questions that have gone unanswered 80
+questions that were left unanswered 305
+quickening had once been considered 109
+quotation and last sale information 54

@@ -1,4 +1,8 @@
-vol a 234 vol b
-109 vow a 45 vow
-a 45 vow a 3098
-vow a 128 vow a
+vol of buffer a 234
+vol of buffer b 109
+vow is always a 45
+vow of becoming a 45
+vow to become a 3098
+vow to commit a 128
+vow to remain a 656
+vying to become a 50

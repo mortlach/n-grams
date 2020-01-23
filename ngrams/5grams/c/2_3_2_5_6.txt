@@ -1,1 +1,3 @@
-cm radius 76 cm radius 239
+cm and an inner radius 76
+cm and an outer radius 239
+cm and the outer radius 67

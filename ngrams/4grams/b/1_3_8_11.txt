@@ -1,1 +1,3 @@
-b coefficients 216 b distributed
+b are constant coefficients 216
+b are normally distributed 102
+b are positive coefficients 101

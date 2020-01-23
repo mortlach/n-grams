@@ -1,2 +1,5 @@
-kilogram weight 72 kilogram weight 113
-kindness friend 99 kindness friend 43
+kilogram of his body weight 72
+kilogram of lean body weight 113
+kindness of his early friend 99
+kindness of our good friend 43
+kindness of that good couple 162

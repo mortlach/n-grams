@@ -1,1 +1,3 @@
-kerchief head 868 kerchief head 363
+kerchief tied around her head 868
+kerchief tied around his head 363
+kilogram body weight per day 2705

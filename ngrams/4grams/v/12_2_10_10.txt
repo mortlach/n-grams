@@ -1,1 +1,2 @@
-visualization structures 110 visualization structures
+visualization of anatomical structures 110
+visualization of curvilinear structures 115

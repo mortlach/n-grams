@@ -1,1 +1,2 @@
-y number 74 y number 63
+y is an odd number 74
+y is the mean number 63

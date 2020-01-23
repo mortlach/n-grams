@@ -1,4 +1,8 @@
-use men 103 use not 59
-use not 102 use not 127
-use are 120 using not 52
-using not 51 using that 57
+use between women and men 103
+use illegal drugs are not 59
+use language which can not 102
+use language which does not 127
+use variable names that are 120
+using illegal drugs are not 52
+using language which does not 51
+using national flags for that 57

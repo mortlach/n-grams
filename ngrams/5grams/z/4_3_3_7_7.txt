@@ -1,2 +1,4 @@
-zero degrees 80 zero percent 81
-zero variance 122 zero variance 181
+zero and one hundred degrees 80
+zero and one hundred percent 81
+zero mean and unitary variance 122
+zero mean and unknown variance 181

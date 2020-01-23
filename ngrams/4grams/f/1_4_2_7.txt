@@ -1,4 +1,7 @@
-f beginning 122 f following
-41 f foregoing 52 f
-example 176 f diameter 5466
-f results 66 f denoted
+f from the beginning 122
+f from the following 41
+f from the foregoing 52
+f give an example 176
+f inch in diameter 5466
+f show the results 66
+f will be denoted 157

@@ -1,5 +1,9 @@
-quality expectancy 111 quality information
-110 question assumptions 113 question
-explanation 47 quickly popularity 72
-quickly popularity 43 quickly popularity
-55 quickly circulation 88 quickly
+quality adjusted life expectancy 111
+quality consumer health information 110
+question commonly held assumptions 113
+question requires some explanation 47
+quickly achieved great popularity 72
+quickly achieved wide popularity 43
+quickly attained great popularity 55
+quickly disappear from circulation 88
+quickly withdrawn from circulation 149

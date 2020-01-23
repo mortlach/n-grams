@@ -1,5 +1,9 @@
-quaint . 48 quaint .
-74 qualis ! 53 quartz
-. 123 quartz . 201
-quartz . 810 queueing .
-47 quoque . 81 quovis
+quaint country inns . 48
+quaint opinions wide . 74
+qualis artifex pereo ! 53
+quartz furnace tube . 123
+quartz halogen lamp . 201
+quartz mercury lamp . 810
+queueing network theory . 47
+quoque tullius ingens . 81
+quovis evadere letho ! 53

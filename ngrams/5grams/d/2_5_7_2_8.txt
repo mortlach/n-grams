@@ -1,2 +1,4 @@
-do interest 60 do unethical 129
-do property 63 do yourself 93
+do anything against the interest 60
+do anything illegal or unethical 129
+do exist against the property 63
+do small comfort to yourself 93

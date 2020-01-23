@@ -1,2 +1,4 @@
-i garlic 85 i forget
-160 i pepper 44 i
+i large clove garlic 85
+i shall never forget 160
+i small green pepper 44
+i which flows through 93

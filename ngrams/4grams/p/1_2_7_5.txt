@@ -1,4 +1,7 @@
-p above 67 p equal
-175 p price 63 p
-given 47 p taken 237
-p value 55 p price
+p as defined above 67
+p is exactly equal 175
+p is product price 63
+p is usually given 47
+p is usually taken 237
+p the average value 55
+p the general price 54

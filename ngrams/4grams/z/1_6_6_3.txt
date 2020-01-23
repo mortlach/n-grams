@@ -1,1 +1,2 @@
-z than 164 z than
+z scores greater than 164
+z values greater than 197

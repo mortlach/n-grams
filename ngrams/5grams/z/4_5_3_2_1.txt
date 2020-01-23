@@ -1,3 +1,6 @@
-zero a 183 zero a 572
-zero a 92 zone a 43
-zone a 49 zone a 45
+zero field and in a 183
+zero level set of a 572
+zero since this is a 92
+zone gives way to a 43
+zone rather than as a 49
+zone would act as a 45

@@ -1,1 +1,2 @@
-for decomposition 45 for refrigeration 137
+for long periods without decomposition 45
+for long periods without refrigeration 137

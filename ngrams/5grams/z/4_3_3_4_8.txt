@@ -1,1 +1,3 @@
-zero standard 3179 zinc district 54
+zero mean and unit standard 3179
+zinc and lead mining district 54
+zone has not been observed 51

@@ -1,1 +1,3 @@
-additional role 46 alternating coil 301
+additional factors played a role 46
+alternating current through a coil 301
+alternating current through a wire 101

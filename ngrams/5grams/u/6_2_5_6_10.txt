@@ -1,3 +1,7 @@
-unable mechanical 45 unable completely 121
-unable information 51 unable resistance 168
-unable resistance 219 unable assistance 346
+unable to breathe without mechanical 45
+unable to empty itself completely 121
+unable to gather enough information 51
+unable to offer further resistance 168
+unable to offer serious resistance 219
+unable to stand without assistance 346
+unique or nearly unique properties 68

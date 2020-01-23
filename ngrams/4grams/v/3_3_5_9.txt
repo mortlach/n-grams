@@ -1,2 +1,4 @@
-van possession 61 van transport
-66 van abandoned 49 vying
+van had taken possession 61
+van that would transport 66
+van was found abandoned 49
+vying for world domination 40

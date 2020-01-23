@@ -1,3 +1,5 @@
-ci . 69 cm .
-169 cn . 48 co
-. 80 ct . 86
+ci are constants . 69
+cm are available . 169
+cn are constants . 48
+co are constants . 80
+ct are constants . 86

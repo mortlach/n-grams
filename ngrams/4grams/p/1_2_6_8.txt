@@ -1,6 +1,11 @@
-p constant 102 p negative
-46 p positive 406 p
-increased 41 p pressure 187
-p obtained 42 p pressure
-64 p pressure 43 p
-pressure 363 p pressure 216
+p is almost constant 102
+p is always negative 46
+p is always positive 406
+p is further increased 41
+p is partial pressure 187
+p is readily obtained 42
+p is static pressure 64
+p the normal pressure 43
+p the partial pressure 363
+p the static pressure 216
+p to remain constant 104

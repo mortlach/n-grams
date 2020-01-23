@@ -1,1 +1,2 @@
-y than 168 y row 57
+y is not greater than 168
+y to its second row 57

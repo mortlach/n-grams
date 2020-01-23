@@ -1,1 +1,3 @@
-joined arnold 42 joints panels
+joined colonel benedict arnold 42
+joints between adjacent panels 59
+joints between adjacent sheets 60

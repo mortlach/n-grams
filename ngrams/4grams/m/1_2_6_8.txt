@@ -1,3 +1,5 @@
-m positive 67 m constant
-40 m velocity 123 m
-provided 74 m interest 78
+m is always positive 67
+m is another constant 40
+m the angular velocity 123
+m the manner provided 74
+m the public interest 78

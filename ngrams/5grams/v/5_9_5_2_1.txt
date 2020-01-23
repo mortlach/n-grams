@@ -1,2 +1,5 @@
-value a 47 value a 90
-vesting a 51 vests a 221
+value customers place on a 47
+value judgments based on a 90
+vesting executive power in a 51
+vests executive power in a 221
+views substance abuse as a 50

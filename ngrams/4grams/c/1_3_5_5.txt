@@ -1,1 +1,2 @@
-c enter 82 c walls
+c and press enter 82
+c are solid walls 58

@@ -1,2 +1,4 @@
-keep about 187 kept about
-104 kept about 51 kept
+keep management informed about 187
+kept adequately informed about 104
+kept completely informed about 51
+kept constantly informed about 207

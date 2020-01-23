@@ -1,1 +1,2 @@
-yield of 42 yield to 231
+yield a low percentage of 42
+yield a sum sufficient to 231

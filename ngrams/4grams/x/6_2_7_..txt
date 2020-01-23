@@ -1,2 +1,4 @@
-xg . 43 xm .
-3816 xylene . 127 xylene
+xg of protein . 43
+xm in diameter . 3816
+xylene or benzene . 127
+xylene or toluene . 470

@@ -1,4 +1,7 @@
-j dim 665 j for
-215 j out 267 j
-for 43 j than 287
-j that 272 j are
+j as integer dim 665
+j as integer for 215
+j is carried out 267
+j is defined for 43
+j is smaller than 287
+j it follows that 272
+j the following are 41

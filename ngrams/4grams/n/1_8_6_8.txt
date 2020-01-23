@@ -1,1 +1,2 @@
-n variables 125 n infinity
+n discrete random variables 125
+n increases toward infinity 105

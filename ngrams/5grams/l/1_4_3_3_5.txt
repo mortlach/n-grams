@@ -1,3 +1,6 @@
-l found 48 l stand 147
-l right 169 l could 43
-l anything 101 l again 86
+l have not yet found 48
+l just can not stand 147
+l think you are right 169
+l told her she could 43
+l will not say anything 101
+l will see you again 86

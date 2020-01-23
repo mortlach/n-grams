@@ -1,1 +1,2 @@
-king treason 58 king office 79
+king arraigned for high treason 58
+king dismissed him from office 79

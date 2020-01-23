@@ -1,1 +1,2 @@
-ft wall 105 ft south 161
+ft away from the wall 105
+ft from north to south 161

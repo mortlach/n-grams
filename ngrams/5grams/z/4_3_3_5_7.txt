@@ -1,2 +1,4 @@
-zero variance 257 zero variance 68
-zero variance 217 zero variance 542
+zero mean and equal variance 257
+zero mean and fixed variance 68
+zero mean and known variance 217
+zero mean and unity variance 542

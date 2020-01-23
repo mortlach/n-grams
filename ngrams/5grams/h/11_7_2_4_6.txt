@@ -1,2 +1,4 @@
-hostilities powers 83 hostilities states 45
-hostilities nobles 72 hostilities powers 42
+hostilities against the axis powers 83
+hostilities between the arab states 45
+hostilities between the great nobles 72
+hostilities between the great powers 42

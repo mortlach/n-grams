@@ -1,4 +1,9 @@
-s country 140 s written 88
-s sharply 68 s service 54
-s believe 222 s imagine 896
-s trouble 385 s himself 79
+s all over the country 140
+s can also be written 88
+s head came up sharply 68
+s long years of service 54
+s not hard to believe 222
+s not hard to imagine 896
+s not worth the trouble 385
+s own view of himself 79
+s too late to correct 114

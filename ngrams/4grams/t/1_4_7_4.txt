@@ -1,3 +1,5 @@
-t what 81 t what
-617 t when 47 t
-have 156 t were 124
+t help wondering what 81
+t know exactly what 617
+t know exactly when 47
+t some writers have 156
+t these figures were 124

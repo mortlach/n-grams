@@ -1,1 +1,3 @@
-van vehicle 58 vying limited 97
+van was the only vehicle 58
+vying for the same limited 97
+vying for the same position 189

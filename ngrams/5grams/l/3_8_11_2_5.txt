@@ -1,1 +1,2 @@
-long power 194 low dashing 47
+long distance transmission of power 194
+low dialogues interrupted the dashing 47

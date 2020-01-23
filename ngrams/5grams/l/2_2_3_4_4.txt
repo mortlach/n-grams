@@ -1,2 +1,4 @@
-ll town 53 ll soon 55
-ll more 96 ll some 68
+ll be all over town 53
+ll be going home soon 55
+ll be that much more 96
+ll go and have some 68

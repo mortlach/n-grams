@@ -1,4 +1,7 @@
-generosity not 167 girlfriend not
-50 government not 133 government
-now 45 government not 688
-grandfather not 147 grandmother not
+generosity i do not 167
+girlfriend i do not 50
+government i am not 133
+government i am now 45
+government i do not 688
+grandfather i do not 147
+grandmother i do not 56

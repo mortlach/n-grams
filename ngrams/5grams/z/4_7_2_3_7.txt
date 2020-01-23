@@ -1,1 +1,3 @@
-zone empires 99 zone parties 41
+zone between the two empires 99
+zone between the two parties 41
+zone between the two spheres 40

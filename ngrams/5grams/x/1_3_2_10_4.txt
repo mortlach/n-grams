@@ -1,3 +1,7 @@
-x from 733 x into 183
-x from 291 x from 47
-x into 56 x from 202
+x can be calculated from 733
+x can be decomposed into 183
+x can be determined from 291
+x can be eliminated from 47
+x can be partitioned into 56
+x may be calculated from 202
+x may be determined from 86

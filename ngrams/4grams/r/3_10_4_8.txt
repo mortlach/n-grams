@@ -1,5 +1,9 @@
-ray indicate 516 ray obtained
-627 ray crystals 354 ray
-oriented 177 ray broadening 650
-ray profiles 217 ray disclose
-51 ray crystals 40 read
+ray diffraction data indicate 516
+ray diffraction data obtained 627
+ray diffraction from crystals 354
+ray diffraction from oriented 177
+ray diffraction line broadening 650
+ray diffraction line profiles 217
+ray examination will disclose 51
+ray reflections from crystals 40
+read criticisms upon pictures 53

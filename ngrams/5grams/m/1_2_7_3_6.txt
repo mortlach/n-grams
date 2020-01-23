@@ -1,2 +1,4 @@
-m height 89 m weighing 139
-m weighs 95 m common 97
+m in diameter and height 89
+m in diameter and weighing 139
+m in diameter and weighs 95
+m in diameter are common 97

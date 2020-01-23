@@ -1,1 +1,2 @@
-die when 104 doing acts 99
+die gracefully and properly when 104
+doing charitable and grateful acts 99

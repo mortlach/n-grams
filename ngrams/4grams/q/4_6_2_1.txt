@@ -1,3 +1,5 @@
-quay a 60 quit a
-115 quit a 99 quit
-i 48 quit i 55
+quay formed by a 60
+quit school as a 115
+quit school at a 99
+quit school if i 48
+quit school so i 55

@@ -1,1 +1,3 @@
-kerchief head 501 knapsack arm 77
+kerchief tied over her head 501
+knapsack slung upon one arm 77
+knowable even when they are 40

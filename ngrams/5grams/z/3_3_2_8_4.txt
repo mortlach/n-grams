@@ -1,2 +1,5 @@
-zeal faith 1007 zeal life 109
-zeal faith 119 zeal life 49
+zeal for the christian faith 1007
+zeal for the monastic life 109
+zeal for the reformed faith 119
+zeal for the religious life 49
+zeal may be inferred from 75

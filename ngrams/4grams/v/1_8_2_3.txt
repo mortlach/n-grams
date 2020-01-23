@@ -1,4 +1,8 @@
-v all 167 v two
-133 v get 57 v
-law 4017 v war 106
-v this 51 v each
+v consists of all 167
+v consists of two 133
+v followed by get 57
+v minister of law 4017
+v minister of war 106
+v obtained in this 51
+v relative to each 113
+v relative to one 43

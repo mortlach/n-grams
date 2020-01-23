@@ -1,1 +1,2 @@
-ring radius 143 ring praise 88
+ring of charge of radius 143
+ring the changes in praise 88

@@ -1,1 +1,3 @@
-quantity quality 322 quantity deposit 59
+quantity is transformed into quality 322
+quantity of electricity will deposit 59
+quantity of electricity will produce 51

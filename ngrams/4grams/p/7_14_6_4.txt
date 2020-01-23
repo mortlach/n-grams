@@ -1,1 +1,2 @@
-prevent from 44 primary rest
+prevent reinforcements arriving from 44
+primary responsibility should rest 55

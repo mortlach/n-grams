@@ -1,1 +1,2 @@
-quiet happiness 43 quiet meditation 225
+quiet study and domestic happiness 43
+quiet study and profound meditation 225

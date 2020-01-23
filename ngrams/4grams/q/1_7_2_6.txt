@@ -1,1 +1,3 @@
-q charge 115 q number
+q denotes the charge 115
+q denotes the number 351
+q denotes the vector 44

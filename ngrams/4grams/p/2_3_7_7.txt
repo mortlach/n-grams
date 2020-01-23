@@ -1,3 +1,5 @@
-ph content 312 ph density
-145 ph content 220 ph
-content 199 ph related 84
+ph and calcium content 312
+ph and current density 145
+ph and mineral content 220
+ph and organic content 199
+ph are closely related 84

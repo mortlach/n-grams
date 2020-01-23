@@ -1,1 +1,2 @@
-quit conversation 59 quit voluntarily
+quit all farther conversation 59
+quit his charge voluntarily 63

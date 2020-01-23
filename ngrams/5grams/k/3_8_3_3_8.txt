@@ -1,2 +1,4 @@
-key relevant 54 key essential 48
-key required 50 key answered 99
+key concepts that are relevant 54
+key elements that are essential 48
+key elements that are required 50
+key questions that are answered 99

@@ -1,1 +1,2 @@
-gives certain 49 grant divorce 52
+gives a woman a certain 49
+grant a woman a divorce 52

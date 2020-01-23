@@ -1,2 +1,4 @@
-yields data 41 yields four 99
-yields three 116 younger when 76
+yields a set of data 41
+yields a set of four 99
+yields a set of three 116
+younger a man is when 76

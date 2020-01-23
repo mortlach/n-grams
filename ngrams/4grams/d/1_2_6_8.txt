@@ -1,3 +1,5 @@
-d employed 43 d positive
-66 d constant 82 d
-capacity 70 d thickness 257
+d be better employed 43
+d is always positive 66
+d is another constant 82
+d of refining capacity 70
+d the sample thickness 257

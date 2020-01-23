@@ -1,4 +1,8 @@
-occur after 274 occur later 47
-occur after 138 occur later 44
-occur after 157 occur after 72
-often about 65 often about 77
+occur until several hours after 274
+occur until several hours later 47
+occur until several months after 138
+occur until several months later 44
+occur until several weeks after 157
+occur within several hours after 72
+often found herself thinking about 65
+often found himself thinking about 77

@@ -1,3 +1,6 @@
-foe ascend 56 foe friend
-101 foe safety 61 foe
-without 64 ft starting 145
+foe could not ascend 56
+foe rather than friend 101
+foe seeks his safety 61
+foe within and without 64
+ft above its starting 145
+ft below its starting 174

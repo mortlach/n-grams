@@ -1,1 +1,2 @@
-king board 40 king bride 41
+king to appoint a board 40
+king to receive a bride 41

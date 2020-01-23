@@ -1,3 +1,7 @@
-p same 106 p less 199
-p made 112 p true 444
-p used 133 p zero 106
+p are not the same 106
+p can not be less 199
+p can not be made 112
+p can not be true 444
+p can not be used 133
+p can not be zero 106
+p that can be used 140

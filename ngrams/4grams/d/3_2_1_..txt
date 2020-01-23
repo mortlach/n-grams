@@ -1,3 +1,5 @@
-death ? 61 due .
-217 due . 102 due
-. 94 due . 144
+death of a ? 61
+due to a . 217
+due to ing . 102
+due to m . 94
+due to th . 144

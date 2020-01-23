@@ -1,1 +1,2 @@
-n and 56 n and
+n positive integers and 56
+n possible outcomes and 105

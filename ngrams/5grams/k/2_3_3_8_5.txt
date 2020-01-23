@@ -1,5 +1,10 @@
-king could 90 king would 86
-king queen 64 king could 59
-king could 49 king could 57
-king ought 54 king would 58
-king could 52 king power 74
+king and his advisers could 90
+king and his advisers would 86
+king and his beautiful queen 64
+king and his minister could 59
+king and his officers could 49
+king and his officials could 57
+king and his subjects ought 54
+king and his subjects would 58
+king nor his marshals could 52
+king who has absolute power 74

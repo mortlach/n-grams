@@ -1,2 +1,4 @@
-read approve 108 read pleasure 59
-read pleasure 53 read pleasure 44
+read this dissertation and approve 108
+read with satisfaction and pleasure 59
+read with thankfulness and pleasure 53
+read with understanding and pleasure 44

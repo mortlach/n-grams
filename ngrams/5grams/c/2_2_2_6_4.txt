@@ -1,2 +1,4 @@
-ch word 99 ch word 41
-ch word 145 cm part 56
+ch in the english word 99
+ch in the german word 41
+ch in the scotch word 145
+cm at the widest part 56

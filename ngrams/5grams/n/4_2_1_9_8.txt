@@ -1,5 +1,10 @@
-name rejected 46 name movement 102
-name declared 112 name indorsed 51
-neck prisoner 55 need beautiful 48
-need condition 147 need approach 49
-next direction 45 north direction 344
+name of a candidate rejected 46
+name of a political movement 102
+name of a previously declared 112
+name to a statement indorsed 51
+neck of a prostrate prisoner 55
+need in a supremely beautiful 48
+need is a necessary condition 147
+need of a different approach 49
+next in a clockwise direction 45
+north in a clockwise direction 344

@@ -1,6 +1,11 @@
-n not 61 n his
-47 n this 318 n
-each 47 n this 111
-n one 110 n each
-55 n each 127 n
-each 656 n each 378
+n achievement is not 61
+n consequence of his 47
+n consequence of this 318
+n corresponding to each 47
+n corresponding to this 111
+n corresponds to one 110
+n individuals in each 55
+n observations at each 127
+n observations in each 656
+n observations on each 378
+n observations on two 49

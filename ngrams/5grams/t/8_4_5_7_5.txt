@@ -1,2 +1,4 @@
-transfer cells 165 traveled miles 54
-traveled miles 77 traveled miles 57
+transfer from adult somatic cells 165
+traveled over eight hundred miles 54
+traveled over eight thousand miles 77
+traveled over fifty thousand miles 57

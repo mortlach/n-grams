@@ -1,2 +1,4 @@
-ph the 317 ph in 102
-ph the 319 ph the 109
+ph is greater than the 317
+ph is higher than in 102
+ph is higher than the 319
+ph is raised and the 109

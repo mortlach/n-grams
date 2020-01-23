@@ -1,1 +1,3 @@
-i written 212 i doubled 212
+i can then be written 212
+i may not be doubled 212
+i this and the following 146

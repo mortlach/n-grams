@@ -1,2 +1,4 @@
-z spin 770 z well
-176 z three 41 z
+z component of spin 770
+z directions as well 176
+z represent the three 41
+z statistic is used 69

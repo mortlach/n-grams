@@ -1,3 +1,6 @@
-quarts . 3920 quarts .
-273 quelling . 177 quitting
-. 386 quiver . 67
+quarts a day . 3920
+quarts a year . 273
+quelling a riot . 177
+quitting a job . 386
+quiver a bit . 67
+quotes i cor . 181

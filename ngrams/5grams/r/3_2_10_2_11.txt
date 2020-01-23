@@ -1,1 +1,3 @@
-read constitution 67 read huckleberry 161
+read or understand the constitution 67
+read the adventures of huckleberry 161
+read the declaration of indulgences 44

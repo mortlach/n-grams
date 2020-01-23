@@ -1,1 +1,2 @@
-hydrophones devices 40 hypertension diseases 44
+hydrophones and other listening devices 40
+hypertension and other chronic diseases 44

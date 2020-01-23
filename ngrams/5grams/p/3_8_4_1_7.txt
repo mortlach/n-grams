@@ -1,1 +1,2 @@
-put position 358 put relaxed 83
+put yourself into a position 358
+put yourself into a relaxed 83

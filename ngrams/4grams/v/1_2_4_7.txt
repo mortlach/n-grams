@@ -1,3 +1,6 @@
-v smaller 752 v function
-50 v average 174 v
-defined 51 v between 135
+v is much smaller 752
+v is some function 50
+v is their average 174
+v is well defined 51
+v the angle between 135
+v the true anomaly 92

@@ -1,3 +1,5 @@
-zero issued 132 zero maturing
-368 zero prices 220 zero
-reactor 54 zone absurd 51
+zero coupon bond issued 132
+zero coupon bond maturing 368
+zero coupon bond prices 220
+zero energy fast reactor 54
+zone appears less absurd 51

@@ -1,3 +1,6 @@
-ran legislature 1523 read conversation 61
-read opportunity 49 read solemnities 51
-read abandonment 42 run legislature 2955
+ran for the state legislature 1523
+read and to whose conversation 61
+read with the first opportunity 49
+read with the usual solemnities 51
+read with the willing abandonment 42
+run for the state legislature 2955

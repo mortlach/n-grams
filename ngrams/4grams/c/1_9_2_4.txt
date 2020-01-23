@@ -1,4 +1,8 @@
-c used 163 c grid
-269 c load 125 c
-used 48 c cost 101
-c length 75 c same
+c amplifier is used 163
+c component of grid 269
+c component of load 125
+c generator is used 48
+c represent the cost 101
+c represent the length 75
+c represent the same 79
+c represent the three 333

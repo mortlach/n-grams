@@ -1,1 +1,2 @@
-zero it 45 zero the 246
+zero voltage drop across it 45
+zero voltage drop across the 246

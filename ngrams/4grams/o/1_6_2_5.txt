@@ -1,1 +1,2 @@
-o music 101 o taken
+o school of music 101
+o should be taken 40

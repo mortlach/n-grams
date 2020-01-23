@@ -1,1 +1,2 @@
-quit enrolled 44 quit returned 45
+quit my job and enrolled 44
+quit the job and returned 45

@@ -1,3 +1,6 @@
-kinsman close 47 kitchen while 122
-kitchen glass 231 kitchen glass 41
-kitchen crust 81 kitchen while 46
+kinsman kit keeps a close 47
+kitchen and after a while 122
+kitchen and drank a glass 231
+kitchen and drink a glass 41
+kitchen and stole a crust 81
+kitchen for quite a while 46

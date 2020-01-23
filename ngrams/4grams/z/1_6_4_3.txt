@@ -1,1 +1,2 @@
-z than 80 z than
+z scores less than 80
+z values less than 116

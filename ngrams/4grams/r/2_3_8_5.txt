@@ -1,3 +1,5 @@
-ring liner 125 ring staff
-645 ring cross 256 ring
-morning 114 ring night 41
+ring and cylinder liner 125
+ring and pastoral staff 645
+ring and pectoral cross 256
+ring you tomorrow morning 114
+ring you tomorrow night 41

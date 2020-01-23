@@ -1,2 +1,4 @@
-kin circles 42 kin network
-72 kings classes 57 kings
+kin and friendship circles 42
+kin and friendship network 72
+kings and privileged classes 57
+kings and territorial princes 74

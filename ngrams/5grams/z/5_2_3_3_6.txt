@@ -1,1 +1,3 @@
-zones africa 112 zones europe 64
+zones of asia and africa 112
+zones of asia and europe 64
+zones of earth our guests 113

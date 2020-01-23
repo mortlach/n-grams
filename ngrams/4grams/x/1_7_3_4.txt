@@ -1,3 +1,5 @@
-x only 65 x month
-216 x unit 129 x
-week 135 x range 64
+x depends not only 65
+x dollars per month 216
+x dollars per unit 129
+x dollars per week 135
+x outside this range 64

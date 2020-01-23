@@ -1,2 +1,5 @@
-entry valid 54 evening groan 48
-event cause 63 event black 86
+entry invalid through a valid 54
+evening expired without a groan 48
+event happens without a cause 63
+event horizon around a black 86
+every captain carrying a small 77

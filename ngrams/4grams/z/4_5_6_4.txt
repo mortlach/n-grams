@@ -1,4 +1,8 @@
-zero rate 138 zero term
-46 zero leading 312 zero
-load 63 zero zero 201
-zinc from 47 zone more
+zero order reaction rate 138
+zero point energy term 46
+zero power factor leading 312
+zero power factor load 63
+zero still equals zero 201
+zinc binding ligand from 47
+zone lends itself more 40
+zone would extend from 51

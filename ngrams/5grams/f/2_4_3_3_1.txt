@@ -1,2 +1,4 @@
-ft a 113 ft a 276
-ft a 89 ft a 229
+ft deep and has a 113
+ft high and has a 276
+ft high and with a 89
+ft wide and has a 229

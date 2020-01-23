@@ -1,1 +1,2 @@
-kilowatt generated 121 kinetics conditions
+kilowatt hours were generated 121
+kinetics under these conditions 79

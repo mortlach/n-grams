@@ -1,4 +1,8 @@
-jar water 167 job start 101
-joy image 52 joy whole 94
-joy fatal 53 joy smile 65
-joy kingdom 59 joy nation 89
+jar nearly full of water 167
+job right from the start 101
+joy arising from the image 52
+joy burst from the whole 94
+joy might even be fatal 53
+joy shall make us smile 65
+joy spread over the kingdom 59
+joy spread over the nation 89

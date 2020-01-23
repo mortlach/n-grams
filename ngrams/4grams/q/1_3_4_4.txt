@@ -1,3 +1,6 @@
-q mass 131 q used
-114 q time 93 q
-length 1414 q time 170
+q and rest mass 131
+q has been used 114
+q how much time 93
+q per unit length 1414
+q per unit time 170
+q per unit width 285

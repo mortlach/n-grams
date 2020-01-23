@@ -1,3 +1,5 @@
-b three 45 b same
-93 b length 41 b
-width 233 b same 303
+b average of three 45
+b contain the same 93
+b denotes the length 41
+b denotes the width 233
+b remains the same 303

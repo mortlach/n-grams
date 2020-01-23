@@ -1,4 +1,8 @@
-k index 74 k large
-89 k small 182 k
-added 156 k found 608
-k given 129 k shown
+k and band index 74
+k are very large 89
+k are very small 182
+k has been added 156
+k has been found 608
+k has been given 129
+k has been shown 131
+k has been taken 150

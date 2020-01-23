@@ -1,2 +1,4 @@
-z along 215 z along
-42 z used 45 z
+z axis lies along 215
+z axis triad along 42
+z have been used 45
+z must have been 43

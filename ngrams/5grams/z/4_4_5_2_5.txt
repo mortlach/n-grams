@@ -1,1 +1,2 @@
-zone water 135 zone water 50
+zone just above the water 135
+zone just below the water 50

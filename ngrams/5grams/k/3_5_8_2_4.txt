@@ -1,1 +1,2 @@
-key door 597 kid what 45
+key which unlocked the door 597
+kid stuff compared to what 45

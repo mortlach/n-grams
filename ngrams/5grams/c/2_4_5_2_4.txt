@@ -1,3 +1,6 @@
-cm view 77 cm back 117
-cm clay 53 cm dark 67
-cm sand 197 cm soil 139
+cm axial field of view 77
+cm from front to back 117
+cm thick layer of clay 53
+cm thick layer of dark 67
+cm thick layer of sand 197
+cm thick layer of soil 139

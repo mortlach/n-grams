@@ -1,2 +1,4 @@
-variable components 270 vassals sovereigns 48
-village distinctly 62 vinegar frequently 74
+variable and fixed cost components 270
+vassals and above other sovereigns 48
+village are still very distinctly 62
+vinegar and water were frequently 74

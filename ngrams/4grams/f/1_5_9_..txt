@@ -1,1 +1,3 @@
-f . 105 f .
+f light technique . 105
+f oreach statement . 218
+f power amplifier . 148

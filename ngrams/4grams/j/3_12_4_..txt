@@ -1,1 +1,2 @@
-job . 140 job .
+job exceptionally well . 140
+job particularly well . 78

@@ -1,4 +1,8 @@
-king . 40 king .
-47 king . 47 king
-. 70 king . 164
-king . 54 km .
+king entered paris . 40
+king himself slain . 47
+king laughed again . 47
+king married again . 70
+king opposes caesar . 164
+king songtsen gampo . 54
+km repeater spacing . 47
+kw average power . 115

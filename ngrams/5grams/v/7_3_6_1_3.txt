@@ -1,4 +1,8 @@
-vehicle new 40 verdict new 222
-verdict new 111 village far 148
-violence way 86 violence way 185
-violence man 54 volumes new 47
+vehicle for building a new 40
+verdict and granting a new 222
+verdict and ordering a new 111
+village had seemed a far 148
+violence had become a way 86
+violence has become a way 185
+violence may detain a man 54
+volumes bring readers a new 47

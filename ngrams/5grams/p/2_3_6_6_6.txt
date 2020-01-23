@@ -1,1 +1,2 @@
-ph levels 49 ph tension 700
+ph and carbon dioxide levels 49
+ph and carbon dioxide tension 700

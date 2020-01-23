@@ -1,2 +1,4 @@
-cm borer 45 cm cores
-58 cm layer 166 co
+cm diameter cork borer 45
+cm diameter soil cores 58
+cm surface soil layer 166
+co becomes very large 47

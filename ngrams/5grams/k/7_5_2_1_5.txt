@@ -1,4 +1,9 @@
-keyword study 83 kinship whole 193
-kitchen storm 67 kitchen sharp 116
-kitchen house 56 kitchen small 46
-kitchen rainy 71 knocked coach 59
+keyword method as a study 83
+kinship group as a whole 193
+kitchen cooking up a storm 67
+kitchen shears or a sharp 116
+kitchen table in a house 56
+kitchen table in a small 46
+kitchen table on a rainy 71
+knocked about in a coach 59
+knocker shining in a quiet 57

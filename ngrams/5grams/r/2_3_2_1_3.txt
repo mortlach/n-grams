@@ -1,2 +1,5 @@
-re bear 497 re long 63
-re job 152 ring day 101
+re going on a bear 497
+re going on a long 63
+re out of a job 152
+ring you in a day 101
+ring you in a few 91

@@ -1,3 +1,5 @@
-pea dumplings 52 pea sausage
-56 ph maximum 119 ph
-optimal 57 ph optimum 203
+pea soup and dumplings 52
+pea soup with sausage 56
+ph range for maximum 119
+ph range for optimal 57
+ph range for optimum 203

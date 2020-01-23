@@ -1,2 +1,4 @@
-use cards 119 use takes 73
-using cards 82 using cells 94
+use credit and debit cards 119
+use without due cause takes 73
+using credit and debit cards 82
+using packed red blood cells 94

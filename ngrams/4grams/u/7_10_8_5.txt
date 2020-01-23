@@ -1,3 +1,5 @@
-undergo within 51 uniform field
-47 uniform field 350 uniform
-field 58 uniform field 396
+undergo spontaneous remission within 51
+uniform background magnetic field 47
+uniform horizontal magnetic field 350
+uniform transverse electric field 58
+uniform transverse magnetic field 396

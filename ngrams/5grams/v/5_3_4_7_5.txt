@@ -1,2 +1,4 @@
-value about 139 vases found 66
-views human 51 vision tests 70
+value has been written about 139
+vases and other objects found 66
+views that ever greeted human 51
+vision and hearing screening tests 70

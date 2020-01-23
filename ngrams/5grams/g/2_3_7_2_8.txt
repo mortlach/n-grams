@@ -1,2 +1,5 @@
-go condition 69 go situation 85
-go somebody 44 go passover 119
+go and examine the condition 69
+go and explain the situation 85
+go and inquire of somebody 44
+go and prepare the passover 119
+go far towards the extremes 64

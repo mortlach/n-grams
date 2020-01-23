@@ -1,1 +1,3 @@
-l school 132 l letter
+l finished high school 132
+l received your letter 295
+l remember very clearly 43

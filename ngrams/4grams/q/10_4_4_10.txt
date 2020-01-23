@@ -1,4 +1,8 @@
-quantities calculated 969 quantities considered
-57 quantities determined 646 quantities
-discovered 165 quantities identified 60
-quantities integrated 148 quantities introduced
+quantities have been calculated 969
+quantities have been considered 57
+quantities have been determined 646
+quantities have been discovered 165
+quantities have been identified 60
+quantities have been integrated 148
+quantities have been introduced 253
+quantities have been normalized 201

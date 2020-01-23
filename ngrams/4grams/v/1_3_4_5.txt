@@ -1,6 +1,11 @@
-v first 56 v small
-180 v added 40 v
-found 355 v given 55
-v taken 161 v wales
-4304 v state 1430 v
-stock 528 v times 796
+v and their first 56
+v are very small 180
+v has been added 40
+v has been found 355
+v has been given 55
+v has been taken 161
+v new south wales 4304
+v new york state 1430
+v new york stock 528
+v new york times 796
+v shoe lane parking 1361

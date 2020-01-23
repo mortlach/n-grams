@@ -1,6 +1,10 @@
-n cases 93 n after
-134 n wales 175 n
-about 146 n unity 448
-n about 51 n which
-50 n given 156 n
-shown 52 n which 125
+n almost all cases 93
+n before and after 134
+n england and wales 175
+n greater than about 146
+n greater than unity 448
+n larger than about 51
+n matrix for which 50
+n values are given 156
+n values are shown 52
+n values for which 125

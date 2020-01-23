@@ -1,1 +1,3 @@
-f two 436 f not 60
+f and g be two 436
+f and g do not 60
+f and g in fig 54

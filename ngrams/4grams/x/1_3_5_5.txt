@@ -1,1 +1,3 @@
-x enter 58 x fixed
+x and press enter 58
+x for every fixed 50
+x for every value 72

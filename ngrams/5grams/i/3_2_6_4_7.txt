@@ -1,3 +1,6 @@
-idea control 116 idea movable 42
-idea society 49 idea perfect 157
-idea scratch 65 idea animals 40
+idea of nuclear arms control 116
+idea of printing from movable 42
+idea of retiring from society 49
+idea of something more perfect 157
+idea of starting from scratch 65
+idea to handle wild animals 40

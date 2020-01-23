@@ -1,3 +1,6 @@
-la represent 132 lb supported
-321 lb suspended 50 lb
-purchased 46 ll somewhere 83
+la and lb represent 132
+lb and is supported 321
+lb and is suspended 50
+lb can be purchased 46
+ll end up somewhere 83
+ll not be surprised 70

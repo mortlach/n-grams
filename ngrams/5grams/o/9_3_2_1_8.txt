@@ -1,2 +1,4 @@
-oncogenes dominant 46 organisms condition 40
-organisms constant 51 ourselves capacity 54
+oncogenes act in a dominant 46
+organisms are in a condition 40
+organisms are in a constant 51
+ourselves out of a capacity 54

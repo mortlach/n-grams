@@ -1,2 +1,4 @@
-jaw incisors 40 jaw incisors 62
-job pregnant 51 job detected 42
+jaw there are six incisors 40
+jaw there are two incisors 62
+job when she got pregnant 51
+job when they are detected 42

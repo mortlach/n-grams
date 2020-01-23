@@ -1,2 +1,5 @@
-index all 42 index both 204
-inner with 212 items for 69
+index takes into account all 42
+index takes into account both 204
+inner walls were covered with 212
+items taken into account for 69
+items whose cash effects are 54

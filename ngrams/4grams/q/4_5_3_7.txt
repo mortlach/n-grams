@@ -1,1 +1,2 @@
-quit minutes 46 quit started
+quit after ten minutes 46
+quit smoking and started 221

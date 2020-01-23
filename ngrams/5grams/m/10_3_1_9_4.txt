@@ -1,1 +1,3 @@
-maintained length 89 maintained time 55
+maintained for a reasonable length 89
+maintained for a reasonable time 55
+maintained for a specified time 71

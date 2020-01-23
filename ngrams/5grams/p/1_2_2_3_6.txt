@@ -1,2 +1,5 @@
-p number 150 p number 139
-p stress 49 p charge 115
+p is an odd number 150
+p is the mean number 139
+p is the mean stress 49
+p is the net charge 115
+p it is far better 93

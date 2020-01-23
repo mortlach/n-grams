@@ -1,4 +1,9 @@
-can into 43 can into 117
-can into 40 can into 3596
-can into 263 can only 81
-can from 86 can from 121
+can analytically be divided into 43
+can conceptually be divided into 117
+can consequently be divided into 40
+can conveniently be divided into 3596
+can conveniently be grouped into 263
+can legitimately be applied only 81
+can legitimately be deduced from 86
+can legitimately be derived from 121
+can subsequently be removed from 113

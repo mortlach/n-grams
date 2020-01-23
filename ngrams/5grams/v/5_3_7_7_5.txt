@@ -1,2 +1,5 @@
-valid names 110 value pesos 48
-vases stood 54 vices under 57
+valid and invalid variable names 110
+value two hundred thousand pesos 48
+vases and crystal goblets stood 54
+vices and virtues occurring under 57
+visit and examine neutral ships 65

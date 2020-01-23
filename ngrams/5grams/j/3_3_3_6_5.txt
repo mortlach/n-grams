@@ -1,2 +1,5 @@
-jar water 46 job money 114
-job exist 40 jot shall 61
+jar and add enough water 46
+job and earn enough money 114
+job does not already exist 40
+jot nor one tittle shall 61
+jug off with another shove 50

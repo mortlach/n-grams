@@ -1,4 +1,9 @@
-raw essential 94 raw imported 56
-raw required 66 real declined 52
-real increased 66 real remained 113
-real actually 80 real negative 573
+raw materials which were essential 94
+raw materials which were imported 56
+raw materials which were required 66
+real interest rates have declined 52
+real interest rates have increased 66
+real interest rates have remained 113
+real interest rates were actually 80
+real interest rates were negative 573
+real interest rates were positive 138

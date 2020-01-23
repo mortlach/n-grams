@@ -1,2 +1,4 @@
-daily passengers 81 denying additional 67
-drawn population 55 drawn population 66
+daily whenever there are passengers 81
+denying increased afdc for additional 67
+drawn randomly from that population 55
+drawn randomly from this population 66

@@ -1,1 +1,2 @@
-quit credit 53 quit window 44
+quit handing all the credit 53
+quit looking out the window 44

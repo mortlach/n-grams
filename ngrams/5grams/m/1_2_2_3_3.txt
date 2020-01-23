@@ -1,4 +1,9 @@
-m end 116 m and 404
-m and 352 m and 366
-m now 41 m now 225
-m out 497 m and 149
+m at the east end 116
+m at the top and 404
+m in the east and 352
+m is the mean and 366
+m on my own now 41
+m on my way now 225
+m on my way out 497
+m on the east and 149
+m to the east and 390

@@ -1,3 +1,5 @@
-w used 119 w been
-115 w been 44 w
-length 3682 w time 59
+w has been used 119
+w ill have been 115
+w may have been 44
+w per unit length 3682
+w per unit time 59

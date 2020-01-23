@@ -1,3 +1,6 @@
-zeal displayed 327 zeal displayed
-62 zeal initiative 106 zeal
-knowledge 64 zeal interests 50
+zeal and ability displayed 327
+zeal and courage displayed 62
+zeal and creative initiative 106
+zeal for acquiring knowledge 64
+zeal for british interests 50
+zeal for general happiness 99

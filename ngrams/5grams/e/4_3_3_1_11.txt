@@ -1,1 +1,2 @@
-eggs chromosomes 62 else disturbance 54
+eggs with two x chromosomes 62
+else you hear a disturbance 54

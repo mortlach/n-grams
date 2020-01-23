@@ -1,1 +1,2 @@
-zero world 213 zinc total
+zero transaction cost world 213
+zinc deficiency during total 244

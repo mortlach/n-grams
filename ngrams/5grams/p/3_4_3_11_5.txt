@@ -1,1 +1,2 @@
-per goods 107 put stamp 80
+per cent for intermediate goods 107
+put their own distinctive stamp 80

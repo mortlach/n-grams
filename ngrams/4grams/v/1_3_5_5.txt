@@ -1,1 +1,2 @@
-v terms 41 v equal
+v are error terms 41
+v are nearly equal 117

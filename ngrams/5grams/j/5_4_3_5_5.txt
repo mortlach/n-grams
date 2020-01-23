@@ -1,1 +1,3 @@
-joint force 40 joint rates 85
+joint land and naval force 40
+joint rail and water rates 85
+judge from his short notes 59

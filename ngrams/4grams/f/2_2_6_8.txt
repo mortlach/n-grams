@@ -1,1 +1,3 @@
-foe calamity 78 ft velocity
+foe as mortal calamity 78
+ft the angular velocity 54
+ft the deputy chairman 84

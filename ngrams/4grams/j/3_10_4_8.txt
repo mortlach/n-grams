@@ -1,1 +1,2 @@
-job required 42 job included
+job applicants were required 42
+job description also included 42

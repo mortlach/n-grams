@@ -1,1 +1,2 @@
-lb bombs 48 ll later
+lb general purpose bombs 48
+ll explain everything later 55

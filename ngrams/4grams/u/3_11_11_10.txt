@@ -1,3 +1,6 @@
-use procedures 49 use techniques
-271 using techniques 91 using
-techniques 44 using procedures 109
+use multivariate statistical procedures 49
+use multivariate statistical techniques 271
+using conventional statistical techniques 91
+using mathematical optimization techniques 44
+using multivariate statistical procedures 109
+using multivariate statistical techniques 439

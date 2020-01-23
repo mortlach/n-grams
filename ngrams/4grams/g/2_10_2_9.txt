@@ -1,2 +1,4 @@
-go telephone 320 go completion
-328 go confession 144 go
+go downstairs to telephone 320
+go essentially to completion 328
+go frequently to confession 144
+go immediately to jerusalem 57

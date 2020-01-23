@@ -1,4 +1,9 @@
-quarrel north 55 question maria 104
-quickly many 53 quickly most 91
-quickly some 45 quickly such 40
-quickly there 284 quickly these 63
+quarrel between franklin and north 55
+question between frederic and maria 104
+quickly becomes apparent that many 53
+quickly becomes apparent that most 91
+quickly becomes apparent that some 45
+quickly becomes apparent that such 40
+quickly becomes apparent that there 284
+quickly becomes apparent that these 63
+quickly becomes apparent that what 49

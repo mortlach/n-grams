@@ -1,2 +1,4 @@
-t what 134 t some 102
-t many 200 t much 198
+t have any idea what 134
+t such that for some 102
+t tell you how many 200
+t tell you how much 198

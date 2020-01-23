@@ -1,3 +1,6 @@
-happened after 95 happened later 187
-happened later 64 hillside yards 135
-hospital after 69 hospital later 146
+happened a few minutes after 95
+happened a few minutes later 187
+happened a few moments later 64
+hillside a few hundred yards 135
+hospital a few minutes after 69
+hospital a few minutes later 146

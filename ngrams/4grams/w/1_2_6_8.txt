@@ -1,1 +1,3 @@
-w positive 108 w velocity
+w is always positive 108
+w is angular velocity 221
+w the angular velocity 1346

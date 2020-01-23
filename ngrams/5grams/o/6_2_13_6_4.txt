@@ -1,1 +1,2 @@
-object when 52 obtain from 71
+object is automatically created when 52
+obtain an identification number from 71

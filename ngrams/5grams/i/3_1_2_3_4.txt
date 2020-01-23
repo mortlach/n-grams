@@ -1,3 +1,6 @@
-idea know 282 idea like 119
-idea think 62 idea want 54
-ill know 137 ill think 51
+idea i do not know 282
+idea i do not like 119
+idea i do not think 62
+idea i do not want 54
+ill i do not know 137
+ill i do not think 51

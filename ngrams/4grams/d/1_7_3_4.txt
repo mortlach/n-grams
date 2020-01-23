@@ -1,6 +1,11 @@
-d pair 87 d back
-102 d here 233 d
-home 126 d back 41
-d home 43 d hair
-46 d what 89 d
-said 96 d from 58
+d between each pair 87
+d brought her back 102
+d brought her here 233
+d brought her home 126
+d brought him back 41
+d brought him home 43
+d brushed her hair 46
+d figured out what 89
+d laughed and said 96
+d rescued her from 58
+d suggest you take 53

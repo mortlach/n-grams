@@ -1,1 +1,3 @@
-ring evidence 50 ring champions
+ring and glacial evidence 50
+ring and placed champions 53
+ring with silver terraces 55

@@ -1,2 +1,4 @@
-h killed 109 h placed
-50 h exceed 116 h
+h before being killed 109
+h before being placed 50
+h should not exceed 116
+h stands for planck 53

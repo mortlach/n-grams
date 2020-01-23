@@ -1,3 +1,6 @@
-king . 44 king .
-119 king . 114 king
-. 177 king . 78
+king addressed him . 44
+king alexander iii . 119
+king dismissed him . 114
+king ferdinand vii . 177
+king frederick iii . 78
+king supported him . 43

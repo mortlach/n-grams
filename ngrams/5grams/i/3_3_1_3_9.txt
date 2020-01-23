@@ -1,3 +1,7 @@
-idea character 44 idea television 45
-idea influence 82 idea generation 53
-idea terrified 48 idea different 77
+idea for a new character 44
+idea for a new television 45
+idea has a new influence 82
+idea that a new generation 53
+idea that i had terrified 48
+idea that i was different 77
+its being a bad conductor 99

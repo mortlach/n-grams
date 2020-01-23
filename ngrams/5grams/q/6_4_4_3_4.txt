@@ -1,2 +1,4 @@
-quiver back 110 quiver back 46
-quoted once 52 quoted tale 49
+quiver slung over his back 110
+quiver slung upon his back 46
+quoted from more than once 52
+quoted told their own tale 49

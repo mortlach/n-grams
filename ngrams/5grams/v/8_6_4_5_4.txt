@@ -1,1 +1,2 @@
-vertical zero 103 vibration once 58
+vertical forces must equal zero 103
+vibration occurs only about once 58

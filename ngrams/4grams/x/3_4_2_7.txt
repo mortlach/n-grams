@@ -1,4 +1,7 @@
-xii figures 2539 xii symbols
-243 xiv figures 1004 xiv
-symbols 87 xix figures 311
-xvi figures 444 xxi figures
+xii list of figures 2539
+xii list of symbols 243
+xiv list of figures 1004
+xiv list of symbols 87
+xix list of figures 311
+xvi list of figures 444
+xxi list of figures 140

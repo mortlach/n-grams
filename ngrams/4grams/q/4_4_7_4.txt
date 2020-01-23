@@ -1,3 +1,5 @@
-quit bets 43 quit jobs
-109 quit jobs 138 quit
-jobs 137 quit jobs 97
+quit making election bets 43
+quit their current jobs 109
+quit their present jobs 138
+quit their previous jobs 137
+quit their regular jobs 97

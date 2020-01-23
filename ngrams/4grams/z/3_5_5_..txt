@@ -1,3 +1,6 @@
-zum . 42 zur .
-630 zur . 895 zur
-. 45 zur . 66
+zum ziele haben . 42
+zur folge haben . 630
+zur folge hatte . 895
+zur neuen musik . 45
+zur seite stand . 66
+zur seite steht . 89

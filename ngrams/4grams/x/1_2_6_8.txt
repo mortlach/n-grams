@@ -1,1 +1,3 @@
-x negative 139 x positive
+x is always negative 139
+x is always positive 248
+x the angular velocity 72

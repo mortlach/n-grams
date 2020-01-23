@@ -1,5 +1,11 @@
-d out 96 d for 57
-d way 102 d way 172
-d way 100 d who 123
-d you 103 d and 53
-d with 101 d any 82
+d be in and out 96
+d be no way for 57
+d be on her way 102
+d be on his way 172
+d be on our way 100
+d be the one who 123
+d do it for you 103
+d go to bed and 53
+d go to bed with 101
+d if he did any 82
+d if he did not 156

@@ -1,3 +1,6 @@
-zero closed 76 zest secret
-47 zone colony 54 zone
-series 46 zone permit 119
+zero around a closed 76
+zest covering a secret 47
+zone around a colony 54
+zone through a series 46
+zone without a permit 119
+zone without a special 115

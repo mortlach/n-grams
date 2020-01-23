@@ -1,2 +1,4 @@
-t that 457 t that
-261 t and 101 t
+t test indicated that 457
+t test indicates that 261
+t test statistic and 101
+t test statistic for 180

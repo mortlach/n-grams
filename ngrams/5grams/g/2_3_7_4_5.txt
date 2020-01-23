@@ -1,2 +1,4 @@
-go money 52 go lacking 41
-go about 50 go thomas 51
+go and collect some money 52
+go and collect those lacking 41
+go far towards bringing about 50
+go far towards buying thomas 51

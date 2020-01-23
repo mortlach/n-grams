@@ -1,5 +1,10 @@
-no done 50 no heard 126
-no heard 336 no more 73
-no been 86 no done 70
-no made 62 no been 61
-no more 238 no ways 76
+no an has ever done 50
+no ear had ever heard 126
+no ear has ever heard 336
+no foe they were more 73
+no king had ever been 86
+no king had ever done 70
+no king had ever made 62
+no king has ever been 61
+no king was ever more 238
+no or few other ways 76

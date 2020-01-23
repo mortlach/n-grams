@@ -1,1 +1,2 @@
-poem a 71 poem a 101
+poem was written about a 71
+poem was written after a 101

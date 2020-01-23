@@ -1,3 +1,5 @@
-j diameter 43 j beginning
-42 j diameter 828 j
-produce 45 j denoted 374
+j feet in diameter 43
+j from the beginning 42
+j inch in diameter 828
+j used to produce 45
+j will be denoted 374

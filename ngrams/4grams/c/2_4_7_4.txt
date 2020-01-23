@@ -1,3 +1,5 @@
-cm site 65 cm mass
-65 cm from 71 cm
-from 117 cm from 100
+cm from primary site 65
+cm left adrenal mass 65
+cm line emission from 71
+cm radio emission from 117
+cm were removed from 100

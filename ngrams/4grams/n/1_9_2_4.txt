@@ -1,5 +1,9 @@
-n great 120 n zero
-45 n great 40 n
-time 48 n length 96
-n time 131 n unit
-62 n mass 126 n
+n alexander the great 120
+n converges to zero 45
+n frederick the great 40
+n indicates the time 48
+n intervals of length 96
+n intervals of time 131
+n molecules in unit 62
+n particles of mass 126
+n represent the ratio 51

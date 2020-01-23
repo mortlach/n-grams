@@ -1,1 +1,2 @@
-quit alive 53 quit until
+quit these mountains alive 53
+quit these mountains until 47

@@ -1,6 +1,10 @@
-path computed 61 pay interest
-46 pay injuries 726 pay
-leasehold 89 pay personal 159
-pay property 328 pay services
-467 peak velocity 177 peak
-positions 41 peak pressure 142
+path coefficients are computed 61
+pay amortization and interest 46
+pay compensation for injuries 726
+pay compensation for leasehold 89
+pay compensation for personal 159
+pay compensation for property 328
+pay compensation for services 467
+peak acceleration and velocity 177
+peak intensities and positions 41
+peak temperature and pressure 142

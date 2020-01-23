@@ -1,2 +1,4 @@
-b same 387 b made 110
-b used 96 b zero 178
+b are not the same 387
+b can not be made 110
+b can not be used 96
+b can not be zero 178

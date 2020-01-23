@@ -1,1 +1,3 @@
-cm slab 66 cm wall
+cm thick concrete slab 66
+cm thick concrete wall 45
+cm were obtained from 118

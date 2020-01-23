@@ -1,1 +1,2 @@
-job president 79 job customers 44
+job as senior vice president 79
+job of serving their customers 44

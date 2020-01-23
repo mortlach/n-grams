@@ -1,4 +1,8 @@
-re . 73 re .
-120 re . 177 re
-. 180 re . 414
-ring . 109 ring .
+re exactly right . 73
+re friends again . 120
+re southern indus . 177
+re together again . 180
+re worried about . 414
+ring current region . 109
+ring fifteen times . 140
+ring several times . 548

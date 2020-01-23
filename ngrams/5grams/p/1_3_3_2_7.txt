@@ -1,2 +1,4 @@
-p written 52 p failure 41
-p measured 44 p written 40
+p and can be written 52
+p and that of failure 41
+p can not be measured 44
+p may then be written 40

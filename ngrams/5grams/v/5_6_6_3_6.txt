@@ -1,4 +1,9 @@
-vetoed soviet 46 vision clearer 51
-voice emotion 155 voice emotion 124
-voice louder 333 voice softer 74
-voice eagerly 80 voice shouting 94
+vetoed united states and soviet 46
+vision became clearer and clearer 51
+voice almost choked with emotion 155
+voice became choked with emotion 124
+voice became louder and louder 333
+voice became softer and softer 74
+voice called angrily and eagerly 80
+voice seemed hoarse with shouting 94
+voice sounding softer and farther 79

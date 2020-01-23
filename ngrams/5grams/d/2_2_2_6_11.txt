@@ -1,5 +1,10 @@
-db frequencies 53 db frequencies 128
-db frequencies 144 do construction 97
-do consequence 75 do obstructions 67
-do particulars 1089 do legislative 50
-do particulars 40 do competitive 58
+db at the higher frequencies 53
+db in the higher frequencies 128
+db in the speech frequencies 144
+do in the strict construction 97
+do is of little consequence 75
+do is to remove obstructions 67
+do it in minute particulars 1089
+do so by proper legislative 50
+do so in minute particulars 40
+do so to remain competitive 58

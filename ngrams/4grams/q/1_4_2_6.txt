@@ -1,4 +1,7 @@
-q center 263 q origin
-56 q common 716 q
-chosen 162 q greater 162
-q called 128 q greater
+q from the center 263
+q from the origin 56
+q have no common 716
+q must be chosen 162
+q must be greater 162
+q will be called 128
+q will be greater 65

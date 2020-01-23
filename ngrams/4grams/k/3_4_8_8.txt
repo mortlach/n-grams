@@ -1,1 +1,2 @@
-key identify 126 kings monarchs
+key must uniquely identify 126
+kings were absolute monarchs 77

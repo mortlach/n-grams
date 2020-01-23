@@ -1,2 +1,5 @@
-later clusters 61 linear equations 163
-linear problems 302 linear analysis 158
+later two initially separated clusters 61
+linear and nonlinear algebraic equations 163
+linear and nonlinear programming problems 302
+linear and nonlinear regression analysis 158
+local and imported petroleum products 50

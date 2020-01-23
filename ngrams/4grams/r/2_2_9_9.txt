@@ -1,3 +1,5 @@
-ring surrounding 54 ring surrounding
-55 ring surrounding 165 ring
-distended 52 ring surrounding 160
+ring of cytoplasm surrounding 54
+ring of detectors surrounding 55
+ring of mountains surrounding 165
+ring of onlookers distended 52
+ring of tentacles surrounding 160

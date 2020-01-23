@@ -1,1 +1,3 @@
-g load 1825 g were
+g oral glucose load 1825
+g soil samples were 67
+g were divided into 566

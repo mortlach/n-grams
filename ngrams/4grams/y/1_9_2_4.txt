@@ -1,3 +1,5 @@
-y well 115 y cost
-59 y length 49 y
-other 48 y same 163
+y directions as well 115
+y represent the cost 59
+y represent the length 49
+y represent the other 48
+y represent the same 163

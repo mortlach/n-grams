@@ -1,5 +1,11 @@
-per height 55 per square 53
-put common 61 put measure 42
-put number 258 put policy 597
-put scheme 405 put series 777
-put special 53 put system 1089
+per hour through a height 55
+per hour through a square 53
+put into effect a common 61
+put into effect a measure 42
+put into effect a number 258
+put into effect a policy 597
+put into effect a scheme 405
+put into effect a series 777
+put into effect a special 53
+put into effect a system 1089
+put into speech a something 42

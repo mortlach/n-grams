@@ -1,1 +1,3 @@
-ph measurement 45 ph controlled
+ph and its measurement 45
+ph was not controlled 353
+ph was then determined 63

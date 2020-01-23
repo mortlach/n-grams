@@ -1,5 +1,9 @@
-ear stomach 107 eat journey
-64 eat insects 46 eat
-berries 137 eat spiders 257
-eat dinners 41 eat discuss
-48 eat custard 57 en
+ear against her stomach 107
+eat against our journey 64
+eat berries and insects 46
+eat insects and berries 137
+eat insects and spiders 257
+eat lunches and dinners 41
+eat together and discuss 48
+eat venison and custard 57
+en rapport with himself 96

@@ -1,4 +1,8 @@
-rang times 107 read cover 75
-read again 71 red white 150
-run cells 94 run times 97
-run times 98 run shoal 50
+rang the doorbell three times 107
+read the magazine from cover 75
+read the sentence over again 71
+red is dominant over white 150
+run on hydrogen fuel cells 94
+run the gauntlet four times 97
+run the gauntlet three times 98
+run the schooner into shoal 50

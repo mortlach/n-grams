@@ -1,1 +1,3 @@
-fertilization not 64 frontiersman not 41
+fertilization may or may not 64
+frontiersman did or did not 41
+frontiersmen was in one way 41

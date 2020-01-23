@@ -1,3 +1,6 @@
-t from 931 t into 109
-t from 623 t from 229
-t from 149 t from 40
+t can be calculated from 931
+t can be decomposed into 109
+t can be determined from 623
+t may be calculated from 229
+t may be determined from 149
+t may be eliminated from 40

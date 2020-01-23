@@ -1,3 +1,5 @@
-foe walls 50 ft below
-158 ft water 66 ft
-water 177 ft point 55
+foe beneath her walls 50
+ft above and below 158
+ft above low water 66
+ft below low water 177
+ft below this point 55

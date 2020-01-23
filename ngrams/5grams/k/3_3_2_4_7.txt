@@ -1,2 +1,5 @@
-key pressed 60 key presses 49
-kin persons 43 kings classes 79
+key that the user pressed 60
+key that the user presses 49
+kin are the type persons 43
+kings and the ruling classes 79
+kings did in their several 49

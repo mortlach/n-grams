@@ -1,3 +1,6 @@
-use day 114 use day 162
-use lot 100 use day 304
-use new 260 use lot 70
+use four times a day 114
+use many times a day 162
+use their hands a lot 100
+use three times a day 304
+use when creating a new 260
+use your hands a lot 70

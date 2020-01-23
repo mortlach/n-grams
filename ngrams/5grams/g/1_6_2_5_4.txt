@@ -1,1 +1,2 @@
-g from 168 g into 347
+g bullet is fired from 168
+g bullet is fired into 347

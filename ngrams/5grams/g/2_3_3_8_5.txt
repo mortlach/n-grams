@@ -1,3 +1,6 @@
-go which 193 go walks 99
-go haste 57 go speed 170
-go morning 75 go night 126
+go bid them farewell which 193
+go for long solitary walks 99
+go with all possible haste 57
+go with all possible speed 170
+go with you tomorrow morning 75
+go with you tomorrow night 126

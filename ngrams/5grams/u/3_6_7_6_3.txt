@@ -1,1 +1,3 @@
-use and 42 using and 52
+use active listening skills and 42
+using finite element methods and 52
+using latent variable models with 78

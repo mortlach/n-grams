@@ -1,2 +1,4 @@
-vague definite 57 valid mortgage 49
-value specific 177 votes majority 78
+vague impression for a definite 57
+valid agreement for a mortgage 49
+value associated with a specific 177
+votes necessary for a majority 78

@@ -1,1 +1,2 @@
-image duration 41 issue purpose 59
+image remained for any duration 41
+issue licenses for that purpose 59

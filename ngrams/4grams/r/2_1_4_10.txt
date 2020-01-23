@@ -1,1 +1,2 @@
-re proprietor 88 re attractive
+re a sole proprietor 88
+re a very attractive 130

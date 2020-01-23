@@ -1,3 +1,5 @@
-quit motions 206 quit places
-72 quit before 180 quit
-without 315 quit without 40
+quit even these motions 206
+quit their hiding places 72
+quit their jobs before 180
+quit their jobs without 315
+quit their post without 40

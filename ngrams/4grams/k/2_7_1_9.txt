@@ -1,1 +1,2 @@
-king commission 146 king temporary
+king granted a commission 146
+king granted a temporary 43

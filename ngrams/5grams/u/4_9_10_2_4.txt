@@ -1,1 +1,2 @@
-upon type 62 user well 127
+upon neighbors constitute the type 62
+user navigation information as well 127

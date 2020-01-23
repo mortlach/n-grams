@@ -1,1 +1,3 @@
-c angle 163 c from
+c and friction angle 163
+c are derived from 110
+c net capital gain 43

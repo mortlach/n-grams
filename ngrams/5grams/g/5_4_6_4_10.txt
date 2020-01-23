@@ -1,1 +1,3 @@
-genes identified 213 goods destination 303
+genes have already been identified 213
+goods have reached their destination 303
+grown into something more substantial 41

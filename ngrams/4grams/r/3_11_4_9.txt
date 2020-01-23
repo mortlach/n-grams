@@ -1,2 +1,4 @@
-ray pregnancy 148 ray performed
-138 ray performed 135 ray
+ray examinations during pregnancy 148
+ray examinations were performed 138
+ray experiments were performed 135
+ray measurements were performed 437

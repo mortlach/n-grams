@@ -1,1 +1,2 @@
-quoth terror 49 quoth myself
+quoth i in terror 49
+quoth i to myself 967

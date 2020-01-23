@@ -1,3 +1,5 @@
-via molecules 58 via receptors
-782 via transform 184 via
-receptors 49 via terminals 57
+via cell adhesion molecules 58
+via cell surface receptors 782
+via fast fourier transform 184
+via their antigen receptors 49
+via video display terminals 57

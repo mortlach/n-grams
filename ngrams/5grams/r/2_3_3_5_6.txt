@@ -1,1 +1,2 @@
-ring jutted 64 ring groups 73
+ring and key still jutted 64
+ring and two methyl groups 73

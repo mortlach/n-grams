@@ -1,1 +1,3 @@
-hospitalization considered 109 hyperthyroidism considered
+hospitalization must be considered 109
+hyperthyroidism must be considered 49
+hyperthyroidism such as tachycardia 94

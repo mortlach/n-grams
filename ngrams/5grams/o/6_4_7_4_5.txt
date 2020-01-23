@@ -1,1 +1,3 @@
-obtain bengal 40 offering coins 80
+obtain some tribute from bengal 40
+offering five hundred gold coins 80
+orders soon arrived from paris 83

@@ -1,3 +1,5 @@
-bear . 348 bee .
-44 being . 126 boy
-. 1474 but . 68
+bear ' s . 348
+bee ' s . 44
+being ' s . 126
+boy ' s . 1474
+but ' s . 68

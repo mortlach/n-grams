@@ -1,1 +1,2 @@
-dealer piece 66 drink straw 83
+dealer together rented a piece 66
+drink liquids through a straw 83

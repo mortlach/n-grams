@@ -1,4 +1,8 @@
-journey miles 517 journey miles 92
-journey miles 1283 journey miles 409
-journey miles 82 journey miles 116
-journey miles 42 junction lines 47
+journey of fifteen hundred miles 517
+journey of fifteen thousand miles 92
+journey of several hundred miles 1283
+journey of several thousand miles 409
+journey of sixteen hundred miles 82
+journey of thirteen hundred miles 116
+journey of thirteen thousand miles 42
+junction of several railway lines 47

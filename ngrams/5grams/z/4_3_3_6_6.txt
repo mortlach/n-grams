@@ -1,1 +1,2 @@
-zero values 89 zone beyond 1127
+zero for all finite values 89
+zone may not extend beyond 1127

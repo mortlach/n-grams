@@ -1,1 +1,2 @@
-quit year 52 quit not 55
+quit during the first year 52
+quit when he could not 55

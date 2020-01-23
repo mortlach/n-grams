@@ -1,2 +1,4 @@
-we connection 52 we expression 123
-we political 47 we statement 121
+we to understand the connection 52
+we to understand the expression 123
+we to understand the political 47
+we to understand the statement 121

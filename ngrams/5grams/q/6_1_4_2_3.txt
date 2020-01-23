@@ -1,4 +1,9 @@
-quoted two 278 quoted two 106
-quoted this 77 quoted his 59
-quotes this 56 quotes two 48
-quotes this 75 quotes his 92
+quoted a line or two 278
+quoted a page or two 106
+quoted a part of this 77
+quoted a saying of his 59
+quotes a case of this 56
+quotes a line or two 48
+quotes a part of this 75
+quotes a saying of his 92
+quotes a saying of our 40

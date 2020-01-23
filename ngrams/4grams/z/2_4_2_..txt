@@ -1,5 +1,9 @@
-z . 282 z .
-111 z . 116 zero
-. 296 zinc . 54
-zone . 77 zone .
-41 zoom . 109 zu
+z from eq . 282
+z from it . 111
+z into eq . 116
+zero from eq . 296
+zinc into it . 54
+zone will be . 77
+zone will go . 41
+zoom into it . 109
+zu ende ging . 156

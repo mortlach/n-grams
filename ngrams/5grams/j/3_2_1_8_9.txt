@@ -1,5 +1,10 @@
-job assistant 161 job operations 59
-job specialist 46 job technician 267
-job assistant 119 job counselor 148
-job detective 54 job assistant 85
-job developer 50 job different 64
+job as a clerical assistant 161
+job as a computer operations 59
+job as a computer specialist 46
+job as a computer technician 267
+job as a graduate assistant 119
+job as a guidance counselor 148
+job as a homicide detective 54
+job as a personal assistant 85
+job as a software developer 50
+job in a slightly different 64

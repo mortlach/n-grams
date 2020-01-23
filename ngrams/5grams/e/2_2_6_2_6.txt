@@ -1,4 +1,8 @@
-ear cochlea 44 ear detect 121
-ear follow 43 eat little 83
-eat school 51 eat talked 112
-eat fighting 64 eat opinion 68
+ear is called the cochlea 44
+ear is unable to detect 121
+ear is unable to follow 43
+eat it little by little 83
+eat my dinner in school 51
+eat my supper we talked 112
+eat the rations of fighting 64
+eat up errors by opinion 68

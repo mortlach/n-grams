@@ -1,2 +1,4 @@
-k equal 54 k given
-54 k small 46 k
+k is exactly equal 54
+k is usually given 54
+k is usually small 46
+k is usually taken 232

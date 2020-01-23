@@ -1,3 +1,6 @@
-qua advancement 106 qua appointment
-115 qua development 445 qua
-professional 57 qua sustainable 74
+qua non for advancement 106
+qua non for appointment 115
+qua non for development 445
+qua non for professional 57
+qua non for sustainable 74
+qua non for understanding 815

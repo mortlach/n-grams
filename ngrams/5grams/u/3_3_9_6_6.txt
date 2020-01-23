@@ -1,1 +1,2 @@
-use forces 72 use weapons 46
+use its strategic nuclear forces 72
+use its strategic nuclear weapons 46

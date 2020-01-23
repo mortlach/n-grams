@@ -1,3 +1,7 @@
-left in 332 left is 95
-left by 81 left as 50
-left in 534 left is 303
+left ventricular diastolic dysfunction in 332
+left ventricular diastolic dysfunction is 95
+left ventricular diastolic properties by 81
+left ventricular systolic dysfunction as 50
+left ventricular systolic dysfunction in 534
+left ventricular systolic dysfunction is 303
+left ventricular systolic dysfunction or 198

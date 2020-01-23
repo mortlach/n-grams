@@ -1,4 +1,8 @@
-ph ionic 210 ph acid
-127 ph from 257 ph
-from 906 ph from 42
-ph acid 210 ph soil
+ph at constant ionic 210
+ph in estimating acid 127
+ph is decreased from 257
+ph is increased from 906
+ph is obtained from 42
+ph is slightly acid 210
+ph of alkaline soil 56
+pm on weekdays only 103

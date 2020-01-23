@@ -1,3 +1,5 @@
-quit because 80 quit service
-163 quit because 48 quit
-console 127 quit banquet 59
+quit the business because 80
+quit the military service 163
+quit the ministry because 48
+quit the recovery console 127
+quit the untasted banquet 59

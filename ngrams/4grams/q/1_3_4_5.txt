@@ -1,2 +1,4 @@
-q large 86 q small
-100 q found 137 q
+q are very large 86
+q are very small 100
+q has been found 137
+q has been taken 101

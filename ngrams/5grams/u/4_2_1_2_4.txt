@@ -1,3 +1,7 @@
-unit less 42 unit worth 54
-upon very 42 used look 138
-used room 64 used room 40
+unit of x is less 42
+unit of x is worth 54
+upon as a thing very 42
+used am i to look 138
+used as a tea room 64
+used as a tv room 40
+used to a thing like 55

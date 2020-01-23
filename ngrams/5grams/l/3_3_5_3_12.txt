@@ -1,3 +1,7 @@
-law jurisdictions 750 law consequently 44
-law governmental 57 law international 44
-law investigation 47 law particularly 73
+law and civil law jurisdictions 750
+law and order and consequently 44
+law and order and governmental 57
+law and order and international 44
+law and order and investigation 47
+law and order and particularly 73
+law for people with disabilities 132

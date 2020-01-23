@@ -1,3 +1,7 @@
-gas calorific 97 get somewhere 50
-get reputation 54 get interview 126
-get somewhere 49 goes interview 92
+gas has a low calorific 97
+get him a bed somewhere 50
+get you a bad reputation 54
+get you a job interview 126
+get you a job somewhere 49
+goes for a job interview 92
+going for a job interview 1887

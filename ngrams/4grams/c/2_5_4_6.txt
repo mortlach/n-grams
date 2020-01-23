@@ -1,1 +1,2 @@
-cm lenses 46 cm quartz
+cm focal length lenses 46
+cm focal length quartz 64

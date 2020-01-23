@@ -1,1 +1,3 @@
-transfer to 117 transfer to 123
+transfer function from r to 117
+transfer function from u to 123
+transfer function from w to 90

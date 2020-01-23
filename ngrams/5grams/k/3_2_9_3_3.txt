@@ -1,1 +1,3 @@
-key each 132 key one 40
+key is associated with each 132
+key is associated with one 40
+key is generated for each 100

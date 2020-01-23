@@ -1,1 +1,3 @@
-narrowly a 64 negative a 194
+narrowly escaping capture by a 64
+negative number divided by a 194
+negative number results in a 108

@@ -1,1 +1,2 @@
-eat species 45 eat variety
+eat a certain species 45
+eat a limited variety 63

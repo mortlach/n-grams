@@ -1,2 +1,4 @@
-quit turkey 56 quit notice
-293 quit another 45 quit
+quit drinking cold turkey 56
+quit without giving notice 293
+quit without having another 45
+quit without saving changes 218

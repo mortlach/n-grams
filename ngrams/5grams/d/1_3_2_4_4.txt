@@ -1,3 +1,6 @@
-d what 248 d have 42
-d when 180 d what 54
-d when 57 d more 53
+d ask to know what 248
+d does the firm have 42
+d had in mind when 180
+d let me know what 54
+d let me know when 57
+d try to make more 53

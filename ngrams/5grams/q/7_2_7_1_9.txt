@@ -1,1 +1,2 @@
-question knowledge 40 question candidate 53
+question of obtaining a knowledge 40
+question of selecting a candidate 53

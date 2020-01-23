@@ -1,3 +1,5 @@
-kerosene a 128 kerosene a
-98 keyboard a 51 knapsack
-a 53 knapsack a 107
+kerosene lantern and a 128
+kerosene lantern with a 98
+keyboard covered with a 51
+knapsack problem with a 53
+knapsack sprayer with a 107

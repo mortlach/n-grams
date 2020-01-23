@@ -1,1 +1,3 @@
-k each 44 k this
+k corresponding to each 44
+k corresponding to this 41
+k observations in each 50

@@ -1,6 +1,11 @@
-quit minister 50 quit direction
-77 quit business 45 quit
-entirely 41 quit business 82
-quit business 368 quit dominions
-65 quit assigned 56 quit
-entirely 181 quit presence 65
+quit as prime minister 50
+quit in every direction 77
+quit the dairy business 45
+quit the field entirely 41
+quit the movie business 82
+quit the music business 368
+quit the papal dominions 65
+quit the place assigned 56
+quit the place entirely 181
+quit the royal presence 65
+quit the whole business 331

@@ -1,1 +1,3 @@
-cm dishes 754 cm flasks
+cm tissue culture dishes 754
+cm tissue culture flasks 132
+cm tissue culture plates 334

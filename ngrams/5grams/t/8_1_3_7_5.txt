@@ -1,2 +1,4 @@
-traveled miles 91 traveled yards 95
-traversing yards 40 trenches yards 190
+traveled a few hundred miles 91
+traveled a few hundred yards 95
+traversing a few hundred yards 40
+trenches a few hundred yards 190

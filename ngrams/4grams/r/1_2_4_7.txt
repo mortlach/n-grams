@@ -1,4 +1,7 @@
-r language 210 r dialects
-87 r smaller 543 r
-integer 41 r objects 65
-r between 56 r between
+r in their language 210
+r in these dialects 87
+r is much smaller 543
+r is some integer 41
+r of these objects 65
+r the angle between 56
+r the ratio between 122

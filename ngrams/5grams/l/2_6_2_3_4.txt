@@ -1,2 +1,4 @@
-lb hand 183 ll saying 105
-ll from 65 ll saying 64
+lb weight in each hand 183
+ll excuse me for saying 105
+ll expect to hear from 65
+ll pardon me for saying 64

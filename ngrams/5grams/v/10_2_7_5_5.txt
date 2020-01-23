@@ -1,1 +1,2 @@
-volatility since 52 volatility under 123
+volatility of exchange rates since 52
+volatility of exchange rates under 123

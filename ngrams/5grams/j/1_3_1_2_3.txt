@@ -1,2 +1,5 @@
-j not 62 j not 411
-j not 100 j not 538
+j and i am not 62
+j and i do not 411
+j but i am not 100
+j but i do not 538
+j for i do not 146

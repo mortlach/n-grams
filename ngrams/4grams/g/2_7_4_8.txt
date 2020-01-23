@@ -1,6 +1,11 @@
-go husbands 44 go immediate
-40 go interest 60 go
-personal 104 go religious 87
-go everyone 67 go intuition
-52 go personal 62 go
-immediate 97 go villages 53
+go against their husbands 44
+go against their immediate 40
+go against their interest 60
+go against their personal 104
+go against their religious 87
+go against what everyone 67
+go against your intuition 52
+go against your personal 62
+go outside their immediate 97
+go outside their villages 53
+go outside these concepts 130

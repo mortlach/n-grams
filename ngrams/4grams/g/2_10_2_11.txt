@@ -1,3 +1,5 @@
-go investigate 102 go philadelphia
-87 go investigate 59 go
-conventional 59 go misdiagnosed 86
+go downstairs to investigate 102
+go immediately to philadelphia 87
+go undercover to investigate 59
+go undetected by conventional 59
+go undiagnosed or misdiagnosed 86

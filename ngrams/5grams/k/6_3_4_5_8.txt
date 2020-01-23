@@ -1,3 +1,7 @@
-killed prisoner 50 killed prisoner 55
-killed seriously 55 killed prisoner 41
-killed seriously 84 killed prisoner 69
+killed and five taken prisoner 50
+killed and four taken prisoner 55
+killed and many others seriously 55
+killed and many taken prisoner 41
+killed and three others seriously 84
+killed and three taken prisoner 69
+kingdoms had their suits rejected 109

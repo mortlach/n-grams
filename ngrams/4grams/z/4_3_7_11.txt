@@ -1,3 +1,5 @@
-zero distributed 54 zero distribution
-297 zero temperature 299 zero
-temperature 202 zoos institutions 117
+zero mean gaussian distributed 54
+zero mean gaussian distribution 297
+zero with decreasing temperature 299
+zero with increasing temperature 202
+zoos and research institutions 117

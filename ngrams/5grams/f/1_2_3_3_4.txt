@@ -1,3 +1,6 @@
-f seem 86 f been 326
-f been 41 f only 132
-f till 201 f cent 263
+f it does not seem 86
+f it had not been 326
+f it has long been 41
+f it was not only 132
+f it was not till 201
+f of one per cent 263

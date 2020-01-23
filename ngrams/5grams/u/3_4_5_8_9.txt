@@ -1,2 +1,5 @@
-use knowledge 216 use political 69
-use knowledge 64 using knowledge 55
+use their newly acquired knowledge 216
+use their newly acquired political 69
+use your newly acquired knowledge 64
+using their newly acquired knowledge 55
+using very small aperture terminals 60

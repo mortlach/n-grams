@@ -1,5 +1,10 @@
-use forth 63 use three 47
-use have 149 use ways 43
-use form 59 use away 98
-use bread 86 use forth 52
-use land 63 using type 82
+use doctrine as set forth 63
+use elements of all three 47
+use licorice if you have 149
+use materials in new ways 43
+use nitrogen in this form 59
+use scissors to cut away 98
+use scissors to cut bread 86
+use therefore to set forth 52
+use whatever of his land 63
+using materials of this type 82

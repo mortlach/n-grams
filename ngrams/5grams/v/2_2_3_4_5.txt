@@ -1,2 +1,4 @@
-via canal 42 via state 237
-via times 209 via river 305
+via the new erie canal 42
+via the new york state 237
+via the new york times 209
+via the san juan river 305

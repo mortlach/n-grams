@@ -1,2 +1,4 @@
-key while 60 key goals 401
-key goals 135 kings power 51
+key is pressed down while 60
+key to achieving these goals 401
+key to achieving your goals 135
+kings to increase their power 51

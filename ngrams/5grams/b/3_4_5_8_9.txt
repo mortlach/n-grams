@@ -1,2 +1,4 @@
-but incubation 45 but conditions 78
-but conditions 371 but descended 45
+but only after prolonged incubation 45
+but only under anaerobic conditions 78
+but only under specific conditions 371
+but were either probably descended 45

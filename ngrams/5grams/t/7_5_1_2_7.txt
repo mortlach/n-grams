@@ -1,1 +1,3 @@
-tensile applied 93 tensile applied 91
+tensile force f is applied 93
+tensile force p is applied 91
+towards which i am advancing 148

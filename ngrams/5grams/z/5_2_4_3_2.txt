@@ -1,1 +1,2 @@
-zeros the 79 zones to 64
+zeros to fill out the 79
+zones on their way to 64

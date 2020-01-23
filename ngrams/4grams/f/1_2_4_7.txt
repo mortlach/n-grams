@@ -1,4 +1,7 @@
-f follows 42 f smaller
-119 f function 406 f
-defined 105 f between 48
-f account 149 f century
+f in what follows 42
+f is much smaller 119
+f is some function 406
+f is well defined 105
+f the angle between 48
+f the best account 149
+f the last century 83

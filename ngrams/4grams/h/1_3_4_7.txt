@@ -1,1 +1,3 @@
-h assumed 52 h defined
+h has been assumed 52
+h has been defined 52
+h has been measured 131

@@ -1,1 +1,2 @@
-w radius 175 w energy 44
+w is the beam radius 175
+w is the mean energy 44

@@ -1,1 +1,3 @@
-knowledge contain 84 knowledge interior 87
+knowledge base does not contain 84
+knowledge from its own interior 87
+knowledge there are two courses 119

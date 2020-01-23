@@ -1,1 +1,2 @@
-n from 134 n been 44
+n is any number from 134
+n it has already been 44

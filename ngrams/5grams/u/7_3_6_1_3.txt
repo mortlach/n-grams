@@ -1,1 +1,2 @@
-uniform gun 234 upright man 44
+uniform and carrying a gun 234
+upright and honest a man 44

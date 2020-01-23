@@ -1,6 +1,10 @@
-ll opportunity 464 ll opportunity
-570 ll satisfaction 228 ll
-concentrate 42 ll investigate 63
-ll appointment 188 ll arrangements
-176 ll opportunity 82 ll
-investigate 64 ls alternative 143
+ll have an opportunity 464
+ll have the opportunity 570
+ll have the satisfaction 228
+ll have to concentrate 42
+ll have to investigate 63
+ll make an appointment 188
+ll make the arrangements 176
+ll take the opportunity 82
+ll want to investigate 64
+ls there an alternative 143

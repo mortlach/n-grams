@@ -1,1 +1,2 @@
-eat bites 55 eat every 40
+eat a few more bites 55
+eat a raw onion every 40

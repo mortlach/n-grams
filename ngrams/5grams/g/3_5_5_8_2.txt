@@ -1,4 +1,9 @@
-gap be 65 gas be 122
-get of 77 get of 300
-get of 50 get of 257
-get of 54 got of 188
+gap which would otherwise be 65
+gas which would otherwise be 122
+get within casting distance of 77
+get within hailing distance of 300
+get within reaching distance of 50
+get within speaking distance of 257
+get within walking distance of 54
+got within hailing distance of 188
+got within speaking distance of 144

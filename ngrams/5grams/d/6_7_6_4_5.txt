@@ -1,2 +1,4 @@
-detect stars 78 detect stars 47
-direct short 103 double place 64
+detect planets around other stars 78
+detect planets orbiting other stars 47
+direct taxation should stop short 103
+double marriage should take place 64

@@ -1,2 +1,5 @@
-jurisdiction all 68 jurisdiction this 40
-jurisdiction its 53 jurisdiction that 62
+jurisdiction also extends to all 68
+jurisdiction over matters of this 40
+jurisdiction over members of its 53
+jurisdiction over persons of that 62
+jurisdiction over persons or things 323

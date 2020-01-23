@@ -1,1 +1,3 @@
-zero short 48 zone coast 65
+zero when it was short 48
+zone along the east coast 65
+zone during the dry season 71

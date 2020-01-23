@@ -1,1 +1,3 @@
-n are 91 n are
+n elements which are 91
+n junctions which are 114
+n variables which are 166

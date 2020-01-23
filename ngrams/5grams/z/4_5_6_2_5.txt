@@ -1,1 +1,2 @@
-zinc cover 132 zone board 40
+zinc large enough to cover 132
+zone change before the board 40

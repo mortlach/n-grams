@@ -1,2 +1,4 @@
-cm superior 148 cm lateral
-126 cm inferior 107 cm
+cm anterior and superior 148
+cm inferior and lateral 126
+cm lateral and inferior 107
+cm superior and lateral 87

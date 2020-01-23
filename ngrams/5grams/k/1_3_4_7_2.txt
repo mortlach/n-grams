@@ -1,1 +1,2 @@
-k in 1188 k to 50
+k are unit vectors in 1188
+k has been assumed to 50

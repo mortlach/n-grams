@@ -1,2 +1,5 @@
-judgment value 120 judgment thereon 277
-juvenile court 51 juvenile court 66
+judgment about the relative value 120
+judgment shall be rendered thereon 277
+juvenile cases to criminal court 51
+juvenile court or criminal court 66
+juvenile court to criminal court 128

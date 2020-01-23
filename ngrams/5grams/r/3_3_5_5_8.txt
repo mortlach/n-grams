@@ -1,3 +1,7 @@
-read numerals 87 real potential 243
-red produces 108 red streamers 46
-red curtains 42 red produced 55
+read and write roman numerals 87
+real gdp falls below potential 243
+red and green light produces 108
+red and green paper streamers 46
+red and white check curtains 42
+red and white wines produced 55
+red seal which quite startled 47

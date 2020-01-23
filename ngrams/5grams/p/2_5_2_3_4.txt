@@ -1,1 +1,2 @@
-ph unit 77 ph less 125
+ph change of one unit 77
+ph value of not less 125

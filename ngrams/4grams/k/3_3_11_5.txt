@@ -1,3 +1,5 @@
-key files 83 key human
-49 kin others 151 kings
-gazed 182 kings would 91
+key and certificate files 83
+key for understanding human 49
+kin and significant others 151
+kings and commonwealths gazed 182
+kings and commonwealths would 91

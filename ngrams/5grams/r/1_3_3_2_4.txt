@@ -1,2 +1,5 @@
-r same 49 r less 84
-r made 57 r used 190
+r are not the same 49
+r can not be less 84
+r can not be made 57
+r can not be used 190
+r can not be zero 43

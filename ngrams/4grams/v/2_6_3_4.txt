@@ -1,6 +1,10 @@
-via tube 45 via java
-82 via salt 81 via
-rome 87 via fiji 77
-via guam 61 via peking
-46 via suez 91 via
-iran 52 via syria 53
+via cathode ray tube 45
+via ceylon and java 82
+via denver and salt 81
+via greece and rome 87
+via hawaii and fiji 77
+via hawaii and guam 61
+via moscow and peking 46
+via panama and suez 91
+via turkey and iran 52
+via turkey and syria 53

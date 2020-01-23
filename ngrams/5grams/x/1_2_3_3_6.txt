@@ -1,1 +1,2 @@
-x number 70 x number 1047
+x be any real number 70
+x is any real number 1047

@@ -1,2 +1,4 @@
-zones areas 49 zones been
-50 zones been 67 zones
+zones have equal areas 49
+zones have never been 50
+zones have often been 67
+zones have since been 55

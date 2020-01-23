@@ -1,1 +1,2 @@
-zero zero 98 zinc wire 59
+zero and a double zero 98
+zinc with a copper wire 59

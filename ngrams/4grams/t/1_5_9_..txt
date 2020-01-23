@@ -1,1 +1,2 @@
-th . 53 th .
+th order polynomial . 53
+th order statistic . 60

@@ -1,3 +1,6 @@
-judge stranger 44 judge position 65
-judge correct 47 judge national 260
-jumping carriage 161 jumps process 47
+judge may be a stranger 44
+judge was in a position 65
+judge who is a correct 47
+judge who is a national 260
+jumping out of a carriage 161
+jumps man as a process 47

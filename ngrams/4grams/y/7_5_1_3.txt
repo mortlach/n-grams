@@ -1,3 +1,5 @@
-yielded few 97 yielded long
-88 yielded bit 48 yielded
-few 131 yielded few 66
+yielded after a few 97
+yielded after a long 88
+yielded quite a bit 48
+yielded quite a few 131
+yielded within a few 66

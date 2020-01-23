@@ -1,4 +1,7 @@
-g mass 62 g used
-179 g been 209 g
-used 266 g been 119
-g length 145 g mass
+g dry cell mass 62
+g each were used 179
+g has also been 209
+g has been used 266
+g may have been 119
+g per unit length 145
+g per unit mass 121

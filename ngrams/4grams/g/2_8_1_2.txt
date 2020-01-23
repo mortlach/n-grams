@@ -1,3 +1,5 @@
-go do 107 go am
-43 go am 248 go
-do 197 go go 298
+go anywhere i do 107
+go whenever i am 43
+go wherever i am 248
+go wherever i do 197
+go wherever i go 298

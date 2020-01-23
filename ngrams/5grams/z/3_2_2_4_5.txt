@@ -1,4 +1,8 @@
-zeal cause 975 zeal cause 443
-zeal cause 154 zeal cause 471
-zeal cause 40 zeal people 45
-zeal party 59 zeal class 78
+zeal in the good cause 975
+zeal in the great cause 443
+zeal in the holy cause 154
+zeal in the same cause 471
+zeal in the union cause 40
+zeal of the good people 45
+zeal of the other party 59
+zeal of the same class 78

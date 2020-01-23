@@ -1,2 +1,4 @@
-v lines 1060 v about
-52 v trade 310 v
+v eastern air lines 1060
+v greater than about 52
+v marine and trade 310
+v united air lines 1653

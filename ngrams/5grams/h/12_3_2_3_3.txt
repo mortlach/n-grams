@@ -1,3 +1,7 @@
-handkerchief bag 744 handkerchief hat 177
-handkerchief hip 205 handkerchief top 57
-historically own 91 historically own 89
+handkerchief out of her bag 744
+handkerchief out of his hat 177
+handkerchief out of his hip 205
+handkerchief out of his top 57
+historically and in his own 91
+historically and in our own 89
+historically and to this day 111

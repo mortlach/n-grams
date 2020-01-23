@@ -1,1 +1,3 @@
-yield a 86 yield a
+yield results after a 86
+yield results within a 242
+yoked together under a 44

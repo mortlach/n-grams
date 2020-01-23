@@ -1,1 +1,3 @@
-zone five 125 zone four 82
+zone is divided into five 125
+zone is divided into four 82
+zone is divided into three 254

@@ -1,1 +1,2 @@
-r axis 54 r think 72
+r from the beam axis 54
+r what do you think 72

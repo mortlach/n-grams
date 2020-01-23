@@ -1,2 +1,4 @@
-zone figure 41 zone beyond
-322 zone beyond 386 zone
+zone a in figure 41
+zone a or beyond 322
+zone b or beyond 386
+zone c or beyond 54

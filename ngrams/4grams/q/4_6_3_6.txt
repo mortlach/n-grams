@@ -1,5 +1,9 @@
-quit drugging 46 quit gambling
-49 quit return 42 quit
-enough 57 quit became 122
-quit become 232 quit joined
-331 quit return 75 quit
+quit drinking and drugging 46
+quit drinking and gambling 49
+quit france and return 42
+quit laughing long enough 57
+quit school and became 122
+quit school and become 232
+quit school and joined 331
+quit school and return 75
+quit school and worked 238

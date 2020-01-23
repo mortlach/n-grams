@@ -1,1 +1,2 @@
-uttered josiah 51 uttered drank 45
+uttered a lament for josiah 51
+uttered a prayer and drank 45

@@ -1,3 +1,5 @@
-v weekly 285 v county
-238 v sutton 199 v
-second 294 v exceed 52
+v herald and weekly 285
+v london and county 238
+v merton and sutton 199
+v meters per second 294
+v should not exceed 52

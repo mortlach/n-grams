@@ -1,4 +1,7 @@
-zu . 88 zu .
-50 zu . 45 zu
-. 85 zu . 176
-zu . 207 zu .
+zu beschreiben ist . 88
+zu entscheiden hat . 50
+zu entscheiden ist . 45
+zu vereinbaren ist . 85
+zu vergleichen ist . 176
+zu verzeichnen ist . 207
+zu verzeichnen war . 95

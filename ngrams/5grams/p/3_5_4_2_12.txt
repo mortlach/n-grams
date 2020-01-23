@@ -1,1 +1,3 @@
-path righteousness 40 per displacement 171
+path which leads to righteousness 40
+per cubic foot of displacement 171
+per cubic inch of displacement 461

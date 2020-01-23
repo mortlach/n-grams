@@ -1,1 +1,3 @@
-o smaller 50 o between
+o is much smaller 50
+o the angle between 50
+o the city engineer 102

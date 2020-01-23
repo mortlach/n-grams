@@ -1,1 +1,3 @@
-zero bond 68 zero from
+zero coupon treasury bond 68
+zero output voltage from 42
+zero output voltage when 236

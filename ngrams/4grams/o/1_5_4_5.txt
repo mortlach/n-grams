@@ -1,1 +1,2 @@
-o night 48 o serum
+o clock last night 48
+o fetal calf serum 58

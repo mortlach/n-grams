@@ -1,1 +1,2 @@
-zero with 328 zero for 84
+zero mean gaussian noise with 328
+zero net present value for 84

@@ -1,3 +1,6 @@
-ph body 117 ph body 120
-ph skin 102 ph ratio 100
-ph acid 92 ph range 347
+ph balance in the body 117
+ph balance of the body 120
+ph balance of the skin 102
+ph depends on the ratio 100
+ph optimum in the acid 92
+ph optimum in the range 347

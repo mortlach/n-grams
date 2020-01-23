@@ -1,1 +1,2 @@
-order a 52 order a 46
+order predicate logic as a 52
+order predicate logic is a 46

@@ -1,3 +1,6 @@
-m number 159 m called 95
-m killed 90 m should 848
-m should 42 m canada 60
+m is any real number 159
+m the one who called 95
+m the one who killed 90
+m the one who should 848
+m the one you should 42
+m the usa and canada 60

@@ -1,2 +1,5 @@
-go sent 40 go duty 44
-go trip 43 go else 58
+go as little children sent 40
+go on active military duty 44
+go on another business trip 43
+go to church anywhere else 58
+go to station straight from 71

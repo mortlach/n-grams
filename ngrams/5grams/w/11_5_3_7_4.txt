@@ -1,1 +1,2 @@
-whitewashed roof 42 workmanship fine 135
+whitewashed walls and thatched roof 42
+workmanship thereof was exceeding fine 135

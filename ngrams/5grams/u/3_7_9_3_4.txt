@@ -1,1 +1,2 @@
-use made 133 using rule 167
+use graphic interface that made 133
+using genetic algorithms and rule 167

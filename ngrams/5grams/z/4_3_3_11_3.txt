@@ -1,1 +1,2 @@
-zero mean 210 zone mean 44
+zero does not necessarily mean 210
+zone does not necessarily mean 44

@@ -1,1 +1,2 @@
-p enter 77 p speed
+p and press enter 77
+p and sound speed 46

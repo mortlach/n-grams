@@ -1,1 +1,2 @@
-xi to 42 xi as
+xi is assumed to 42
+xi is defined as 151

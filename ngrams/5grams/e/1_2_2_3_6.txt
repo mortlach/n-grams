@@ -1,1 +1,2 @@
-e energy 271 e states 41
+e is the mean energy 271
+e of the law states 41

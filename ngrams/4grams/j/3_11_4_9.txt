@@ -1,2 +1,4 @@
-job teenagers 188 job developed
-59 job employees 366 job
+job applications from teenagers 188
+job descriptions were developed 59
+job satisfaction among employees 366
+job satisfaction among industrial 47

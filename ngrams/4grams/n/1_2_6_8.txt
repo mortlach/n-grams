@@ -1,4 +1,8 @@
-n constant 48 n positive
-270 n constant 152 n
-carriers 103 n velocity 66
-n interest 50 n exponent
+n is almost constant 48
+n is always positive 270
+n is another constant 152
+n of charge carriers 103
+n the angular velocity 66
+n the public interest 50
+n the stress exponent 90
+n to become infinite 129

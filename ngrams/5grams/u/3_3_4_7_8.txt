@@ -1,2 +1,4 @@
-urea nitrogen 103 use behaviors 733
-use confined 155 use replaced 110
+urea and other organic nitrogen 103
+use and other problem behaviors 733
+use has been largely confined 155
+use has been largely replaced 110

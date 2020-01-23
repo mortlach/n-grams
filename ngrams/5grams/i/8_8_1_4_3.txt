@@ -1,3 +1,6 @@
-incident deal 46 industry deal 62
-industry deal 41 infantry far 86
-involved deal 60 involves for 66
+incident received a great deal 46
+industry requires a great deal 62
+industry suffered a great deal 41
+infantry occupied a wood far 86
+involved requires a great deal 60
+involves developing a plan for 66

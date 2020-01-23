@@ -1,5 +1,11 @@
-quay name 52 quay bank 102
-quay side 163 quay side 261
-quay side 190 quay side 113
-quid side 157 quit time 498
-quit last 69 quit when 43
+quay of the same name 52
+quay on the left bank 102
+quay on the north side 163
+quay on the other side 261
+quay on the south side 190
+quay on the west side 113
+quid to the other side 157
+quit at the same time 498
+quit of the very last 69
+quit on the spot when 43
+quiz on the next page 298

@@ -1,4 +1,7 @@
-go . 48 go .
-64 go . 41 go
-. 139 go . 231
-go . 59 go .
+go carefully now . 48
+go encouraging him . 64
+go perfectly mad . 41
+go someplace new . 139
+go somewhere new . 231
+go somewhere now . 59
+go somewhere too . 41

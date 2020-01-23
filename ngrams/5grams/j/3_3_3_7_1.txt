@@ -1,2 +1,5 @@
-job a 77 job a 106
-job a 42 job a 253
+job and thus receiving a 77
+job did not require a 106
+job does not provide a 42
+job does not require a 253
+job was not exactly a 42

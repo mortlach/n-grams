@@ -1,3 +1,6 @@
-use workers 122 use britain 58
-use sources 162 use account 440
-using sources 64 using sources 173
+use among health care workers 122
+use came from great britain 58
+use data from other sources 162
+use must take into account 440
+using data from many sources 64
+using data from other sources 173

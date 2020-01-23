@@ -1,1 +1,3 @@
-zenith to 43 zenith be
+zenith distance equal to 43
+zenith distance would be 184
+zonal wavelength equal to 57

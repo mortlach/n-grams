@@ -1,3 +1,5 @@
-job because 100 job buildings
-40 job cleaners 116 job
-reflect 70 job numbers 53
+job after another because 100
+job cleaning office buildings 40
+job selling vacuum cleaners 116
+job title should reflect 70
+job which needed numbers 53

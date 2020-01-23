@@ -1,2 +1,5 @@
-king brother 50 king family 56
-king barons 56 king should 211
+king himself and his brother 50
+king himself and his family 56
+king invited all his barons 56
+king ordered that they should 211
+king replied that they should 41

@@ -1,5 +1,9 @@
-h height 49 h height
-40 h groups 112 h
-english 61 h height 877
-h always 49 h greater
-52 h section 98 h
+h be its height 49
+h be this height 40
+h in both groups 112
+h in old english 61
+h is its height 877
+h is not always 49
+h is not greater 52
+h of this section 98
+h the mean height 68

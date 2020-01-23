@@ -1,1 +1,2 @@
-b parameters 198 b parameters
+b are fitting parameters 198
+b are model parameters 47

@@ -1,1 +1,2 @@
-pea face 94 ph used 114
+pea passing across the face 94
+ph meter should be used 114

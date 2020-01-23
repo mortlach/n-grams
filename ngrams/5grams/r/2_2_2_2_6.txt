@@ -1,3 +1,6 @@
-ring bottom 114 ring placed 69
-ring office 84 ring mobile 53
-ring inguinal 64 ring middle 118
+ring is at the bottom 114
+ring is to be placed 69
+ring me at the office 84
+ring me on my mobile 53
+ring or in the inguinal 64
+ring up in the middle 118

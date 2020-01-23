@@ -1,3 +1,5 @@
-youthfulness body 82 youthfulness face
-111 youthfulness face 405 youthfulness
-look 42 youthfulness mind 70
+youthfulness of her body 82
+youthfulness of her face 111
+youthfulness of his face 405
+youthfulness of his look 42
+youthfulness of his mind 70

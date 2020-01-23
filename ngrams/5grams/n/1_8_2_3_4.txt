@@ -1,1 +1,2 @@
-n york 204 n type 52
+n district of new york 204
+n equations of this type 52

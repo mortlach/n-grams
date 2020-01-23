@@ -1,1 +1,2 @@
-quotas entire 79 quoted source 75
+quotas have been kept entire 79
+quoted from some other source 75

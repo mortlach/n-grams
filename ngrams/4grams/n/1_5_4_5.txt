@@ -1,1 +1,2 @@
-n large 185 n about
+n grows very large 185
+n ranges from about 111

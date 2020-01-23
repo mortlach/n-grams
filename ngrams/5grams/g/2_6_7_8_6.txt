@@ -1,1 +1,2 @@
-go stages 98 go before 76
+go through several distinct stages 98
+go through several revisions before 76

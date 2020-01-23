@@ -1,4 +1,8 @@
-kg speed 158 king grant 47
-king large 113 king sword 59
-king faint 52 king grant 79
-king visit 71 king smile 88
+kg moving with a speed 158
+king gave him a grant 47
+king gave him a large 113
+king gave him a sword 59
+king made but a faint 52
+king made him a grant 79
+king paid him a visit 71
+king said with a smile 88

@@ -1,1 +1,2 @@
-xi of 103 xi of 41
+xi is the mean of 103
+xi is the sum of 41

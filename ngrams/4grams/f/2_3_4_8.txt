@@ -1,1 +1,3 @@
-ft observed 107 ft recorded
+ft has been observed 107
+ft has been recorded 44
+ft has been reported 174

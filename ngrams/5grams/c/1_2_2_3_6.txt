@@ -1,1 +1,2 @@
-c number 150 c thermal 43
+c is the mean number 150
+c is the mean thermal 43

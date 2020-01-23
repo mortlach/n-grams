@@ -1,6 +1,10 @@
-zebra few 48 zeros one
-241 zeros one 51 zoned
-use 111 zones few 111
-zones new 54 zones few
-42 zones long 52 zones
-two 161 zones low 142
+zebra and a few 48
+zeros and a one 241
+zeros with a one 51
+zoned for a use 111
+zones and a few 111
+zones and a new 54
+zones are a few 42
+zones for a long 52
+zones for a two 161
+zones with a low 142

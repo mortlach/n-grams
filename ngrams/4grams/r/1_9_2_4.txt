@@ -1,1 +1,2 @@
-r rate 73 r ratio
+r represent the rate 73
+r represent the ratio 96

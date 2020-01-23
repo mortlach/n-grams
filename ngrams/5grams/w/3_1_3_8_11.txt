@@ -1,4 +1,9 @@
-was possibility 58 was relationship 71
-with observations 47 with individuals 85
-with observations 97 with introduction 59
-with probability 107 with temperature 52
+was a real sensible possibility 58
+was a weak positive relationship 71
+with a few critical observations 47
+with a few isolated individuals 85
+with a few personal observations 97
+with a long critical introduction 59
+with a low clinical probability 107
+with a low critical temperature 52
+with a new physical environment 45

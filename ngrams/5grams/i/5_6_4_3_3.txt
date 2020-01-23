@@ -1,3 +1,6 @@
-image head 103 image head 72
-imply that 68 imply this 67
-items not 47 items are 50
+image popped into her head 103
+image popped into his head 72
+imply something more than that 68
+imply something more than this 67
+items listed here are not 47
+items measure what they are 50

@@ -1,4 +1,9 @@
-use stone 117 use sense 355
-use about 50 use words 63
-use terms 254 use sense 76
-use paper 57 use signs 82
+use for this bright stone 117
+use his own common sense 355
+use his own phrase about 50
+use his own touching words 63
+use old and homely terms 254
+use our own common sense 76
+use them for toilet paper 57
+use they are called signs 82
+using his own common sense 58

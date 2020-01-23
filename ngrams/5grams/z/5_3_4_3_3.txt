@@ -1,1 +1,2 @@
-zeros are 63 zeros can 56
+zeros and ones that are 63
+zeros and ones that can 56

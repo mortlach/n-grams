@@ -1,1 +1,2 @@
-foe death 51 ft tip 50
+foe gave him the death 51
+ft from tip to tip 50

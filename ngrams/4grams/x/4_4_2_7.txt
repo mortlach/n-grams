@@ -1,3 +1,5 @@
-xiii figures 2937 xiii symbols
-435 xiii reduced 47 xvii
-figures 802 xvii symbols 123
+xiii list of figures 2937
+xiii list of symbols 435
+xiii must be reduced 47
+xvii list of figures 802
+xvii list of symbols 123

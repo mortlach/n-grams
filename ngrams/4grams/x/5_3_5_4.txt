@@ -1,4 +1,7 @@
-xylem form 267 xylem from
-329 xylem have 251 xylem
-into 93 xylem rays 169
-xylem saps 111 xylem were
+xylem and phloem form 267
+xylem and phloem from 329
+xylem and phloem have 251
+xylem and phloem into 93
+xylem and phloem rays 169
+xylem and phloem saps 111
+xylem and phloem were 272

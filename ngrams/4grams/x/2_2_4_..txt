@@ -1,3 +1,5 @@
-xiv . 40 xm .
-773 xm . 511 xm
-. 155 xm . 202
+xiv to xvii . 40
+xm in length . 773
+xm in size . 511
+xm in width . 155
+xm or less . 202

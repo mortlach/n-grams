@@ -1,2 +1,4 @@
-use disease 131 use rights 47
-use rights 395 using barley 45
+use and peptic ulcer disease 131
+use any special drawing rights 47
+use its special drawing rights 395
+using for common drink barley 45

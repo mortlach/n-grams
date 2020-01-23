@@ -1,1 +1,3 @@
-ph of 281 ph of 393
+ph and buffer capacity of 281
+ph and partial pressure of 393
+ph and sodium chloride on 71

@@ -1,1 +1,2 @@
-king issue 418 king might 42
+king should die without issue 418
+king thought that something might 42

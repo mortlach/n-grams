@@ -1,1 +1,3 @@
-quit that 154 quit and
+quit a country that 154
+quit a program and 40
+quit a subject that 107

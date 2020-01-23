@@ -1,2 +1,5 @@
-query a 68 quiet a 58
-quiet a 64 quite a 72
+query will result in a 68
+quiet lake instead of a 58
+quiet side street in a 64
+quite good enough as a 72
+quite other notions of a 72

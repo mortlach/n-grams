@@ -1,3 +1,6 @@
-ph cations 130 ph source
-106 ph levels 528 ph
-status 337 ph volume 63
+ph and divalent cations 130
+ph and nitrogen source 106
+ph and nutrient levels 528
+ph and nutrient status 337
+ph and residual volume 63
+ph was slightly higher 53

@@ -1,4 +1,8 @@
-m gave 45 m gets 206
-m made 189 m must 40
-m told 159 m took 113
-m will 189 m want 88
+m the one who gave 45
+m the one who gets 206
+m the one who made 189
+m the one who must 40
+m the one who told 159
+m the one who took 113
+m the one who will 189
+m the one you want 88

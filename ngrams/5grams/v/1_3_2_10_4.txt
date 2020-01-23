@@ -1,3 +1,6 @@
-v from 497 v into 117
-v from 376 v from 113
-v from 153 v from 148
+v can be calculated from 497
+v can be decomposed into 117
+v can be determined from 376
+v can be eliminated from 113
+v may be calculated from 153
+v may be determined from 148

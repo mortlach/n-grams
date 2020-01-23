@@ -1,2 +1,5 @@
-venture thing 88 voltage to 932
-voltage to 301 voltage to 69
+venture upon such a thing 88
+voltage drop from a to 932
+voltage drop from b to 301
+voltage drop from c to 69
+voltage rise from a to 75

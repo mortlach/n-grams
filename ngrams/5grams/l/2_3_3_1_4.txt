@@ -1,4 +1,8 @@
-ll nice 45 ll beer 111
-ll copy 45 ll good 59
-ll nice 48 ll word 86
-ll feel 63 ll have 50
+ll bring you a nice 45
+ll buy you a beer 111
+ll get you a copy 45
+ll get you a good 59
+ll get you a nice 48
+ll not say a word 86
+ll see how i feel 63
+ll see that i have 50

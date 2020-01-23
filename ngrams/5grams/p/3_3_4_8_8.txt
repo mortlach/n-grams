@@ -1,5 +1,10 @@
-pay benefits 147 pay rendered 106
-pay services 83 pay directly 53
-pay requires 43 per employed 81
-per employed 51 put properly 48
-put execution 53 put practice 122
+pay and other economic benefits 147
+pay for other services rendered 106
+pay for their military services 83
+pay for these services directly 53
+pay for your education requires 43
+per day when actively employed 81
+per day when actually employed 51
+put out their proceeds properly 48
+put them into immediate execution 53
+put them into immediate practice 122

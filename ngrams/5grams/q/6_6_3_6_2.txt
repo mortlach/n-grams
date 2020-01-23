@@ -1,1 +1,2 @@
-quartz to 93 queues the 54
+quartz grains are angular to 93
+queues should not exceed the 54

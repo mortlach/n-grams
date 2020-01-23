@@ -1,3 +1,6 @@
-can . 47 can .
-42 can ? 149 can
-? 22109 can ? 130
+can add a . 47
+can get a . 42
+can not b ? 149
+can not i ? 22109
+can not l ? 130
+can use a . 144

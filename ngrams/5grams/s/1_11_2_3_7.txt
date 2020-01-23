@@ -1,4 +1,8 @@
-s respect 53 s subject 40
-s subject 49 s process 41
-s project 41 s subject 245
-s husband 73 s parents 78
+s contribution in this respect 53
+s contribution to this subject 40
+s experiments on this subject 49
+s involvement in this process 41
+s involvement in this project 41
+s observations on this subject 245
+s relationship to her husband 73
+s relationship to his parents 78

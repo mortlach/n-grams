@@ -1,1 +1,3 @@
-r the 51 r on
+r which defines the 51
+r which depends on 64
+r which satisfy the 138

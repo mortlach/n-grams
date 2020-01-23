@@ -1,6 +1,10 @@
-job i 51 job a
-118 job i 58 job
-a 40 job i 47
-job a 84 job a
-48 job a 98 jog
-a 299 joy a 67
+job done before i 51
+job done without a 118
+job even before i 58
+job from becoming a 40
+job just before i 47
+job only lasted a 84
+job three nights a 48
+job will become a 98
+jog your memory a 299
+joy there sounds a 67

@@ -1,1 +1,2 @@
-kindness allowed 48 kindness enabled
+kindness i was allowed 48
+kindness i was enabled 227

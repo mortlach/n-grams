@@ -1,1 +1,2 @@
-ft beam 53 ft per 154
+ft long with a beam 53
+ft per deg f per 154

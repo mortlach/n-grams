@@ -1,4 +1,8 @@
-i instant 48 i follows
-70 i smaller 203 i
-similar 46 i britain 60
-i studies 419 i between
+i at time instant 48
+i in what follows 70
+i is much smaller 203
+i is very similar 46
+i of great britain 60
+i of these studies 419
+i the angle between 204
+i the shear modulus 60

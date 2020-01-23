@@ -1,4 +1,8 @@
-t written 100 t written 41
-t assumed 58 t doubted 167
-t measured 86 t written 206
-t following 270 t purpose 60
+t and can be written 100
+t and may be written 41
+t can not be assumed 58
+t can not be doubted 167
+t can not be measured 86
+t can then be written 206
+t this and the following 270
+t was not the purpose 60

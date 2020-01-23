@@ -1,6 +1,10 @@
-cm covered 103 cm junction
-59 cm relaxed 74 cm
-surface 66 cm weighed 456
-cm consist 93 cm contain
-125 cm covered 93 cm
-several 41 cm several 98
+cm deep and covered 103
+cm from its junction 59
+cm from its relaxed 74
+cm from its surface 66
+cm tall and weighed 456
+cm thick and consist 93
+cm thick and contain 125
+cm thick and covered 93
+cm thick and several 41
+cm wide and several 98

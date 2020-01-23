@@ -1,4 +1,8 @@
-h small 43 h doses
-62 h doses 152 h
-added 46 h found 341
-h given 50 h shown
+h are very small 43
+h for four doses 62
+h for three doses 152
+h has been added 46
+h has been found 341
+h has been given 50
+h has been shown 292
+h has been taken 61

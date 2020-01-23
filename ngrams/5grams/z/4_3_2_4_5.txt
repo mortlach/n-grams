@@ -1,5 +1,10 @@
-zero cases 157 zero blowing 47
-zero where 44 zero reason 496
-zero value 123 zero chill 109
-zone cases 53 zone metal 97
-zone people 71 zone coast 106
+zero and in some cases 157
+zero and the wind blowing 47
+zero for the case where 44
+zero for the same reason 496
+zero for the same value 123
+zero with the wind chill 109
+zone and in some cases 53
+zone and the base metal 97
+zone are the only people 71
+zone off the west coast 106

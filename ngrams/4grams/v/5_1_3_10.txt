@@ -1,1 +1,3 @@
-visit parishioner 43 visit introduced
+visit a dying parishioner 43
+visit i was introduced 108
+voice i was accustomed 68

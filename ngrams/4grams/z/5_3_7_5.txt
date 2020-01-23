@@ -1,4 +1,7 @@
-zipping files 105 zones unions
-65 zones camps 85 zones
-within 42 zones within 40
-zones found 45 zones rates
+zipping and unzipping files 105
+zones and customs unions 65
+zones and refugee camps 85
+zones are located within 42
+zones are present within 40
+zones are usually found 45
+zones for exchange rates 463

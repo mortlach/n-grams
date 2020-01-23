@@ -1,1 +1,2 @@
-jurisdiction courts 82 jurisdiction courts 246
+jurisdiction with the civil courts 82
+jurisdiction with the state courts 246

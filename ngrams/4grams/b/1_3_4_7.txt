@@ -1,4 +1,7 @@
-b vectors 165 b similar
-259 b details 88 b
-assumed 42 b measured 42
-b reduced 41 b answers
+b are unit vectors 165
+b are very similar 259
+b for more details 88
+b has been assumed 42
+b has been measured 42
+b has been reduced 41
+b use your answers 69

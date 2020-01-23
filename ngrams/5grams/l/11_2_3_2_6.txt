@@ -1,4 +1,8 @@
-legislature passed 172 legislature session 75
-legislature session 2595 legislature session 151
-legislature session 93 legislature amount 44
-legitimation custom 70 literalness turned 49
+legislature as may be passed 172
+legislature be not in session 75
+legislature is not in session 2595
+legislature is now in session 151
+legislature is out of session 93
+legislature to fix the amount 44
+legitimation of law or custom 70
+literalness of them is turned 49

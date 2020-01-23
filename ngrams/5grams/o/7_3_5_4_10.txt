@@ -1,1 +1,3 @@
-objects corporation 68 objects sacrifices 64
+objects for which said corporation 68
+objects for which these sacrifices 64
+opinions with which some interested 79

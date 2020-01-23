@@ -1,3 +1,7 @@
-yield than 59 yield than 107
-yield oil 89 yield than 56
-yield than 69 yield any 88
+yield is slightly less than 59
+yield is somewhat less than 107
+yield of residual fuel oil 89
+yield of slightly less than 56
+yield of slightly more than 69
+yield to pressure from any 88
+yield to pressure from his 42

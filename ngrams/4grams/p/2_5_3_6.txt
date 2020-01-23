@@ -1,4 +1,8 @@
-pa shadow 45 pea yellow
-56 ph occurs 193 ph
-normal 45 ph adjust 166
-ph measuring 51 ph degree
+pa mingles his shadow 45
+pea plant with yellow 56
+ph change that occurs 193
+ph lower than normal 45
+ph meter and adjust 166
+ph scale for measuring 51
+ph units per degree 52
+pm every day except 690

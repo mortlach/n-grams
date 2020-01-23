@@ -1,2 +1,5 @@
-leave enemy 42 leave wound 48
-left scent 53 length shore 40
+leave unanswered a talking enemy 42
+leave unattended a weeping wound 48
+left everywhere a strong scent 53
+length approached a rocky shore 40
+line intersects a given plane 47

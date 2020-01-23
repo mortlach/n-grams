@@ -1,1 +1,3 @@
-o initial 142 o income
+o denotes the initial 142
+o recording of income 61
+o solution of sodium 103

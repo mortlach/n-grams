@@ -1,1 +1,3 @@
-v bank 349 v leasing
+v first state bank 349
+v hertz truck leasing 110
+v wells fargo bank 454

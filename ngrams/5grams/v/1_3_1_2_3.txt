@@ -1,1 +1,2 @@
-v two 52 v not 44
+v and w be two 52
+v and w do not 44

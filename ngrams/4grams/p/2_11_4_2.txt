@@ -1,2 +1,4 @@
-ph in 129 ph on
-52 ph be 44 ph
+ph measurements made in 129
+ph measurements made on 52
+ph measurements must be 44
+ph measurements will be 47

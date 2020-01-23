@@ -1,1 +1,2 @@
-c same 65 c used 206
+c are not the same 65
+c can not be used 206

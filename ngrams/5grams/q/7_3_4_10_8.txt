@@ -1,3 +1,7 @@
-qualify benefits 64 qualify benefits 68
-quality pertaining 73 question answered 96
-question answered 66 question answered 55
+qualify for early retirement benefits 64
+qualify for full retirement benefits 68
+quality and other information pertaining 73
+question has been adequately answered 96
+question has been definitely answered 66
+question has been resoundingly answered 55
+question was soon indirectly answered 48

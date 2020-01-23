@@ -1,4 +1,8 @@
-get . 173 get .
-64 get . 51 get
-. 44 get . 42
-go . 407 goes .
+get comfortable with . 173
+get conversation going . 64
+get development going . 51
+get forgiveness for . 44
+get transferred out . 42
+go unaccounted for . 407
+goes unaccounted for . 49
+got countrified too . 52

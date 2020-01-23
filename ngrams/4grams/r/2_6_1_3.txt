@@ -1,4 +1,8 @@
-re new 171 re new
-46 re war 111 re
-big 50 re new 54
-re lot 289 re new
+re building a new 171
+re entering a new 46
+re fighting a war 111
+re planning a big 50
+re planning a new 54
+re spending a lot 289
+re starting a new 260
+ring before i had 47

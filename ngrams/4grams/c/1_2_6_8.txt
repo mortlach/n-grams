@@ -1,1 +1,3 @@
-c positive 185 c constant
+c is always positive 185
+c is another constant 238
+c the thermal capacity 89

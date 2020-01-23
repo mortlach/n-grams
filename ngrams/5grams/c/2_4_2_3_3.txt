@@ -1,3 +1,6 @@
-cm end 162 cm and 81
-cm and 97 cm and 115
-cm and 398 cm with 82
+cm from the cut end 162
+cm from the end and 81
+cm from the eye and 97
+cm from the tip and 115
+cm from the top and 398
+cm from the top with 82

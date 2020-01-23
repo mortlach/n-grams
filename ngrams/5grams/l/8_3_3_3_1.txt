@@ -1,5 +1,10 @@
-landlord a 45 languages a 51
-lectured a 51 licensee a 140
-listened a 65 listener a 46
-literary a 44 literary a 70
-litigant a 254 loosened a 57
+landlord who was not a 45
+languages and has had a 51
+lectured and read for a 51
+licensee who was not a 140
+listened with his head a 65
+listener does not hear a 46
+literary man who has a 44
+literary man who was a 70
+litigant who was not a 254
+loosened his tie with a 57

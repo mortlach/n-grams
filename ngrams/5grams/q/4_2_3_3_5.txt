@@ -1,4 +1,8 @@
-quit hours 41 quit began 68
-quit moved 240 quit spent 85
-quit start 96 quit write 48
-quit prank 42 quit steer 131
+quit me for two hours 41
+quit my job and began 68
+quit my job and moved 240
+quit my job and spent 85
+quit my job and start 96
+quit my job and write 48
+quit of this mad prank 42
+quit the path and steer 131

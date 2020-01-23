@@ -1,1 +1,2 @@
-cm axis 119 cm soil 44
+cm in the long axis 119
+cm of the top soil 44

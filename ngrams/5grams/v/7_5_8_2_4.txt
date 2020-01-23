@@ -1,3 +1,6 @@
-vessels port 93 vessels ocean 102
-vessels ocean 46 village site 68
-vintage sowing 111 voyages give 85
+vessels which frequent the port 93
+vessels which navigate the ocean 102
+vessels while traversing the ocean 46
+village which occupies the site 68
+vintage shall overtake the sowing 111
+voyages which purports to give 85

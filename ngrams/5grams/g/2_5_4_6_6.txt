@@ -1,2 +1,5 @@
-go nurses 43 go without 111
-go duties 106 go office 80
+go about here without nurses 43
+go about their duties without 111
+go about their normal duties 106
+go again into public office 80
+go right along without noticing 77

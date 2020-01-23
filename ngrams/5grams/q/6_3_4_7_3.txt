@@ -1,1 +1,2 @@
-quotas all 126 quotes them 143
+quotas not only embrace all 126
+quotes with nothing between them 143

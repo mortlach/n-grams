@@ -1,2 +1,5 @@
-narrow a 44 narrow a 57
-narrow a 51 nations a 46
+narrow channel leading into a 44
+narrow passage leading into a 57
+narrow passage leads into a 51
+nations drifted into such a 46
+nature shrinks from such a 42

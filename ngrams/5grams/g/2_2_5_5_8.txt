@@ -1,1 +1,2 @@
-go midnight 57 go midnight 40
+go on until after midnight 57
+go to sleep until midnight 40

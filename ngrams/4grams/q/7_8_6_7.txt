@@ -1,2 +1,4 @@
-question research 57 question germany
-41 question research 126 question
+question deserves further research 57
+question directly assist germany 41
+question requires further research 126
+question resolves itself largely 50

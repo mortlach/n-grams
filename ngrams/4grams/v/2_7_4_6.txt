@@ -1,2 +1,4 @@
-via options 52 via changes
-75 via system 49 via
+via command line options 52
+via exchange rate changes 75
+via network file system 49
+via somatic cell nuclear 105

@@ -1,3 +1,5 @@
-king not 51 king not
-225 km san 52 km
-san 61 km san 132
+king i am not 51
+king i do not 225
+km e of san 52
+km n of san 61
+km s of san 132

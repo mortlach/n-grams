@@ -1,5 +1,10 @@
-raw vital 51 read plain 53
-real place 42 real risen 155
-real lower 43 real often 41
-real still 72 real place 58
-run point 209 run shift 427
+raw materials which were vital 51
+read romances where even plain 53
+real incident which took place 42
+real interest rates have risen 155
+real interest rates were lower 43
+real interest rates were often 41
+real interest rates were still 72
+real struggle would take place 58
+run phillips curve from point 209
+run phillips curve will shift 427

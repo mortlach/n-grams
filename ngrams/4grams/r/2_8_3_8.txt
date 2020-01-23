@@ -1,2 +1,4 @@
-ring nitrogen 78 ring nitrogen
-102 ring climatic 126 ring
+ring containing one nitrogen 78
+ring containing two nitrogen 102
+ring evidence for climatic 126
+ring notebook with dividers 45

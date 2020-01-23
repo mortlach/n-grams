@@ -1,3 +1,7 @@
-king animal 59 king attack 82
-king garden 47 king palace 116
-km source 47 km target 128
+king requires only the animal 59
+king resolved upon the attack 82
+king returned from the garden 47
+king returned from the palace 116
+km distance from the source 47
+km distance from the target 128
+km downwind from the source 46

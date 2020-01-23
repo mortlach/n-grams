@@ -1,1 +1,3 @@
-zero successor 119 zero neglected 45
+zero is not the successor 119
+zero or can be neglected 45
+zinc of one is connected 61

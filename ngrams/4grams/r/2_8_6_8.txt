@@ -1,1 +1,2 @@
-re reduction 123 ring negative
+re combined metals reduction 123
+ring produces partial negative 59

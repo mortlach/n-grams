@@ -1,1 +1,2 @@
-n arranged 57 n following 42
+n things can be arranged 57
+n this and the following 42

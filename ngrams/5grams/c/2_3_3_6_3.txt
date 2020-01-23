@@ -1,1 +1,2 @@
-cm than 51 cm with 48
+cm but not greater than 51
+cm long and filled with 48

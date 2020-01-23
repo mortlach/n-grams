@@ -1,1 +1,2 @@
-zero time 49 zero days 119
+zero after a long time 49
+zero within a few days 119

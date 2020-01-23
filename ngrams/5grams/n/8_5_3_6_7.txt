@@ -1,1 +1,2 @@
-numerous devices 43 numerous species 430
+numerous input and output devices 43
+numerous plant and animal species 430

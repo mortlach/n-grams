@@ -1,3 +1,6 @@
-c hard 198 c less
-137 c such 201 c
-from 114 c what 103
+c is always hard 198
+c is always less 137
+c is chosen such 201
+c it appears from 114
+c no matter what 103
+c we should have 102

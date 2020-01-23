@@ -1,1 +1,3 @@
-t editor 243 t handling
+t flight ops editor 243
+t shipping and handling 201
+t should not exceed 188

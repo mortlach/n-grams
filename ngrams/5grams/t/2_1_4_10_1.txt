@@ -1,2 +1,5 @@
-the a 107 to a 63
-to a 53 to r 75
+the x axis represents a 107
+to a bill establishing a 63
+to a line representing a 53
+to a load resistance r 75
+to a node representing a 55

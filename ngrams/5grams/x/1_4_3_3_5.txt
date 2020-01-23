@@ -1,1 +1,2 @@
-x value 58 x every 382
+x from its mean value 58
+x such that for every 382

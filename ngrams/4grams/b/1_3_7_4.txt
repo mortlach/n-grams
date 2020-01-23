@@ -1,1 +1,2 @@
-b from 285 b from
+b are derived from 285
+b are measured from 87

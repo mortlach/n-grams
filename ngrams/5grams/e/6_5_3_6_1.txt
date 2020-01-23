@@ -1,4 +1,9 @@
-effect a 103 empire a 106
-entire a 104 entire a 42
-entire a 121 entity a 42
-equity a 75 equity a 49
+effect would you expect a 103
+empire could not afford a 106
+entire falls are simply a 104
+entire world had become a 42
+entire world has become a 121
+entity rather than merely a 42
+equity would not compel a 75
+equity would not decree a 49
+excite odium and remain a 66

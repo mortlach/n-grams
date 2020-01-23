@@ -1,2 +1,5 @@
-quit not 181 quit not 224
-quit had 72 quiz they 41
+quit if they do not 181
+quit if you do not 224
+quit the job he had 72
+quiz to see if they 41
+quiz to see if you 465

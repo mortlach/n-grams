@@ -1,1 +1,3 @@
-job complex 159 job helpful
+job becomes more complex 159
+job seekers find helpful 40
+job seekers have thwarted 56

@@ -1,2 +1,5 @@
-zero high 45 zero cent 100
-zone time 236 zone flow 115
+zero at low and high 45
+zero to ten per cent 100
+zone at any one time 236
+zone of low heat flow 115
+zoom in and out from 171

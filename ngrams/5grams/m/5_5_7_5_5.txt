@@ -1,2 +1,4 @@
-males males 55 males males 101
-method agree 56 mother about 44
+males black females white males 55
+males white females black males 101
+method gives results which agree 56
+mother never stopped talking about 44

@@ -1,3 +1,5 @@
-c series 267 c limits
-52 c called 62 c
-number 394 c whether 55
+c ammeter in series 267
+c between the limits 52
+c circuit is called 62
+c denotes the number 394
+c depending on whether 55

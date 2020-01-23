@@ -1,2 +1,4 @@
-xenon source 132 xylem groups
-225 xylem masses 85 xylem
+xenon arc light source 132
+xylem and phloem groups 225
+xylem and phloem masses 85
+xylem and phloem tissue 750

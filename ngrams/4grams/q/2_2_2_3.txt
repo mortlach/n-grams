@@ -1,1 +1,2 @@
-qr heat 52 qt heat
+qr is the heat 52
+qt is the heat 154

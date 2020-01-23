@@ -1,2 +1,4 @@
-can . 304 cat .
-778 con . 46 cow
+can ' t . 304
+cat ' s . 778
+con ' s . 46
+cow ' s . 122

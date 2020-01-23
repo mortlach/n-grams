@@ -1,1 +1,2 @@
-x function 47 x certain
+x times a function 47
+x within a certain 51

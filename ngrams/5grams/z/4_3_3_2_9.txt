@@ -1,3 +1,6 @@
-zero neglected 272 zero neglected 107
-zero generated 51 zero represent 93
-zero covariance 102 zone explained 78
+zero and can be neglected 272
+zero and may be neglected 107
+zero and one is generated 51
+zero and one to represent 93
+zero mean and the covariance 102
+zone can not be explained 78

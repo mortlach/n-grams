@@ -1,1 +1,2 @@
-joint released 46 joint released
+joint b is released 46
+joint c is released 51

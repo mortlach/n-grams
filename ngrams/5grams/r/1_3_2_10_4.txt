@@ -1,2 +1,5 @@
-r from 735 r into 47
-r from 449 r from 256
+r can be calculated from 735
+r can be decomposed into 47
+r can be determined from 449
+r may be calculated from 256
+r may be determined from 120

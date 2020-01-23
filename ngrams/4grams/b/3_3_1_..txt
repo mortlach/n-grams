@@ -1,6 +1,10 @@
-bad ? 63 but ?
-274 but ? 167 but
-. 40 but . 41
-but ? 137 but .
-62 but ? 51 but
-? 155 but . 536
+bad was i ? 63
+but can i ? 274
+but did i ? 167
+but for a . 40
+but has a . 41
+but may i ? 137
+but not a . 62
+but not i ? 51
+but was i ? 155
+but with a . 536

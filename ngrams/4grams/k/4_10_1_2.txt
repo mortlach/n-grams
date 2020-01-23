@@ -1,1 +1,3 @@
-kind am 50 kind am
+kind assistance i am 50
+kind expressions i am 64
+kind providence i am 147

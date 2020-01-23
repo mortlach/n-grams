@@ -1,6 +1,10 @@
-zealot fanatic 44 zebra giraffe
-261 zenith maximum 89 zeros
-decimal 60 zoned minimum 53
-zones central 46 zones variety
-44 zones certain 43 zones
-maximum 123 zones minimum 117
+zealot and a fanatic 44
+zebra and a giraffe 261
+zenith and a maximum 89
+zeros and a decimal 60
+zoned for a minimum 53
+zones and a central 46
+zones and a variety 44
+zones with a certain 43
+zones with a maximum 123
+zones with a minimum 117

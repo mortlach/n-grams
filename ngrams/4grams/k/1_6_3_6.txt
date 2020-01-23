@@ -1,1 +1,2 @@
-k exceed 116 k various
+k should not exceed 116
+k values for various 159

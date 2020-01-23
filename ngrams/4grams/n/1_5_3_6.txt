@@ -1,4 +1,8 @@
-n formed 45 n tossed
-229 n another 91 n
-actual 42 n minute 51
-n second 615 n second
+n bonds are formed 45
+n coins are tossed 229
+n hours for another 91
+n times its actual 42
+n times per minute 51
+n times per second 615
+n turns per second 169
+n waves per second 147

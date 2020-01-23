@@ -1,4 +1,8 @@
-xii plates 159 xii tables
-2336 xiv plates 110 xiv
-tables 1077 xix tables 603
-xvi tables 429 xxi tables
+xii list of plates 159
+xii list of tables 2336
+xiv list of plates 110
+xiv list of tables 1077
+xix list of tables 603
+xvi list of tables 429
+xxi list of tables 252
+xxv list of tables 50

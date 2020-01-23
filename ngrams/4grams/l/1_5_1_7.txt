@@ -1,2 +1,4 @@
-l question 45 l glimpse
-102 l summary 53 l
+l asked a question 45
+l catch a glimpse 102
+l gives a summary 53
+l shows a typical 480

@@ -1,1 +1,2 @@
-vex quiet 86 vie power 163
+vex with shrieks this quiet 86
+vie for position and power 163

@@ -1,5 +1,10 @@
-jails political 49 jails prisoners 168
-jails overflowing 46 judge courtroom 54
-judge appearance 43 judge narrative 83
-judge necessary 50 judge determine 94
-jumps moorlands 46 juror sanctuary 51
+jails were full of political 49
+jails were full of prisoners 168
+jails were full to overflowing 46
+judge came into the courtroom 54
+judge only from the appearance 43
+judge what sort of narrative 83
+judge what will be necessary 50
+judge will have to determine 94
+jumps down from the moorlands 46
+juror went into the sanctuary 51

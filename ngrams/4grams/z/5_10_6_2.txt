@@ -1,1 +1,3 @@
-zeros in 178 zeros on
+zeros everywhere except in 178
+zeros everywhere except on 62
+zonal boundaries should be 78

@@ -1,2 +1,4 @@
-for lesions 50 for disease 62
-for venous 532 for engaged 120
+for grading articular cartilage lesions 50
+for lower extremity occlusive disease 62
+for total anomalous pulmonary venous 532
+for trading companies primarily engaged 120

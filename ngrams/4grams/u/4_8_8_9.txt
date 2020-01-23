@@ -1,6 +1,10 @@
-upon toleration 44 upon knowledge
-47 upon conditions 84 upon
-benefited 79 upon momentous 106
-used regression 122 used regression
-52 used regression 299 used
-throughout 49 uses protocols 110
+upon complete religious toleration 44
+upon intimate personal knowledge 47
+upon prevailing economic conditions 84
+upon property specially benefited 79
+upon questions seriously momentous 106
+used multiple logistic regression 122
+used stepwise logistic regression 52
+used stepwise multiple regression 299
+used wherever possible throughout 49
+uses standard internet protocols 110

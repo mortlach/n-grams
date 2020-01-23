@@ -1,0 +1,1 @@
+ph should not fall below 43

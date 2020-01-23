@@ -1,1 +1,3 @@
-g second 117 g greater
+g during the second 117
+g must be greater 40
+g will be called 201

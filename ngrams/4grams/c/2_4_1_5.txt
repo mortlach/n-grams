@@ -1,2 +1,4 @@
-cm plane 70 cm point
-1052 cm small 194 cm
+cm from a plane 70
+cm from a point 1052
+cm from a small 194
+cm over a period 241

@@ -1,1 +1,3 @@
-ll stone 42 ll getting
+ll all drink stone 42
+ll see about getting 168
+ll try again later 74

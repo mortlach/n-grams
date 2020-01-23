@@ -1,3 +1,7 @@
-its reviewed 54 its reported 69
-its reviewed 40 its explored 68
-its detected 41 its produced 66
+its applications have been reviewed 54
+its derivatives have been reported 69
+its derivatives have been reviewed 40
+its implications have been explored 68
+its metabolites have been detected 41
+its preservation when once produced 66
+its translations into other languages 60

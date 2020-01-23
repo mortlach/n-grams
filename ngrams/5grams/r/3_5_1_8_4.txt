@@ -1,2 +1,5 @@
-read drop 57 read from 44
-read from 65 read from 69
+read about a dramatic drop 57
+read aloud a selection from 44
+read aloud a sentence from 65
+read aloud a telegram from 69
+rpm about a vertical axis 89

@@ -1,3 +1,5 @@
-wilderness place 416 wilderness where
-46 wilderness water 47 wilderness
-round 88 wilderness israel 89
+wilderness a lodging place 416
+wilderness a place where 46
+wilderness a running water 47
+wilderness a small round 88
+wilderness i found israel 89

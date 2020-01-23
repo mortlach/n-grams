@@ -1,1 +1,3 @@
-o america 158 o diameter
+o bank of america 158
+o feet in diameter 40
+o inch in diameter 201

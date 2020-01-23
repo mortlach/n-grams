@@ -1,6 +1,10 @@
-c with 55 c with
-125 c with 632 c
-for 89 c with 648
-c for 129 c with
-51 c with 466 c
-for 121 c any 41
+c be connected with 55
+c in connection with 125
+c is associated with 632
+c is available for 89
+c is connected with 648
+c is different for 129
+c is furnished with 51
+c is identical with 466
+c is necessary for 121
+c to represent any 41

@@ -1,1 +1,3 @@
-volunteered africa 64 volunteered europe 71
+volunteered for service in africa 64
+volunteered for service in europe 71
+volunteered for service in france 128

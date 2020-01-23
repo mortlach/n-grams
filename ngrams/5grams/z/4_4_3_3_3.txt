@@ -1,1 +1,2 @@
-zero for 65 zero not 103
+zero hour was set for 65
+zero when they are not 103

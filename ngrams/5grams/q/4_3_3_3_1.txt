@@ -1,2 +1,4 @@
-quit a 43 quit a 53
-quit a 78 quit a 172
+quit her job for a 43
+quit her job with a 53
+quit his job for a 78
+quit his job with a 172

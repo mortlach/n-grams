@@ -1,4 +1,7 @@
-y vectors 387 y assumed
-46 y defined 168 y
-measured 54 y omitted 46
-y increase 317 y satisfy
+y are unit vectors 387
+y has been assumed 46
+y has been defined 168
+y has been measured 54
+y has been omitted 46
+y per unit increase 317
+y that will satisfy 263

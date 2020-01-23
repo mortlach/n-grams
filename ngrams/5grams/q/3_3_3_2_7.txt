@@ -1,2 +1,4 @@
-qua process 59 qua pursuit 102
-qua solution 167 qua success 1529
+qua non for the process 59
+qua non for the pursuit 102
+qua non for the solution 167
+qua non for the success 1529

@@ -1,2 +1,5 @@
-income a 190 income a 54
-initial a 126 injury a 48
+income derived from such a 190
+income resulting from such a 54
+initial impetus came from a 126
+injury resulting from such a 48
+issued quietly forth from a 41

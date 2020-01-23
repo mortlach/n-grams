@@ -1,2 +1,5 @@
-quotas clothing 96 quoted cents 422
-quoted share 47 quoted pence 137
+quotas on textile and clothing 96
+quoted in dollars and cents 422
+quoted in dollars per share 47
+quoted in shillings and pence 137
+quoted in stephen jay gould 98

@@ -1,5 +1,10 @@
-zealots faith 47 zealots sect 251
-zealots hand 62 zealous duty 73
-zipped chin 126 zipped neck 51
-zipped chin 183 zipped neck 101
-zoomed face 313 zoomed face 496
+zealots of the new faith 47
+zealots of the new sect 251
+zealots on the one hand 62
+zealous to do his duty 73
+zipped up to her chin 126
+zipped up to her neck 51
+zipped up to his chin 183
+zipped up to his neck 101
+zoomed in on her face 313
+zoomed in on his face 496

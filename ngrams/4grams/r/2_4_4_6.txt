@@ -1,6 +1,10 @@
-re likely 153 re likely
-105 re likely 569 re
-island 196 re weight 55
-re weight 57 ring formed
-65 ring before 67 ring
-around 41 ring through 88
+re also more likely 153
+re much less likely 105
+re much more likely 569
+re three mile island 196
+re worth their weight 55
+re worth your weight 57
+ring having been formed 65
+ring some time before 67
+ring will form around 41
+ring will pass through 88

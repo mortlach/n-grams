@@ -1,6 +1,11 @@
-warehouses buildings 42 warehouses buildings
-216 warehouses buildings 284 warehouses
-markets 42 warehouses storage 43
-watermelon against 64 whereabouts unknown
-116 whereabouts unknown 87 wickedness
-imputed 96 wilderness species 111
+warehouses and abandoned buildings 42
+warehouses and commercial buildings 216
+warehouses and industrial buildings 284
+warehouses and wholesale markets 42
+warehouses for temporary storage 43
+watermelon and muskmelon against 64
+whereabouts are currently unknown 116
+whereabouts are presently unknown 87
+wickedness was popularly imputed 96
+wilderness and endangered species 111
+wilderness for equitable division 165

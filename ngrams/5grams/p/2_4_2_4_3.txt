@@ -1,1 +1,3 @@
-ph than 93 ph than 287
+ph must be less than 93
+ph will be less than 287
+pm during the week and 106

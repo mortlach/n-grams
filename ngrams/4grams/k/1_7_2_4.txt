@@ -1,4 +1,7 @@
-k rate 107 k ratio
-203 k time 188 k
-unit 93 k wave 339
-k same 273 k size
+k denotes the rate 107
+k denotes the ratio 203
+k denotes the time 188
+k denotes the unit 93
+k denotes the wave 339
+k remains the same 273
+k samples of size 296

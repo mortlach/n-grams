@@ -1,6 +1,11 @@
-recirculating b 139 recollected a
-41 recommended a 49 recommended
-a 147 resistances b 1040
-resistances n 207 resistances q
-481 resistances r 1143 resistances
-s 270 resistances x 72
+recirculating t and b 139
+recollected i had a 41
+recommended i get a 49
+recommended i see a 147
+resistances a and b 1040
+resistances m and n 207
+resistances p and q 481
+resistances r and r 1143
+resistances r and s 270
+resistances r and x 72
+resistivity p and a 43

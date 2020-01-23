@@ -1,1 +1,2 @@
-h room 65 h used 47
+h and then at room 65
+h can not be used 47

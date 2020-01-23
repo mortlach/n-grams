@@ -1,2 +1,4 @@
-use phrases 125 use phrases 432
-using phrases 64 using phrases 677
+use descriptive words and phrases 125
+use transitional words and phrases 432
+using descriptive words and phrases 64
+using transitional words and phrases 677

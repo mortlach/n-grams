@@ -1,2 +1,5 @@
-zero a 107 zero a 63
-zero a 55 zero n 121
+zero by more than a 107
+zero in less than a 63
+zero to more than a 55
+zero to more than n 121
+zone of peace and a 79

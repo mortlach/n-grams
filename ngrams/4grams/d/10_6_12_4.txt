@@ -1,1 +1,2 @@
-determined from 128 difference only
+determined without interference from 128
+difference reached significance only 60

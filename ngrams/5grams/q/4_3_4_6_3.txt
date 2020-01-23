@@ -1,1 +1,2 @@
-quit job 219 quit job 41
+quit and find another job 219
+quit his wall street job 41

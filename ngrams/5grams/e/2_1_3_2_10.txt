@@ -1,2 +1,5 @@
-eat chocolates 49 eat hamburgers 56
-eat sandwiches 45 eat sauerkraut 45
+eat a box of chocolates 49
+eat a lot of hamburgers 56
+eat a lot of sandwiches 45
+eat a lot of sauerkraut 45
+eat a lot of vegetables 372

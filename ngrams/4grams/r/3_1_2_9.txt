@@ -1,5 +1,9 @@
-ran commercial 157 ray refracted
-40 read recherche 264 rod
-connected 55 rod connected 45
-rod connected 61 rod connected
-57 run commercial 41 run
+ran a tv commercial 157
+ray c is refracted 40
+read a la recherche 264
+rod a is connected 55
+rod b is connected 45
+rod c is connected 61
+rod r is connected 57
+run a tv commercial 41
+run i am convinced 110

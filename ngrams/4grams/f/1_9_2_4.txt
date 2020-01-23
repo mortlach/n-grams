@@ -1,4 +1,7 @@
-f great 67 f used
-138 f page 113 f
-great 50 f true 48
-f used 154 f part
+f alexander the great 67
+f amplifier is used 138
+f continued on page 113
+f frederick the great 50
+f statement is true 48
+f statement is used 154
+f supported in part 51

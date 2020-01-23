@@ -1,1 +1,2 @@
-v hours 48 v serum
+v every three hours 48
+v fetal calf serum 171

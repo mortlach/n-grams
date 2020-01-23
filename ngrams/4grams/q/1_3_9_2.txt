@@ -1,6 +1,10 @@
-q by 42 q by
-136 q in 106 q
-in 40 q in 146
-q in 111 q by
-77 q the 45 q
-the 49 q the 48
+q and separated by 42
+q are connected by 136
+q are contained in 106
+q are different in 40
+q are expressed in 146
+q are presented in 111
+q are separated by 77
+q that maximizes the 45
+q that minimizes the 49
+q that satisfies the 48

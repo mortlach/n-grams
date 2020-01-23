@@ -1,5 +1,10 @@
-unless connected 49 unless separated 80
-unless motivated 44 unless supported 57
-unless themselves 44 unless permission 70
-unless excessive 255 unless permission 42
-useful discussion 72 useful diminution 50
+unless they are closely connected 49
+unless they are legally separated 80
+unless they are strongly motivated 44
+unless they are strongly supported 57
+unless they can support themselves 44
+unless they had written permission 70
+unless they may receive excessive 255
+unless you get written permission 42
+useful for our present discussion 72
+useful that any general diminution 50

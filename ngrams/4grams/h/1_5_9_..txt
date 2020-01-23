@@ -1,3 +1,6 @@
-h . 51 h .
-364 h . 253 h
-. 147 h . 963
+h after activation . 51
+h after collection . 364
+h after emergence . 253
+h after incubation . 147
+h after irradiation . 963
+h urine collection . 420

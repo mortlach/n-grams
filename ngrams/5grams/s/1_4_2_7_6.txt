@@ -1,3 +1,7 @@
-s rhymes 109 s anyone 89
-s anyone 320 s policy 42
-s parson 59 s volume 50
+s book of nursery rhymes 109
+s hard to believe anyone 89
+s hard to imagine anyone 320
+s ideas on foreign policy 42
+s life the country parson 59
+s note the present volume 50
+s role in foreign policy 96

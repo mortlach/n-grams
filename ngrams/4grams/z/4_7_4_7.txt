@@ -1,2 +1,4 @@
-zero voltage 68 zero between
-43 zone northern 41 zone
+zero applied gate voltage 68
+zero contact angle between 43
+zone extending from northern 41
+zone extending from southern 49

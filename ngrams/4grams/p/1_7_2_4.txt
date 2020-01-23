@@ -1,6 +1,10 @@
-p have 83 p angle
-111 p mass 362 p
-rate 59 p ratio 101
-p time 41 p sign
-58 p truth 42 p
-form 78 p same 531
+p because we have 83
+p denotes the angle 111
+p denotes the mass 362
+p denotes the rate 59
+p denotes the ratio 101
+p denotes the time 41
+p depends in sign 58
+p implies the truth 42
+p orbital to form 78
+p remains the same 531

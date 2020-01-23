@@ -1,1 +1,2 @@
-ph this 97 ph than
+ph values outside this 97
+ph values smaller than 163

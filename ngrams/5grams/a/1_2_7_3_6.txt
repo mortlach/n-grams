@@ -1,3 +1,7 @@
-a domain 40 a trader 58
-a became 49 a sailed 96
-a merely 110 a slowly 46
+a king surveying his domain 40
+a sea captain and trader 58
+a sea captain who became 49
+a sea captain who sailed 96
+a thing depends not merely 110
+a thing quickly than slowly 46
+a thing uncanny and impish 52

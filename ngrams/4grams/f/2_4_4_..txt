@@ -1,4 +1,7 @@
-fa . 358 fo .
-59 foe . 43 foe
-. 163 ft . 49
-ft . 313 ft .
+fa inch thick . 358
+fo many years . 59
+foe from syria . 43
+foe once more . 163
+ft clear span . 49
+ft from rest . 313
+ft live load . 156

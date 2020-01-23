@@ -1,3 +1,5 @@
-keyboard variable 45 keyboard concert
-59 kindness perfect 55 kindness
-stranger 790 knuckles certain 126
+keyboard into a variable 45
+keyboard like a concert 59
+kindness from a perfect 55
+kindness from a stranger 790
+knuckles upon a certain 126

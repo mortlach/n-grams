@@ -1,5 +1,11 @@
-do greatness 251 do situation 114
-do condition 54 do situation 117
-do problems 52 do situation 66
-do situation 324 do continue 62
-do consider 60 do derogate 45
+do about money and greatness 251
+do anything about her situation 114
+do anything about his condition 54
+do anything about his situation 117
+do anything about our problems 52
+do anything about our situation 66
+do anything about this situation 324
+do anything rather than continue 62
+do anything which they consider 60
+do aught which may derogate 45
+do cures today and tomorrow 151

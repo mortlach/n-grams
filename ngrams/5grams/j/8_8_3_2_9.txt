@@ -1,2 +1,4 @@
-judgment defendant 67 judgment plaintiff 53
-judgment defendant 525 judgment plaintiff 428
+judgment directed for the defendant 67
+judgment directed for the plaintiff 53
+judgment rendered for the defendant 525
+judgment rendered for the plaintiff 428

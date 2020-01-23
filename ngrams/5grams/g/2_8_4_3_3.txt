@@ -1,4 +1,9 @@
-go you 50 go say 40
-go you 47 go our 53
-go get 135 go not 229
-go put 73 go see 65
+go anywhere else with you 50
+go anywhere else you say 40
+go straight ahead and you 47
+go straight ahead with our 53
+go straight home and get 135
+go straight home and not 229
+go straight home and put 73
+go straight home and see 65
+go straight over and cut 75

@@ -1,1 +1,2 @@
-h initial 43 h placed
+h above its initial 43
+h after being placed 118

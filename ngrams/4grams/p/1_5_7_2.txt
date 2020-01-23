@@ -1,2 +1,4 @@
-p the 88 p on
-176 p in 88 p
+p which defines the 88
+p which depends on 176
+p which results in 88
+p which satisfy the 209

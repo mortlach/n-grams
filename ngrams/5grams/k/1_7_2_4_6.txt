@@ -1,1 +1,2 @@
-k number 197 k vector 103
+k denotes the wave number 197
+k denotes the wave vector 103

@@ -1,3 +1,6 @@
-use denote 66 use actual 166
-using liquid 42 using freeze 54
-using denote 41 using carbon 55
+use square brackets to denote 66
+use without evidence of actual 166
+using liquid nitrogen or liquid 42
+using liquid nitrogen to freeze 54
+using square brackets to denote 41
+using stable isotopes of carbon 55

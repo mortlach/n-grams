@@ -1,4 +1,8 @@
-girls a 63 given a 85
-glass a 183 glass a 79
-goods a 125 grand a 89
-grand a 72 guinea a 67
+girls have been given a 63
+given only three times a 85
+glass full three times a 183
+glass tube into which a 79
+goods were sold under a 125
+grand jury have found a 89
+grand jury having found a 72
+guinea pigs were given a 67

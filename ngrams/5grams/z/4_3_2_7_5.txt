@@ -1,3 +1,6 @@
-zero flows 141 zero value 50
-zero point 76 zero value 632
-zero reason 40 zone zones 101
+zero and no current flows 141
+zero and the average value 50
+zero and the decimal point 76
+zero and the maximum value 632
+zero for the following reason 40
+zone and the western zones 101

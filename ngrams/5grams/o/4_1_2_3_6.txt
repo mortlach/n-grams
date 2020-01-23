@@ -1,4 +1,9 @@
-only always 41 only choose 104
-only forget 91 only happen 325
-only intend 46 only recall 85
-open blouse 49 other expect 69
+only i do not always 41
+only i do not choose 104
+only i do not forget 91
+only i do not happen 325
+only i do not intend 46
+only i do not recall 85
+open v of her blouse 49
+other i do not expect 69
+other i do not recall 79

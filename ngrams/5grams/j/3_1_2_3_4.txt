@@ -1,3 +1,7 @@
-job care 64 job have 161
-job know 256 job like 873
-job think 103 job want 260
+job i do not care 64
+job i do not have 161
+job i do not know 256
+job i do not like 873
+job i do not think 103
+job i do not want 260
+joy i do not know 48

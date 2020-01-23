@@ -1,1 +1,3 @@
-van explosives 90 van explosives
+van filled with explosives 90
+van loaded with explosives 150
+van packed with explosives 104

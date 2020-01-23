@@ -1,6 +1,10 @@
-keeping . 64 known .
-48 known . 57 known
-. 67 known . 305
-known . 61 known .
-231 known . 56 known
-. 175 known . 49
+keeping prices competitive . 64
+known active metabolites . 48
+known animal carcinogens . 57
+known energy distribution . 67
+known german typographer . 305
+known normal distribution . 61
+known sampling distribution . 231
+known through photographs . 56
+known through translations . 175
+known ursine descendants . 49

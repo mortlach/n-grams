@@ -1,2 +1,4 @@
-use recommended 42 use advancement 180
-use convenience 86 use affirmative 47
+use and are not recommended 42
+use for his own advancement 180
+use for his own convenience 86
+use yes for our affirmative 47

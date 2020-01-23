@@ -1,5 +1,11 @@
-quest approach 55 quest cultural 66
-quest direction 43 quest economic 52
-quest identity 388 quest morality 68
-quest paradigm 147 quest religious 50
-quest synthesis 52 quote examples 268
+quest for a new approach 55
+quest for a new cultural 66
+quest for a new direction 43
+quest for a new economic 52
+quest for a new identity 388
+quest for a new morality 68
+quest for a new paradigm 147
+quest for a new religious 50
+quest for a new synthesis 52
+quote but a few examples 268
+quote but a few passages 52

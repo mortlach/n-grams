@@ -1,1 +1,2 @@
-ph potential 217 ph activity
+ph and electrode potential 217
+ph for enzymatic activity 51

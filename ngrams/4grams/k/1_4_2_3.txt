@@ -1,3 +1,6 @@
-k set 147 k real
-183 k set 44 k
-one 41 k this 64
+k from the set 147
+k must be real 183
+k must be set 44
+k there is one 41
+k used in this 64
+k years of age 176

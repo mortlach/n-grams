@@ -1,1 +1,2 @@
-k be 150 k be 51
+k are constants to be 150
+k was estimated to be 51

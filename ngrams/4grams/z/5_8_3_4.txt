@@ -1,1 +1,3 @@
-zenith been 42 zonal sums
+zenith distance has been 42
+zonal direction and sums 57
+zones succeeding each other 40

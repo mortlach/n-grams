@@ -1,3 +1,5 @@
-xiii on 800 xiii to
-49 xvii on 230 xvii
-to 48 xxxi on 43
+xiii a note on 800
+xiii a note to 49
+xvii a note on 230
+xvii a note to 48
+xxxi a note on 43

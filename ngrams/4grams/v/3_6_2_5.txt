@@ -1,4 +1,7 @@
-van front 1712 van speed
-172 van front 71 vet
-burial 46 vow mother 100
-vow altar 255 vow taken
+van parked in front 1712
+van picked up speed 172
+van pulled in front 71
+vet handle the burial 46
+vow before my mother 100
+vow before the altar 255
+vow should be taken 80

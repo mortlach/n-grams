@@ -1,3 +1,6 @@
-not encamped 82 not politics 70
-not purchasing 43 not tradition 42
-not prospect 45 now industry 94
+not a burgundian army encamped 82
+not a burlesque upon politics 70
+not a commodity worth purchasing 43
+not a departure from tradition 42
+not a tolerably fair prospect 45
+now a motorized food industry 94

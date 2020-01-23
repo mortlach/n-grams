@@ -1,3 +1,6 @@
-education new 99 education new 63
-electron beam 129 electron and 67
-electron and 108 enriched and 136
+education has acquired a new 99
+education has received a new 63
+electron gun produces a beam 129
+electron with momentum k and 67
+electron with momentum p and 108
+enriched with vitamins a and 136

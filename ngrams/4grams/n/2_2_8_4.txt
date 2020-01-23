@@ -1,1 +1,3 @@
-no else 44 no peer
+no to everyone else 44
+no to negative peer 115
+no to requests from 203

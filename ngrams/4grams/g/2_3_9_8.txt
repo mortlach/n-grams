@@ -1,3 +1,5 @@
-go yourself 42 go yourself
-152 go education 51 go
-rapidity 50 go rapidity 60
+go and establish yourself 42
+go and introduce yourself 152
+go for secondary education 51
+go with astonishing rapidity 50
+go with bewildering rapidity 60

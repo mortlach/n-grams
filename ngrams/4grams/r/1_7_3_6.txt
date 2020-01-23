@@ -1,1 +1,2 @@
-r points 156 r vowels
+r between two points 156
+r between two vowels 294

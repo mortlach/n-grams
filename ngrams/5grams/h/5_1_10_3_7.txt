@@ -1,1 +1,3 @@
-helping patient 87 holding clement 40
+helping a terminally ill patient 87
+holding a conference with clement 40
+holding a conference with general 45

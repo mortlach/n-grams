@@ -1,1 +1,3 @@
-van alley 50 van drive 43
+van parked in the alley 50
+van parked in the drive 43
+van pulled up in front 610

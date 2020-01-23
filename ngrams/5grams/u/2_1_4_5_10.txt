@@ -1,4 +1,8 @@
-up friendship 98 up percentage 249
-up percentage 1172 up resistance 109
-up resistance 56 up resistance 141
-us description 65 us description 102
+up a very close friendship 98
+up a very large percentage 249
+up a very small percentage 1172
+up a very stiff resistance 109
+up a very stout resistance 56
+up a very strong resistance 141
+us a most vivid description 65
+us a very vivid description 102

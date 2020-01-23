@@ -1,1 +1,3 @@
-yellow diseases 713 yellow viruses 67
+yellow fever and other diseases 713
+yellow fever and other viruses 67
+yellow shirt with pink stripes 40

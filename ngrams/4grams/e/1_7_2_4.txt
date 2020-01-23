@@ -1,4 +1,8 @@
-e anti 103 e used
-47 e angle 61 e
-base 191 e unit 74
-e from 63 e same
+e antigen to anti 103
+e command is used 47
+e denotes the angle 61
+e denotes the base 191
+e denotes the unit 74
+e grabbed me from 63
+e remains the same 69
+e similar to those 103

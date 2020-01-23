@@ -1,1 +1,3 @@
-terminated load 83 thermometer bulb 559
+terminated with a resistive load 83
+thermometer with a blackened bulb 559
+transistor with a resistive load 66

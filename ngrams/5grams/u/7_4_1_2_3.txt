@@ -1,2 +1,4 @@
-unhappy not 64 unhappy not 65
-uniform any 123 uttered then 56
+unhappy when i am not 64
+unhappy when i do not 65
+uniform flow u in any 123
+uttered into a is then 56

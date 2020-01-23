@@ -1,5 +1,10 @@
-ran know 60 read more 44
-read know 622 read think 64
-real when 70 real know 115
-red know 54 run know 304
-run think 317 run want 50
+ran i do not know 60
+read a thing with more 44
+read i do not know 622
+read i do not think 64
+real a thing that when 70
+real i do not know 115
+red i do not know 54
+run i do not know 304
+run i do not think 317
+run i do not want 50

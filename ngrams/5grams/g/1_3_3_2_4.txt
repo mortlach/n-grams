@@ -1,2 +1,4 @@
-g four 135 g less 116
-g more 149 g feed 125
+g per day in four 135
+g per day or less 116
+g per day or more 149
+g per ton of feed 125

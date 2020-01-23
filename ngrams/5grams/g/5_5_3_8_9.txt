@@ -1,4 +1,9 @@
-given conditions 149 given structure 49
-grace countries 83 group offenders 496
-growing diversity 100 growing pressures 61
-growth countries 123 growth countries 72
+given social and economic conditions 149
+given social and economic structure 49
+grace period for developing countries 83
+group homes for juvenile offenders 496
+growing ethnic and cultural diversity 100
+growing social and economic pressures 61
+growth rates for developing countries 123
+growth rates for selected countries 72
+guiding human and physical resources 55

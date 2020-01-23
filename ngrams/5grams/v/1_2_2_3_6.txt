@@ -1,1 +1,3 @@
-v number 123 v thermal 305
+v is the mean number 123
+v is the mean thermal 305
+v is the mean volume 106

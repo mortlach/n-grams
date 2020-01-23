@@ -1,5 +1,11 @@
-do business 74 do situation 107
-do contract 57 do handicap 52
-do specific 105 do mischief 42
-do collision 71 do situation 57
-do positive 156 do business 50
+do as large a business 74
+do is create a situation 107
+do so under a contract 57
+do so under a handicap 52
+do so within a specific 105
+do the child a mischief 42
+do to avoid a collision 71
+do to change a situation 57
+do to create a positive 156
+do to start a business 50
+do to swell a progress 723

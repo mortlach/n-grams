@@ -1,3 +1,7 @@
-pay obedience 67 per production 917
-per countries 254 per countries 56
-per production 111 per equipment 47
+pay true and canonical obedience 67
+per cent and industrial production 917
+per cent for developed countries 254
+per cent for industrial countries 56
+per cent for industrial production 111
+per cent for transport equipment 47
+per cent had completed secondary 117

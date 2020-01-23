@@ -1,3 +1,6 @@
-w center 45 w chosen
-125 w greater 262 w
-entire 96 w called 122
+w from the center 45
+w must be chosen 125
+w must be greater 262
+w over the entire 96
+w will be called 122
+w will be greater 118

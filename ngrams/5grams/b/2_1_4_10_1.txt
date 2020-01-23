@@ -1,1 +1,2 @@
-by a 52 by a 127
+by a line representing a 52
+by a vote representing a 127

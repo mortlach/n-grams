@@ -1,4 +1,9 @@
-do time 58 do lord 42
-do from 65 do from 42
-do from 43 do from 61
-do toil 60 do from 50
+do make mistakes from time 58
+do most devoutly hope lord 42
+do these children come from 65
+do these concepts come from 42
+do these elements come from 43
+do these materials come from 61
+do these musicians also toil 60
+do these questions come from 50
+do your scholars turn into 109

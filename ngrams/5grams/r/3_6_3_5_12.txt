@@ -1,1 +1,3 @@
-read kindergarten 40 real magnification 134
+read before they enter kindergarten 40
+real images with unity magnification 134
+run income and price elasticities 340

@@ -1,2 +1,4 @@
-read comprehension 40 read considerable 60
-read comprehension 128 run handkerchief 46
+read and write with comprehension 40
+read and write with considerable 60
+read with speed and comprehension 128
+run and fetch her handkerchief 46

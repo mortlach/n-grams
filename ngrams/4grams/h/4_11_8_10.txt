@@ -1,1 +1,3 @@
-high correlation 60 high resistance
+high significant positive correlation 60
+high temperature corrosion resistance 230
+high temperature oxidation resistance 522

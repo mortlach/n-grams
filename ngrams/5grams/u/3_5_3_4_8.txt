@@ -1,4 +1,8 @@
-use materials 92 use personal 45
-use purposes 41 use purposes 46
-using machines 66 using materials 67
-using purposes 49 using indirect 54
+use books and other materials 92
+use either for their personal 45
+use funds for other purposes 41
+use money for other purposes 46
+using beasts and uses machines 66
+using books and other materials 67
+using words for pure purposes 49
+using words that have indirect 54

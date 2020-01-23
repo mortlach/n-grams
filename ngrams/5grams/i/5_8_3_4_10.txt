@@ -1,1 +1,2 @@
-image acquisition 121 image compression 44
+image processing and data acquisition 121
+image processing and data compression 44

@@ -1,4 +1,8 @@
-t it 188 t we 48
-t do 43 t is 147
-t be 271 t be 105
-t the 85 t thy 43
+t know how long it 188
+t know how long we 48
+t know how you do 43
+t note that this is 147
+t test can not be 271
+t there can not be 105
+t were not for the 85
+t were not for thy 43

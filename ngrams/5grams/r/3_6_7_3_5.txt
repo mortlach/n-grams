@@ -1,3 +1,7 @@
-real others 109 real sales 298
-real title 53 real debts 61
-real owned 40 real gravy 49
+real estate brokers and others 109
+real estate brokers and sales 298
+real estate brokers and title 53
+real estate charged with debts 61
+real estate company that owned 40
+real mashed potatoes and gravy 49
+run demand function for money 60

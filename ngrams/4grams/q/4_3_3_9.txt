@@ -1,1 +1,3 @@
-quit followers 56 quit prospects
+quit all his followers 56
+quit all his prospects 51
+quit her job altogether 46

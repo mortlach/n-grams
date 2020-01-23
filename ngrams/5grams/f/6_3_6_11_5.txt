@@ -1,1 +1,2 @@
-filter above 66 follow glory 44
+filter that passes frequencies above 66
+follow that sudden unreasonable glory 44

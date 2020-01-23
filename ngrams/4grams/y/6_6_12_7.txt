@@ -1,1 +1,2 @@
-yields results 180 yields results
+yields fairly satisfactory results 180
+yields highly reproducible results 41

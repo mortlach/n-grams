@@ -1,5 +1,10 @@
-qua time 62 qua fair 354
-qua free 267 qua full 87
-qua good 1161 qua great 192
-qua just 49 qua more 51
-qua true 295 qua well 143
+qua non at a time 62
+qua non of a fair 354
+qua non of a free 267
+qua non of a full 87
+qua non of a good 1161
+qua non of a great 192
+qua non of a just 49
+qua non of a more 51
+qua non of a true 295
+qua non of a well 143

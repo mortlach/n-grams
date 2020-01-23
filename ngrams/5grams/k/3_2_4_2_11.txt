@@ -1,3 +1,6 @@
-key compromised 45 key authenticate 106
-key highlighted 110 key understanding 116
-key understanding 256 kin inheritance 42
+key is lost or compromised 45
+key is used to authenticate 106
+key to move the highlighted 110
+key to open the understanding 116
+key to such an understanding 256
+kin to whom the inheritance 42

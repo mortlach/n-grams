@@ -1,1 +1,2 @@
-known acid 110 known acid 47
+known amount of hydrochloric acid 110
+known volume of hydrochloric acid 47

@@ -1,1 +1,2 @@
-zones from 51 zones used
+zones radiating outward from 51
+zones through straits used 141

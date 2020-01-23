@@ -1,3 +1,6 @@
-variability a 84 velocities a 59
-vibrational a 49 vibrational b 109
-vocabulary a 52 vulnerable t 158
+variability seems to be a 84
+velocities varying up to a 59
+vibrational level of the a 49
+vibrational level of the b 109
+vocabulary seems to be a 52
+vulnerable period of the t 158

@@ -1,2 +1,4 @@
-l confidence 131 l considered
-50 l understood 197 l
+l have every confidence 131
+l have never considered 50
+l have never understood 197
+l will never understand 52

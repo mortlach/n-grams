@@ -1,4 +1,7 @@
-zeroth moments 194 zoned density
-46 zones dilution 61 zones
-defined 80 zones visible 151
-zones divided 87 zones compact
+zeroth and second moments 194
+zoned for higher density 46
+zones and further dilution 61
+zones are clearly defined 80
+zones are clearly visible 151
+zones are further divided 87
+zones are neither compact 165

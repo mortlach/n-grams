@@ -1,1 +1,3 @@
-xenon . 505 xenon .
+xenon flash lamp . 505
+xenon flash tube . 298
+xylol until clear . 50

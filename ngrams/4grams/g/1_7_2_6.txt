@@ -1,1 +1,2 @@
-g number 127 g target
+g denotes the number 127
+g depends on target 120

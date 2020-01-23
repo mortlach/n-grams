@@ -1,3 +1,5 @@
-quit order 55 quit abode
-52 quit homes 55 quit
-stand 44 quit after 155
+quit their close order 55
+quit their lofty abode 52
+quit their quiet homes 55
+quit their usual stand 44
+quit young lives after 155

@@ -1,2 +1,4 @@
-variable costs 110 vessels flags 66
-vessels flags 41 virtues needs 53
+variable costs total variable costs 110
+vessels sailing under foreign flags 66
+vessels sailing under neutral flags 41
+virtues which every society needs 53

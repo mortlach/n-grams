@@ -1,1 +1,3 @@
-go food 124 go seeing 54
+go several days without food 124
+go several days without seeing 54
+go several days without taking 72

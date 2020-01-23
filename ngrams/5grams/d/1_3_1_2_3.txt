@@ -1,2 +1,4 @@
-d not 165 d fig 489
-d fig 188 d this 154
+d and e do not 165
+d and e in fig 489
+d and e of fig 188
+d and e of this 154

@@ -1,1 +1,2 @@
-e positive 207 e pressure
+e is always positive 207
+e the partial pressure 65

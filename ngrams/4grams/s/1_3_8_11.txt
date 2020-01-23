@@ -1,6 +1,11 @@
-s coefficients 139 s independent
-460 s distributed 770 s
-introduction 430 s anniversary 74
-s development 52 s development
-90 s experiences 178 s
-preferences 53 s anniversary 47
+s are constant coefficients 139
+s are mutually independent 460
+s are normally distributed 770
+s one contents introduction 430
+s one hundredth anniversary 74
+s own economic development 52
+s own personal development 90
+s own personal experiences 178
+s own personal preferences 53
+s two hundredth anniversary 47
+s with constant coefficients 52

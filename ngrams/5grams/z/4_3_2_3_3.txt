@@ -1,5 +1,10 @@
-zero not 66 zero not 178
-zero not 89 zero who 87
-zero not 193 zone not 40
-zone not 190 zoom out 222
-zoom you 143 zoom can 229
+zero and it can not 66
+zero and it does not 178
+zero and we can not 89
+zero for the man who 87
+zero may or may not 193
+zone and it does not 40
+zone may or may not 190
+zoom all the way out 222
+zoom out so that you 143
+zoom out so you can 229

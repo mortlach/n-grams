@@ -1,1 +1,2 @@
-x number 294 x number 96
+x is an odd number 294
+x is the mean number 96

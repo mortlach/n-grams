@@ -1,4 +1,8 @@
-via intranet 69 via computer
-41 via approach 79 via
-receptor 48 via distinct 68
-via invasive 93 via analysis
+via a corporate intranet 69
+via a dedicated computer 41
+via a different approach 79
+via a different receptor 48
+via a mechanism distinct 68
+via a minimally invasive 93
+via a regression analysis 65
+via a relational database 44

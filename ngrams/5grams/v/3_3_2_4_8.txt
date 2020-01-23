@@ -1,5 +1,10 @@
-vie artistic 42 vie beautiful 329
-vie brilliant 151 vie delicious 130
-vie renowned 148 vie splendid 126
-vying audience 55 vying business 50
-vying customer 42 vying promotion 70
+vie with the most artistic 42
+vie with the most beautiful 329
+vie with the most brilliant 151
+vie with the most delicious 130
+vie with the most renowned 148
+vie with the most splendid 126
+vying for the same audience 55
+vying for the same business 50
+vying for the same customer 42
+vying for the same promotion 70

@@ -1,2 +1,4 @@
-p that 261 p than
-873 p not 127 p
+p exists such that 261
+p values less than 873
+p values were not 127
+p varies from one 100

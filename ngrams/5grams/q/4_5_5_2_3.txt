@@ -1,1 +1,2 @@
-quit and 170 quit and 106
+quit talking about it and 170
+quit thinking about it and 106

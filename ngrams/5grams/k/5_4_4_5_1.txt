@@ -1,2 +1,4 @@
-kneel i 55 knelt a 99
-knows a 70 knows i 46
+kneel down here where i 55
+knelt down three times a 99
+knows much more about a 70
+knows very well where i 46

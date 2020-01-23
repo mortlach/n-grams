@@ -1,1 +1,3 @@
-t spence 171 t paired
+t kirby and spence 171
+t tests for paired 61
+t would ill become 49

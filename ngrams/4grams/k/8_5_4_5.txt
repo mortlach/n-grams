@@ -1,4 +1,8 @@
-kerosene blazing 92 kerosene burning
-137 kerosene still 115 kindness
-weeds 91 kindness shown 87
-kindness harry 64 kindness shown
+kerosene lamps were blazing 92
+kerosene lamps were burning 137
+kerosene lamps were still 115
+kindness grows like weeds 91
+kindness others have shown 87
+kindness which made harry 64
+kindness which were shown 41
+kindness which will never 52

@@ -1,3 +1,5 @@
-r above 53 r equal
-49 r small 46 r
-taken 115 r table 48
+r as defined above 53
+r is exactly equal 49
+r is usually small 46
+r is usually taken 115
+r the following table 48

@@ -1,4 +1,9 @@
-go chores 1045 go duties 270
-go rounds 140 go without 213
-go without 106 go chores 99
-go duties 96 go school 107
+go about their daily chores 1045
+go about their daily duties 270
+go about their daily rounds 140
+go about their lives without 213
+go about their tasks without 106
+go about your daily chores 99
+go about your daily duties 96
+go right home after school 107
+go where fine people resort 63

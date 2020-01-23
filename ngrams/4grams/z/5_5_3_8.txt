@@ -1,1 +1,2 @@
-zones normally 111 zones adjacent
+zones shall not normally 111
+zones which are adjacent 43

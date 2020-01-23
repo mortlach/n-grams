@@ -1,6 +1,10 @@
-t positive 231 t possible
-118 t possible 121 t
-surprising 171 t probable 53
-t unlikely 90 t apparent
-109 t accepted 43 t
-velocity 105 t beautiful 50
+t is always positive 231
+t is always possible 118
+t is hardly possible 121
+t is hardly surprising 171
+t is highly probable 53
+t is highly unlikely 90
+t is readily apparent 109
+t is widely accepted 43
+t the angular velocity 105
+t the palace beautiful 50

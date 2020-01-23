@@ -1,5 +1,9 @@
-zeal enemy 77 zeal grain
-124 zeal irish 95 zeal
-roman 266 zeal royal 181
-zeal slave 188 zeal turks
-111 zeal vices 78 zeal
+zeal against the enemy 77
+zeal against the grain 124
+zeal against the irish 95
+zeal against the roman 266
+zeal against the royal 181
+zeal against the slave 188
+zeal against the turks 111
+zeal against the vices 78
+zeal appeared to seize 49

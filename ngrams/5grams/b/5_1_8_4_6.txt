@@ -1,3 +1,7 @@
-build course 58 build center 131
-build berlin 75 build boston 47
-built through 52 built course 41
+build a miniature golf course 58
+build a performing arts center 131
+build a railroad from berlin 75
+build a railroad from boston 47
+built a military road through 52
+built a miniature golf course 41
+built a monument more enduring 69

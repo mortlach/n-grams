@@ -1,3 +1,7 @@
-imply moves 70 imply rates 42
-issue notes 95 issue scant 52
-issue until 657 items found 52
+imply that each molecule moves 70
+imply that real interest rates 42
+issue its own currency notes 95
+issue that has received scant 52
+issue was not resolved until 657
+items that are commonly found 52
+items that are included under 66

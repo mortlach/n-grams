@@ -1,4 +1,8 @@
-zigzags air 96 zigzags head
-61 zigzags path 124 zigzags
-top 242 zombies dead 56
-zoology age 45 zoology area
+zigzags in the air 96
+zigzags of the head 61
+zigzags of the path 124
+zigzags to the top 242
+zombies to the dead 56
+zoology at the age 45
+zoology of the area 44
+zoology of the earth 61

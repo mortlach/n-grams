@@ -1,1 +1,2 @@
-foe fight 40 foe force 47
+foe that ye must fight 40
+foe was in full force 47

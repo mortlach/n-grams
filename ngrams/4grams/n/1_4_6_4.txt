@@ -1,3 +1,5 @@
-n from 56 n into
-44 n been 154 n
-upon 150 n from 142
+n data points from 56
+n data points into 44
+n have already been 154
+n will depend upon 150
+n will differ from 142

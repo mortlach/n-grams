@@ -1,1 +1,3 @@
-via card 105 via main
+via a pc card 105
+via a ring main 95
+via a tl line 83

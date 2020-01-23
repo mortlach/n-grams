@@ -1,1 +1,3 @@
-x million 106 x values
+x parts per million 106
+x takes real values 62
+x words per minute 101

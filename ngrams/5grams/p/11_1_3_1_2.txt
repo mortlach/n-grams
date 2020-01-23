@@ -1,1 +1,2 @@
-propositions is 157 propositions is 87
+propositions a and b is 157
+propositions p and q is 87

@@ -1,2 +1,4 @@
-e equal 70 e small
-46 e taken 62 e
+e is exactly equal 70
+e is usually small 46
+e is usually taken 62
+e the central gable 46

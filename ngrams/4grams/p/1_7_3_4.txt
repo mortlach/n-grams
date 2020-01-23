@@ -1,1 +1,3 @@
-p only 151 p unit
+p depends not only 151
+p dollars per unit 336
+p implies that there 95

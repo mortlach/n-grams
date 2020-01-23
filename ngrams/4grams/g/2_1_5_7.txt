@@ -1,2 +1,4 @@
-go together 115 go together
-54 go journey 94 go
+go a begging together 115
+go a fishing together 54
+go a short journey 94
+go a stealing together 40

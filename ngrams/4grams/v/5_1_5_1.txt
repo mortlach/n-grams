@@ -1,3 +1,6 @@
-visit a 53 visit i
-63 visit i 73 visit
-a 428 visit a 55
+visit a place a 53
+visit a place i 63
+visit a woman i 73
+visit i found a 428
+visit i spent a 55
+visit i wrote a 41

@@ -1,3 +1,5 @@
-ph a 234 ph a
-101 ph a 159 ping
-a 43 pm a 151
+ph and has a 234
+ph and with a 101
+ph was not a 159
+ping pong with a 43
+pm and has a 151

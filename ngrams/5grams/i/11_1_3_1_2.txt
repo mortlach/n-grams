@@ -1,1 +1,2 @@
-individuals in 74 individuals is 90
+individuals a and b in 74
+individuals a and b is 90

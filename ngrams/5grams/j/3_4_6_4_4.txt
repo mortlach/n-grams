@@ -1,1 +1,2 @@
-job leave 114 joy away 84
+job upon return from leave 114
+joy from withering life away 84

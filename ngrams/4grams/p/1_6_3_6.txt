@@ -1,1 +1,2 @@
-p square 684 p exceed
+p pounds per square 684
+p should not exceed 154

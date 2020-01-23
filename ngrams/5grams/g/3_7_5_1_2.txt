@@ -1,1 +1,3 @@
-gap am 50 get am 44
+gap between where i am 50
+get married until i am 44
+got together again i do 42

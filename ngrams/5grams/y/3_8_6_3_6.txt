@@ -1,4 +1,9 @@
-you actions 44 you choose 40
-you expect 76 you invest 49
-you course 171 you lesson 68
-you section 87 you begins 43
+you describe scenes and actions 44
+you probably should not choose 40
+you probably should not expect 76
+you probably should not invest 49
+you progress through this course 171
+you progress through this lesson 68
+you progress through this section 87
+you remember something that begins 43
+you wallowed deeper and deeper 50

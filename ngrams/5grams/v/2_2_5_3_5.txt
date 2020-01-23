@@ -1,4 +1,8 @@
-via sense 47 via lymph 557
-via urine 176 via blood 248
-via lower 75 via faeces 64
-via feces 149 via shift 75
+via by sight and sense 47
+via the blood and lymph 557
+via the feces and urine 176
+via the lymph and blood 248
+via the upper and lower 75
+via the urine and faeces 64
+via the urine and feces 149
+via the water gas shift 75

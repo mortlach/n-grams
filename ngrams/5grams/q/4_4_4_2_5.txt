@@ -1,2 +1,5 @@
-quit order 386 quit avoid 44
-quit raise 44 quit search 74
+quit their jobs in order 386
+quit their jobs to avoid 44
+quit their jobs to raise 44
+quit their jobs to search 74
+quit their jobs to start 40

@@ -1,1 +1,3 @@
-each building 40 each active 103
+each organism requires for building 40
+each physician specialty with active 103
+end diastolic pressure and volume 117

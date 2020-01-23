@@ -1,1 +1,3 @@
-q less 140 q true
+q is always less 140
+q is always true 56
+q is chosen such 50

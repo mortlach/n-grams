@@ -1,3 +1,5 @@
-re . 46 re .
-106 re . 820 re
-. 47 ring . 48
+re concerned with . 46
+re currently using . 106
+re prudential ins . 820
+re satisfied now . 47
+ring surrounding them . 48

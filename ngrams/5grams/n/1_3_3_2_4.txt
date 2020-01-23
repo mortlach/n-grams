@@ -1,3 +1,6 @@
-n same 41 n less 199
-n used 178 n zero 129
-n these 67 n used 111
+n are not the same 41
+n can not be less 199
+n can not be used 178
+n can not be zero 129
+n for each of these 67
+n that can be used 111

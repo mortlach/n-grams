@@ -1,2 +1,4 @@
-go smoothly 65 go between 146
-go towards 274 go smoothly 314
+go a bit more smoothly 65
+go a long time between 146
+go a long ways towards 274
+go a lot more smoothly 314

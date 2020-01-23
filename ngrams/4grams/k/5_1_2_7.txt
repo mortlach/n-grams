@@ -1,2 +1,4 @@
-knows ashamed 42 knows capable
-77 knows married 171 knows
+knows i am ashamed 42
+knows i am capable 77
+knows i am married 171
+knows i am thankful 180

@@ -1,5 +1,11 @@
-cm a 43 cm a 103
-cm a 545 cm a 224
-cm a 183 cm a 47
-cm a 394 cm a 112
-cm a 40 cm a 195
+cm deep and has a 43
+cm high and had a 103
+cm high and has a 545
+cm high and with a 224
+cm tall and has a 183
+cm thick and had a 47
+cm thick and has a 394
+cm thick and with a 112
+cm wide and had a 40
+cm wide and has a 195
+cm wide and with a 41

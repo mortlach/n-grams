@@ -1,6 +1,10 @@
-cm weight 123 cm mainly
-140 cm likely 242 cm
-chosen 102 cm reached 40
-cm placed 106 cm mature
-46 cm quartz 209 co
-number 105 co vector 143
+cm and body weight 123
+cm are made mainly 140
+cm are more likely 242
+cm has been chosen 102
+cm has been reached 40
+cm long were placed 106
+cm long when mature 46
+cm path length quartz 209
+co and wave number 105
+co and wave vector 143

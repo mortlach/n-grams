@@ -1,5 +1,10 @@
-d night 54 d could 77
-d again 86 d again 142
-d again 46 d again 98
-d quick 48 d about 40
-d about 41 d about 45
+d been out all night 54
+d done all she could 77
+d ever see her again 86
+d ever see him again 142
+d ever see them again 46
+d ever see you again 98
+d have had him quick 48
+d heard and read about 40
+d tell you all about 41
+d told him all about 45

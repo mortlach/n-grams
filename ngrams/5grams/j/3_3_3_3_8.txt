@@ -1,2 +1,5 @@
-job interest 44 job challenge 66
-job supposed 52 job complete 93
+job that did not interest 44
+job that does not challenge 66
+job that they are supposed 52
+job was not yet complete 93
+job was not yet finished 146

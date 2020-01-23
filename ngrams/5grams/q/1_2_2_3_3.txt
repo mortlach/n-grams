@@ -1,1 +1,2 @@
-q heat 56 q that 212
+q is the net heat 56
+q is to say that 212

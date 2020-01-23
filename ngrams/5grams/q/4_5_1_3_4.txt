@@ -1,3 +1,7 @@
-quit days 220 quit years 200
-quit years 66 quit time 44
-quit made 109 quit ahead 743
+quit after a few days 220
+quit after a few years 200
+quit smoking a few years 66
+quit smoking a long time 44
+quit until i had made 109
+quit while i was ahead 743
+quit within a few days 56

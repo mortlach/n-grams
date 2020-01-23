@@ -1,2 +1,4 @@
-r any 141 r each
-108 r this 166 r
+r corresponding to any 141
+r corresponding to each 108
+r corresponding to this 166
+r replications of each 49

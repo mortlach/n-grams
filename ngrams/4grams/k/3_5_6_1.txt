@@ -1,4 +1,8 @@
-key a 289 key a
-46 key a 55 key
-a 104 key a 255
-key a 1490 key a
+key after entering a 289
+key passing through a 46
+key which forced a 55
+key which opened a 104
+key while clicking a 255
+key while dragging a 1490
+key while entering a 95
+key while pressing a 208

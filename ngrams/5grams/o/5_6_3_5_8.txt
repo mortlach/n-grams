@@ -1,4 +1,8 @@
-offer accounts 173 offer everyone 87
-ohmic contacts 109 olive orchards 51
-olive orchards 49 orange orchards 44
-orange orchards 49 order confusion 46
+offer checking and savings accounts 173
+offer something for nearly everyone 87
+ohmic source and drain contacts 109
+olive groves and fruit orchards 51
+olive groves and orange orchards 49
+orange groves and apple orchards 44
+orange groves and olive orchards 49
+order amidst its seeming confusion 46

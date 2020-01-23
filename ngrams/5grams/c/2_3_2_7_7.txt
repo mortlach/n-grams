@@ -1,1 +1,2 @@
-cm diameter 84 cm allowed 277
+cm and an outside diameter 84
+cm and the maximum allowed 277

@@ -1,5 +1,10 @@
-gain reputation 51 good bishopric 179
-great primitive 46 great abstained 42
-great persuaded 136 great prevailed 105
-great succeeded 151 great knowledge 52
-great consented 43 great contained 184
+gain experience and a reputation 51
+good conscience for a bishopric 179
+great difficulty for a primitive 46
+great difficulty that i abstained 42
+great difficulty that i persuaded 136
+great difficulty that i prevailed 105
+great difficulty that i succeeded 151
+great importance for a knowledge 52
+great reluctance that i consented 43
+great revolutions and a contained 184

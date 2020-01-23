@@ -1,4 +1,8 @@
-use experience 472 use imagination 48
-use experience 220 use interpreting 58
-use information 115 use experience 50
-using likelihood 80 using experience 119
+use their skills and experience 472
+use their skills and imagination 48
+use their training and experience 220
+use these methods for interpreting 58
+use when searching for information 115
+use your skills and experience 50
+using cage scores and likelihood 80
+using their skills and experience 119

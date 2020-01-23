@@ -1,1 +1,2 @@
-movement deal 42 movement deal 49
+movement received a great deal 42
+movement requires a great deal 49

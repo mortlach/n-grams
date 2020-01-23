@@ -1,6 +1,10 @@
-kerosene lamps 98 kerosene light
-222 keyboard creating 46 keyboard
-opening 204 keypunch punch 92
-kidnapping selling 43 kindness named
-48 kindness money 43 knightly
-knows 48 knowable daily 61
+kerosene lanterns and lamps 98
+kerosene lanterns for light 222
+keyboard shortcut for creating 46
+keyboard shortcut for opening 204
+keypunch operator can punch 92
+kidnapping children and selling 43
+kindness examined and named 48
+kindness respecting his money 43
+knightly lordship now knows 48
+knowable energies are daily 61

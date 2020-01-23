@@ -1,1 +1,2 @@
-use letters 53 use language 96
+use lower case greek letters 53
+use quite such strong language 96

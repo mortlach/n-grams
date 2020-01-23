@@ -1,1 +1,2 @@
-law state 192 long sight 194
+law takes precedence over state 192
+long since disappeared from sight 194

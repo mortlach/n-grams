@@ -1,5 +1,11 @@
-eat knife 109 eat dozen 104
-eat pound 92 eat small 134
-eat piece 45 eat small 77
-eat knife 52 eat spoon 243
-eat while 49 en could 119
+eat fish with a knife 109
+eat more than a dozen 104
+eat more than a pound 92
+eat more than a small 134
+eat nothing but a piece 45
+eat nothing but a small 77
+eat soup with a knife 52
+eat soup with a spoon 243
+eat well for a while 49
+en done all i could 119
+en made you a white 64

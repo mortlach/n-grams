@@ -1,2 +1,4 @@
-use designed 62 use quantity 62
-using quantity 72 using quantity 55
+use for which i designed 62
+use too large a quantity 62
+using too large a quantity 72
+using too small a quantity 55

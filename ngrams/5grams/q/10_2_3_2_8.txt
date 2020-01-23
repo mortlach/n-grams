@@ -1,4 +1,9 @@
-quantified possible 256 quantities possible 42
-quantities required 316 quantities detected 42
-quantities elements 92 quantities essential 147
-quantities materials 117 quantities products 78
+quantified as far as possible 256
+quantities as far as possible 42
+quantities as may be required 316
+quantities it may be detected 42
+quantities of all the elements 92
+quantities of all the essential 147
+quantities of all the materials 117
+quantities of all the products 78
+quantities of dna in cellular 50

@@ -1,6 +1,11 @@
-zonal computed 137 zonal velocity
-140 zoned industry 194 zoned
-purposes 122 zoned purposes 72
-zones tectonic 57 zones commonly
-43 zones employed 60 zones
-observed 60 zones proposed 52
+zonal mean wind computed 137
+zonal mean wind velocity 140
+zoned for heavy industry 194
+zoned for other purposes 122
+zoned for such purposes 72
+zones and their tectonic 57
+zones are most commonly 43
+zones had been employed 60
+zones has been observed 60
+zones has been proposed 52
+zones has been reported 72

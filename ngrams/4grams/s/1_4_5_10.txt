@@ -1,6 +1,11 @@
-s techniques 51 s philosophy
-279 s impossible 175 s
-university 55 s newspapers 137
-s scientists 120 s assumptions
-96 s supporters 429 s
-supporters 110 s correlation 923
+s data cleaning techniques 51
+s early greek philosophy 279
+s just about impossible 175
+s kent state university 55
+s leading daily newspapers 137
+s leading social scientists 120
+s most basic assumptions 96
+s most loyal supporters 429
+s most vocal supporters 110
+s rank order correlation 923
+s your winning retirement 67

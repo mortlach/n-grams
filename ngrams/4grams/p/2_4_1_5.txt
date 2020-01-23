@@ -1,1 +1,3 @@
-ph period 185 ph small
+ph over a period 185
+ph when a small 44
+ph when a strong 218

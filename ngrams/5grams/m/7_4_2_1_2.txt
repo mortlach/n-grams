@@ -1,2 +1,4 @@
-material thing 42 material thing 62
-millions am 148 mutation to 130
+material part of a thing 42
+material size of a thing 62
+millions such as i am 148
+mutation rate of a to 130

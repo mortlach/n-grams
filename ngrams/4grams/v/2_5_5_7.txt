@@ -1,1 +1,2 @@
-via railway 65 via junction
+via grand trunk railway 65
+via white river junction 63

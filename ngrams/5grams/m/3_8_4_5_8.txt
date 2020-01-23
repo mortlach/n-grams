@@ -1,1 +1,2 @@
-may pressure 56 mean diagnosis 51
+may indicate high blood pressure 56
+mean survival time after diagnosis 51

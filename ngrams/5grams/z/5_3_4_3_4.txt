@@ -1,1 +1,3 @@
-zeros make 67 zones south 42
+zeros and ones that make 67
+zones both north and south 42
+zones that have not been 66

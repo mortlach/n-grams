@@ -1,3 +1,7 @@
-key keypad 519 key fields 437
-key through 95 key empire 49
-kings should 82 kings better 40
+key on your numeric keypad 519
+key to move between fields 437
+key to move forward through 95
+key to their interior empire 49
+kings in their palaces should 82
+kings it were perhaps better 40
+kin of such deceased person 389

@@ -1,3 +1,6 @@
-go normally 40 go business 304
-go business 717 go business 89
-go business 64 go anywhere 288
+go about their business normally 40
+go about their everyday business 304
+go about their ordinary business 717
+go about their personal business 89
+go about their separate business 64
+go about your business anywhere 288

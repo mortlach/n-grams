@@ -1,1 +1,3 @@
-xi mean 159 xi sum
+xi is the mean 159
+xi is the sum 41
+xx is the two 47

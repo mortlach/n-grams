@@ -1,0 +1,1 @@
+lag operator l is 43

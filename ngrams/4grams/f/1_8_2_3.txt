@@ -1,1 +1,2 @@
-f two 131 f say
+f consists of two 131
+f needless to say 105

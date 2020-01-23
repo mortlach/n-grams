@@ -1,1 +1,2 @@
-jaw forward 47 jig cubicle 69
+jaw should be pushed forward 47
+jig inside the painting cubicle 69

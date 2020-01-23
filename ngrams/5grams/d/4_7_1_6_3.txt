@@ -1,3 +1,6 @@
-data and 218 data and 73
-data and 49 data and 58
-data and 93 duet and 62
+data between a client and 218
+data between a device and 73
+data between a sender and 49
+data between a server and 58
+data between a source and 93
+duet between a female and 62

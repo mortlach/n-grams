@@ -1,3 +1,5 @@
-n where 80 n enter
-294 n action 48 n
-below 72 n equal 125
+n all cases where 80
+n and press enter 294
+n any civil action 48
+n are given below 72
+n are nearly equal 125

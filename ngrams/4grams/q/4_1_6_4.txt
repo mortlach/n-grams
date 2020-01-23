@@ -1,3 +1,5 @@
-quit early 180 quit time
-78 quit whom 81 quit
-clear 50 quoth youth 43
+quit a little early 180
+quit a second time 78
+quit a sister whom 81
+quit i walked clear 50
+quoth a limber youth 43

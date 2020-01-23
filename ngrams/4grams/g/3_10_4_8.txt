@@ -1,4 +1,8 @@
-get treatment 45 get multiple
-52 get pictures 101 get
-unavailing 73 get concrete 67
-get practice 133 get specific
+get alcoholics into treatment 45
+get information from multiple 52
+get information from pictures 101
+get reinstated were unavailing 73
+get translated into concrete 67
+get translated into practice 133
+get translated into specific 99
+got injunctions from chancery 52

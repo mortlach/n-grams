@@ -1,5 +1,10 @@
-yield of 49 yield of 71
-yield of 367 yield of 95
-yield as 87 yield if 168
-yield in 99 yield of 1375
-yield on 101 yield of 72
+yield a constant flow of 49
+yield a constant rate of 71
+yield a positive rate of 367
+yield a response rate of 95
+yield a straight line as 87
+yield a straight line if 168
+yield a straight line in 99
+yield a straight line of 1375
+yield a straight line on 101
+yield a synthetic theory of 72

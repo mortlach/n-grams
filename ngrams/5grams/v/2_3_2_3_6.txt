@@ -1,1 +1,2 @@
-via methods 98 via routes 145
+via one of two methods 98
+via one of two routes 145

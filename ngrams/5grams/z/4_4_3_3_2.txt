@@ -1,2 +1,5 @@
-zero at 69 zero in 167
-zone of 59 zone of 53
+zero when they are at 69
+zero when they are in 167
+zone north and east of 59
+zone south and east of 53
+zoom into and out of 172

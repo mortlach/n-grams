@@ -1,1 +1,2 @@
-xiii zones 43 xvii zones
+xiii world time zones 43
+xvii world time zones 94

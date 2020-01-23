@@ -1,3 +1,6 @@
-language conclusion 53 license broadcast 150
-license commercial 82 license television 189
-license newspaper 60 limited framework 113
+language to justify a conclusion 53
+license to operate a broadcast 150
+license to operate a commercial 82
+license to operate a television 189
+license to publish a newspaper 60
+limited to providing a framework 113

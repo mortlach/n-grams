@@ -1,2 +1,5 @@
-knowledge dangerous 1037 knowledge powerful 143
-knowledge valuable 77 knowledge dangerous 366
+knowledge can be a dangerous 1037
+knowledge can be a powerful 143
+knowledge can be a valuable 77
+knowledge may be a dangerous 366
+knowledge that is a dangerous 41

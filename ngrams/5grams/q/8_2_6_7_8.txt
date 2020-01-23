@@ -1,3 +1,7 @@
-quantity consumed 136 quantity constant 145
-quantity unchanged 65 quantity constant 82
-quantity unchanged 339 quantity required 53
+quantity of ardent spirits consumed 136
+quantity of energy remains constant 145
+quantity of energy remains unchanged 65
+quantity of matter remains constant 82
+quantity of matter remains unchanged 339
+quantity of silver nitrate required 53
+questions of german national identity 50

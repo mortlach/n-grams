@@ -1,1 +1,2 @@
-household entertain 59 hypothesis conclusion 45
+household were directed to entertain 59
+hypothesis test supports the conclusion 45

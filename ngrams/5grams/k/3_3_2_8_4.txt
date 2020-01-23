@@ -1,2 +1,5 @@
-key from 217 key from 60
-key when 63 key when 99
+key can be obtained from 217
+key may be obtained from 60
+key things to consider when 63
+key things to remember when 99
+kit can be obtained from 148

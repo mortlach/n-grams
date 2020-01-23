@@ -1,3 +1,6 @@
-input density 179 input density
-261 issue requiring 45 issue
-affects 79 issue careful 54
+input noise spectral density 179
+input power spectral density 261
+issue later commands requiring 45
+issue which directly affects 79
+issue which requires careful 54
+items which normally require 43

@@ -1,1 +1,3 @@
-yearly precipitation 180 yield supernatural
+yearly amount of precipitation 180
+yield belief to supernatural 57
+yield credit to supernatural 54

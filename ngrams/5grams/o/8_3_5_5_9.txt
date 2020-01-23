@@ -1,2 +1,5 @@
-obtained simulation 141 occasions themselves 42
-occurred frequency 244 occurred frequency 48
+obtained using monte carlo simulation 141
+occasions they would strip themselves 42
+occurred with about equal frequency 244
+occurred with nearly equal frequency 48
+otherwise they would smoke themselves 56

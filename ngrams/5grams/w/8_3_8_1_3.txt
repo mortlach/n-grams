@@ -1,4 +1,8 @@
-whenever man 65 whenever new 51
-whenever can 383 whenever may 96
-whenever see 95 whenever was 96
-wherever can 259 wherever may 44
+whenever and wherever a man 65
+whenever and wherever a new 51
+whenever and wherever i can 383
+whenever and wherever i may 96
+whenever and wherever i see 95
+whenever and wherever i was 96
+wherever and whenever i can 259
+wherever and whenever i may 44

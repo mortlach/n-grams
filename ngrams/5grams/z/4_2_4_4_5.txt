@@ -1,3 +1,6 @@
-zero value 111 zero value 45
-zinc metal 199 zinc oxide 68
-zone weather 61 zone which 170
+zero or some other value 111
+zero to some high value 45
+zinc or some other metal 199
+zinc to form zinc oxide 68
+zone of fine june weather 61
+zone of peace from which 170

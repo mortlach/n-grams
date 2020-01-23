@@ -1,2 +1,5 @@
-b line 41 b from 696
-b from 696 b from 150
+b and the dislocation line 41
+b can be calculated from 696
+b can be determined from 696
+b may be calculated from 150
+b may be determined from 257

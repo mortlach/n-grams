@@ -1,4 +1,8 @@
-he player 40 he fellow
-147 he genius 81 he
-hollow 41 he friend 89
-he nature 48 he fellow
+he a football player 40
+he a handsome fellow 147
+he a military genius 81
+he a partially hollow 41
+he a personal friend 89
+he a religious nature 48
+he a splendid fellow 89
+he a terrible fellow 237

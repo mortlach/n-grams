@@ -1,1 +1,3 @@
-ll after 120 ll again 300
+ll be all right after 120
+ll be all right again 300
+ll be all right until 51

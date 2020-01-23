@@ -1,1 +1,2 @@
-governments sources 100 governments sectors 51
+governments and from private sources 100
+governments and their private sectors 51

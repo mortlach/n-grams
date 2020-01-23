@@ -1,6 +1,10 @@
-index dropped 46 index omitted
-87 index omitted 103 index
-defined 42 index equation 48
-index defined 122 index omitted
-47 index related 118 index
-usually 43 input applied 49
+index i is dropped 46
+index i is omitted 87
+index k is omitted 103
+index m is defined 42
+index n in equation 48
+index n is defined 122
+index n is omitted 47
+index n is related 118
+index n is usually 43
+input x is applied 49

@@ -1,1 +1,2 @@
-unemployment rate 83 unemployment ratio
+unemployment benefit replacement rate 83
+unemployment benefit replacement ratio 56

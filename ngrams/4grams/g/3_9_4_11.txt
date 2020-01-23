@@ -1,3 +1,5 @@
-gas established 176 gas constructed
-51 gas fermentation 52 gas
-distribution 79 get headquarters 66
+gas companies were established 176
+gas pipelines were constructed 51
+gas production during fermentation 52
+gas residence time distribution 79
+get permission from headquarters 66

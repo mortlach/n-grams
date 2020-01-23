@@ -1,1 +1,2 @@
-w equal 107 w court
+w is exactly equal 107
+w the supreme court 246

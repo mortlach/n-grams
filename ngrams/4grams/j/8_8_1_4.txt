@@ -1,1 +1,3 @@
-judgment lien 94 judgment suit
+judgment creditor a lien 94
+judgment dismissing a suit 74
+judgment interest a lady 47

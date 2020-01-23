@@ -1,1 +1,2 @@
-large great 41 light wood 90
+large railroad requires a great 41
+light infantry occupied a wood 90

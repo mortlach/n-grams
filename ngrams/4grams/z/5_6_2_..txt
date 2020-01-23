@@ -1,1 +1,3 @@
-zeroes . 48 zeros .
+zeroes behind it . 48
+zeros behind it . 94
+zones around it . 58

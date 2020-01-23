@@ -1,3 +1,7 @@
-doses day 855 dress day 41
-drink day 469 driving day 57
-drops day 694 drugs day 62
+doses several times a day 855
+dress several times a day 41
+drink several times a day 469
+driving several hours a day 57
+drops several times a day 694
+drugs several times a day 62
+drunk several times a day 143

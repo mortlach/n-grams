@@ -1,1 +1,2 @@
-yield slopes 41 yield stress
+yield curve usually slopes 41
+yield under drought stress 316

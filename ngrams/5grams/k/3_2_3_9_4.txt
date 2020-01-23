@@ -1,1 +1,3 @@
-key door 125 key lies 63
+key in her apartment door 125
+key to his character lies 63
+key to his political life 78

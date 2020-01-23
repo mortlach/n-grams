@@ -1,2 +1,4 @@
-get dollars 84 get dollars 46
-got dollars 49 got dollars 65
+get five hundred thousand dollars 84
+get three hundred thousand dollars 46
+got five hundred thousand dollars 49
+got three hundred thousand dollars 65

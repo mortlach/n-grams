@@ -1,5 +1,9 @@
-each of 47 each of
-52 each of 57 each
-in 51 each is 47
-each in 80 each of
-220 each of 45 est
+each constant c of 47
+each iteration i of 52
+each iteration k of 57
+each particle i in 51
+each particle i is 47
+each property f in 80
+each sentence s of 220
+each wavelength x of 45
+est relative a la 42

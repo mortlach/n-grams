@@ -1,1 +1,2 @@
-job conditions 191 job difficult
+job under difficult conditions 191
+job under extremely difficult 59

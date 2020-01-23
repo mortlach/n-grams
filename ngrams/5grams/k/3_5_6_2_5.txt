@@ -1,4 +1,8 @@
-key doors 83 key mouse 452
-key mouse 429 key create 172
-key arrow 148 key arrow 277
-key mouse 99 kings sleep 52
+key which opened the doors 83
+key while clicking the mouse 452
+key while dragging the mouse 429
+key while dragging to create 172
+key while pressing an arrow 148
+key while pressing the arrow 277
+key while pressing the mouse 99
+kings never thought of sleep 52

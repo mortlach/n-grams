@@ -1,1 +1,2 @@
-o from 60 o from 64
+o can be calculated from 60
+o can be determined from 64

@@ -1,5 +1,10 @@
-you a 47 you a 53
-you a 51 you a 76
-you a 142 you a 284
-you a 55 you a 47
-you a 225 you a 69
+you could consider yourself a 47
+you might consider consulting a 53
+you might consider contacting a 51
+you might consider developing a 76
+you might consider installing a 142
+you might consider purchasing a 284
+you might consider yourself a 55
+you really consider yourself a 47
+you still consider yourself a 225
+you would consider yourself a 69

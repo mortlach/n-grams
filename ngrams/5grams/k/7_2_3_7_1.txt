@@ -1,3 +1,6 @@
-kitchen a 214 kitchen a 187
-kitchen a 131 kitchen a 180
-kitchen a 55 knocked a 127
+kitchen to fix herself a 214
+kitchen to fix himself a 187
+kitchen to get herself a 131
+kitchen to get himself a 180
+kitchen to put together a 55
+knocked my head against a 127

@@ -1,1 +1,2 @@
-groups animals 44 groups overlap
+groups implying domesticated animals 44
+groups showed considerable overlap 42

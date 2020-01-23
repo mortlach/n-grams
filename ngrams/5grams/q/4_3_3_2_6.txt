@@ -1,3 +1,7 @@
-quit become 157 quit devote 72
-quit follow 41 quit pursue 46
-quit become 223 quit devote 163
+quit her job to become 157
+quit her job to devote 72
+quit her job to follow 41
+quit her job to pursue 46
+quit his job to become 223
+quit his job to devote 163
+quit his job to pursue 97

@@ -1,3 +1,5 @@
-cm origin 133 cm eluted
-118 cm packed 187 cm
-column 1004 co second 759
+cm beyond its origin 133
+cm column and eluted 118
+cm column was packed 187
+cm silica gel column 1004
+co radians per second 759

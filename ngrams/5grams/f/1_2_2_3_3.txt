@@ -1,1 +1,3 @@
-f easy 318 f for 40
+f it is not easy 318
+f it is not for 40
+f it is thus that 200

@@ -1,2 +1,5 @@
-ring laws 111 ring wood 40
-ring other 43 ring door 93
+ring according to the laws 111
+ring painted on the wood 40
+ring pointed at no other 43
+ring sounded at the door 93
+ring together as he threw 64

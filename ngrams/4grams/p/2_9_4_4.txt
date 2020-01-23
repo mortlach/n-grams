@@ -1,1 +1,2 @@
-ph been 40 ph been
+ph conditions have been 40
+ph gradients have been 67

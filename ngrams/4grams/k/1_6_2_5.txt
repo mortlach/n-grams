@@ -1,5 +1,9 @@
-k table 45 k state
-124 k about 119 k
-equal 156 k given 102
-k large 102 k small
-115 k taken 268 k
+k listed in table 45
+k pleased to state 124
+k should be about 119
+k should be equal 156
+k should be given 102
+k should be large 102
+k should be small 115
+k should be taken 268
+k values in table 133

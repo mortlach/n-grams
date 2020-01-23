@@ -1,3 +1,6 @@
-yield written 59 yield written 157
-yield solution 45 yield increase 95
-yield increase 101 yield increase 42
+yield condition can be written 59
+yield criterion can be written 157
+yield hydrogen ions in solution 45
+yield increased with an increase 95
+yield increased with the increase 101
+yield increases with the increase 42

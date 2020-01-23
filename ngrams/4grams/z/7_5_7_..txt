@@ -1,1 +1,2 @@
-zeroth . 136 zoned .
+zeroth order solution . 136
+zoned magma chamber . 131

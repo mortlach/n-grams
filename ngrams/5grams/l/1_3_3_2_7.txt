@@ -1,2 +1,5 @@
-l bothered 163 l certain 49
-l everything 49 l apology 111
+l can not be bothered 163
+l can not be certain 49
+l can not do everything 49
+l owe you an apology 111
+l was led to believe 44

@@ -1,5 +1,9 @@
-v plates 48 v normal
-52 v number 526 v
-vector 112 v volume 571
-v second 574 v volume
-155 v ethanol 58 v
+v between the plates 48
+v denotes the normal 52
+v denotes the number 526
+v denotes the vector 112
+v denotes the volume 571
+v preface to second 574
+v preface to volume 155
+v solution in ethanol 58
+v solution of sodium 1069

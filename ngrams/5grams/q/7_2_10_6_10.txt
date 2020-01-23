@@ -1,1 +1,2 @@
-question attendance 57 question collective 80
+question of compulsory school attendance 57
+question of individual versus collective 80

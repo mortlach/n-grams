@@ -1,4 +1,8 @@
-improved conservation 312 increased maltreatment 63
-increased development 122 increased development 57
-isolated experiences 42 isolated environment 41
-isolated mitochondria 127 isolation environment 45
+improved soil and water conservation 312
+increased risk for child maltreatment 63
+increased risk for later development 122
+increased risk for tumor development 57
+isolated from his daily experiences 42
+isolated from his social environment 41
+isolated from rat liver mitochondria 127
+isolation from its social environment 45

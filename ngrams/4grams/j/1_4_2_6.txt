@@ -1,4 +1,7 @@
-j greater 136 j values
-183 j another 45 j
-system 46 j called 81
-j chosen 65 j greater
+j must be greater 136
+j take the values 183
+j there is another 45
+j when the system 46
+j will be called 81
+j will be chosen 65
+j will be greater 43

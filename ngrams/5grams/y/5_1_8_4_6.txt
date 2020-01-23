@@ -1,1 +1,2 @@
-yield result 51 yield through 54
+yield a positive test result 51
+yield a straight line through 54

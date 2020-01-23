@@ -1,2 +1,5 @@
-valid results 113 value hundred 82
-value hundred 63 voted elected 64
+valid and reliable test results 113
+value not exceeding five hundred 82
+value not exceeding three hundred 63
+voted for lincoln were elected 64
+voted two thousand five hundred 53

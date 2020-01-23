@@ -1,1 +1,3 @@
-key only 439 key from 66
+key can be decrypted only 439
+key that is different from 66
+kit can be purchased from 136

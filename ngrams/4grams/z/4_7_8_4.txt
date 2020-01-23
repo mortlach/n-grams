@@ -1,2 +1,4 @@
-zero rate 852 zero rate
-58 zero rate 163 zone
+zero nominal interest rate 852
+zero percent discount rate 58
+zero percent interest rate 163
+zone extending westward from 56

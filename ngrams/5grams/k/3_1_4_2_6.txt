@@ -1,1 +1,2 @@
-kid school 147 kin aboard 41
+kid i went to school 147
+kin i made go aboard 41

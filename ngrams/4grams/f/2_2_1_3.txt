@@ -1,6 +1,11 @@
-foe lion 62 foe man
-93 foe day 42 foe
-war 58 foe man 49
-foe man 85 ft set
-106 ft few 114 ft
-non 44 ft real 145
+foe as a lion 62
+foe as a man 93
+foe in a day 42
+foe in a war 58
+foe is a man 49
+foe to a man 85
+ft be a set 106
+ft in a few 114
+ft is a non 44
+ft is a real 145
+ft is a set 169

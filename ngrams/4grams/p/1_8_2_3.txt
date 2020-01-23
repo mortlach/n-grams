@@ -1,4 +1,7 @@
-p all 77 p two
-195 p this 156 p
-not 121 p each 202
-p each 200 p each
+p consists of all 77
+p consists of two 195
+p obtained in this 156
+p orbitals do not 121
+p orbitals in each 202
+p orbitals of each 200
+p orbitals on each 498

@@ -1,6 +1,11 @@
-z . 150 z .
-137 z . 150 z
-. 56 zealous . 40
-zealous . 41 zebras .
-73 zipped . 243 zipper
-. 63 zipper . 141
+z are equal . 150
+z are given . 137
+z are known . 150
+z are shown . 56
+zealous and loyal . 40
+zealous than others . 41
+zebras and asses . 73
+zipped his pants . 243
+zipper got stuck . 63
+zipper was stuck . 141
+zoster may occur . 121

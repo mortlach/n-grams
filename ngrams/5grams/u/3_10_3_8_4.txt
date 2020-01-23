@@ -1,1 +1,2 @@
-use axes 85 using mice 49
+use horizontal and vertical axes 85
+using transgenic and knockout mice 49

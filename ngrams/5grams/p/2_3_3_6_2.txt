@@ -1,3 +1,6 @@
-ph on 137 ph the 90
-ph the 294 ph is 47
-ph is 155 ph to 56
+ph and its effect on 137
+ph did not affect the 90
+ph does not affect the 294
+ph for this enzyme is 47
+ph for this reaction is 155
+ph was then raised to 56

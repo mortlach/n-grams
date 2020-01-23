@@ -1,1 +1,2 @@
-zero process 248 zinc together 70
+zero mean white noise process 248
+zinc are often found together 70

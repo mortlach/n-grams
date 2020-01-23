@@ -1,1 +1,2 @@
-quit and 43 quit and
+quit playing baseball and 43
+quit playing football and 40

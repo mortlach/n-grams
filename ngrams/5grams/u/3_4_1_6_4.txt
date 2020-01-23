@@ -1,4 +1,9 @@
-use more 232 use more 45
-use range 64 use wide 41
-use girl 131 use idiom 41
-use know 171 use from 98
+use just a little more 232
+use only a little more 45
+use only a narrow range 64
+use over a fairly wide 41
+use such a pretty girl 131
+use such a vulgar idiom 41
+use what i already know 171
+use what i learned from 98
+using what i learned from 40

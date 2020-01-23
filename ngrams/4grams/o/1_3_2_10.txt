@@ -1,3 +1,6 @@
-o calculated 452 o considered
-146 o determined 397 o
-calculated 46 o considered 63
+o can be calculated 452
+o can be considered 146
+o can be determined 397
+o may be calculated 46
+o may be considered 63
+o may be determined 100

@@ -1,3 +1,6 @@
-jobs dexterity 114 jury defendant
-109 jury plaintiff 93 just
-parliament 45 just important 45
+jobs requiring manual dexterity 114
+jury question whether defendant 109
+jury verdict awarding plaintiff 93
+just carried through parliament 45
+just realized something important 45
+just wandering around aimlessly 59

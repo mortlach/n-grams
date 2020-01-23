@@ -1,1 +1,3 @@
-job problem 3181 job require
+job shop scheduling problem 3181
+job will probably require 42
+joy when clarence brought 74

@@ -1,6 +1,11 @@
-xylem roots 208 xylem veins
-99 xylem first 59 xylem
-plant 103 xylem roots 248
-xylem trunk 95 xylem inner
-314 xylem phloem 135 xylem
-leaves 585 xylem phloem 121
+xylem in the roots 208
+xylem in the veins 99
+xylem of the first 59
+xylem of the plant 103
+xylem of the roots 248
+xylem of the trunk 95
+xylem on the inner 314
+xylem or the phloem 135
+xylem to the leaves 585
+xylem to the phloem 121
+xylem to the shoot 145

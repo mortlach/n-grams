@@ -1,4 +1,7 @@
-kg require 51 king superior
-48 king inflict 63 king
-himself 63 king consent 464
-king forgive 123 king himself
+kg child would require 51
+king calling italy superior 48
+king could never inflict 63
+king could rouse himself 63
+king would never consent 464
+king would never forgive 123
+king would place himself 48

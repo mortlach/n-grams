@@ -1,6 +1,10 @@
-l is 43 l in
-137 l is 47 l
-in 61 l is 41
-l in 155 l is
-53 l do 141 l
-am 254 l do 108
+l and a is 43
+l and d in 137
+l and k is 47
+l and m in 61
+l and m is 41
+l and r in 155
+l and r is 53
+l mean l do 141
+l say l am 254
+l say l do 108

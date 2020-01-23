@@ -1,1 +1,2 @@
-cm diameter 77 cm diameter
+cm and inner diameter 77
+cm and outer diameter 60

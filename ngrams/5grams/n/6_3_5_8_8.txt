@@ -1,1 +1,3 @@
-neither pressure 259 normal children 649
+neither being under abnormal pressure 259
+normal and learning disabled children 649
+normal and learning disabled students 45

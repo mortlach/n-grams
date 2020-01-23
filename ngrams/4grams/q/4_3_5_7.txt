@@ -1,4 +1,8 @@
-quip occasion 61 quit husband
-42 quit position 62 quit
-position 117 quit position 101
-quit support 45 quit figures
+quip for every occasion 61
+quit her odious husband 42
+quit her teaching position 62
+quit his strong position 117
+quit his teaching position 101
+quit its uneasy support 45
+quit them first figures 42
+quit this noble company 42

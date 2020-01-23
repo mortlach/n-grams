@@ -1,3 +1,6 @@
-l ones 86 l when 98
-l back 100 l sure 133
-l care 165 l hard 57
+l are the only ones 86
+l had in mind when 98
+l had to come back 100
+l had to make sure 133
+l had to take care 165
+l had to work hard 57

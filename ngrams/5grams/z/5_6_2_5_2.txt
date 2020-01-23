@@ -1,1 +1,2 @@
-zeros the 59 zones on 51
+zeros before or after the 59
+zones should be based on 51

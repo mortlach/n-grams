@@ -1,6 +1,10 @@
-job wanted 124 job various
-42 job closed 73 job
-filled 68 job result 632
-job notice 281 job another
-186 joy island 53 joy
-mourning 224 joy sorrow 79
+job nobody else wanted 124
+job offers from various 42
+job openings were closed 73
+job openings were filled 68
+job openings will result 632
+job without giving notice 281
+job without having another 186
+joy through their island 53
+joy turned into mourning 224
+joy turned into sorrow 79

@@ -1,4 +1,9 @@
-give a 143 give a 165
-giving a 40 giving a 58
-good a 65 good a 67
-gray a 55 great a 48
+give parents and children a 143
+give teachers and students a 165
+giving parents and children a 40
+giving parents and guardians a 58
+good grounds for suspecting a 65
+good stories and reflecting a 67
+gray horizon they descried a 55
+great concern they observed a 48
+great exploit had entailed a 43

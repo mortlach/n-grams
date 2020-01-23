@@ -1,6 +1,11 @@
-icon warning 131 ideas stone
-554 into would 43 into
-large 175 into large 94
-into false 59 into short
-53 into class 97 into
-group 100 into fence 77
+icon designates a warning 131
+ideas constitute a stone 554
+into apocryphal i would 43
+into circulation a large 175
+into cultivation a large 94
+into entertaining a false 59
+into imbecility a short 53
+into prominence a class 97
+into prominence a group 100
+into whitewashing a fence 77
+item represents a large 50

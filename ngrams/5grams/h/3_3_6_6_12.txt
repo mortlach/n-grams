@@ -1,4 +1,8 @@
-had communication 53 had expectoration 41
-had interjections 55 had announcement 49
-has significance 73 has satisfactory 114
-has satisfactory 58 has accommodation 43
+had but little direct communication 53
+had dry coughs without expectoration 41
+had got beyond simple interjections 55
+had put myself without announcement 49
+has but little obvious significance 73
+has not always proved satisfactory 114
+has not proved wholly satisfactory 58
+has not tended toward accommodation 43

@@ -1,6 +1,11 @@
-o times 42 o point
-356 o cases 41 o
-cases 53 o equal 42
-o known 285 o given
-40 o found 42 o
-cases 106 o total 92
+o at all times 42
+o at this point 356
+o in all cases 41
+o in both cases 53
+o is not equal 42
+o is not known 285
+o is then given 40
+o it was found 42
+o of all cases 106
+o of its total 92
+o we can write 42

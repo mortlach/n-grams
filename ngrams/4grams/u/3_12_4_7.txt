@@ -1,3 +1,5 @@
-use inmates 58 use results
-257 using inmates 67 using
-results 47 using results 155
+use concentration camp inmates 58
+use standardized test results 257
+using concentration camp inmates 67
+using intelligence test results 47
+using standardized test results 155

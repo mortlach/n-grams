@@ -1,6 +1,10 @@
-kerosene candles 1166 kerosene alcohol
-61 keyboard display 345 keyboard
-written 99 kindness cruelty 145
-kindness unknown 89 kindness husband
-87 kindness founder 51 kindness
-natural 82 knightly virtues 88
+kerosene lamps and candles 1166
+kerosene stove with alcohol 61
+keyboard input and display 345
+keyboard music was written 99
+kindness rather than cruelty 145
+kindness shown this unknown 89
+kindness which her husband 87
+kindness which its founder 51
+kindness which was natural 82
+knightly deeds and virtues 88

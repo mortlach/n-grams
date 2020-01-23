@@ -1,1 +1,3 @@
-measurement accommodate 50 mechanisms distribution 62
+measurement this will not accommodate 50
+mechanisms and their age distribution 62
+mechanisms for dealing with uncertainty 54

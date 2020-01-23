@@ -1,6 +1,11 @@
-n second 415 n france
-83 n larger 267 n
-second 60 n chosen 45
-n second 48 n herald
-40 n exceed 124 n
-normal 100 n number 193
+n cycles per second 415
+n england and france 83
+n larger and larger 267
+n periods per second 60
+n points are chosen 45
+n radians per second 48
+n review and herald 40
+n should not exceed 124
+n stands for normal 100
+n stands for number 193
+n values for various 110

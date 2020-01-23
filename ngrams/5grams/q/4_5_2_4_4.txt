@@ -1,2 +1,5 @@
-quit time 59 quit days 46
-quit ahead 164 quit month 47
+quit about the same time 59
+quit paris in three days 46
+quit while we were ahead 164
+quit within the next month 47
+quit working to stay home 51

@@ -1,1 +1,2 @@
-yourself abilities 80 yourself conditions
+yourself about your abilities 80
+yourself under what conditions 49

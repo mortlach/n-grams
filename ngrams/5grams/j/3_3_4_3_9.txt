@@ -1,4 +1,8 @@
-jam threepence 51 job perceives 70
-joy happiness 47 joy happiness 96
-joy happiness 182 joy knowledge 65
-joy utterance 119 joy utterance 45
+jam and cream for threepence 51
+job and what one perceives 70
+joy and hope and happiness 47
+joy and love and happiness 96
+joy and peace and happiness 182
+joy and peace and knowledge 65
+joy too deep for utterance 119
+joy too great for utterance 45

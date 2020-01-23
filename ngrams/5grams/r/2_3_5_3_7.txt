@@ -1,0 +1,1 @@
+ring set round with diamonds 121

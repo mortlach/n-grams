@@ -1,3 +1,6 @@
-y limits 284 y amount
-41 y number 438 y
-output 125 y vector 140
+y between the limits 284
+y denotes the amount 41
+y denotes the number 438
+y denotes the output 125
+y denotes the vector 140
+y depending on whether 45

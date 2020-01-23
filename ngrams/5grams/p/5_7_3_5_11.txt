@@ -1,5 +1,11 @@
-party organization 187 petty appointment 44
-place reformations 62 plane reservations 113
-plant communities 172 plays apprentices 49
-power transmission 87 power construction 289
-power construction 159 press conferences 40
+party loyalty and party organization 187
+petty offense for which appointment 44
+place against all noble reformations 62
+plane tickets and hotel reservations 113
+plant species and plant communities 172
+plays because they lured apprentices 49
+power stations and power transmission 87
+power stations are under construction 289
+power stations now under construction 159
+press briefings and press conferences 40
+press releases and press conferences 706

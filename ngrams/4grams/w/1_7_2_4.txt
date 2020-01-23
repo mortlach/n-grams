@@ -1,1 +1,2 @@
-w wage 205 w width
+w denotes the wage 205
+w denotes the width 158

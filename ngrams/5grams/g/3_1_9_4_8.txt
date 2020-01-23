@@ -1,1 +1,2 @@
-get education 43 get estimate 75
+get a reasonably good education 43
+get a reasonably good estimate 75

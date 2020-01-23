@@ -1,2 +1,5 @@
-go steamboat 233 go blighter 45
-go physical 97 go distance 62
+go on board a steamboat 233
+go on hitting a blighter 45
+go on until a physical 97
+go so short a distance 62
+go to watch a football 43

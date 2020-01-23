@@ -1,4 +1,8 @@
-p after 158 p about
-49 p unity 70 p
-price 51 p based 329
-p given 364 p shown
+p before and after 158
+p greater than about 49
+p greater than unity 70
+p stands for price 51
+p values are based 329
+p values are given 364
+p values are shown 293
+p values for which 155

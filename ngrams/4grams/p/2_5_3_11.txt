@@ -1,1 +1,2 @@
-ph temperature 51 ph temperature
+ph change with temperature 51
+ph value and temperature 361

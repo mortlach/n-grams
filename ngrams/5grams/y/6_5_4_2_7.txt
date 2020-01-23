@@ -1,5 +1,11 @@
-yellow success 44 yellow general 70
-yellow candles 41 yellow doorway 46
-yellow hallway 56 yellow kitchen 68
-yellow lantern 112 yellow windows 97
-yellow northern 45 yields bellowing 60
+yellow brick road to success 44
+yellow fever from the general 70
+yellow light from the candles 41
+yellow light from the doorway 46
+yellow light from the hallway 56
+yellow light from the kitchen 68
+yellow light from the lantern 112
+yellow light from the windows 97
+yellow light upon the northern 45
+yields drags down the bellowing 60
+younger child trying to acquire 55

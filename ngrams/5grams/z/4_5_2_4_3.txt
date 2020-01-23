@@ -1,1 +1,3 @@
-zero and 63 zone for 48
+zero hours of work and 63
+zone could be used for 48
+zone would be less than 43

@@ -1,1 +1,2 @@
-quit semester 63 quit continue
+quit after one semester 63
+quit rather than continue 55

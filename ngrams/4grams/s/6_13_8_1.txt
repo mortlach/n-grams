@@ -1,4 +1,7 @@
-should a 74 special a
-47 special a 171 special
-a 54 system a 52
-system a 65 system a
+should automatically generate a 74
+special circumstances indicating a 47
+special circumstances justifying a 171
+special circumstances warranting a 54
+system automatically performs a 52
+system automatically produces a 65
+system automatically provides a 51

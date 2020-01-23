@@ -1,2 +1,4 @@
-n be 53 n be 215
-n be 101 n me 122
+n and can not be 53
+n can not both be 215
+n that can not be 101
+n then they beat me 122

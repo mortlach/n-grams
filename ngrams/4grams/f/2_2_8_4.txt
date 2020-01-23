@@ -1,1 +1,3 @@
-ft from 272 ft duct
+ft is obtained from 272
+ft of straight duct 67
+ft of straight pipe 245

@@ -1,4 +1,9 @@
-use himself 282 use control 44
-use century 145 use century 122
-use century 55 use century 97
-use century 124 using alcohol 53
+use force to defend himself 282
+use force to regain control 44
+use since the seventh century 145
+use since the twelfth century 122
+use until the second century 55
+use until the seventh century 97
+use until the twelfth century 124
+using drugs or drinking alcohol 53
+using force to defend himself 86

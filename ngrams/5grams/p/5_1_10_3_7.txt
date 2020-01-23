@@ -1,1 +1,2 @@
-place priority 146 poetry religion 58
+place a relatively low priority 146
+poetry a substitute for religion 58

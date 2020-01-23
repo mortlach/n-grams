@@ -1,3 +1,5 @@
-background might 45 barometric water
-140 barometric which 56 beneficent
-knows 44 beneficent first 40
+background variables which might 45
+barometric pressure minus water 140
+barometric pressure under which 56
+beneficent severity which knows 44
+beneficent tepidity which first 40

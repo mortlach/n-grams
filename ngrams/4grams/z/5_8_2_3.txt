@@ -1,6 +1,10 @@
-zenith not 119 zenith any
-334 zenith each 101 zenith
-sun 174 zenith that 102
-zenith two 44 zones its
-76 zones them 71 zones
-them 251 zones them 289
+zenith distance is not 119
+zenith distance of any 334
+zenith distance of each 101
+zenith distance of sun 174
+zenith distance of that 102
+zenith distance of two 44
+zones adjacent to its 76
+zones adjacent to them 71
+zones allotted to them 251
+zones assigned to them 289

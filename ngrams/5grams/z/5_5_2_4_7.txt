@@ -1,1 +1,2 @@
-zeros diagonal 145 zeros diagonal 181
+zeros above the main diagonal 145
+zeros below the main diagonal 181

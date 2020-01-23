@@ -1,2 +1,4 @@
-raw colonies 127 real increases 41
-real expected 95 real inflation 128
+raw materials from their colonies 127
+real interest rate also increases 41
+real interest rate plus expected 95
+real interest rate when inflation 128

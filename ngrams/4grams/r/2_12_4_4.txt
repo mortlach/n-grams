@@ -1,1 +1,2 @@
-ring north 46 ring been
+ring chronologies from north 46
+ring chronologies have been 65

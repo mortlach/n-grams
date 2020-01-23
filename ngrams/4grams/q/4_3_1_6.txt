@@ -1,6 +1,11 @@
-quip fillip 77 quit lawyer
-58 quit victim 48 quit
-better 339 quit couple 102
-quit little 228 quit minute
-52 quit moment 316 quit
-second 44 quit moment 51
+quip and a fillip 77
+quit being a lawyer 58
+quit being a victim 48
+quit for a better 339
+quit for a couple 102
+quit for a little 228
+quit for a minute 52
+quit for a moment 316
+quit for a second 44
+quit him a moment 51
+quiz him a little 67

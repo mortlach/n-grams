@@ -1,4 +1,7 @@
-z fig 140 z this
-51 z and 43 z
-not 232 z that 89
-z then 135 z that
+z direction in fig 140
+z direction in this 51
+z direction is and 43
+z direction is not 232
+z direction is that 89
+z direction is then 135
+z direction so that 470

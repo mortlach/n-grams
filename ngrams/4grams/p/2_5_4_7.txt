@@ -1,1 +1,3 @@
-pa allowed 48 ph between
+pa would have allowed 48
+ph value lies between 139
+ph value ranging between 103

@@ -1,1 +1,3 @@
-zigzags out 280 zigzags fro
+zigzags in and out 280
+zigzags to and fro 145
+zoology in all its 119

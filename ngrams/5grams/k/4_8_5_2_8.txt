@@ -1,4 +1,8 @@
-keep accounts 55 keep personal 108
-keep progress 71 kept pressure 76
-kept progress 1078 kept situation 827
-kept confines 48 kind purposed 77
+keep accurate books of accounts 55
+keep informed about the personal 108
+keep informed about the progress 71
+kept constant while the pressure 76
+kept informed about the progress 1078
+kept informed about the situation 827
+kept strictly within the confines 48
+kind intention which he purposed 77

@@ -1,4 +1,8 @@
-read newspapers 65 read newspapers 42
-read chronicles 80 read publication 175
-real characters 163 rid injustices 124
-row represents 88 row represents 68
+read in our daily newspapers 65
+read in our morning newspapers 42
+read in our saxon chronicles 80
+read on its first publication 175
+real as that whose characters 163
+rid of all social injustices 124
+row in this table represents 88
+row of this table represents 68

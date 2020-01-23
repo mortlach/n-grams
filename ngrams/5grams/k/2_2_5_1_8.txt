@@ -1,1 +1,2 @@
-king remission 68 king regiment 44
+king to grant a remission 68
+king to raise a regiment 44

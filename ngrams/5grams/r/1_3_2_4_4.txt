@@ -1,1 +1,3 @@
-r rate 91 r data 111
+r are the wage rate 91
+r for the same data 111
+r has the same sign 122

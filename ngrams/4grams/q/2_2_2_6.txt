@@ -1,1 +1,2 @@
-qt charge 86 qt output
+qt is the charge 86
+qt is the output 101

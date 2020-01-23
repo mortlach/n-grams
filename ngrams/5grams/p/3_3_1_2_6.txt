@@ -1,1 +1,2 @@
-pop before 127 put anchor 413
+pop out a thing before 127
+put out a sea anchor 413

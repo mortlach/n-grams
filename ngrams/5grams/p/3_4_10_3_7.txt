@@ -1,1 +1,2 @@
-put repairs 92 put repairs 81
+put into charleston for repairs 92
+put into valparaiso for repairs 81

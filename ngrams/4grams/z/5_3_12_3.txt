@@ -1,1 +1,3 @@
-zonal for 154 zoned and
+zonal mean temperatures for 154
+zoned for agricultural and 55
+zoned for agricultural use 455

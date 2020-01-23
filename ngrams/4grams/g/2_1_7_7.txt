@@ -1,1 +1,3 @@
-go percent 41 go thousand
+go a hundred percent 41
+go a hundred thousand 59
+go a journey chiefly 175

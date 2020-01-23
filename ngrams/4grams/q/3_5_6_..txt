@@ -1,4 +1,7 @@
-que . 111 que .
-67 qui ? 52 qui
-. 120 qui . 48
-qui . 75 quo .
+que ellos tienen . 111
+que tenian deudas . 67
+qui parle anglais ? 52
+qui parle county . 120
+qui serus amavit . 48
+qui teste fugavi . 75
+quo would remain . 75

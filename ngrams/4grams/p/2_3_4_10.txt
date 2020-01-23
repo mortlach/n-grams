@@ -1,5 +1,9 @@
-ph neutralizing 70 ph composition
-916 ph parameters 80 ph
-properties 131 ph composition 46
-ph attributed 120 ph calculated
-44 ph determined 293 ph
+ph and acid neutralizing 70
+ph and ionic composition 916
+ph and other parameters 80
+ph and other properties 131
+ph and salt composition 46
+ph has been attributed 120
+ph has been calculated 44
+ph has been determined 293
+ph was also determined 153

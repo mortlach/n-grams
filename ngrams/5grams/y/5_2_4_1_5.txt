@@ -1,3 +1,7 @@
-yearning child 79 yield pudding 358
-yield dowry 219 yield claim 227
-yield feeling 126 yield spell 45
+yearning to have a child 79
+yield the crow a pudding 358
+yield to make a dowry 219
+yield to such a claim 227
+yield to such a feeling 126
+yield to such a spell 45
+yours or mine a hearty 41

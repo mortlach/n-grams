@@ -1,4 +1,7 @@
-xi number 168 xi amount
-147 xi number 359 xi
-output 42 xi vector 186
-xi report 56 xx number
+xi be the number 168
+xi is the amount 147
+xi is the number 359
+xi is the output 42
+xi is the vector 186
+xi of the report 56
+xx is the number 346

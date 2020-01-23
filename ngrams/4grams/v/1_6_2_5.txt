@@ -1,6 +1,11 @@
-v marin 148 v orange
-493 v santa 865 v
-value 85 v water 43
-v omaha 625 v wales
-170 v equal 65 v
-given 100 v taken 157
+v county of marin 148
+v county of orange 493
+v county of santa 865
+v denote the value 85
+v liters of water 43
+v mutual of omaha 625
+v prince of wales 170
+v should be equal 65
+v should be given 100
+v should be taken 157
+v toward the right 68

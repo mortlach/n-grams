@@ -1,1 +1,2 @@
-cm detected 45 cm observed 49
+cm in diameter were detected 45
+cm in diameter were observed 49

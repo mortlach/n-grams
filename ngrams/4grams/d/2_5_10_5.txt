@@ -1,4 +1,7 @@
-db noise 115 do about
-132 do about 52 do
-short 41 do about 99
-do adorn 46 do about
+db above background noise 115
+do anything substantial about 132
+do carry information about 52
+do falls infinitely short 41
+do offer information about 99
+do often handsomely adorn 46
+do yield information about 41

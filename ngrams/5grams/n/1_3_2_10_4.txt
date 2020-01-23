@@ -1,3 +1,6 @@
-n mode 101 n from 946
-n into 152 n from 1032
-n from 239 n from 316
+n are the transverse mode 101
+n can be calculated from 946
+n can be decomposed into 152
+n can be determined from 1032
+n may be calculated from 239
+n may be determined from 316

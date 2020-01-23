@@ -1,4 +1,9 @@
-key study 42 key comes 60
-key title 42 key mouse 113
-key story 103 key title 138
-key first 89 kings throne 126
+key finding from the study 42
+key issue when it comes 60
+key terms from the title 42
+key while moving the mouse 113
+key words from the story 103
+key words from the title 138
+key words such as first 89
+kings sitting upon the throne 126
+kings under whom he lived 99

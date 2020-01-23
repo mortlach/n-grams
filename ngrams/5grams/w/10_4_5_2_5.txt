@@ -1,2 +1,5 @@
-wainscoted ceiling 174 warehouses store 61
-wilderness water 50 witchcraft fresh 60
+wainscoted from floor to ceiling 174
+warehouses were built to store 61
+wilderness into pools of water 50
+witchcraft were still in fresh 60
+worshipful self either the first 57

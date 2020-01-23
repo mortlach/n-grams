@@ -1,2 +1,5 @@
-r radius 315 r number 134
-r radius 127 r radius 1783
+r be the mean radius 315
+r is an odd number 134
+r is the beam radius 127
+r is the mean radius 1783
+r is the tip radius 144

@@ -1,3 +1,7 @@
-quantitative used 118 quantitative used 45
-quantitative same 40 questionnaire used 80
-questionnaire fill 82 questionnaire used 519
+quantitative and can be used 118
+quantitative and may be used 45
+quantitative are not the same 40
+questionnaire can not be used 80
+questionnaire for you to fill 82
+questionnaire that can be used 519
+questionnaire that may be used 69

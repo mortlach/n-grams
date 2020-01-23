@@ -1,1 +1,3 @@
-quit pursue 50 quit little
+quit cambridge and pursue 50
+quit cambridge with little 45
+quit simulacra and return 59

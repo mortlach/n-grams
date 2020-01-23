@@ -1,3 +1,5 @@
-via language 60 via squares
-56 via squares 246 via
-surface 179 via squares 88
+via american sign language 60
+via nonlinear least squares 56
+via ordinary least squares 246
+via specific cell surface 179
+via weighted least squares 88

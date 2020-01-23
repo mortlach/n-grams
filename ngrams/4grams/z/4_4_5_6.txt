@@ -1,1 +1,3 @@
-zero factor 145 zone neither
+zero leading power factor 145
+zone into which neither 183
+zoning laws often affect 70

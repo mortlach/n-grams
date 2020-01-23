@@ -1,1 +1,2 @@
-foe behind 85 ft matrix
+foe thus protected behind 85
+ft and covariance matrix 77

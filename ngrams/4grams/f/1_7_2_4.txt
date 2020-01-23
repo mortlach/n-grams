@@ -1,4 +1,8 @@
-f some 134 f these
-59 f have 89 f
-best 89 f most 211
-f same 116 f case
+f according to some 134
+f according to these 59
+f although we have 89
+f perhaps the best 89
+f perhaps the most 211
+f remains the same 116
+f reports the case 57
+f several of these 160

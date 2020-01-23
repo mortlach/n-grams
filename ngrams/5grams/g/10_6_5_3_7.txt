@@ -1,3 +1,7 @@
-geometrical control 104 government accepts 42
-government operate 44 government efforts 45
-government function 145 government operate 139
+geometrical figure which has control 104
+government neither makes nor accepts 42
+government should build and operate 44
+government should focus its efforts 45
+government simply could not function 145
+government simply could not operate 139
+government troops cover and support 268

@@ -1,2 +1,5 @@
-receive from 108 receiving from 66
-relation from 50 remarks will 60
+receive child support payments from 108
+receiving child support payments from 66
+relation which follows directly from 50
+remarks about private citizens will 60
+repeated index implies summation over 88

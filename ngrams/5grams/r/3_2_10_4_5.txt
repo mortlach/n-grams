@@ -1,3 +1,6 @@
-read cover 64 read times 299
-read times 68 read cover 50
-rod drive 268 run within 50
+read the manuscript from cover 64
+read the manuscript many times 299
+read the manuscript more times 68
+read the newspapers from cover 50
+rod of discipline will drive 268
+run the application from within 50

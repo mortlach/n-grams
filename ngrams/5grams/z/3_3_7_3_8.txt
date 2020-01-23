@@ -1,2 +1,4 @@
-zeal humanity 52 zeal equality 89
-zeal morality 82 zeal laborious 53
+zeal for freedom and humanity 52
+zeal for liberty and equality 89
+zeal for religion and morality 82
+zeal for research and laborious 53

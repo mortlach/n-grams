@@ -1,1 +1,3 @@
-enumerations reviews 48 environment ignored 42
+enumerations and such general reviews 48
+environment has been largely ignored 42
+expenditure has been steadily increasing 41

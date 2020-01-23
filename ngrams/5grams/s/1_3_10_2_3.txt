@@ -1,5 +1,11 @@
-s you 146 s you 40
-s his 172 s its 45
-s her 91 s his 577
-s how 56 s this 109
-s being 72 s his 196
+s any consolation to you 146
+s not convenient to you 40
+s own assessment of his 172
+s own assessment of its 45
+s own description of her 91
+s own description of his 577
+s own description of how 56
+s own description of this 109
+s own experience of being 72
+s own explanation of his 196
+s own reflections on his 42

@@ -1,1 +1,3 @@
-go backward 240 go business 82
+go forward rather than backward 240
+go quietly about his business 82
+go quietly about our business 63

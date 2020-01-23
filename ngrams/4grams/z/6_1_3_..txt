@@ -1,1 +1,2 @@
-zlotys . 186 zlotys .
+zlotys a day . 186
+zlotys a year . 258

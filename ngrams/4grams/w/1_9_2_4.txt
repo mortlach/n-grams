@@ -1,1 +1,2 @@
-w width 67 w width
+w indicates the width 67
+w represent the width 130

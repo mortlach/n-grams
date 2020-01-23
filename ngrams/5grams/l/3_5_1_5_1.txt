@@ -1,1 +1,3 @@
-long a 115 long a 200
+long search i found a 115
+long since i spent a 200
+long since i wrote a 142

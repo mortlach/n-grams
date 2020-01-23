@@ -1,3 +1,5 @@
-h doses 227 h small
-99 h onset 1311 h
-morning 71 h weeks 96
+h in divided doses 227
+h is usually small 99
+h of symptom onset 1311
+h the following morning 71
+h to several weeks 96

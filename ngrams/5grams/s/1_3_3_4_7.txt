@@ -1,3 +1,6 @@
-s stories 85 s stories 84
-s studies 220 s trouble 961
-s together 196 s stories 69
+s day and other stories 85
+s end and other stories 84
+s law and other studies 220
+s not too much trouble 961
+s put our heads together 196
+s son and other stories 69

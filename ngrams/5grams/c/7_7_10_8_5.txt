@@ -1,1 +1,2 @@
-collect every 71 contour field 54
+collect written information concerning every 71
+contour clamped homogeneous electric field 54

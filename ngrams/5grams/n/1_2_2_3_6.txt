@@ -1,2 +1,5 @@
-n number 63 n number 2540
-n number 45 n angular 174
+n be an odd number 63
+n is an odd number 2540
+n is the gas number 45
+n is the mean angular 174
+n is the mean number 868

@@ -1,1 +1,2 @@
-via york 70 via york 43
+via london to new york 70
+via panama to new york 43

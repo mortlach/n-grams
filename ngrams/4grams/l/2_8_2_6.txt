@@ -1,5 +1,9 @@
-la france 257 la france
-54 la france 58 la
-europe 138 la france 227
-ll matter 49 ll detail
-43 ll better 185 ll
+la critique en france 257
+la miniature en france 54
+la presence en france 58
+la situation en europe 138
+la situation en france 227
+ll consider the matter 49
+ll describe in detail 43
+ll probably be better 185
+ll probably do better 92

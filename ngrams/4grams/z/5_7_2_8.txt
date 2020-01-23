@@ -1,1 +1,3 @@
-zones altitude 213 zones elevation
+zones according to altitude 213
+zones according to elevation 43
+zones freedom of movement 57

@@ -1,1 +1,3 @@
-job completed 45 job processed
+job i is completed 45
+job j is processed 78
+job j is scheduled 62

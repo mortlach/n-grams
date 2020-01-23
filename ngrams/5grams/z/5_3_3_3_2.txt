@@ -1,1 +1,2 @@
-zones up 46 zones be 110
+zones are being set up 46
+zones that can not be 110

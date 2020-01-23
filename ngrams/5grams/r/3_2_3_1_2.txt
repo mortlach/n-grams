@@ -1,3 +1,7 @@
-read am 116 read do 279
-read am 44 read do 100
-read thing 188 rid do 42
+read it and i am 116
+read it and i do 279
+read it but i am 44
+read it but i do 100
+read me for a thing 188
+rid of them i do 42
+run to see a king 120

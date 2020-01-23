@@ -1,4 +1,7 @@
-journal columns 52 journal letters
-301 journey germany 102 judicial
-judicial 219 judicial inferior 62
-judicial parties 57 judicial include
+journal contains special columns 52
+journal physical review letters 301
+journey secretly through germany 102
+judicial activism versus judicial 219
+judicial authority little inferior 62
+judicial scrutiny before parties 57
+judicial selection methods include 67

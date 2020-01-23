@@ -1,3 +1,5 @@
-r angle 188 r only
-46 r from 62 r
-from 140 r from 40
+r and central angle 188
+r and depends only 46
+r are derived from 62
+r being measured from 140
+r that results from 40

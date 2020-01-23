@@ -1,2 +1,4 @@
-m from 426 m from 508
-m from 132 m from 97
+m can be calculated from 426
+m can be determined from 508
+m may be calculated from 132
+m may be determined from 97

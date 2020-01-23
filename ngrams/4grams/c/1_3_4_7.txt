@@ -1,6 +1,10 @@
-c numbers 124 c vectors
-52 c similar 63 c
-assumed 111 c defined 58
-c measured 133 c omitted
-41 c removed 46 c
-studied 147 c answers 143
+c are three numbers 124
+c are unit vectors 52
+c are very similar 63
+c has been assumed 111
+c has been defined 58
+c has been measured 133
+c has been omitted 41
+c has been removed 46
+c has been studied 147
+c use your answers 143

@@ -1,3 +1,6 @@
-g taken 97 g added
-125 g found 272 g
-given 510 g shown 186
+g each were taken 97
+g has been added 125
+g has been found 272
+g has been given 510
+g has been shown 186
+g has been taken 158

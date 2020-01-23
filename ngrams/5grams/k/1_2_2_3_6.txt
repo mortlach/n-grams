@@ -1,1 +1,2 @@
-k number 233 k number 105
+k is an odd number 233
+k is the mean number 105

@@ -1,1 +1,2 @@
-zero zero 57 zinc zinc 268
+zero or different from zero 57
+zinc is converted into zinc 268

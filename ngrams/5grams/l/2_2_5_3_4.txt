@@ -1,4 +1,8 @@
-lb hour 295 ll your 41
-ll ever 86 ll your 114
-ll like 175 ll want 360
-ll want 78 ll take 46
+lb of water per hour 295
+ll be asked for your 41
+ll be sorry you ever 86
+ll be waiting for your 114
+ll do anything you like 175
+ll do anything you want 360
+ll go where you want 78
+ll up again and take 46

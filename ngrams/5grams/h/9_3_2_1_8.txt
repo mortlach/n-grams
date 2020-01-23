@@ -1,1 +1,2 @@
-honestest courtier 57 household constant 41
+honestest man of a courtier 57
+household was in a constant 41

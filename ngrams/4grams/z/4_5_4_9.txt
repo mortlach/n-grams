@@ -1,3 +1,6 @@
-zero conditions 43 zero conditions
-41 zero conditions 790 zinc
-electrons 159 zinc conditions 44
+zero under ideal conditions 43
+zero under such conditions 41
+zero under these conditions 790
+zinc atoms lose electrons 159
+zinc under these conditions 44
+zone under these conditions 60

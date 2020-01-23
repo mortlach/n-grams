@@ -1,5 +1,9 @@
-n been 102 n made
-152 n unit 56 n
-only 127 n unit 47
-n also 107 n been
-427 n mode 57 n
+n attempt has been 102
+n attempt was made 152
+n charges per unit 56
+n depends not only 127
+n dipoles per unit 47
+n junction can also 107
+n junction has been 427
+n photons per mode 57
+n photons per unit 91

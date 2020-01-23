@@ -1,2 +1,4 @@
-ph created 204 ph formed
-594 ph amount 69 ph
+ph gradient is created 204
+ph gradient is formed 594
+ph increases the amount 69
+ph returned to normal 204

@@ -1,1 +1,2 @@
-cm uniformity 60 cm calculated
+cm and good uniformity 60
+cm has been calculated 42

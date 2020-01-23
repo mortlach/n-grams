@@ -1,2 +1,4 @@
-pay . 408 pea .
-116 per . 42 per
+pay inheritance tax . 408
+pea chloroplast dna . 116
+per avoirdupois ton . 42
+per transmitted bit . 62

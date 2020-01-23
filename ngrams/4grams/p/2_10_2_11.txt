@@ -1,1 +1,2 @@
-ph respiratory 158 pi probability
+ph stimulates the respiratory 158
+pi represents the probability 105

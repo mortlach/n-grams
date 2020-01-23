@@ -1,1 +1,3 @@
-r pair 57 r only
+r between each pair 57
+r depends not only 79
+r dollars per unit 50

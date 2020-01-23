@@ -1,1 +1,3 @@
-vow a 42 vow i
+vow of chastity a 42
+vow of chastity i 53
+vow to dedicate a 139

@@ -1,2 +1,5 @@
-quarks isolated 41 quarks observed 44
-queens chartres 65 quorum obtained 672
+quarks can not be isolated 41
+quarks can not be observed 44
+queens and kings of chartres 65
+quorum can not be obtained 672
+quoted can not be regarded 42

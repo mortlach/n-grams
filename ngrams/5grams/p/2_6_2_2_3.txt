@@ -1,1 +1,3 @@
-ph two 104 ph end 48
+ph optima of the two 104
+ph values at the end 48
+ph values of the two 264

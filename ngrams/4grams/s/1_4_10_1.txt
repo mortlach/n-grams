@@ -1,3 +1,6 @@
-s a 123 s a
-65 s a 66 s
-a 51 s a 55
+s book represents a 123
+s face brightened a 65
+s face registered a 66
+s life represents a 51
+s theory represents a 55
+s work represents a 455

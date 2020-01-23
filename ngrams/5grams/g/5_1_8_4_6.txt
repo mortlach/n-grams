@@ -1,3 +1,6 @@
-getting another 55 given result 188
-given result 492 gives reaction 41
-gives reaction 67 gives through 108
+getting a construe from another 55
+given a negative test result 188
+given a positive test result 492
+gives a positive skin reaction 41
+gives a slightly acid reaction 67
+gives a straight line through 108

@@ -1,5 +1,10 @@
-no education 148 no produced 53
-no deferred 52 no exhibiting 87
-no variables 60 no achieved 40
-no observed 64 no observed 41
-no possible 49 no reported 69
+no appropriation whatever for education 148
+no documentary evidence was produced 53
+no insuperable obstacle had deferred 52
+no opportunity whatever for exhibiting 87
+no predeclared functions for variables 60
+no significant progress was achieved 40
+no significant reduction was observed 64
+no significant toxicity was observed 41
+no statistical analysis was possible 49
+no statistical analysis was reported 69

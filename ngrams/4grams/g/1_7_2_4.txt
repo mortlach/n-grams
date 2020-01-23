@@ -1,1 +1,3 @@
-g mouth 76 g same
+g glucose by mouth 76
+g remains the same 67
+g samples of soil 336

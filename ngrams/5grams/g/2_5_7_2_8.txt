@@ -1,2 +1,4 @@
-go questions 221 go situation 44
-go conflict 85 go backward 1151
+go about answering the questions 221
+go about remedying the situation 44
+go about resolving the conflict 85
+go either forward or backward 1151

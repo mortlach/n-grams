@@ -1,2 +1,5 @@
-zeal sometimes 120 zeal christians 170
-zeal missionary 57 zeal colonists 52
+zeal of the christians sometimes 120
+zeal of the primitive christians 170
+zeal of the undaunted missionary 57
+zeal of the volunteer colonists 52
+zeal of the workpeople continued 89

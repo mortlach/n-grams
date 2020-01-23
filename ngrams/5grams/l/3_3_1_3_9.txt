@@ -1,5 +1,10 @@
-lay plantation 56 let fireworks 42
-let passengers 68 let exhalation 120
-long forgotten 104 long consulted 94
-long surprised 50 long president 48
-long reputation 409 long forgotten 613
+lay out a new plantation 56
+let off a few fireworks 42
+let off a few passengers 68
+let out a long exhalation 120
+long ago i had forgotten 104
+long ago i was consulted 94
+long ago i was surprised 50
+long for a bad president 48
+long had a bad reputation 409
+long that i had forgotten 613

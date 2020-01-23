@@ -1,5 +1,9 @@
-democratically government 312 democratically government
-148 democratically authorities 51 democratically
-government 1444 democratically government 43
-democratically government 410 democratically government
-180 democratically parliaments 52 democratically
+democratically elected allende government 312
+democratically elected central government 148
+democratically elected civilian authorities 51
+democratically elected civilian government 1444
+democratically elected leftist government 43
+democratically elected marxist government 410
+democratically elected national government 180
+democratically elected national parliaments 52
+democratically elected spanish government 111

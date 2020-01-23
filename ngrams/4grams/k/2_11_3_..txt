@@ -1,1 +1,3 @@
-king . 43 king .
+king interrupted her . 43
+king interrupted him . 65
+king shalmaneser iii . 75

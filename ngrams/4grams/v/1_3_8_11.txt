@@ -1,1 +1,2 @@
-v independent 47 v distributed
+v are mutually independent 47
+v are normally distributed 50

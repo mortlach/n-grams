@@ -1,1 +1,2 @@
-xerox all 48 xerox any
+xerox copies of all 48
+xerox copies of any 58

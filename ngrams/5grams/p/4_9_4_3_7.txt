@@ -1,1 +1,3 @@
-part pasture 50 pile portico 63
+part alternate wood and pasture 50
+pile themselves along its portico 63
+pious exercises less than schooling 40

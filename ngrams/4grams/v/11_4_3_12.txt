@@ -1,1 +1,2 @@
-ventricular configuration 148 ventricular schizophrenia
+ventricular size and configuration 148
+ventricular size with schizophrenia 92

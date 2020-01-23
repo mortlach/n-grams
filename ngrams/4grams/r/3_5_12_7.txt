@@ -1,1 +1,2 @@
-ray defined 50 run control
+ray tracing procedurally defined 50
+run under thermodynamic control 61

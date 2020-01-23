@@ -1,3 +1,6 @@
-occur males 68 occur older 87
-occur people 112 occur women 187
-often others 94 order goods 49
+occur more frequently among males 68
+occur more frequently among older 87
+occur more frequently among people 112
+occur more frequently among women 187
+often fall unexpected upon others 94
+order bill representing such goods 49

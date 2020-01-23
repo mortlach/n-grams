@@ -1,3 +1,6 @@
-z not 50 z with
-91 z all 52 z
-lie 62 z not 110
+z and does not 50
+z and end with 91
+z and for all 52
+z does not lie 62
+z that are not 110
+z that does not 52

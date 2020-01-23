@@ -1,2 +1,4 @@
-zones only 49 zones same 96
-zones used 41 zones used 85
+zones are not the only 49
+zones are not the same 96
+zones can not be used 41
+zones that can be used 85

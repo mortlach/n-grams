@@ -1,4 +1,8 @@
-zeta particles 175 zinc dissolved
-179 zinc carbonate 338 zinc
-wisconsin 114 zinc dissolved 127
-zinc converted 40 zinc dissolved
+zeta potential of particles 175
+zinc chloride is dissolved 179
+zinc deposits in carbonate 338
+zinc deposits of wisconsin 114
+zinc sulphate is dissolved 127
+zinc sulphide is converted 40
+zinc sulphide is dissolved 150
+zone consists of alternating 48

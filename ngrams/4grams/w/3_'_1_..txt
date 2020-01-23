@@ -1,2 +1,4 @@
-was ? 84 who .
-83 why . 81 won
+was ' e ? 84
+who ' s . 83
+why ' s . 81
+won ' t . 226

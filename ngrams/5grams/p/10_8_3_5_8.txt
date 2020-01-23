@@ -1,5 +1,11 @@
-particular contexts 74 particular policies 50
-particular problems 76 particular situation 43
-persistent problems 54 persuasive otherwise 40
-prescribed societal 56 programmed machines 135
-protracted questioning 146 psychiatric controls 45
+particular cultural and social contexts 74
+particular economic and social policies 50
+particular economic and social problems 76
+particular economic and social situation 43
+persistent economic and social problems 54
+persuasive evidence than would otherwise 40
+prescribed positions with which societal 56
+programmed materials and teaching machines 135
+protracted questioning and cross questioning 146
+psychiatric patients and healthy controls 45
+psychiatric patients with mixed diagnoses 47

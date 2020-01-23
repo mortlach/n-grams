@@ -1,6 +1,11 @@
-p path 103 p set
-200 p two 119 p
-one 97 p real 84
-p set 109 p one
-400 p one 41 p
-this 52 p set 119
+p along the path 103
+p from the set 200
+p from the two 119
+p must be one 97
+p must be real 84
+p must be set 109
+p only if one 400
+p there is one 41
+p used in this 52
+p will be set 119
+p will be that 74

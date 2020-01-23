@@ -1,3 +1,6 @@
-use when 42 use here 53
-use when 88 use like 45
-use when 77 use when 163
+use good common sense when 42
+use some common sense here 53
+use some common sense when 88
+use their common sense like 45
+use their common sense when 77
+use your common sense when 163

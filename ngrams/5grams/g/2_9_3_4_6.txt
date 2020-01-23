@@ -1,1 +1,3 @@
-go answer 42 go dinner 52
+go elsewhere for your answer 42
+go somewhere and have dinner 52
+go somewhere and have something 50

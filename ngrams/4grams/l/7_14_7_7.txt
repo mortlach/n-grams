@@ -1,1 +1,2 @@
-linkage alleles 287 linkage markers
+linkage disequilibrium between alleles 287
+linkage disequilibrium between markers 60

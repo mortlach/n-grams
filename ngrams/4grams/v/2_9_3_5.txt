@@ -1,5 +1,9 @@
-via malta 126 via lines
-47 via which 49 via
-blood 41 via cable 1176
-via fiber 66 via which
-58 via email 267 via
+via gibraltar and malta 126
+via greyhound van lines 47
+via knowledge and which 49
+via lymphatic and blood 41
+via satellite and cable 1176
+via satellite and fiber 66
+via satellite and which 58
+via telephone and email 267
+via telephone and modem 128

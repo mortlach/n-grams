@@ -1,5 +1,9 @@
-end connected 87 end supported
-65 end connected 187 end
-supported 47 end confident 119
-end considering 105 end convinced
-114 ere convinced 308 est
+end a is connected 87
+end a is supported 65
+end b is connected 187
+end b is supported 47
+end i am confident 119
+end i am considering 105
+end i am convinced 114
+ere i am convinced 308
+est a la recherche 134

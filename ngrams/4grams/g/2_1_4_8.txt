@@ -1,3 +1,6 @@
-go distance 172 go isolated
-40 go distance 403 go
-distance 1677 go distance 52
+go a fair distance 172
+go a fine isolated 40
+go a good distance 403
+go a great distance 1677
+go a like distance 52
+go a step backward 88

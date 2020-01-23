@@ -1,2 +1,5 @@
-had relationship 52 had conversation 92
-had conversation 55 had relationship 42
+had a long distance relationship 52
+had a long friendly conversation 92
+had a long personal conversation 55
+had a long personal relationship 42
+has a low critical temperature 100

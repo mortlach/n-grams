@@ -1,1 +1,3 @@
-value asset 91 views about 64
+value from some underlying asset 91
+views have been advanced about 64
+voice from some sublimer world 257

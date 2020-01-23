@@ -1,5 +1,10 @@
-pay insurance 67 pay expensive 395
-pay destroyer 242 pay expensive 87
-pay proportion 53 plea equitable 62
-poet dramatist 105 poet commodious 74
-poet advantage 43 put newspaper 63
+pay for a life insurance 67
+pay for a more expensive 395
+pay for a single destroyer 242
+pay for a very expensive 87
+pay out a high proportion 53
+plea for a more equitable 62
+poet and a great dramatist 105
+poet had a more commodious 74
+poet has a great advantage 43
+put out a good newspaper 63

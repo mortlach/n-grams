@@ -1,1 +1,2 @@
-q followed 1072 q positive
+q is always followed 1072
+q is always positive 73

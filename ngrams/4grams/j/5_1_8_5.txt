@@ -1,4 +1,7 @@
-joining order 168 joining which
-74 joining group 169 joining
-group 172 joining order 721
-joins group 63 joins order
+joining a monastic order 168
+joining a movement which 74
+joining a pressure group 169
+joining a religious group 172
+joining a religious order 721
+joins a religious group 63
+joins a religious order 94

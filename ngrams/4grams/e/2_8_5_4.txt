@@ -1,1 +1,3 @@
-eat meals 607 eat meals
+eat frequent small meals 607
+eat multiple small meals 42
+eat scarcely anything else 93

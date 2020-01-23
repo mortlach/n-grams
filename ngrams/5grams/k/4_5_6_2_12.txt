@@ -1,1 +1,3 @@
-keep subjectivity 57 kept developments 45
+keep small rations of subjectivity 57
+kept fully abreast of developments 45
+know which section is experimental 67

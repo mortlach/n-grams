@@ -1,3 +1,5 @@
-via method 95 via route
-187 via phone 66 via
-phone 126 vs index 107
+via some other method 95
+via some other route 187
+via their cell phone 66
+via your cell phone 126
+vs body mass index 107

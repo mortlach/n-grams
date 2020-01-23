@@ -1,3 +1,5 @@
-ph usually 43 ph kinetic
-122 ph mineral 124 ph
-protein 172 ph bacteria 113
+ph adjustment is usually 43
+ph dependence of kinetic 122
+ph dependence of mineral 124
+ph dependence of protein 172
+ph homeostasis in bacteria 113

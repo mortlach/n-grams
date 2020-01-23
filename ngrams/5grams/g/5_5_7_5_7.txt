@@ -1,3 +1,6 @@
-given process 60 group election 59
-group females 227 group certain 45
-group similar 56 group descent 60
+given singlet excited state process 60
+group loses election after election 59
+group males females males females 227
+group whose members share certain 45
+group whose members share similar 56
+group whose members trace descent 60

@@ -1,6 +1,10 @@
-p says 84 p less
-264 p true 258 p
-from 177 p such 210
-p true 180 p from
-127 p what 48 p
-term 51 p from 178
+p if someone says 84
+p is always less 264
+p is always true 258
+p is changed from 177
+p is chosen such 210
+p is neither true 180
+p is varied from 127
+p no matter what 48
+p the second term 51
+p we obtain from 178

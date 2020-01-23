@@ -1,3 +1,6 @@
-yawned . 108 yelled .
-448 yelled . 121 yields
-. 125 yields . 65
+yawned a lot . 108
+yelled a lot . 448
+yelled a man . 121
+yields a dye . 125
+yields a gum . 65
+yogurt a day . 131

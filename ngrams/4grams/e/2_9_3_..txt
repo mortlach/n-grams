@@ -1,4 +1,8 @@
-eat . 403 eat .
-41 eat . 40 eng
-. 57 et . 118
-et . 422 et .
+eat different things . 403
+eat forbidden meat . 41
+eat forbidden things . 40
+eng verbunden ist . 57
+et alexandre ier . 118
+et declamatio fias . 422
+et declamatio fiat . 45
+et vulnerata sit . 75

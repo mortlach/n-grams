@@ -1,1 +1,2 @@
-p be 291 p of 43
+p can not both be 291
+p that any one of 43

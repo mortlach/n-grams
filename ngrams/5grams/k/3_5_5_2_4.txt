@@ -1,1 +1,3 @@
-key bold 64 key door 1690
+key terms appear in bold 64
+key which opens the door 1690
+key which opens the gate 107

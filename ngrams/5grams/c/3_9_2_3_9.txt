@@ -1,4 +1,8 @@
-can generated 40 can situations 120
-can directions 76 can directions 47
-can gardeners 41 can dimensions 43
-can principle 41 can themselves 58
+can dissipate the heat generated 40
+can intervene in both situations 120
+can propagate in all directions 76
+can propagate in both directions 47
+can recommend to all gardeners 41
+can represent in two dimensions 43
+can sacrifice to any principle 41
+can severally do for themselves 58

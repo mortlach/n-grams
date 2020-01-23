@@ -1,1 +1,3 @@
-p two 44 p one
+p between any two 44
+p orbital and one 97
+p orbital has two 49

@@ -1,1 +1,3 @@
-job money 131 job money 58
+job and make enough money 131
+job and save enough money 58
+job and very little money 65

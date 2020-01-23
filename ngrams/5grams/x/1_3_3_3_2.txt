@@ -1,2 +1,4 @@
-x be 70 x the 42
-x in 52 x in 51
+x and can not be 70
+x and one for the 42
+x does not lie in 52
+x that are not in 51

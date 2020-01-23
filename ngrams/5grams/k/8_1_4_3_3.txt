@@ -1,2 +1,4 @@
-kindness one 47 kindness him 48
-kindness you 411 kindness with 426
+kindness i gave her one 47
+kindness i have for him 48
+kindness i have for you 411
+kindness i have met with 426

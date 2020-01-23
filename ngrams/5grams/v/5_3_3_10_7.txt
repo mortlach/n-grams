@@ -1,2 +1,5 @@
-valid systems 86 value purpose 45
-value purpose 50 value reflect 44
+valid for all coordinate systems 86
+value for any particular purpose 45
+value for this particular purpose 50
+value may not accurately reflect 44
+voice that was distinctly audible 59

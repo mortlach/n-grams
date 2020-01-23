@@ -1,3 +1,6 @@
-following a 44 following a 184
-following a 45 following a 63
-following a 237 foreign a 58
+following paragraph comes from a 44
+following paragraph taken from a 184
+following quotations taken from a 45
+following sentences taken from a 63
+following statement taken from a 237
+foreign countries which have a 58

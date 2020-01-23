@@ -1,1 +1,3 @@
-zero value 120 zero period 70
+zero for a given value 120
+zero for a short period 70
+zone for a longer period 41

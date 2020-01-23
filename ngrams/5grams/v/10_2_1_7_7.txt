@@ -1,3 +1,7 @@
-vaccinated student 43 vernacular language 47
-vocabulary language 356 vocabulary context 73
-vocabulary language 1593 vocabulary language 271
+vaccinated by a medical student 43
+vernacular as a written language 47
+vocabulary in a foreign language 356
+vocabulary in a meaningful context 73
+vocabulary of a foreign language 1593
+vocabulary of a natural language 271
+vulnerable to a hostile takeover 222

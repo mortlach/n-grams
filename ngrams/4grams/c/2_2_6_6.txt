@@ -1,4 +1,8 @@
-cc dioxide 399 cc acetic
-634 cc saline 2258 cf
-nations 200 cf states 2623
-ch church 78 cm tissue
+cc of carbon dioxide 399
+cc of glacial acetic 634
+cc of normal saline 2258
+cf the united nations 200
+cf the united states 2623
+ch in english church 78
+cm of normal tissue 529
+cm or larger should 45

@@ -1,2 +1,4 @@
-xi abbreviations 5734 xi photographs
-97 xv abbreviations 1814 xx
+xi list of abbreviations 5734
+xi list of photographs 97
+xv list of abbreviations 1814
+xx list of abbreviations 40

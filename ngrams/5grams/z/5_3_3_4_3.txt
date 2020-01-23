@@ -1,1 +1,2 @@
-zeros are 81 zones was 100
+zeros and all ones are 81
+zones and each zone was 100

@@ -1,1 +1,3 @@
-cm packed 175 cm coated
+cm glass column packed 175
+cm glass plates coated 139
+cm rolls without slipping 55

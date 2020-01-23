@@ -1,2 +1,5 @@
-maximum to 122 message to 92
-message to 54 moments am 41
+maximum flow from s to 122
+message from site a to 92
+message sent from a to 54
+moments like these i am 41
+mutation rate from a to 227

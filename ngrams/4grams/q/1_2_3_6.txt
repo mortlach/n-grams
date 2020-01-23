@@ -1,2 +1,4 @@
-q center 168 q points
-85 q charge 250 q
+q at its center 168
+q be two points 85
+q is its charge 250
+q is not always 43

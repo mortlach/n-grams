@@ -1,3 +1,6 @@
-l something 55 l should
-44 l should 180 l
-wanted 273 l looked 63
+l should say something 55
+l thought they should 44
+l thought you should 180
+l thought you wanted 273
+l turned and looked 63
+l waited and waited 97

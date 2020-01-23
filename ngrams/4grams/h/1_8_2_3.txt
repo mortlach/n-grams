@@ -1,1 +1,3 @@
-h air 41 h air
+h exposure in air 41
+h exposure to air 107
+h followed by air 113

@@ -1,1 +1,2 @@
-zonal a 53 zones a
+zonal structure with a 53
+zones associated with a 87

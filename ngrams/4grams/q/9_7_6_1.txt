@@ -1,1 +1,2 @@
-quadratic p 286 questioned a
+quadratic residue modulo p 286
+questioned himself whether a 82

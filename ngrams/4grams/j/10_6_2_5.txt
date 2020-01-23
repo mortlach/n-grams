@@ -1,6 +1,11 @@
-journalism world 181 journalist event
-85 journalist story 117 journalist
-cairo 52 journalist aware 60
-journalist would 53 judiciously quite
-153 judiciously sweep 52 justifiable
-action 290 justifiable which 48
+journalism around the world 181
+journalist covering the event 85
+journalist covering the story 117
+journalist exiled in cairo 52
+journalist should be aware 60
+journalist whether he would 53
+judiciously framed is quite 153
+judiciously placed to sweep 52
+justifiable course of action 290
+justifiable ground on which 48
+justifiable source of pride 130

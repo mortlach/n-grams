@@ -1,1 +1,2 @@
-read magazines 234 read boundless 128
+read more newspapers and magazines 234
+read your manuscript with boundless 128

@@ -1,4 +1,8 @@
-zones excess 59 zones signal
-53 zones organs 67 zones
-tissue 51 zones building 98
-zones escape 79 zones africa
+zones of antibody excess 59
+zones of increased signal 53
+zones of lymphoid organs 67
+zones of lymphoid tissue 51
+zones of mountain building 98
+zones of tectonic escape 79
+zones of tropical africa 140
+zones on mountain slopes 42

@@ -1,1 +1,3 @@
-ph between 53 pp sections
+ph value ranges between 53
+pp total cross sections 81
+pt times roman printed 43

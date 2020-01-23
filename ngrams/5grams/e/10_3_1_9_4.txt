@@ -1,3 +1,7 @@
-employment time 63 employment term 109
-employment time 56 examination test 60
-experiment kind 283 experiment type 190
+employment for a reasonable time 63
+employment for a specified term 109
+employment for a specified time 56
+examination and a pregnancy test 60
+experiment with a different kind 283
+experiment with a different type 190
+explicitly that a specified part 88

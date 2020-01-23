@@ -1,1 +1,2 @@
-r negative 54 r positive
+r is always negative 54
+r is always positive 599

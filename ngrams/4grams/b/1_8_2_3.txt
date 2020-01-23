@@ -1,2 +1,4 @@
-b all 110 b two
-255 b arc 133 b
+b consists of all 110
+b consists of two 255
+b describe an arc 133
+b obtained in this 114

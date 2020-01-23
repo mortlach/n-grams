@@ -1,3 +1,5 @@
-zero states 59 zero inside
-58 zero strength 54 zero
-socket 144 zero strength 139
+zero describe singlet states 59
+zero electric field inside 58
+zero electric field strength 54
+zero insertion force socket 144
+zero magnetic field strength 139

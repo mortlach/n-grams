@@ -1,6 +1,10 @@
-jar decoration 90 job machinery
-70 job themselves 54 job
-available 132 job completed 236
-job resources 103 joy enjoyment
-44 joy happiness 749 joy
-compassion 74 joy happiness 64
+jar with incised decoration 90
+job and injures machinery 70
+job and support themselves 54
+job that becomes available 132
+job was finally completed 236
+job with limited resources 103
+joy and elegant enjoyment 44
+joy and eternal happiness 749
+joy and fatherly compassion 74
+joy and perfect happiness 64

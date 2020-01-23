@@ -1,3 +1,5 @@
-zoology museums 41 zoology country
-48 zoology country 93 zygotes
-develop 60 zygotes survive 46
+zoology in our museums 41
+zoology in this country 48
+zoology of this country 93
+zygotes do not develop 60
+zygotes do not survive 46

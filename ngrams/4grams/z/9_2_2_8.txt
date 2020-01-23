@@ -1,2 +1,4 @@
-zigzagged hillside 63 zigzagged mountain
-172 zirconium presence 185 zoologist
+zigzagged up the hillside 63
+zigzagged up the mountain 172
+zirconium in the presence 185
+zoologist or the botanist 130

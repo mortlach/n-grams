@@ -1,6 +1,11 @@
-jar formaldehyde 143 job unemployment
-74 job productivity 146 job
-unemployment 218 job requirements 710
-job unemployment 98 job concentrated
-54 job competencies 69 job
-unemployment 143 job interference 56
+jar filled with formaldehyde 143
+job changes and unemployment 74
+job creation and productivity 146
+job creation and unemployment 218
+job duties and requirements 710
+job losses and unemployment 98
+job losses are concentrated 54
+job skills and competencies 69
+job training and unemployment 143
+job without any interference 56
+joy across her wretchedness 52

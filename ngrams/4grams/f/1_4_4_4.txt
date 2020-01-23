@@ -1,6 +1,11 @@
-f were 99 f view
-203 f able 88 f
-been 246 f been 417
-f also 218 f many
-164 f other 136 f
-some 146 f three 110
+f among these were 99
+f file edit view 203
+f have been able 88
+f must have been 246
+f there have been 417
+f there were also 218
+f there were many 164
+f there were other 136
+f there were some 146
+f there were three 110
+f these have been 89

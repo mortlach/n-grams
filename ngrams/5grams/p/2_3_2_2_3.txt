@@ -1,1 +1,2 @@
-ph low 249 ph low 439
+ph can be as low 249
+ph may be as low 439

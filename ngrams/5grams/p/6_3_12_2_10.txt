@@ -1,3 +1,6 @@
-person prosecuted 334 person punishment 51
-person recklessly 92 policy government 71
-powers government 40 priest sacraments 48
+person being investigated or prosecuted 334
+person who administered the punishment 51
+person who intentionally or recklessly 92
+policy and transparency in government 71
+powers and prerogatives of government 40
+priest who administered the sacraments 48

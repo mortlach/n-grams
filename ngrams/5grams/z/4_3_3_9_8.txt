@@ -1,1 +1,2 @@
-zero purposes 1021 zero matrices 50
+zero for all practical purposes 1021
+zero mean and covariance matrices 50

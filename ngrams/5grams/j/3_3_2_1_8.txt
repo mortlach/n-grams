@@ -1,3 +1,6 @@
-jam cupboard 55 jaw stubborn 146
-job messenger 78 job reporter 125
-job salesman 52 job waitress 147
+jam out of a cupboard 55
+jaw set in a stubborn 146
+job was as a messenger 78
+job was as a reporter 125
+job was as a salesman 52
+job was as a waitress 147

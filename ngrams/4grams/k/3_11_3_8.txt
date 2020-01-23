@@ -1,3 +1,5 @@
-key economic 117 key agencies
-168 key agencies 82 key
-agencies 42 key concepts 67
+key demographic and economic 117
+key departments and agencies 168
+key individuals and agencies 82
+key institutions and agencies 42
+key terminology and concepts 67

@@ -1,6 +1,10 @@
-quit classical 45 quit territory
-43 quit territory 54 quit
-altogether 216 quit districts 52
-quit territory 210 quit enjoyment
-40 quit altogether 43 quit
-territory 73 quit territory 47
+quit the ancient classical 45
+quit the austrian territory 43
+quit the british territory 54
+quit the country altogether 216
+quit the country districts 52
+quit the neutral territory 210
+quit the peaceful enjoyment 40
+quit the service altogether 43
+quit the spanish territory 73
+quit the turkish territory 47

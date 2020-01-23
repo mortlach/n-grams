@@ -1,1 +1,2 @@
-ring later 85 ring times 398
+ring a few days later 85
+ring a few more times 398

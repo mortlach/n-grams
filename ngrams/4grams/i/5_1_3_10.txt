@@ -1,4 +1,7 @@
-imply antecedent 113 imply difference
-68 imply distinction 127 issue
-appropriate 42 issue declaration 171
-issue instruction 107 issuing instrument
+imply a long antecedent 113
+imply a real difference 68
+imply a real distinction 127
+issue a new appropriate 42
+issue a new declaration 171
+issue a new instruction 107
+issuing a new instrument 54

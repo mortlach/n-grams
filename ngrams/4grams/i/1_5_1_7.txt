@@ -1,1 +1,2 @@
-i message 232 i typical
+i sends a message 232
+i shows a typical 44

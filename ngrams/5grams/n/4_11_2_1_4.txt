@@ -1,2 +1,4 @@
-next living 156 next living 872
-node single 164 null test 80
+next presentation of a living 156
+next presentation to a living 872
+node corresponds to a single 164
+null distribution of a test 80

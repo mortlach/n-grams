@@ -1,1 +1,2 @@
-into schools 300 into aspects 74
+into elementary and secondary schools 300
+into subjective and objective aspects 74

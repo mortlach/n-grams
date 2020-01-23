@@ -1,1 +1,2 @@
-operate rates 137 operating rates 178
+operate under fixed exchange rates 137
+operating under fixed exchange rates 178

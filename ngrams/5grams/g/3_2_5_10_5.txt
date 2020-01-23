@@ -1,2 +1,5 @@
-get about 66 get about 51
-get curve 51 goes after 47
+get the basic information about 66
+get the right information about 51
+get the whole continuous curve 51
+goes to sleep immediately after 47
+going to sleep immediately after 153

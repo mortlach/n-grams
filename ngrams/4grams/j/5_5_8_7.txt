@@ -1,2 +1,4 @@
-judge appoint 62 judge certify
-46 judge proceed 153 judge
+judge shall thereupon appoint 62
+judge shall thereupon certify 46
+judge shall thereupon proceed 153
+judge shall transmit forthwith 49

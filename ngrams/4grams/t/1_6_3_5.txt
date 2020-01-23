@@ -1,3 +1,6 @@
-t after 117 t wales
-56 t about 121 t
-given 496 t shown 296
+t before and after 117
+t england and wales 56
+t greater than about 121
+t values are given 496
+t values are shown 296
+t values for which 106

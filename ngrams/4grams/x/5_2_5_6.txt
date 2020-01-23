@@ -1,1 +1,2 @@
-xylem tension 93 xylem plants
+xylem is under tension 93
+xylem of woody plants 64

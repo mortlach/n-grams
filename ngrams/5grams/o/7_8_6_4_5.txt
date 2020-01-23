@@ -1,1 +1,2 @@
-ordered action 85 ordered action 43
+ordered american forces into action 85
+ordered american troops into action 43

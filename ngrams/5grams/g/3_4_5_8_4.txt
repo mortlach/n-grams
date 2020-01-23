@@ -1,3 +1,7 @@
-get from 55 get from 65
-get from 48 get from 43
-get from 46 get down 285
+get their first supplies from 55
+get their power directly from 65
+get their small supplies from 48
+get their water directly from 43
+get their water supplies from 46
+get your blood pressure down 285
+got into dense confusion when 84

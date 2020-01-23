@@ -1,1 +1,2 @@
-cases affairs 65 coups elected
+cases involving administrative affairs 65
+coups against democratically elected 52

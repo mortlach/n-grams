@@ -1,2 +1,4 @@
-zeolites minerals 253 zeolites minerals
-109 zombies terrifying 45 zoology
+zeolites and clay minerals 253
+zeolites and other minerals 109
+zombies are more terrifying 45
+zoology and other sciences 104

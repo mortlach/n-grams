@@ -1,3 +1,6 @@
-use i 58 use a 328
-use a 225 use a 60
-using a 94 using a 43
+use exactly the words i 58
+use language to create a 328
+use notepad to create a 225
+use outlook to create a 60
+using language to create a 94
+using routers to create a 43

@@ -1,1 +1,3 @@
-x hours 43 x hours
+x every four hours 43
+x every three hours 43
+x total body water 106

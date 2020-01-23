@@ -1,1 +1,2 @@
-key lower 40 kid never
+key a pitch lower 40
+kid i could never 65

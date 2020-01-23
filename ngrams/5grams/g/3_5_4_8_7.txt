@@ -1,2 +1,4 @@
-going quietly 43 going affairs 132
-going affairs 88 going quietly 89
+going about their business quietly 43
+going about their everyday affairs 132
+going about their ordinary affairs 88
+going about your business quietly 89

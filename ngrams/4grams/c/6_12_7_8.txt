@@ -1,6 +1,11 @@
-called analysis 141 causal concepts
-72 causal economic 168 causal
-elements 47 causal exposure 71
-causal physical 145 causal specific
-219 causal treatment 42 causal
-variables 1630 closer industry 55
+called discriminant function analysis 141
+causal relationships between concepts 72
+causal relationships between economic 168
+causal relationships between elements 47
+causal relationships between exposure 71
+causal relationships between physical 145
+causal relationships between specific 219
+causal relationships between treatment 42
+causal relationships between variables 1630
+closer collaboration between industry 55
+closer relationships between students 79

@@ -1,4 +1,9 @@
-fact expect 61 fact intend 66
-fact recall 164 feel treated 51
-feel something 291 fees recall 51
-find likely 79 find wanted 51
+fact i do not expect 61
+fact i do not intend 66
+fact i do not recall 164
+feel i am being treated 51
+feel i am doing something 291
+fees i do not recall 51
+find i am not likely 79
+find i am not wanted 51
+from a in its degree 56

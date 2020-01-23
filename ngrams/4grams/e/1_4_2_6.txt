@@ -1,6 +1,11 @@
-e center 557 e middle
-43 e origin 95 e
-second 106 e values 116
-e chosen 238 e greater
-286 e raised 271 e
-suffix 443 e called 152
+e from the center 557
+e from the middle 43
+e from the origin 95
+e from the second 106
+e have the values 116
+e must be chosen 238
+e must be greater 286
+e must be raised 271
+e when the suffix 443
+e will be called 152
+e will be greater 190

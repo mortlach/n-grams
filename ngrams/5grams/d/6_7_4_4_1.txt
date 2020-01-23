@@ -1,5 +1,11 @@
-damage a 99 dangers a 40
-defend a 112 derive a 184
-derive a 63 design a 56
-direct a 92 direct a 87
-direct a 52 double a 65
+damage resulting from such a 99
+dangers resulting from such a 40
+defend himself from such a 112
+derive benefit from such a 184
+derive pleasure from such a 63
+design engineer must have a 56
+direct control over only a 92
+direct control over such a 87
+direct popular vote upon a 52
+double sympathy even from a 65
+dragging himself along like a 40

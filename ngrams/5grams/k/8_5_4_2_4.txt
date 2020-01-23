@@ -1,2 +1,4 @@
-keyboard move 159 keyboard user 61
-keyboard user 210 kindness love 75
+keyboard arrow keys to move 159
+keyboard focus when the user 61
+keyboard input from the user 210
+kindness which made me love 75

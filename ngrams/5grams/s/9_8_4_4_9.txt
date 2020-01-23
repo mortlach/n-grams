@@ -1,4 +1,8 @@
-satellite canaveral 45 satellite optimized 126
-scholarly published 129 secondary available 82
-simulation developed 386 simulation developed 42
-simulation developed 285 sometimes allegiance 100
+satellite launched from cape canaveral 45
+satellite positions have been optimized 126
+scholarly articles have been published 129
+secondary education were made available 82
+simulation languages have been developed 386
+simulation packages have been developed 42
+simulation programs have been developed 285
+sometimes departed from their allegiance 100

@@ -1,1 +1,3 @@
-n prosecutions 1052 n independent
+n all criminal prosecutions 1052
+n are mutually independent 100
+n with constant coefficients 115

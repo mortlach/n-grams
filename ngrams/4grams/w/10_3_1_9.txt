@@ -1,3 +1,6 @@
-wilderness desolation 59 wilderness generation
-93 wilderness mysterious 294 wilderness
-civilized 46 wilderness population 54
+wilderness and a desolation 59
+wilderness for a generation 93
+wilderness has a mysterious 294
+wilderness than a civilized 46
+wilderness with a population 54
+workstation with a graphical 55

@@ -1,6 +1,11 @@
-zeal labors 46 zeal supply
-285 zeal spirit 69 zeal
-purses 54 zeal spirit 59
-zeal passion 62 zeal wisdom
-55 zeal reform 115 zeal
-reform 76 zeal system 77
+zeal and apostolic labors 46
+zeal and fortitude supply 285
+zeal and missionary spirit 69
+zeal and overtaxed purses 54
+zeal and persecuting spirit 59
+zeal and political passion 62
+zeal and practical wisdom 55
+zeal for political reform 115
+zeal for practical reform 76
+zeal this excellent system 77
+zoo and botanical garden 603

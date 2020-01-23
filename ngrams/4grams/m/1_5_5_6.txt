@@ -1,3 +1,5 @@
-m ground 103 m myself
-111 m someone 43 m
-something 304 m something 102
+m above level ground 103
+m talking about myself 111
+m talking about someone 43
+m talking about something 304
+m thinking about something 102

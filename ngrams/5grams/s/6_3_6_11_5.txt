@@ -1,4 +1,9 @@
-settle which 100 should rates 104
-signal change 75 states after 50
-static loading 113 strain power 95
-strange which 127 stress within 123
+settle and adjust differences which 100
+should not exceed regeneration rates 104
+signal and greatly advantageous change 75
+states that became independent after 50
+static and cyclic compressive loading 113
+strain with little accommodating power 95
+strange and uncouth exclamations which 127
+stress and strain distribution within 123
+system has become drastically weaker 45

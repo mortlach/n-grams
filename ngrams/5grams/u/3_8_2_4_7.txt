@@ -1,1 +1,2 @@
-use modulus 58 use formula 42
+use materials of high modulus 58
+use quantity in your formula 42

@@ -1,3 +1,6 @@
-eat vegetables 89 eat vegetables 74
-eat vegetables 1693 eat vegetables 141
-eat vegetables 56 eat vegetables 142
+eat five fruits and vegetables 89
+eat many fruits and vegetables 74
+eat more fruits and vegetables 1693
+eat only fruits and vegetables 141
+eat their fruits and vegetables 56
+eat your fruits and vegetables 142

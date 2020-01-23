@@ -1,3 +1,7 @@
-go zone 44 go zone 114
-go soil 109 go from 82
-go what 142 go years 46
+go beyond their comfort zone 44
+go beyond your comfort zone 114
+go deeply into southern soil 109
+go through life suffering from 82
+go through life wondering what 142
+go through their teenage years 46
+go through your address book 62

@@ -1,1 +1,3 @@
-z number 48 z charge
+z is any number 48
+z is its charge 42
+z is not always 289

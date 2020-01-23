@@ -1,4 +1,8 @@
-team . 80 ter .
-118 that . 136 ther
-. 115 tin . 49
-ton . 142 tor .
+team ' s . 80
+ter ' s . 118
+that ' s . 136
+ther ' s . 115
+tin ' s . 49
+ton ' s . 142
+tor ' s . 43
+two ' s . 171

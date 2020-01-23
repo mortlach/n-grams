@@ -1,3 +1,6 @@
-each expectations 44 each experiences
-59 each implications 66 each
-implications 162 each responsible 155
+each have different expectations 44
+each have different experiences 59
+each have different implications 66
+each having different implications 162
+each hold themselves responsible 155
+egg during embryonic development 63

@@ -1,1 +1,2 @@
-wayside flower 56 workers higher 45
+wayside weed becomes a flower 56
+workers will receive a higher 45

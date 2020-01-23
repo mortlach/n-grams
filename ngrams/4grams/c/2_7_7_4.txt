@@ -1,1 +1,2 @@
-cm pots 295 cm coil
+cm diameter plastic pots 295
+cm diameter surface coil 82

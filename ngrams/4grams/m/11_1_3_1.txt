@@ -1,3 +1,6 @@
-manuscripts b 443 manuscripts c
-184 measurements b 200 measurements
-y 288 metabolites b 59
+manuscripts a and b 443
+manuscripts b and c 184
+measurements a and b 200
+measurements x and y 288
+metabolites a and b 59
+microscopes a and b 103

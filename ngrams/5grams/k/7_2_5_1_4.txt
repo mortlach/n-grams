@@ -1,3 +1,6 @@
-kindles fire 40 kitchen fire 45
-kitchen fire 43 kitchen fire 70
-knocked good 40 knocked great 43
+kindles up quite a fire 40
+kitchen to build a fire 45
+kitchen to light a fire 43
+kitchen to start a fire 70
+knocked me about a good 40
+knocked the table a great 43

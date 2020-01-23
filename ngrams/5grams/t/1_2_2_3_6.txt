@@ -1,1 +1,2 @@
-t annual 49 t monthly 103
+t is the mean annual 49
+t is the mean monthly 103

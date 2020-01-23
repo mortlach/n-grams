@@ -1,4 +1,8 @@
-go snarling 68 go clothes 55
-go sphere 40 go faster 55
-go assert 78 go assume 78
-go demand 92 go safety 43
+go about snapping and snarling 68
+go about without any clothes 55
+go quite beyond its sphere 40
+go round faster and faster 55
+go still further and assert 78
+go still further and assume 78
+go still further and demand 92
+go still further with safety 43

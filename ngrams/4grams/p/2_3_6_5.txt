@@ -1,1 +1,3 @@
-ph below 71 ph above
+ph has fallen below 71
+ph was raised above 102
+ph with litmus paper 94

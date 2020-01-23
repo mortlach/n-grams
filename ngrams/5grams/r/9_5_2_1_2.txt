@@ -1,3 +1,7 @@
-regression on 235 regression on 345
-residence to 42 resonance iv 85
-resultant is 166 resultant is 47
+regression curve of y on 235
+regression lines of y on 345
+residence times of i to 42
+resonance lines of c iv 85
+resultant field at p is 166
+resultant force at p is 47
+resultant force on p to 40

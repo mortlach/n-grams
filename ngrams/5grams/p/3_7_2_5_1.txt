@@ -1,4 +1,9 @@
-put i 95 put a 75
-put a 119 put a 203
-put a 44 put a 193
-put a 628 put a 59
+put forward the views i 95
+put forward to build a 75
+put forward to create a 119
+put himself on board a 203
+put together in rather a 44
+put together to build a 193
+put together to create a 628
+put together to solve a 59
+put together to yield a 68

@@ -1,5 +1,9 @@
-yellow . 48 yellow .
-95 yellow . 103 yellow
-. 41 yellow . 59
-yielding . 121 yields .
-297 yields . 420 yields
+yellow crystalline powders . 48
+yellow fluorescent protein . 95
+yellow longitudinal stripes . 103
+yellow precipitate appeared . 41
+yellow precipitate results . 59
+yielding significant results . 121
+yields disappointing results . 297
+yields significant results . 420
+yields undesirable results . 43

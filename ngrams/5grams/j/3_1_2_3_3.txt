@@ -1,1 +1,3 @@
-job now 82 job doing 63
+job i am doing now 82
+job i am now doing 63
+job i do not get 56

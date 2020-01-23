@@ -1,5 +1,10 @@
-key pocket 46 key pocket 231
-key drawer 45 key pocket 494
-key pocket 108 key played 135
-key played 42 key through 57
-kings minions 201 kings enough 58
+key from her coat pocket 46
+key from his coat pocket 231
+key from his desk drawer 45
+key from his vest pocket 494
+key into his coat pocket 108
+key role has been played 135
+key role was also played 42
+key theme that runs through 57
+kings have had their minions 201
+kings were not rich enough 58

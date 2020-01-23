@@ -1,6 +1,10 @@
-generalizations experience 215 generalizations experiment
-43 generalizations historical 43 generalizations
-individual 114 generalizations information 88
-generalizations literature 117 generalizations observation
-46 generalizations particular 241 generalizations
-considered 94 generalizations considered 59
+generalizations from the experience 215
+generalizations from the experiment 43
+generalizations from the historical 43
+generalizations from the individual 114
+generalizations from the information 88
+generalizations from the literature 117
+generalizations from the observation 46
+generalizations from the particular 241
+generalizations must be considered 94
+generalizations will be considered 59

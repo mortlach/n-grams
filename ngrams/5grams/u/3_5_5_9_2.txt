@@ -1,4 +1,8 @@
-use to 254 use to 154
-use to 46 use to 751
-using in 55 using is 64
-using of 57 using to 175
+use every method available to 254
+use every weapon available to 154
+use force where necessary to 46
+use monte carlo simulation to 751
+using monte carlo simulation in 55
+using monte carlo simulation is 64
+using monte carlo simulation of 57
+using monte carlo simulation to 175

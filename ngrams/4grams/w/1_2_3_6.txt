@@ -1,2 +1,4 @@
-w remove 313 w angular
-148 w weight 46 w
+w do not remove 313
+w is its angular 148
+w is its weight 46
+w is then simply 65

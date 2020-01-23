@@ -1,6 +1,11 @@
-eat oysters 60 eat article
-44 eat variety 276 eat
-luncheon 42 eat handful 45
-eat buffalo 107 eat chicken
-388 eat package 85 eat
-variety 399 eat refused 115
+eat a dozen oysters 60
+eat a given article 44
+eat a large variety 276
+eat a light luncheon 42
+eat a small handful 45
+eat a whole buffalo 107
+eat a whole chicken 388
+eat a whole package 85
+eat a wider variety 399
+eat i never refused 115
+ex p child poverty 181

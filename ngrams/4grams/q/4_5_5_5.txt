@@ -1,1 +1,3 @@
-quit months 66 quit forty
+quit after eight months 66
+quit paris within forty 47
+quit place after place 59

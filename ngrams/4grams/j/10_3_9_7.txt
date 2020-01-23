@@ -1,3 +1,5 @@
-journalism oratory 56 journalism science
-487 journalist analyst 196 journeymen
-workers 83 judiciously applied 80
+journalism and political oratory 56
+journalism and political science 487
+journalist and political analyst 196
+journeymen and unskilled workers 83
+judiciously and patiently applied 80

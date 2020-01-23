@@ -1,1 +1,2 @@
-h height 235 h height 108
+h is the mean height 235
+h is the peak height 108

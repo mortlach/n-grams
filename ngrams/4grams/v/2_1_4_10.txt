@@ -1,3 +1,6 @@
-via acquisition 108 via resistance
-138 via circuitous 90 via
-traditional 49 via application 47
+via a data acquisition 108
+via a high resistance 138
+via a more circuitous 90
+via a more traditional 49
+via a single application 47
+via a video conference 64

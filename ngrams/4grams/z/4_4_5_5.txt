@@ -1,1 +1,2 @@
-zinc foods 48 zone water
+zinc from plant foods 48
+zone from which water 50

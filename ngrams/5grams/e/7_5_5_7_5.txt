@@ -1,4 +1,8 @@
-economy rates 462 effects rates 40
-element which 52 eternal stood 51
-exchange rates 63 exchange blood 68
-extends miles 42 extends float 67
+economy under fixed exchange rates 462
+effects under fixed exchange rates 40
+element about prose thoughts which 52
+eternal springs where castles stood 51
+exchange rates fixed exchange rates 63
+exchange takes place between blood 68
+extends about seven hundred miles 42
+extends false final finally float 67

@@ -1,1 +1,3 @@
-n in 46 n to 43
+n are unit vectors in 46
+n has been assumed to 43
+n has been reduced to 49

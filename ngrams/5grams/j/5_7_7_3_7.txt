@@ -1,1 +1,2 @@
-joint painful 57 joint buildings 53
+joint becomes swollen and painful 57
+joint service between two buildings 53

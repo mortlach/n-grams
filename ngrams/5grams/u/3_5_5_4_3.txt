@@ -1,2 +1,4 @@
-use ago 120 use ago 98
-use and 48 use things 56
+use about fifty years ago 120
+use about thirty years ago 98
+use talking about full and 48
+use talking about these things 56

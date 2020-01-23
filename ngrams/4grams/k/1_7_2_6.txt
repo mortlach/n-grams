@@ -1,3 +1,6 @@
-k values 97 k limits
-62 k number 1915 k
-radius 78 k thermal 168
+k assumes the values 97
+k between the limits 62
+k denotes the number 1915
+k denotes the radius 78
+k denotes the thermal 168
+k depending on whether 49

@@ -1,1 +1,2 @@
-r and 117 r than 254
+r is its radius and 117
+r is not greater than 254

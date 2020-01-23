@@ -1,0 +1,1 @@
+khz and a duty cycle 50

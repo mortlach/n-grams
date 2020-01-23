@@ -1,2 +1,4 @@
-ear bones 64 ear small
-204 eat times 88 eat
+ear contains three bones 64
+ear contains three small 204
+eat breakfast three times 88
+eat likewise from strong 45

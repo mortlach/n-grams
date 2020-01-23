@@ -1,2 +1,4 @@
-vow kept 87 vow made 230
-vow kill 112 vow make 136
+vow that i have kept 87
+vow that i have made 230
+vow that i will kill 112
+vow that i will make 136

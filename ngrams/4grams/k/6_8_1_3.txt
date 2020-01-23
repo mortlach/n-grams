@@ -1,1 +1,2 @@
-kernel set 73 kindly day
+kernel provides a set 73
+kindly lengthened a day 41

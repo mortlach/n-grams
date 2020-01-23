@@ -1,2 +1,4 @@
-quit subject 81 quit virginia
-74 quit riddles 44 quoth
+quit changing the subject 81
+quit rents of virginia 74
+quit talking in riddles 44
+quoth caleb to himself 119

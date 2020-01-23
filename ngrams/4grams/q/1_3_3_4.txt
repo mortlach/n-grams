@@ -1,4 +1,7 @@
-q even 115 q true
-2251 q zero 122 q
-have 291 q hold 147
-q vary 72 q been
+q are both even 115
+q are both true 2251
+q are both zero 122
+q does not have 291
+q does not hold 147
+q does not vary 72
+q has not been 118

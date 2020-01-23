@@ -1,6 +1,11 @@
-quay . 83 quis .
-765 quit . 52 quit
-. 46 quit . 218
-quit . 98 quit .
-44 quit . 70 quit
-. 49 quit . 78
+quay before him . 83
+quis contra nos . 765
+quit before long . 52
+quit before then . 46
+quit bothering her . 218
+quit bothering him . 98
+quit bothering them . 44
+quit bothering you . 70
+quit fighting him . 49
+quit school now . 78
+quod before long . 45

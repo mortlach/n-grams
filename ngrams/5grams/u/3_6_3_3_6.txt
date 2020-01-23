@@ -1,1 +1,2 @@
-use powers 101 use energy 110
+use itself and its powers 101
+use stored fat for energy 110

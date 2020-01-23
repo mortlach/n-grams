@@ -1,1 +1,2 @@
-quantities are 60 quantities now 41
+quantities called by value are 60
+quantities through the space now 41

@@ -1,1 +1,2 @@
-key key 126 key key
+key a foreign key 126
+key a primary key 291

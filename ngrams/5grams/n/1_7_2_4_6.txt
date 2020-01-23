@@ -1,1 +1,3 @@
-n normal 217 n vector 166
+n denotes the unit normal 217
+n denotes the unit vector 166
+n following the page number 59

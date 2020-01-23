@@ -1,1 +1,2 @@
-z used 58 z time
+z has been used 58
+z per unit time 123

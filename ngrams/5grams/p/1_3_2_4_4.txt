@@ -1,1 +1,2 @@
-p meaning 199 p sign 128
+p has the same meaning 199
+p has the same sign 128

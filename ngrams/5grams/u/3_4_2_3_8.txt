@@ -1,4 +1,9 @@
-use authority 56 use argument 83
-use doctrine 41 use property 106
-use strictly 60 use receiver 137
-use reserves 41 use quantity 47
+use made of that authority 56
+use made of this argument 83
+use made of this doctrine 41
+use made of this property 106
+use only or for strictly 60
+use paid to our receiver 137
+use part of its reserves 41
+use salt in any quantity 47
+using some of his favorite 40

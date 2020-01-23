@@ -1,1 +1,3 @@
-we represent 50 we represent 56
+we use a to represent 50
+we use p to represent 56
+we use x to represent 137

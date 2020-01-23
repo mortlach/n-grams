@@ -1,1 +1,2 @@
-job not 43 job big 123
+job applicant who is not 43
+job connected with the big 123

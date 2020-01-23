@@ -1,3 +1,7 @@
-quantity a 141 questions i 54
-questions a 191 questions a 65
-questions i 68 questions a 110
+quantity that has both a 141
+questions for you and i 54
+questions that ask for a 191
+questions that deal with a 65
+questions that you and i 68
+questions you can ask a 110
+questions you can get a 46

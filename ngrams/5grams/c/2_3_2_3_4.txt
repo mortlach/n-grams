@@ -1,1 +1,2 @@
-cm flat 70 cm side 191
+cm long is cut flat 70
+cm long on each side 191

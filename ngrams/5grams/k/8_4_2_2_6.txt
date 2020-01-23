@@ -1,3 +1,7 @@
-kerosene center 82 kerosene middle 108
-kerosene window 70 kinsfolk little 165
-knightly nobody 41 knowable extent 73
+kerosene lamp in the center 82
+kerosene lamp in the middle 108
+kerosene lamp in the window 70
+kinsfolk pray in the little 165
+knightly ideal as if nobody 41
+knowable only to the extent 73
+knuckled grip on the steering 279

@@ -1,1 +1,2 @@
-image than 73 items are 66
+image will appear larger than 73
+items upon which prices are 66

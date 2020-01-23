@@ -1,3 +1,7 @@
-zeal arts 140 zeal name 59
-zeal work 41 zeal land 121
-zeal wars 91 zeal holy 140
+zeal for the fine arts 140
+zeal for the good name 59
+zeal for the great work 41
+zeal for the holy land 121
+zeal for the holy wars 91
+zeal for the most holy 140
+zeal for the true faith 915

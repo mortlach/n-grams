@@ -1,2 +1,4 @@
-cm than 91 cm than 87
-cm than 4448 cm than 361
+cm and all less than 91
+cm and not more than 87
+cm but not more than 4448
+cm long and less than 361

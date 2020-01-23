@@ -1,1 +1,3 @@
-do bargain 171 do variety 44
+do drive a hard bargain 171
+do offer a wide variety 44
+do serve a good purpose 43

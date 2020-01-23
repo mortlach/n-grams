@@ -1,3 +1,7 @@
-flows include 149 flows increase 40
-flows payment 328 flows capital 57
-flows include 141 flows because 53
+flows from financing activities include 149
+flows from financing activities increase 40
+flows from financing activities payment 328
+flows from investing activities capital 57
+flows from investing activities include 141
+flows from operating activities because 53
+flows from operating activities include 97

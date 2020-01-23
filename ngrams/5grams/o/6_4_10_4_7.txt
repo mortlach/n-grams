@@ -1,2 +1,4 @@
-obtain sources 186 occurs females 51
-occurs persons 69 occurs persons 49
+obtain such information from sources 186
+occurs more frequently among females 51
+occurs more frequently among persons 69
+occurs most frequently among persons 49

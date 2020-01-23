@@ -1,3 +1,6 @@
-y not 315 y not 187
-y not 279 y fig 45
-y this 113 y that 121
+y and x is not 315
+y and y is not 187
+y and z do not 279
+y and z in fig 45
+y and z in this 113
+y and z so that 121

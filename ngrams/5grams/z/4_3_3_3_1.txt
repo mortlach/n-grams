@@ -1,1 +1,2 @@
-zero a 45 zero a 182
+zero for all but a 45
+zero mean and with a 182

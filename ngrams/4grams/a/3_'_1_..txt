@@ -1,1 +1,2 @@
-and . 82 ape .
+and ' s . 82
+ape ' s . 70

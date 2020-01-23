@@ -1,1 +1,3 @@
-y axis 110 y from
+y from neutral axis 110
+y rays emitted from 285
+y rays resulting from 126

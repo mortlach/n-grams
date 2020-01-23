@@ -1,2 +1,4 @@
-quotas prohibitions 51 quotas restrictions
-109 quotas restrictions 54 quoted
+quotas and import prohibitions 51
+quotas and import restrictions 109
+quotas and tariff restrictions 54
+quoted and partly paraphrased 98

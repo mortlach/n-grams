@@ -1,1 +1,3 @@
-foe taken 127 ft water
+foe shall have taken 127
+ft above high water 321
+ft below high water 102

@@ -1,5 +1,10 @@
-queer shelved 54 quest harmony 50
-quest freedom 48 quest dignity 92
-quest justice 282 quest freedom 78
-quest freedom 65 quest justice 45
-quiet moments 60 quiet seconds 41
+queer old presses and shelved 54
+quest for balance and harmony 50
+quest for dignity and freedom 48
+quest for freedom and dignity 92
+quest for freedom and justice 282
+quest for justice and freedom 78
+quest for liberty and freedom 65
+quest for liberty and justice 45
+quiet for several long moments 60
+quiet for several long seconds 41

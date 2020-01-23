@@ -1,2 +1,4 @@
-king abner 183 king exile
-46 king hunting 82 king
+king lamented over abner 183
+king returned from exile 46
+king returned from hunting 82
+king returned from wales 44

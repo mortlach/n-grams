@@ -1,6 +1,10 @@
-b breadth 41 b lengths
-69 b cases 48 b
-state 326 b about 136
-b close 132 b equal
-257 b large 42 b
-taken 222 b space 45
+b denote the breadth 41
+b denote the lengths 69
+b number of cases 48
+b pleased to state 326
+b should be about 136
+b should be close 132
+b should be equal 257
+b should be large 42
+b should be taken 222
+b through the space 45

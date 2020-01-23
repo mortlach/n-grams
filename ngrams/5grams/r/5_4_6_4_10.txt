@@ -1,3 +1,7 @@
-reader discovered 146 reader recognized 58
-reader understood 62 reader instruction 65
-reader information 81 reader elementary 54
+reader will already have discovered 146
+reader will already have recognized 58
+reader will already have understood 62
+reader will derive great instruction 65
+reader will derive some information 81
+reader will recall from elementary 54
+reason must regain their importance 100

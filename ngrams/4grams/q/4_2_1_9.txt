@@ -1,1 +1,2 @@
-quit reasonable 43 quit conviction
+quit at a reasonable 43
+quit of a conviction 40

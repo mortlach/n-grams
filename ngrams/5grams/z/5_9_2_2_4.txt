@@ -1,2 +1,5 @@
-zenith moon 273 zenith pole 131
-zenith same 267 zenith star 182
+zenith distances of the moon 273
+zenith distances of the pole 131
+zenith distances of the same 267
+zenith distances of the star 182
+zonal component of the wind 426

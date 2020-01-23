@@ -1,2 +1,4 @@
-get ? 677 get ?
-54 go . 123 got
+get an a ? 677
+get an f ? 54
+go to a . 123
+got an a ? 99

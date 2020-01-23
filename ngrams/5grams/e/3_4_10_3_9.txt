@@ -1,0 +1,1 @@
+each byte represents one character 52

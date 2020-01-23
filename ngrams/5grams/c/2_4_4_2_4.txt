@@ -1,4 +1,9 @@
-cm base 118 cm body 47
-cm edge 408 cm lens 110
-cm skin 177 cm slit 115
-cm wall 223 cm soil 238
+cm away from the base 118
+cm away from the body 47
+cm away from the edge 408
+cm away from the lens 110
+cm away from the skin 177
+cm away from the slit 115
+cm away from the wall 223
+cm deep into the soil 238
+cm from side to side 122

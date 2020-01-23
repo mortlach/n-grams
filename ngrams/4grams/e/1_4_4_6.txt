@@ -1,2 +1,4 @@
-e insert 191 e unable
-256 e little 72 e
+e edit view insert 191
+e have been unable 256
+e know very little 72
+e will pass through 55

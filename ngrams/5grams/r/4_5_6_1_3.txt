@@ -1,1 +1,2 @@
-rays thin 66 road bog 54
+rays passing through a thin 66
+road running through a bog 54

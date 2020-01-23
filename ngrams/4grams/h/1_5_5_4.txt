@@ -1,1 +1,2 @@
-h dose 182 h time
+h after first dose 182
+h after which time 190

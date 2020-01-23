@@ -1,1 +1,3 @@
-cm artist 695 cm distal
+cm courtesy the artist 695
+cm proximal or distal 108
+cm proximal to lister 127

@@ -1,5 +1,10 @@
-go expect 54 go feasted 44
-go whence 51 go ground 49
-go causes 47 go school 49
-go detail 93 go detail 94
-go summer 42 go without 80
+go along roads must expect 54
+go away after having feasted 44
+go back again from whence 51
+go back until high ground 49
+go from signs unto causes 47
+go into junior high school 49
+go into rather more detail 93
+go more fully into detail 94
+go there again next summer 42
+go your whole life without 80

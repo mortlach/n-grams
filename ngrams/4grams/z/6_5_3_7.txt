@@ -1,0 +1,1 @@
+zigzag lines and spirals 42

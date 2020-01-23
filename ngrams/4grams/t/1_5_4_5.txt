@@ -1,4 +1,7 @@
-t money 70 t grace
-280 t about 210 t
-where 116 t about 121
-t table 272 t comes
+t gimme some money 70
+t please your grace 280
+t really care about 210
+t really know where 116
+t really think about 121
+t value from table 272
+t where love comes 119

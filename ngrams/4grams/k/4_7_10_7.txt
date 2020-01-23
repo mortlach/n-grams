@@ -1,2 +1,4 @@
-keep private 189 keep private
-47 keep together 171 kind
+keep certain information private 189
+keep private information private 47
+keep related information together 171
+kind congress legislated against 45

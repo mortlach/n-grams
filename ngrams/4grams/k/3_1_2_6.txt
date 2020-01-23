@@ -1,2 +1,4 @@
-key closed 1236 key opened
-85 key raised 48 key
+key k is closed 1236
+key k is opened 85
+key k is raised 48
+key k is tapped 47

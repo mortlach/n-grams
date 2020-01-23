@@ -1,2 +1,5 @@
-go a 45 go a 42
-go a 116 go a 45
+go forward and build a 45
+go forward and create a 42
+go outside and build a 116
+go outside and fetch a 45
+go outside and smoke a 178

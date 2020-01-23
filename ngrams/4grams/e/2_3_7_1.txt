@@ -1,5 +1,9 @@
-ear a 49 ear a
-50 ear a 110 ear
-a 42 eat a 74
-eat i 70 eat i
-98 eat i 105 eat
+ear and produce a 49
+ear can produce a 50
+ear may produce a 110
+ear that brought a 42
+eat and perhaps a 74
+eat meat because i 70
+eat not because i 98
+eat them because i 105
+eat two dinners a 101

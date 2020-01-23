@@ -1,2 +1,4 @@
-w angular 199 w number
-139 w vector 96 w
+w denotes the angular 199
+w denotes the number 139
+w denotes the vector 96
+w denotes the weight 408

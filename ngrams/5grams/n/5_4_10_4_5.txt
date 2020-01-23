@@ -1,2 +1,4 @@
-needs others 145 never action 71
-never latin 182 never happy 47
+needs take precedence over others 145
+never been translated into action 71
+never been translated into latin 182
+never were spectators more happy 47

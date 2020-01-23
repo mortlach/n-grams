@@ -1,4 +1,8 @@
-man a 45 man a 93
-may a 60 may a 53
-may a 769 may a 53
-may a 151 may a 148
+man feels himself under a 45
+man finds himself under a 93
+may change several times a 60
+may defer accrual until a 53
+may occur several times a 769
+may occur shortly after a 53
+may recur several times a 151
+may spend several hours a 148

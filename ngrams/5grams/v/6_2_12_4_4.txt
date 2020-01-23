@@ -1,1 +1,2 @@
-vacuum from 89 volume used 88
+vacuum at temperatures ranging from 89
+volume of hydrochloric acid used 88

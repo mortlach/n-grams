@@ -1,6 +1,10 @@
-joyfully . 66 joyfully .
-149 joyfully . 69 judgment
-. 55 judgment . 236
-judgment . 2029 judgment .
-117 judgment . 44 judgment
-. 48 judgment . 691
+joyfully received him . 66
+joyfully received them . 149
+joyfully welcomed him . 69
+judgment complied with . 55
+judgment concerning him . 236
+judgment concerning them . 2029
+judgment ratifies them . 117
+judgment respecting her . 44
+judgment respecting him . 48
+judgment respecting them . 691

@@ -1,2 +1,4 @@
-each drug 104 easy cost 110
-easy other 396 easy york 142
+each manufacturer for each drug 104
+easy availability and low cost 110
+easy communication with each other 396
+easy communication with new york 142

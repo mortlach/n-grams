@@ -1,1 +1,2 @@
-regulations rules 46 regulations rules 47
+regulations also contain special rules 46
+regulations also provide special rules 47

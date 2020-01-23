@@ -1,1 +1,2 @@
-go direction 402 go distance
+go a different direction 402
+go a reasonable distance 104

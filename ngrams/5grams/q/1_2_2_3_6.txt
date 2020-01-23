@@ -1,1 +1,2 @@
-q number 51 q charge 378
+q is an odd number 51
+q is the net charge 378

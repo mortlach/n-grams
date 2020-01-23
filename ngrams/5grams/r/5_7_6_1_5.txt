@@ -1,1 +1,3 @@
-reason power 110 rooms large 57
+reason against renewing a power 110
+rooms arranged around a large 57
+rooms arranged around a small 43

@@ -1,1 +1,3 @@
-quit arrangements 40 quit territories
+quit my little arrangements 40
+quit the french territories 103
+quit the system preferences 73

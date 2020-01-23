@@ -1,4 +1,7 @@
-variable whether 136 vehicle passed
-96 ventral convex 72 vessels
-waters 72 virtual across 55
-voltage limits 42 voltage limits
+variable which determines whether 136
+vehicle until completely passed 96
+ventral valve moderately convex 72
+vessels within territorial waters 72
+virtual links configured across 55
+voltage within acceptable limits 42
+voltage within prescribed limits 47

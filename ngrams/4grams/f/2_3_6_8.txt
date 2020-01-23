@@ -1,2 +1,4 @@
-foe proceeds 59 foe expected
-66 foe traverse 65 foe
+foe and friend proceeds 59
+foe they little expected 66
+foe who should traverse 65
+foe with furious outcries 99

@@ -1,3 +1,6 @@
-occurring time 74 offered plan 224
-operate name 89 operating name 97
-operating load 44 outside shed 101
+occurring within a specific time 74
+offered under a cafeteria plan 224
+operate under a business name 89
+operating under a business name 97
+operating under a constant load 44
+outside under a decrepit shed 101

@@ -1,1 +1,2 @@
-g minute 161 g weight
+g brain per minute 161
+g liver wet weight 217

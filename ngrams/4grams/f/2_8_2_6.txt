@@ -1,1 +1,3 @@
-fl series 152 ft series
+fl resistor in series 152
+ft resistor in series 362
+ft resistor is placed 49

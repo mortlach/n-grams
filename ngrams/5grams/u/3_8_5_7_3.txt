@@ -1,3 +1,6 @@
-use any 126 use each 80
-use its 61 use them 93
-use his 66 use them 56
+use military force against any 126
+use military force against each 80
+use military force against its 61
+use military force against them 93
+use physical force against his 66
+use physical force against them 56

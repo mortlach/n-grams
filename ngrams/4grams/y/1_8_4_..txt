@@ -1,1 +1,2 @@
-y . 250 y .
+y direction only . 250
+y placeres tira . 40

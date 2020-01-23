@@ -1,6 +1,11 @@
-q two 247 q let
-101 q use 315 q
-are 535 q way 44
-q too 234 q and
-62 q and 53 q
-not 101 q are 88
+q be any two 247
+q do not let 101
+q do not use 315
+q if you are 535
+q in this way 44
+q is not too 234
+q is odd and 62
+q is real and 53
+q it does not 101
+q or both are 88
+q we see that 46

@@ -1,3 +1,6 @@
-eat bag 55 eat can 155
-eat tin 67 em row 50
-em die 45 em dog 127
+eat out of a bag 55
+eat out of a can 155
+eat out of a tin 67
+em all in a row 50
+em both if i die 45
+em off as a dog 127

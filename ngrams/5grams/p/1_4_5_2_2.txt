@@ -1,1 +1,3 @@
-p is 50 p be 52
+p even though it is 50
+p were found to be 52
+p will refer to the 95

@@ -1,3 +1,6 @@
-questions four 65 questions five 87
-questions four 81 questions three 123
-questions four 41 questions three 50
+questions were debated over four 65
+questions were divided into five 87
+questions were divided into four 81
+questions were divided into three 123
+questions were grouped into four 41
+questions were grouped into three 50

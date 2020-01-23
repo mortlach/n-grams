@@ -1,1 +1,2 @@
-n parameters 85 n centimeter
+n are fitting parameters 85
+n per cubic centimeter 157

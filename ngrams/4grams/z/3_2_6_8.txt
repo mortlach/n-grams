@@ -1,1 +1,3 @@
-zeal churches 72 zeal officers
+zeal in building churches 72
+zeal of public officers 43
+zeal of recent converts 151

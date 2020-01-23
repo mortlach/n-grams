@@ -1,3 +1,7 @@
-keeping general 47 keeping pressed 57
-knows matters 95 knows matters 204
-knows matters 112 knows matters 95
+keeping down wages were general 47
+keeping your lower back pressed 57
+knows more about such matters 95
+knows more about these matters 204
+knows nothing about such matters 112
+knows nothing about these matters 95
+knows nothing about those matters 77

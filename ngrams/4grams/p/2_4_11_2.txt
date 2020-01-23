@@ -1,1 +1,3 @@
-ph to 188 ph in
+ph range corresponding to 188
+ph range encountered in 257
+ph unit corresponds to 306

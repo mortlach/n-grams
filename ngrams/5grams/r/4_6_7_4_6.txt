@@ -1,1 +1,2 @@
-ready shafts 126 room survey 131
+ready shield against those shafts 126
+room window resumed their survey 131

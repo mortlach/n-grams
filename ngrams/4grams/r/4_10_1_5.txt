@@ -1,4 +1,7 @@
-rate change 47 ratio limit
-96 ratio value 109 risk
-minor 96 room small 87
-room woman 41 rule change
+rate represents a change 47
+ratio approaches a limit 96
+ratio approaches a value 109
+risk represents a minor 96
+room overlooked a small 87
+room represents a woman 41
+rule represents a change 54

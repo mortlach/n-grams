@@ -1,1 +1,2 @@
-b than 222 b and 94
+b is not greater than 222
+b is then closed and 94

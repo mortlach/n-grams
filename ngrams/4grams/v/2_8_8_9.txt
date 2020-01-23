@@ -1,1 +1,2 @@
-via receptors 112 via protocols
+via specific membrane receptors 112
+via standard internet protocols 43

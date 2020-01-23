@@ -1,2 +1,4 @@
-use thing 41 use do 80
-use king 50 use am 42
+use in doing a thing 41
+use it and i do 80
+use of being a king 50
+use to you i am 42

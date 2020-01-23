@@ -1,1 +1,2 @@
-m units 60 m shape 113
+m in atomic mass units 60
+m in pretty good shape 113

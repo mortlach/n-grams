@@ -1,1 +1,2 @@
-zonal harmonics 171 zones anomalies
+zonal and tesseral harmonics 171
+zones and magnetic anomalies 80

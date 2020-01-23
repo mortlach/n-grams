@@ -1,1 +1,2 @@
-j column 90 j number
+j denotes the column 90
+j denotes the number 522

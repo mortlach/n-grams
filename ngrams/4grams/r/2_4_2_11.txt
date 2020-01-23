@@ -1,2 +1,4 @@
-re communicate 166 ring constructed
-55 ring established 48 ring
+re trying to communicate 166
+ring must be constructed 55
+ring must be established 48
+ring will be proportional 60

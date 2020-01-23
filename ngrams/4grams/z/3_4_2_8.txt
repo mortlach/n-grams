@@ -1,5 +1,9 @@
-zeal catholics 138 zeal officers
-74 zeal benefits 72 zeal
-prospect 67 zeal business 43
-zeal conflict 43 zeal struggle
-49 zeal officers 59 zeal
+zeal among the catholics 138
+zeal among the officers 74
+zeal born of benefits 72
+zeal from the prospect 67
+zeal into the business 43
+zeal into the conflict 43
+zeal into the struggle 49
+zeal lest the officers 59
+zeal must be tempered 100

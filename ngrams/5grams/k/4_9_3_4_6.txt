@@ -1,3 +1,6 @@
-keep cattle 41 keep clothes 105
-keep family 46 keep horses 55
-keep houses 80 kill allies 787
+keep themselves and their cattle 41
+keep themselves and their clothes 105
+keep themselves and their family 46
+keep themselves and their horses 55
+keep themselves and their houses 80
+kill americans and their allies 787

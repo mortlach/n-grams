@@ -1,1 +1,2 @@
-k zero 56 k used 100
+k can not be zero 56
+k can then be used 100

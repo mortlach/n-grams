@@ -1,6 +1,11 @@
-quit just 92 quit here
-45 quit during 66 quit
-when 115 quit city 41
-quit land 523 quit soil
-325 quit leads 70 quit
-good 51 quit land 99
+quit buying stamps just 92
+quit hanging around here 45
+quit high school during 66
+quit high school when 115
+quit their native city 41
+quit their native land 523
+quit their native soil 325
+quit when genius leads 70
+quit work without good 51
+quit your native land 99
+quit your selves like 47

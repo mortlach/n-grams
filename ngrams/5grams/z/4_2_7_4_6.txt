@@ -1,1 +1,2 @@
-zone stress 53 zone clearly 159
+zone of maximum shear stress 53
+zone of privacy more clearly 159

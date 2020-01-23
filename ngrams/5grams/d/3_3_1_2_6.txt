@@ -1,2 +1,5 @@
-day afraid 164 day afraid 133
-day unable 101 did something 593
+day and i am afraid 164
+day that i am afraid 133
+day that i am unable 101
+did not i do something 593
+did not i go myself 42

@@ -1,0 +1,1 @@
+zeros along the main diagonal 65

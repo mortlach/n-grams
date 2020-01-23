@@ -1,2 +1,5 @@
-y more 67 y same 275
-y less 109 y used 141
+y and one or more 67
+y are not the same 275
+y can not be less 109
+y can not be used 141
+y can not be zero 71

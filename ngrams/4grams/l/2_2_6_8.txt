@@ -1,3 +1,6 @@
-lb ingredient 254 lb monoxide
-148 lb chloride 143 ll
-equipped 304 ll prepared 536
+lb of active ingredient 254
+lb of carbon monoxide 148
+lb of sodium chloride 143
+ll be better equipped 304
+ll be better prepared 536
+ll be better tomorrow 65

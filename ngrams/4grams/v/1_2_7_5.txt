@@ -1,3 +1,5 @@
-v above 46 v equal
-41 v small 57 v
-taken 54 v speed 46
+v as defined above 46
+v is exactly equal 41
+v is usually small 57
+v is usually taken 54
+v the average speed 46

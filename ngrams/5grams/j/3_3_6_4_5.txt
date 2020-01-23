@@ -1,3 +1,7 @@
-job taken 41 job wants 113
-job taken 189 joy array 66
-joy hearts 82 joy shall 51
+job has already been taken 41
+job that nobody else wants 113
+job that should have taken 189
+joy can number their array 66
+joy that filled their hearts 82
+joy that unborn eyes shall 51
+joy was turned into grief 51

@@ -1,1 +1,3 @@
-z limits 189 z height
+z between the limits 189
+z denotes the height 40
+z denotes the number 318

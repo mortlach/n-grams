@@ -1,4 +1,8 @@
-qua treaty 102 qua facts 43
-qua forms 45 qua human 219
-qua social 136 qua social 58
-qua treaty 216 qua human 55
+qua non in any treaty 102
+qua non of all facts 43
+qua non of all forms 45
+qua non of all human 219
+qua non of all social 136
+qua non of any social 58
+qua non of any treaty 216
+qua non of being human 55

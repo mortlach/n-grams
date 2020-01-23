@@ -1,1 +1,3 @@
-not ? 1162 not .
+not ' e ? 1162
+not ' s . 225
+nun ' s . 76

@@ -1,5 +1,11 @@
-job worker 148 job lawyer 42
-job driver 47 job worker 343
-job porter 90 job editor 164
-job worker 40 job typist 61
-job office 98 job office 40
+job as a clerical worker 148
+job as a criminal lawyer 42
+job as a delivery driver 47
+job as a domestic worker 343
+job as a hospital porter 90
+job as a magazine editor 164
+job as a railroad worker 40
+job as a shorthand typist 61
+job in a business office 98
+job in a downtown office 40
+job in a masterly manner 53

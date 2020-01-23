@@ -1,2 +1,4 @@
-d her 97 d him 99
-d than 42 d bed 48
+d given it to her 97
+d given it to him 99
+d rather do it than 42
+d rather go to bed 48

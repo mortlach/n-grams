@@ -1,1 +1,2 @@
-w less 41 w from
+w is always less 41
+w is varied from 93

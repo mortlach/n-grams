@@ -1,1 +1,2 @@
-ft pipe 117 ft been 41
+ft piece of heavy pipe 117
+ft seems to have been 41

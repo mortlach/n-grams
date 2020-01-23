@@ -1,5 +1,9 @@
-go i 277 go a
-74 go i 59 go
-a 78 go a 46
-go i 138 go a
-69 go i 55 go
+go against everything i 277
+go forward against a 74
+go forward because i 59
+go forward towards a 78
+go halfway towards a 46
+go outside because i 138
+go together because a 69
+go together because i 55
+go towards providing a 41

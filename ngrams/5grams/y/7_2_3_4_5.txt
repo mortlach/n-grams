@@ -1,1 +1,3 @@
-yielded organ 83 yielded power 47
+yielded by any other organ 83
+yielded to any other power 47
+yielded to his good sense 41

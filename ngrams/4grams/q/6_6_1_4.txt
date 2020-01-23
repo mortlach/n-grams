@@ -1,1 +1,3 @@
-quotes string 186 quotes word
+quotes around a string 186
+quotes around a word 125
+quotes inside a string 45

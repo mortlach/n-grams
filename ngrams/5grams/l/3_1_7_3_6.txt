@@ -1,1 +1,2 @@
-lay twenty 60 lit walked 40
+lay a hundred and twenty 60
+lit a lantern and walked 40

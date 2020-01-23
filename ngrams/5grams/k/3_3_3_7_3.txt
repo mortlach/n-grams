@@ -1,4 +1,8 @@
-key key 119 key and 63
-key key 128 key key 97
-key key 116 kid out 42
-kings ill 50 kings die 49
+key and one private key 119
+key that was pressed and 63
+key using its private key 128
+key with his private key 97
+key with its private key 116
+kid who had dropped out 42
+kings can not command ill 50
+kings die and beggars die 49

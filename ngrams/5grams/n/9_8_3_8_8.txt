@@ -1,5 +1,10 @@
-necessary progress 74 necessary recovery 49
-necessary identity 150 necessary services 50
-necessary services 91 necessary premiums 40
-negligent stewards 64 newspaper articles 48
-newspaper articles 46 newspaper articles 43
+necessary condition for economic progress 74
+necessary condition for economic recovery 49
+necessary condition for personal identity 150
+necessary contacts with external services 50
+necessary hospital and physician services 91
+necessary internal and external premiums 40
+negligent guardians and faithless stewards 64
+newspaper accounts and magazine articles 48
+newspaper articles and magazine articles 46
+newspaper headlines and magazine articles 43

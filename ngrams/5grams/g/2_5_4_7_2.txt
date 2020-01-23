@@ -1,3 +1,7 @@
-go to 47 go to 222
-go as 228 go at 54
-go in 274 go as 51
+go about from country to 47
+go about from village to 222
+go about their affairs as 228
+go about their affairs at 54
+go about their affairs in 274
+go about your affairs as 51
+go round from village to 63

@@ -1,1 +1,2 @@
-s shape 124 s today 87
+s in pretty good shape 124
+s the second time today 87

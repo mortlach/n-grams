@@ -1,2 +1,4 @@
-k two 131 k one
-49 k this 40 k
+k consists of two 131
+k increases by one 49
+k obtained by this 40
+k obtained in this 141

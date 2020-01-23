@@ -1,1 +1,2 @@
-quantities product 49 quantities protein 46
+quantities of a certain product 49
+quantities of a foreign protein 46

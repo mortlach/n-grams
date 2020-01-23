@@ -1,1 +1,3 @@
-governments institutions 51 governments subdivisions 81
+governments and other political institutions 51
+governments and other political subdivisions 81
+governments and their political subdivisions 312

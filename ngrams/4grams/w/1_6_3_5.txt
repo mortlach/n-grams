@@ -1,1 +1,2 @@
-w linear 373 w write
+w pounds per linear 373
+w stands for write 78

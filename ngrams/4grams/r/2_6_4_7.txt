@@ -1,2 +1,4 @@
-re brokers 201 re scratch
-329 re workers 228 ring
+re sequoia auto brokers 201
+re starting from scratch 329
+re united mine workers 228
+ring called their thoughts 51

@@ -1,3 +1,6 @@
-s adverse 79 s imports 42
-s palaces 49 s approve 42
-s ability 49 s ability 44
+s climate and its adverse 79
+s exports and its imports 42
+s nineveh and its palaces 49
+s parents did not approve 42
+s success was his ability 49
+s success was its ability 44

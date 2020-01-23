@@ -1,6 +1,11 @@
-r sailors 210 r vectors
-110 r similar 40 r
-between 51 r assumed 43
-r defined 59 r dropped
-139 r measured 43 r
-omitted 102 r plotted 43
+r and other sailors 210
+r are unit vectors 110
+r are very similar 40
+r can vary between 51
+r has been assumed 43
+r has been defined 59
+r has been dropped 139
+r has been measured 43
+r has been omitted 102
+r has been plotted 43
+r has been removed 54

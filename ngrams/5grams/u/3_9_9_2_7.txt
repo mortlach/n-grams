@@ -1,5 +1,10 @@
-use relieve 42 use perform 47
-use achieve 143 use provide 47
-use language 117 use prevent 113
-use procure 61 use protect 78
-use compare 127 using achieve 54
+use adrenalin injections to relieve 42
+use arithmetic operators to perform 47
+use available resources to achieve 143
+use available resources to provide 47
+use different varieties of language 117
+use reasonable diligence to prevent 113
+use reasonable diligence to procure 61
+use reasonable diligence to protect 78
+use relational operators to compare 127
+using available resources to achieve 54

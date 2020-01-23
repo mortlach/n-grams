@@ -1,5 +1,9 @@
-van tempest 52 var variable
-350 veal platter 110 viol
-concert 84 vol solution 50
-vow pilgrim 73 vow promise
-393 vow crusade 212 vow
+van of a tempest 52
+var is a variable 350
+veal to a platter 110
+viol in a concert 84
+vol of a solution 50
+vow as a pilgrim 73
+vow is a promise 393
+vow of a crusade 212
+vow or a promise 141

@@ -1,6 +1,11 @@
-z area 113 z mean
-227 z two 132 z
-can 113 z two 40
-z any 231 z read
-123 z two 261 z
-any 159 z not 44
+z and the area 113
+z and the mean 227
+z and the two 132
+z and we can 113
+z are the two 40
+z can be any 231
+z can be read 123
+z for the two 261
+z may be any 159
+z that do not 44
+z that is not 149

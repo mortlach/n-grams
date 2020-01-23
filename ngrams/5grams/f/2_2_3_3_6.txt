@@ -1,1 +1,3 @@
-foe strife 181 foe ground 57
+foe in all our strife 181
+foe on his own ground 57
+ft of air per minute 630

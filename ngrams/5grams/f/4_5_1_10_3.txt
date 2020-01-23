@@ -1,4 +1,9 @@
-from can 72 from can 51
-from ray 46 from was 45
-from that 150 from that 122
-from that 384 from that 537
+from which a comparison can 72
+from which a description can 51
+from which a particular ray 46
+from which a translation was 45
+from which i conjecture that 150
+from which i discovered that 122
+from which i understand that 384
+from which i understood that 537
+fuming under a repressive law 73

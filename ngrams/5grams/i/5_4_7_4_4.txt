@@ -1,3 +1,6 @@
-infer like 287 inner like 58
-items four 96 items three 145
-items four 58 items three 113
+infer like effects from like 287
+inner fire flashes forth like 58
+items were divided into four 96
+items were divided into three 145
+items were grouped into four 58
+items were grouped into three 113

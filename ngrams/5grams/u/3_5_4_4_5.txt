@@ -1,4 +1,9 @@
-use found 51 use times 66
-use after 209 use later 224
-use after 241 use later 108
-use after 142 use later 133
+use could have been found 51
+use since very early times 66
+use until many years after 209
+use until many years later 224
+use until some time after 241
+use until some time later 108
+use until some years after 142
+use until some years later 133
+use which have been found 45

@@ -1,3 +1,6 @@
-mankind noble 41 married lived 42
-married moved 58 married lived 51
-marries makes 58 material solid 46
+mankind a bright and noble 41
+married a doctor and lived 42
+married a doctor and moved 58
+married a farmer and lived 51
+marries a sailor and makes 58
+material a little too solid 46

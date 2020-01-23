@@ -1,6 +1,10 @@
-re pc 42 re of
-151 ring ring 125 ring
-am 178 ring do 202
-ring is 122 ring is
-48 ring do 41 ring
-am 213 ring ring 244
+re using a pc 42
+re vie w of 151
+ring and a ring 125
+ring and i am 178
+ring and i do 202
+ring and l is 122
+ring and r is 48
+ring but i do 41
+ring that i am 213
+ring with a ring 244

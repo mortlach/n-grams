@@ -1,1 +1,2 @@
-yielded fruit 50 yielded spoil
+yielded more abundant fruit 50
+yielded such abundant spoil 49

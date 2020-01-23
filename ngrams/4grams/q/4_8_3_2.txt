@@ -1,2 +1,4 @@
-quit go 80 quit to
-53 quit go 40 quiz
+quit florence and go 80
+quit florence and to 53
+quit politics and go 40
+quiz programs and the 107

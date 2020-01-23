@@ -1,4 +1,8 @@
-go arguments 44 go instincts
-59 go interests 793 go
-instincts 91 go knowledge 147
-go political 72 go community
+go against such arguments 44
+go against their instincts 59
+go against their interests 793
+go against your instincts 91
+go against your knowledge 147
+go forward from political 72
+go outside their community 54
+go strongly into political 43

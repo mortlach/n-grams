@@ -1,4 +1,8 @@
-name group 42 next would
-40 node class 103 node
-group 44 node point 92
-node region 62 node state
+name represents a group 42
+next proposition i would 40
+node represents a class 103
+node represents a group 44
+node represents a point 92
+node represents a region 62
+node represents a state 178
+noun designates a group 61

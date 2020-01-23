@@ -1,6 +1,10 @@
-zealous repeated 53 zealous religion
-96 zealous service 108 zealous
-country 711 zealous majesty 243
-zealous religion 273 zealous service
-168 zealous success 85 zealous
-welfare 65 zygote develop 59
+zealous and oft repeated 53
+zealous for her religion 96
+zealous for her service 108
+zealous for his country 711
+zealous for his majesty 243
+zealous for his religion 273
+zealous for his service 168
+zealous for its success 85
+zealous for its welfare 65
+zygote does not develop 59

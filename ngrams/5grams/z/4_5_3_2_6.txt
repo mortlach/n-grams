@@ -1,2 +1,4 @@
-zero energy 100 zero second 47
-zinc copper 84 zone origin 57
+zero point for the energy 100
+zero value for the second 47
+zinc plate and the copper 84
+zone model for the origin 57

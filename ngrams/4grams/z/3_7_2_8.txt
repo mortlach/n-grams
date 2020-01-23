@@ -1,5 +1,9 @@
-zeal catholics 108 zeal doctrine
-110 zeal heretics 175 zeal
-infidels 82 zeal intended 153
-zeal puritans 133 zeal threatened
-45 zeal wretched 44 zeal
+zeal against the catholics 108
+zeal against the doctrine 110
+zeal against the heretics 175
+zeal against the infidels 82
+zeal against the intended 153
+zeal against the puritans 133
+zeal against the threatened 45
+zeal against the wretched 44
+zeal enlists the strongest 41

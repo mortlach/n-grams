@@ -1,4 +1,7 @@
-x curl 68 x spin
-81 x cost 128 x
-length 700 x side 40
-x time 256 x width
+x component of curl 68
+x component of spin 81
+x represent the cost 128
+x represent the length 700
+x represent the side 40
+x represent the time 256
+x represent the width 331

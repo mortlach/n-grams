@@ -1,3 +1,5 @@
-quit questions 125 quit landlord
-197 quit atrocious 54 quit
-convince 219 quit remember 53
+quit asking me questions 125
+quit from the landlord 197
+quit such an atrocious 54
+quit trying to convince 219
+quit trying to remember 53

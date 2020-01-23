@@ -1,6 +1,11 @@
-c to 48 c is
-141 c to 104 c
-in 67 c is 236
-c of 272 c is
-100 c of 140 c
-to 46 c on 132
+c belong usually to 48
+c input voltage is 141
+c input voltage to 104
+c plate current in 67
+c plate current is 236
+c plate current of 272
+c plate voltage is 100
+c plate voltage of 140
+c plate voltage to 46
+c which depends on 132
+c which satisfy the 133

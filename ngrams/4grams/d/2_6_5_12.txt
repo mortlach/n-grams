@@ -1,2 +1,4 @@
-do accommodation 43 do homelessness
-66 do unemployment 477 do
+do afford large accommodation 43
+do something about homelessness 66
+do something about unemployment 477
+do something really constructive 136

@@ -1,1 +1,2 @@
-no merchants 46 no necessary 47
+no better information from merchants 46
+no special precautions were necessary 47

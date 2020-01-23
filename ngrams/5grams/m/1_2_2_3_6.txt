@@ -1,1 +1,3 @@
-m number 317 m number 920
+m is an odd number 317
+m is the mean number 920
+m is the mean vector 127

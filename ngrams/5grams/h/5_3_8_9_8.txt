@@ -1,3 +1,6 @@
-homes soldiers 75 human improved 47
-human invested 55 human involved 42
-human required 312 human required 121
+homes for disabled volunteer soldiers 75
+human and economic conditions improved 47
+human and financial resources invested 55
+human and financial resources involved 42
+human and financial resources required 312
+human and physical resources required 121

@@ -1,1 +1,3 @@
-cm surface 319 cm surface
+cm above soil surface 319
+cm below soil surface 964
+cm radar echo spectra 111

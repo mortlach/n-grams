@@ -1,3 +1,7 @@
-manager role 86 marketing role 46
-message from 118 moments axis 110
-movable axis 933 movable axis 175
+manager plays a critical role 86
+marketing plays a critical role 46
+message which i received from 118
+moments about a vertical axis 110
+movable about a vertical axis 933
+movable round a vertical axis 175
+moveable about a vertical axis 278

@@ -1,3 +1,6 @@
-understood superficial 155 understood restricted 149
-understood particular 109 understood restricted 180
-undertaken individual 702 undertaken systematic 66
+understood by a more superficial 155
+understood in a more restricted 149
+understood in a very particular 109
+understood in a very restricted 180
+undertaken by a single individual 702
+undertaken in a more systematic 66

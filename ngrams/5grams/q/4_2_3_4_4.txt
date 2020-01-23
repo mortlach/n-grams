@@ -1,1 +1,2 @@
-quit during 55 quit time 63
+quit at any time during 55
+quit it for some time 63

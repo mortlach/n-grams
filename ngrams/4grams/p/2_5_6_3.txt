@@ -1,4 +1,8 @@
-ph than 149 ph with
-77 ph than 50 ph
-than 724 ph than 1228
-ph than 420 ph not
+ph level greater than 149
+ph meter fitted with 77
+ph units greater than 50
+ph units higher than 724
+ph value greater than 1228
+ph value higher than 420
+ph value should not 126
+pi theorem states that 41

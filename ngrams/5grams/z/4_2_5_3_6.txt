@@ -1,1 +1,3 @@
-zone reside 47 zone market 41
+zone in which they reside 47
+zone of dairy and market 41
+zone of trees and shrubs 57

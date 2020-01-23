@@ -1,2 +1,4 @@
-job administrator 50 job administration
-56 job administration 89 job
+job as chief administrator 50
+job in hotel administration 56
+job of state administration 89
+job or housing discrimination 86

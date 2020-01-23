@@ -1,5 +1,9 @@
-re disaster 7144 re asbestos
-67 re anywhere 286 re
-finished 69 re supposed 40
-re straight 146 ring assembly
-160 ring condition 52 ring
+re air crash disaster 7144
+re all maine asbestos 67
+re not getting anywhere 286
+re not quite finished 69
+re not really supposed 40
+re not thinking straight 146
+ring and brush assembly 160
+ring and valve condition 52
+ring are easily replaced 59

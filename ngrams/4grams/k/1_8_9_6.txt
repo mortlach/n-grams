@@ -1,1 +1,2 @@
-k events 213 k groups
+k mutually exclusive events 213
+k mutually exclusive groups 43

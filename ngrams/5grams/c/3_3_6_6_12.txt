@@ -1,3 +1,6 @@
-can qualification 227 can consequences 115
-can unconditioned 190 can undetermined 136
-can consideration 52 can investigation 48
+can not accept without qualification 227
+can not remain without consequences 115
+can not render itself unconditioned 190
+can not render itself undetermined 136
+can not without further consideration 52
+can not without further investigation 48

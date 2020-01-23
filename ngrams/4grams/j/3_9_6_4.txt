@@ -1,2 +1,4 @@
-job have 62 job must
-56 job used 89 job
+job evaluation methods have 62
+job evaluation system must 56
+job evaluation system used 89
+job evaluation system will 83

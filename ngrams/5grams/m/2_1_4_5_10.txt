@@ -1,3 +1,6 @@
-me formulation 41 me persecution 62
-me description 45 me exhortation 42
-me description 41 me understand 52
+me a more valid formulation 41
+me a most cruel persecution 62
+me a most vivid description 45
+me a very godly exhortation 42
+me a very vivid description 41
+me i will never understand 52

@@ -1,4 +1,8 @@
-jar . 53 job .
-55 job . 141 job
-. 138 job . 195
-job . 396 joy .
+jar containing it . 53
+job actually is . 55
+job consists of . 141
+job demanded it . 138
+job required it . 195
+job requires it . 396
+joy received it . 70
+joy receiveth it . 114

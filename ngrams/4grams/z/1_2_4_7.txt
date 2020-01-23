@@ -1,1 +1,2 @@
-z smaller 364 z function
+z is much smaller 364
+z is some function 40

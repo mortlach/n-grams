@@ -1,1 +1,2 @@
-kitchenette corner 82 kitchenette prison
+kitchenette in one corner 82
+kitchenette is our prison 52

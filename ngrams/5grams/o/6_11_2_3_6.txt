@@ -1,4 +1,8 @@
-object opinion 94 object opinion 717
-obvious clause 40 obvious another 115
-office county 57 oldest county 50
-opinion friend 141 ordering across 40
+object represented by this opinion 94
+object represented in this opinion 717
+obvious construction of this clause 40
+obvious relationship to one another 115
+office established in each county 57
+oldest inhabitants of that county 50
+opinion entertained of his friend 141
+ordering requirement is met across 40

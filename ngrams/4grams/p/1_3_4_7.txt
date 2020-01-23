@@ -1,6 +1,11 @@
-p modulus 56 p between
-106 p integer 46 p
-assumed 277 p defined 235
-p derived 49 p measured
-109 p omitted 41 p
-reduced 111 p removed 47
+p and bulk modulus 56
+p can vary between 106
+p for some integer 46
+p has been assumed 277
+p has been defined 235
+p has been derived 49
+p has been measured 109
+p has been omitted 41
+p has been reduced 111
+p has been removed 47
+p has been written 40

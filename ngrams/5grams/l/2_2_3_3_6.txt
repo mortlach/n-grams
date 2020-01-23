@@ -1,1 +1,3 @@
-lb minute 125 lb second 212
+lb of air per minute 125
+lb of air per second 212
+ll go you one better 50

@@ -1,4 +1,8 @@
-go specific 100 go mountain
-137 go distance 640 go
-mountain 82 go answered 41
-go promised 62 go deserved
+go after a specific 100
+go climb a mountain 137
+go quite a distance 640
+go round a mountain 82
+go until i answered 41
+go until i promised 62
+go where i deserved 57
+go where i intended 41

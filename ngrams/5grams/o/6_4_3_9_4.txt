@@ -1,4 +1,8 @@
-object wave 168 obtain from 139
-obtain some 46 opened firing 52
-opened soon 44 origin from 67
-output years 47 output unit 52
+object wave and reference wave 168
+obtain arms and ammunition from 139
+obtain from that conqueror some 46
+opened fire and continued firing 52
+opened fire our batteries soon 44
+origin were not different from 67
+output during his formative years 47
+output from each additional unit 52

@@ -1,1 +1,2 @@
-texts subjects 68 texts contexts 54
+texts under their appropriate subjects 68
+texts within their historical contexts 54

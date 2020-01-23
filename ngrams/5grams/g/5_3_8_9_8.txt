@@ -1,4 +1,8 @@
-goods produced 740 goods supplied 160
-goods produced 90 goods provided 75
-goods consumed 59 grant referred 89
-guest languages 71 guinea proteins 74
+goods and services currently produced 740
+goods and services currently supplied 160
+goods and services previously produced 90
+goods and services previously provided 75
+goods and services typically consumed 59
+grant nor maintain subsidies referred 89
+guest that eighteen different languages 71
+guinea pig exocrine pancreatic proteins 74

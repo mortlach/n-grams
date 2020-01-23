@@ -1,3 +1,6 @@
-quit a 64 quit a
-88 quit a 121 quit
-a 50 quit a 42
+quit and filed a 64
+quit and found a 88
+quit and start a 121
+quit and write a 50
+quit them after a 42
+quit them until i 44

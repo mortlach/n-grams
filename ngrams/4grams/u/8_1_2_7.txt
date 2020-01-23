@@ -1,1 +1,2 @@
-universe defined 48 universe objects
+universe u is defined 48
+universe u of objects 61

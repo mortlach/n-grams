@@ -1,3 +1,6 @@
-use economic 645 use symbolic 66
-use purposes 72 use accurate 155
-use vigorous 73 use suitable 67
+use forthwith both their economic 645
+use language and other symbolic 66
+use language for many purposes 72
+use severer and more accurate 155
+use sharper and more vigorous 73
+use smaller and less suitable 67

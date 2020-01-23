@@ -1,3 +1,5 @@
-qua . 60 qui .
-50 qui . 129 qui
-. 44 quo . 57
+qua rational being . 60
+qui genitus sit . 50
+qui nocuere deos . 129
+qui servent ici . 44
+quo between them . 57

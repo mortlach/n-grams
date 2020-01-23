@@ -1,6 +1,10 @@
-p shown 108 p which
-123 p small 206 p
-small 48 p added 109
-p found 481 p given
-99 p shown 351 p
-taken 184 p value 40
+p are also shown 108
+p are those which 123
+p are very small 206
+p being very small 48
+p has been added 109
+p has been found 481
+p has been given 99
+p has been shown 351
+p has been taken 184
+p has some value 40

@@ -1,3 +1,7 @@
-f how 47 f that 42
-f that 95 f this 49
-f that 81 f that 95
+f do not know how 47
+f do not think that 42
+f do you think that 95
+f it was during this 49
+f it was said that 81
+f it was true that 95
+f we are told that 120

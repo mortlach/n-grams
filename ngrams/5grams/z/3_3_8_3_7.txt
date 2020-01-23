@@ -1,2 +1,5 @@
-zeal charity 42 zeal religion 49
-zeal religion 43 zeal ambition 101
+zeal and sanctity and charity 42
+zeal for education and religion 49
+zeal for morality and religion 43
+zeal was mistaken for ambition 101
+zeal was tempered with charity 44

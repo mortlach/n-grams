@@ -1,3 +1,7 @@
-value imports 84 value exports 90
-vision obscure 46 voice fainter 40
-voice distant 52 votes election 53
+value between exports and imports 84
+value between imports and exports 90
+vision becomes grayish and obscure 46
+voice becomes fainter and fainter 40
+voice sounded muffled and distant 52
+votes counted towards his election 53
+vowed vengeance against his enemies 47

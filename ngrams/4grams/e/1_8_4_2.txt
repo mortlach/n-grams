@@ -1,3 +1,6 @@
-e the 42 e the
-181 e the 44 e
-the 88 e the 120
+e computed from the 42
+e distance from the 181
+e excluded from the 44
+e expected from the 88
+e inferred from the 120
+e obtained from the 616

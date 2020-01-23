@@ -1,5 +1,9 @@
-joint . 75 joint .
-118 joint . 425 joint
-. 78 joint . 68
-joint . 414 joint .
-88 judge . 40 juice
+joint family organization . 75
+joint flexion contracture . 118
+joint normal distribution . 425
+joint opinion anticipates . 78
+joint profit maximisation . 68
+joint profit maximization . 414
+joint sector enterprises . 88
+judge actual performance . 40
+juice before fermentation . 136

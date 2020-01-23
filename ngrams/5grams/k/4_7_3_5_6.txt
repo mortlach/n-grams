@@ -1,1 +1,3 @@
-keep closed 100 knew happen 167
+keep windows and doors closed 100
+knew everything that would happen 167
+know everything that would happen 49

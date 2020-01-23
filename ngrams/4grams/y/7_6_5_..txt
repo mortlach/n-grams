@@ -1,2 +1,4 @@
-yielded . 43 yielded .
-57 yielded . 149 yielded
+yielded bitter fruit . 43
+yielded bumper crops . 57
+yielded little fruit . 149
+yielded without blame . 59

@@ -1,2 +1,4 @@
-gas discovered 42 get difficulty 48
-got difficulty 68 got difficulty 40
+gas has already been discovered 42
+get out without great difficulty 48
+got off without much difficulty 68
+got out without much difficulty 40

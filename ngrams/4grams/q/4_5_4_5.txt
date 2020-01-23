@@ -1,5 +1,9 @@
-quit months 75 quit months
-86 quit first 75 quit
-months 188 quit weeks 103
-quit times 71 quit months
-100 quit first 41 quit
+quit after four months 75
+quit after nine months 86
+quit after their first 75
+quit after three months 188
+quit after three weeks 103
+quit smoking many times 71
+quit smoking some months 100
+quit within their first 41
+quit within three months 73

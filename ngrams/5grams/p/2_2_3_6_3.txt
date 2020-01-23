@@ -1,1 +1,2 @@
-ph was 168 ph was 253
+ph of each sample was 168
+ph of this medium was 253

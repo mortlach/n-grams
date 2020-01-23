@@ -1,3 +1,6 @@
-cc a 43 cc a
-319 cc a 792 cm
-a 234 cm a 414
+cc engine and a 43
+cc syringe and a 319
+cc syringe with a 792
+cm apart and a 234
+cm apart with a 414
+cm broad with a 49

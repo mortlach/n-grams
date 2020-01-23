@@ -1,3 +1,6 @@
-each encounter 510 each furnished
-154 each conditions 94 earth
-conditions 42 eye conditions 55
+each close satellite encounter 510
+each proxy statement furnished 154
+each under different conditions 94
+earth under different conditions 42
+eye under different conditions 55
+eye under favorable conditions 71

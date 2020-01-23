@@ -1,2 +1,5 @@
-key inserted 79 key withdrawn 97
-kings authority 496 kings authority 55
+key can not be inserted 79
+key can not be withdrawn 97
+kings and all in authority 496
+kings and men in authority 55
+kith and kin in australia 57

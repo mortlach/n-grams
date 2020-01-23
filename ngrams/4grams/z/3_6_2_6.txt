@@ -1,4 +1,7 @@
-zeal bounds 72 zeal degree
-141 zeal limits 74 zeal
-rights 50 zeal supply 119
-zip screen 138 zoo street
+zeal beyond the bounds 72
+zeal beyond the degree 141
+zeal beyond the limits 74
+zeal beyond the rights 50
+zeal seemed to supply 119
+zip across the screen 138
+zoo across the street 47

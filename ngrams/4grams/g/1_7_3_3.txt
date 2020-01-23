@@ -1,3 +1,5 @@
-g day 391 g day
-164 g day 111 g
-year 67 g day 1447
+g alcohol per day 391
+g calcium per day 164
+g glucose per day 111
+g percent per year 67
+g protein per day 1447

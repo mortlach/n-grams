@@ -1,4 +1,8 @@
-use weeks 47 use period 40
-use makes 51 use hours 220
-use months 188 use weeks 334
-use after 52 using never 76
+use after a few weeks 47
+use after a long period 40
+use which a man makes 51
+use within a few hours 220
+use within a few months 188
+use within a few weeks 334
+use within a year after 52
+using words i had never 76

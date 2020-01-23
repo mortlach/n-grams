@@ -1,1 +1,2 @@
-t vowels 105 t handling
+t between two vowels 105
+t postage and handling 253

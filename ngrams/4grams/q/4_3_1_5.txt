@@ -1,3 +1,6 @@
-quip smile 53 quit would
-54 quit period 55 quit
-season 83 quit short 87
+quip and a smile 53
+quit and i would 54
+quit for a period 55
+quit for a season 83
+quit for a short 87
+quit for a while 2455

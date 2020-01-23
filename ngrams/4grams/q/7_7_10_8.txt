@@ -1,3 +1,6 @@
-quality approved 132 quality employed
-70 quality followed 51 quality
-required 56 quality approach 62
+quality control procedures approved 132
+quality control procedures employed 70
+quality control procedures followed 51
+quality control procedures required 56
+quality function deployment approach 62
+question affects interstate commerce 148

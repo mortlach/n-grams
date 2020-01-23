@@ -1,2 +1,4 @@
-use crayons 95 use markers 58
-use capture 128 using audible 54
+use colored pencils or crayons 95
+use colored pencils or markers 58
+use network monitor to capture 128
+using certain visible or audible 54

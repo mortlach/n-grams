@@ -1,3 +1,7 @@
-ll new 44 ll cup 66
-ll cup 70 ll new 183
-ll cup 103 ll job 65
+ll bet you a new 44
+ll bring you a cup 66
+ll buy you a cup 70
+ll buy you a new 183
+ll get you a cup 103
+ll get you a job 65
+ll get you a new 98

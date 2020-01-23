@@ -1,3 +1,6 @@
-foe answer 43 foe driven
-110 foe before 89 foe
-effect 43 ft slopes 551
+foe are upon answer 43
+foe had been driven 110
+foe was flying before 89
+foe with such effect 43
+ft and side slopes 551
+ft has been stated 86

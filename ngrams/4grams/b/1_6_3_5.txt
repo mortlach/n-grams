@@ -1,1 +1,3 @@
-b after 131 b unity
+b before and after 131
+b greater than unity 41
+b stands for blank 50

@@ -1,1 +1,3 @@
-dense tissue 86 dense tissue 100
+dense capsule of connective tissue 86
+dense network of connective tissue 100
+dense strands of connective tissue 98

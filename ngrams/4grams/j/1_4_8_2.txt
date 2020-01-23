@@ -1,1 +1,2 @@
-j by 52 j to
+j when followed by 52
+j will continue to 41

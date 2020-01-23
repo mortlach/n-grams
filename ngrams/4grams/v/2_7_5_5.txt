@@ -1,1 +1,3 @@
-via ports 84 via nodes
+via pacific coast ports 84
+via regional lymph nodes 53
+via regular phone lines 47

@@ -1,3 +1,6 @@
-go toward 47 go without 703
-go better 121 go faster 53
-go further 154 go without 209
+go a small way toward 47
+go a whole day without 703
+go a whole lot better 121
+go a whole lot faster 53
+go a whole lot further 154
+go a whole year without 209

@@ -1,1 +1,2 @@
-queer not 99 quiet not 49
+queer if i do not 99
+quiet so i do not 49

@@ -1,1 +1,2 @@
-read performed 73 red tablecloth 665
+read and write operations performed 73
+red and white checkered tablecloth 665

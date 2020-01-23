@@ -1,2 +1,4 @@
-transformation shift 42 transformation change
-139 transformation shift 45 transformation
+transformation involved a shift 42
+transformation involves a change 139
+transformation involves a shift 45
+transformation requires a change 43

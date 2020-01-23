@@ -1,3 +1,7 @@
-x used 44 x same 119
-x less 301 x used 99
-x zero 194 x these 72
+x and can be used 44
+x are not the same 119
+x can not be less 301
+x can not be used 99
+x can not be zero 194
+x for each of these 72
+x that can be used 61

@@ -1,2 +1,5 @@
-go chronic 45 go lantern 173
-go retinue 51 go bouquet 45
+go about with a chronic 45
+go about with a lantern 173
+go about with a retinue 51
+go armed with a bouquet 45
+go looking for a husband 47

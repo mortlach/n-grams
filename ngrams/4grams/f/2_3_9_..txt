@@ -1,3 +1,6 @@
-fa . 91 fa .
-56 fi . 281 foe
-. 95 ft . 106
+fa are constants . 91
+fa each additional . 56
+fi are constants . 281
+foe was approaching . 95
+ft are available . 106
+ft are constants . 433

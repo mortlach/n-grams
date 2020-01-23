@@ -1,2 +1,4 @@
-kerosene hand 61 kindness face 48
-knapsack down 165 knuckles mouth 67
+kerosene lantern in one hand 61
+kindness lighted on his face 48
+knapsack brought my head down 165
+knuckles pressed to her mouth 67

@@ -1,1 +1,2 @@
-r that 44 r than
+r exists such that 44
+r values less than 162

@@ -1,2 +1,5 @@
-edition chapter 204 edition preface 172
-edition chapter 410 edition preface 108
+edition contains a new chapter 204
+edition contains a new preface 172
+edition includes a new chapter 410
+edition includes a new preface 108
+editor included a few features 44

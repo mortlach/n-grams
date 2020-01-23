@@ -1,1 +1,2 @@
-zero bottom 60 zoom without 104
+zero at top and bottom 60
+zoom in and out without 104

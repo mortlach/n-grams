@@ -1,3 +1,7 @@
-name call 347 name give 102
-name from 45 name other 55
-name when 41 name show 98
+name am i to call 347
+name am i to give 102
+name of a king from 45
+name of a thing other 55
+name of a thing when 41
+name of a tv show 98
+nothing am i the great 59

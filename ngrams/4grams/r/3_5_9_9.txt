@@ -1,3 +1,5 @@
-read incubation 107 run perfection
-58 run conditions 440 run
-conditions 1582 run conditions 97
+read after overnight incubation 107
+run after theoretical perfection 58
+run under different conditions 440
+run under identical conditions 1582
+run under specified conditions 97

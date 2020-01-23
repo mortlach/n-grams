@@ -1,2 +1,4 @@
-foe summit 49 ft center
-1166 ft placed 59 ft
+foe beyond the summit 49
+ft center to center 1166
+ft ladder is placed 59
+ft moment of inertia 56

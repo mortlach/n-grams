@@ -1,2 +1,4 @@
-yearly owe 45 yield not 325
-yield too 43 yield not 65
+yearly tribute which they owe 45
+yield results which are not 325
+yield results which are too 43
+yield results which can not 65

@@ -1,2 +1,5 @@
-variables related 204 variables related 50
-variations species 74 variations pattern 57
+variables which are closely related 204
+variables which are linearly related 50
+variations within and between species 74
+variations within this general pattern 57
+verbally fixed and coupled together 69

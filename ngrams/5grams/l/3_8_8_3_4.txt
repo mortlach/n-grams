@@ -1,2 +1,5 @@
-lay other 45 lie other 550
-long single 93 low high 151
+lay encamped opposite each other 45
+lie directly opposite each other 550
+long continue servants and single 93
+low relative humidity and high 151
+low relative humidity with high 60

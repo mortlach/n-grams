@@ -1,3 +1,5 @@
-ph limits 281 ph limits
-673 pm friday 327 pm
-monday 970 pm sunday 897
+ph within narrow limits 281
+ph within normal limits 673
+pm daily except friday 327
+pm daily except monday 970
+pm daily except sunday 897

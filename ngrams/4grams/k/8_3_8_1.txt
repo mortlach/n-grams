@@ -1,5 +1,9 @@
-keyboard a 41 kindness i
-165 kindness i 542 kindness
-i 455 kindness i 70
-kindness a 40 knapsack a
-51 knighted a 78 knightly
+keyboard that includes a 41
+kindness and affection i 165
+kindness and attention i 542
+kindness and courtesy i 455
+kindness and patience i 70
+kindness that deserves a 40
+knapsack and produced a 51
+knighted and received a 78
+knightly and vigorous a 66

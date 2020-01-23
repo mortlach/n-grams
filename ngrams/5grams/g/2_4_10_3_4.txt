@@ -1,3 +1,6 @@
-go find 49 go have 40
-go tell 56 go wait 50
-go look 53 go their 57
+go back downstairs and find 49
+go back downstairs and have 40
+go back downstairs and tell 56
+go back downstairs and wait 50
+go down yourselves and look 53
+go into competition with their 57

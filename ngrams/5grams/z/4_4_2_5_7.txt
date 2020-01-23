@@ -1,1 +1,2 @@
-zero voltage 255 zinc portions 57
+zero when the input voltage 255
+zinc dust in small portions 57

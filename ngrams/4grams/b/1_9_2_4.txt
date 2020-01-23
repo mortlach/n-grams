@@ -1,3 +1,5 @@
-b true 227 b line
-46 b length 344 b
-same 272 b width 148
+b evaluates to true 227
+b indicates the line 46
+b represent the length 344
+b represent the same 272
+b represent the width 148

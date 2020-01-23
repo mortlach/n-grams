@@ -1,1 +1,2 @@
-volume letters 42 voters charter 42
+volume contains a few letters 42
+voters approved a new charter 42

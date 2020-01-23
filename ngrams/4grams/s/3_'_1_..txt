@@ -1,4 +1,7 @@
-seal . 70 see ?
-47 she . 62 sky
-. 103 son . 56
-son . 1797 sun .
+seal ' s . 70
+see ' t ? 47
+she ' s . 62
+sky ' s . 103
+son ' io . 56
+son ' s . 1797
+sun ' s . 307

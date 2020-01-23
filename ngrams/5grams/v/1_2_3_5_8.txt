@@ -1,1 +1,2 @@
-v velocity 109 v compared 94
+v is its linear velocity 109
+v is not small compared 94

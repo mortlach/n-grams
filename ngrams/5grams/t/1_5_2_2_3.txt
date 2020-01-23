@@ -1,3 +1,6 @@
-t all 97 t that 44
-t that 2056 t that 341
-t for 61 t end 53
+t bother me at all 97
+t hence it is that 44
+t seems to me that 2056
+t seems to us that 341
+t shall do so for 61
+t sound at the end 53

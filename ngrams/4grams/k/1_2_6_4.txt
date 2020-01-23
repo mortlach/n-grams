@@ -1,4 +1,7 @@
-k less 181 k from
-64 k such 414 k
-rate 43 k over 63
-k from 131 k rate
+k is always less 181
+k is chosen from 64
+k is chosen such 414
+k is reaction rate 43
+k is summed over 63
+k is varied from 131
+k the reaction rate 173

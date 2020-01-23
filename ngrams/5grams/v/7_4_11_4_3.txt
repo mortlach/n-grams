@@ -1,1 +1,2 @@
-vendors own 66 vessels out 40
+vendors have implemented their own 66
+vessels will necessarily come out 40

@@ -1,3 +1,5 @@
-ph considered 181 ph controlled
-261 ph determined 629 ph
-maintained 1546 ph determined 44
+ph should be considered 181
+ph should be controlled 261
+ph should be determined 629
+ph should be maintained 1546
+ph values as determined 44

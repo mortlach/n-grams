@@ -1,1 +1,2 @@
-kilometers capital 79 kilometers village
+kilometers outside the capital 79
+kilometers outside the village 135

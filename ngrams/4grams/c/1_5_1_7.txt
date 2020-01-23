@@ -1,1 +1,2 @@
-c complex 59 c typical
+c forms a complex 59
+c shows a typical 114

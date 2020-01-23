@@ -1,6 +1,10 @@
-necrosis i 71 negative a
-79 negative a 44 negative
-a 94 negative a 52
-negative a 81 negative a
-592 negative a 181 neighbor
-i 59 nutrient a 298
+necrosis factor receptor i 71
+negative charge attracts a 79
+negative charge produces a 44
+negative number produces a 94
+negative person receives a 52
+negative scores indicate a 81
+negative values indicate a 592
+negative values indicating a 181
+neighbor theodore laurence i 59
+nutrient medium containing a 298

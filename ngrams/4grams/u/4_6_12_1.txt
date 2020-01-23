@@ -1,2 +1,4 @@
-upon i 55 upon i
-243 upon i 67 upon
+upon further acquaintance i 55
+upon further consideration i 243
+upon further investigation i 67
+upon mature consideration i 120

@@ -1,4 +1,9 @@
-l that 70 l that 42
-l that 82 l any 44
-l that 69 l you 409
-l you 46 l any 134
+l am not claiming that 70
+l am not implying that 42
+l do not accept that 82
+l do not expect any 44
+l do not expect that 69
+l do not expect you 409
+l do not follow you 46
+l do not recall any 134
+l do not recall that 87

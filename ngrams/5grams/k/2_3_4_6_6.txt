@@ -1,1 +1,2 @@
-king unless 41 king knight 131
+king can have effect unless 41
+king had such another knight 131

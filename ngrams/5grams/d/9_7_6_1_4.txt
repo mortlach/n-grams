@@ -1,1 +1,2 @@
-defendant great 245 defendant blow 40
+defendant knowingly created a great 245
+defendant knowingly struck a blow 40

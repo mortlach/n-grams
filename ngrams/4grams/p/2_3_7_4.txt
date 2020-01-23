@@ -1,5 +1,9 @@
-ph time 97 ph acid
-144 ph salt 118 ph
-from 89 ph from 41
-ph from 239 ph from
-664 ph from 442 pm
+ph and contact time 97
+ph and organic acid 144
+ph and soluble salt 118
+ph far removed from 89
+ph had dropped from 41
+ph that results from 239
+ph was lowered from 664
+ph was reduced from 442
+pm and sundays from 225
