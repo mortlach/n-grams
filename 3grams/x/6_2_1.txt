@@ -1,7 +1,0 @@
-xylene a 1102 xylene
-a 203 xylene a
-223 xylene a 1092
-xylene a 332 xylene
-a 100 xylene a
-197 xylene p 43
-xylene a 124 xylene

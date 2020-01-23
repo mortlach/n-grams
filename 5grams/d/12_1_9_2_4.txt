@@ -1,6 +1,0 @@
-demonstrated break 47 demonstrated give 50
-demonstrated help 73 demonstrated learn 80
-demonstrated make 126 demonstrated move 46
-demonstrated risk 51 demonstrated take 328
-demonstrated work 276 demonstrates learn 49
-demonstrates take 41 demonstrates work 66

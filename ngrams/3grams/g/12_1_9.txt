@@ -1,0 +1,3 @@
+galvanometer a deflection 237
+galvanometer g connected 76
+galvanometer g indicates 141

@@ -1,4 +1,0 @@
-quit before 78 quit
-without 96 quit school
-42 quit school 109
-quit school 460 quit

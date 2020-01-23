@@ -1,0 +1,6 @@
+h exposure period 995
+h induction period 189
+h interval after 126
+h monitoring period 221
+h recovery period 1118
+h treatment period 309

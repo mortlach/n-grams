@@ -1,0 +1,2 @@
+q electric charge 40
+q possible values 64

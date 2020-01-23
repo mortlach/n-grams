@@ -1,0 +1,5 @@
+u bombarding energy 150
+u internal energy 474
+u membrane filter 304
+u ultimate strength 70
+u velocity vector 191

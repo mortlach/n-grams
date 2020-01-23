@@ -1,2 +1,0 @@
-ch word 99 ch word 41
-ch word 145 cm part 56

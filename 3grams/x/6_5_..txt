@@ -1,4 +1,0 @@
-xanthic . 106 xanthid
-. 185 xanthin .
-782 xanthin . 56
-xinetd . 325 xylose

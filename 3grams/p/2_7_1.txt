@@ -1,6 +1,0 @@
-ph a 94 ph
-a 157 ph a
-97 ph a 108
-ph a 142 ph
-a 87 ph a
-115 ph a 121

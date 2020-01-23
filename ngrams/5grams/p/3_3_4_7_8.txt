@@ -1,0 +1,6 @@
+pay education 821 pay expenses 72
+pay expenses 314 pay services 147
+pay treatment 197 pay education 56
+pay education 714 pay expenses 152
+pay attention 50 pay supposed 77
+poem regarded 46 poet inspired 71

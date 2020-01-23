@@ -1,3 +1,0 @@
-quit on 68 quit
-in 156 quit or
-166 quit to 47

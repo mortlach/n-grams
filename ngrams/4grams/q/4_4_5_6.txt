@@ -1,0 +1,2 @@
+quit before 101 quit without
+49 quit without 90 quit

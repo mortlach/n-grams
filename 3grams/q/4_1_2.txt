@@ -1,5 +1,0 @@
-ques ion 150 quid
-go 164 quid me
-225 quit thing 85
-quit do 44 quoth
-in 180 quoth to

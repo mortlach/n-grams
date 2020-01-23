@@ -1,3 +1,0 @@
-cc flasks 274 cc
-syringes 113 cm metals
-46 cm strength 84

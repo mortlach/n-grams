@@ -1,5 +1,0 @@
-kettledrums cymbals 158 kitchenette
-balcony 130 kitchenette bathroom
-1048 kitchenette private 532
-kitchenette started 50 kitchenware
-gourmet 47 knickknacks gewgaws

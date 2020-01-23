@@ -1,6 +1,0 @@
-e people 42 e
-works 50 e method
-160 e field 137
-e social 264 e
-field 104 e above
-386 e wreck 188

@@ -1,2 +1,0 @@
-quit which 74 quit quiet 47
-quit which 102 quit false 65

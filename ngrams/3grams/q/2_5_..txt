@@ -1,0 +1,5 @@
+qa change . 158
+qi flows . 46
+qq pairs . 354
+qq state . 115
+qt water . 100

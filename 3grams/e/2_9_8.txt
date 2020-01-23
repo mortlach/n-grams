@@ -1,2 +1,0 @@
-ear response 80 ear
-response 206 eat biscuits

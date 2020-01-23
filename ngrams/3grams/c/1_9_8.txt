@@ -1,0 +1,4 @@
+c amplifier circuits 245
+c generator armature 108
+c generator consists 47
+c generator supplies 60

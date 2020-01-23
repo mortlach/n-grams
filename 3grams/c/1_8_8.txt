@@ -1,3 +1,0 @@
-c containing 132 c
-transfer 247 c momentum
-114 c outcomes 95

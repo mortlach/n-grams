@@ -1,3 +1,0 @@
-c above 41 c equal
-47 c taken 127 c
-value 194 c table 43

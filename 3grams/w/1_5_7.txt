@@ -1,3 +1,0 @@
-w picture 123 w
-balance 44 w content
-303 w implies 46

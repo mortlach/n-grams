@@ -1,1 +1,0 @@
-vow a 42 vow i

@@ -1,4 +1,0 @@
-c two 59 c not 418
-c fig 1309 c not 115
-c fig 723 c this 268
-c that 170 c not 45

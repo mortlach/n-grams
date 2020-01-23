@@ -1,4 +1,0 @@
-xylene absolute 100 xylene
-alcohols 142 xylene embedded
-398 xylene hydrated 100
-xylene paraffin 123 xylene

@@ -1,0 +1,3 @@
+quantity a . 257
+quantity f . 40
+quantity i ? 103

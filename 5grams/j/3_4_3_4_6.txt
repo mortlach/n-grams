@@ -1,2 +1,0 @@
-jar english 44 job school 96
-job school 62 jot notions 65

@@ -1,3 +1,0 @@
-t association 118 t
-institute 111 t professor
-479 t narrative 115

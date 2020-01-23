@@ -1,3 +1,0 @@
-zebra white 47 zebra
-zebra 61 zones large
-64 zones small 41

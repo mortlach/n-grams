@@ -1,0 +1,3 @@
+wavelength a . 882
+wavelength x . 258
+whenever a . 79

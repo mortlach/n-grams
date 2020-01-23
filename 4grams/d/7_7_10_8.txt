@@ -1,9 +1,0 @@
-defense impulses 100 defense impulses
-64 defense overload 41 defense
-impulses 41 density constant 78
-density constant 75 destroy branches
-47 dialogue agencies 42 dialogue
-officials 127 diseases arthritis 465
-diseases arthritis 723 dispute commerce
-59 dispute citizens 40 dynamic
-hardware 82 dynamic positive 51

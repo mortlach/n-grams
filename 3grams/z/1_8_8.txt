@@ -1,4 +1,0 @@
-z parallel 183 z
-relative 123 z equations
-68 z downward 78
-z deviations 789 z

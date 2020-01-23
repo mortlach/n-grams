@@ -1,0 +1,3 @@
+xanthan production . 66
+xylose absorption . 547
+xylose isomerase . 1203

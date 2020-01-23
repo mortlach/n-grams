@@ -1,2 +1,0 @@
-yellow from 50 yellow cloth 91
-yields unit 86 yields those 101

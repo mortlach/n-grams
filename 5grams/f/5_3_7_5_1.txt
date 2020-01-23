@@ -1,9 +1,0 @@
-facts i 63 facts a 202
-facts i 280 facts a 58
-facts i 60 fancy a 73
-father a 81 feeling a 52
-field a 67 field a 51
-files a 97 first a 141
-first a 495 first i 138
-first i 41 first a 91
-first i 41 found a 128

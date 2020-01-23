@@ -1,6 +1,0 @@
-g acetate 49 g
-acetate 127 g lactate
-598 g nitrate 365
-g hydrate 1546 g
-gravity 132 g protein
-159 g sulfate 888

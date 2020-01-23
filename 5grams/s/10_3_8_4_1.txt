@@ -1,5 +1,0 @@
-satellites a 63 scientists a 138
-scientists a 133 scientists a 42
-securities a 52 separately a 44
-statements a 58 suggestions a 42
-supervision a 50 supplicant a 61

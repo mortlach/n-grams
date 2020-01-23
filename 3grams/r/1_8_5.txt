@@ -1,6 +1,0 @@
-r about 91 r
-below 91 r until
-52 r apart 40
-r occur 60 r
-above 116 r above
-51 r items 70

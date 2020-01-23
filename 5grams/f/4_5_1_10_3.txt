@@ -1,4 +1,0 @@
-from can 72 from can 51
-from ray 46 from was 45
-from that 150 from that 122
-from that 384 from that 537

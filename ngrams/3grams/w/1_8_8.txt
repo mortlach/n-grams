@@ -1,0 +1,2 @@
+w diffusion transfer 59
+w vertical velocity 135

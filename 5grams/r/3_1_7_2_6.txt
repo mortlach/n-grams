@@ -1,9 +1,0 @@
-ran agents 50 read gibbon 99
-read hebrew 1701 read seneca 107
-read section 68 read england 42
-read greeting 43 read random 113
-read english 43 read authors 58
-read fiction 48 read genres 93
-real burden 93 reap blessing 790
-ringing little 47 rob tender 105
-run something 40 run another 40

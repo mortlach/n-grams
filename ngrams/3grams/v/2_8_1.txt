@@ -1,0 +1,7 @@
+via internal e 45
+via internet e 408
+via personal e 124
+via resistor r 228
+via specific g 45
+vi displays a 72
+vi provides a 63

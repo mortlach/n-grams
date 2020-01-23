@@ -1,2 +1,0 @@
-ft ladder 65 ft
-number 51 ft square

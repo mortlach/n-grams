@@ -1,0 +1,5 @@
+go hungry 71 go hopes 41
+go mother 70 go father 43
+go mother 152 go could 42
+go night 49 go easily 68
+go easily 42 go others 47

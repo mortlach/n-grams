@@ -1,3 +1,0 @@
-vulnerability climate 54 vulnerability
-account 131 vulnerability increase
-137 vulnerability persist 63

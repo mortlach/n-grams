@@ -1,6 +1,0 @@
-therefore . 82 therefore
-. 88 thickness .
-80 thickness . 255
-thickness . 207 threshold
-. 108 threshold .
-220 treatment ? 139

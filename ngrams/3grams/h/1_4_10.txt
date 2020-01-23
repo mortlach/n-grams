@@ -1,0 +1,7 @@
+h fire resistance 113
+h food deprivation 348
+h post inoculation 801
+h were calculated 297
+h were considered 75
+h were determined 271
+h were introduced 41

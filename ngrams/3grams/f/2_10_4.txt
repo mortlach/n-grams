@@ -1,0 +1,6 @@
+ff fortissimo very 96
+ft approaches zero 289
+ft calculated from 76
+ft equivalent length 260
+ft increments from 55
+ft vertically from 169

@@ -1,0 +1,7 @@
+foe against another 119
+foe trained through 161
+ft diameter circle 311
+ft diameter column 68
+ft diameter sphere 167
+ft diameter tunnel 52
+ft friction factor 85

@@ -1,5 +1,0 @@
-g calculated 1031 g considered
-347 g decomposed 95 g
-determined 1240 g eliminated 113
-g identified 98 g calculated
-270 g considered 314 g

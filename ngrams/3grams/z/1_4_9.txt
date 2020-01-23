@@ -1,0 +1,4 @@
+z axis coincides 1251
+z axis directions 89
+z test statistic 2894
+z will represent 162

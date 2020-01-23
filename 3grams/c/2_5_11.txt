@@ -1,2 +1,0 @@
-cc centimeters 63 cm
-intensifier 256 cm corresponds

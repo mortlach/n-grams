@@ -1,2 +1,0 @@
-chance strength 42 common always 41
-common occurs 50 crowding shrine 57

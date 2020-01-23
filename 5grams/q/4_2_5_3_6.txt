@@ -1,3 +1,0 @@
-quit retire 55 quit return 58
-quit formed 43 quit joined 54
-quit regret 59 quit secure 59

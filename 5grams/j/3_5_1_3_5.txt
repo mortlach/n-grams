@@ -1,4 +1,0 @@
-job months 179 job weeks 111
-job period 77 job working 68
-job still 81 job hours 43
-job months 170 job weeks 171

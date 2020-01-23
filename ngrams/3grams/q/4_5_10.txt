@@ -1,0 +1,6 @@
+quit paris immediately 264
+quit playing basketball 120
+quit smoking cigarettes 1400
+quit smoking completely 271
+quit smoking immediately 123
+quit working completely 58

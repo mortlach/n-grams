@@ -1,0 +1,3 @@
+p mutually exclusive 99
+p orbitals available 193
+p orbitals hybridize 69

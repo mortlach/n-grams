@@ -1,4 +1,0 @@
-quality deviates 53 quality
-measured 57 quality studies
-105 quantum effects 314
-quartic equation 113 question

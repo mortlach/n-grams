@@ -1,0 +1,2 @@
+z positive downwards 62
+z velocity component 79

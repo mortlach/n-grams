@@ -1,5 +1,0 @@
-zonally data 51 zonally
-eddy 602 zonally flow
-287 zonally heating 189
-zonally ocean 328 zonally
-part 291 zonally wind

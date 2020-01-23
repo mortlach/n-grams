@@ -1,2 +1,0 @@
-leave enemy 42 leave wound 48
-left scent 53 length shore 40

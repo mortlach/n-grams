@@ -1,4 +1,0 @@
-names captains 44 names resident 57
-nearly possible 46 needs patients 91
-needs managers 49 needs children 56
-needs children 51 never endangering 58

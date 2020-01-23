@@ -1,0 +1,3 @@
+x direction component 48
+x distance traversed 71
+x velocity component 401

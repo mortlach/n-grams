@@ -1,2 +1,0 @@
-ray a 57 ray x 44
-read i 60 rip i 43

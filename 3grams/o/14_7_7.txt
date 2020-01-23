@@ -1,3 +1,0 @@
-omnidirectional pattern 58 omnidirectional
-pattern 275 omnidirectional antenna
-121 overdetermined between 62

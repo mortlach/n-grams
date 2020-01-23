@@ -1,3 +1,0 @@
-quit a 54 quit i
-102 quit a 94 quit
-i 435 quit a 166

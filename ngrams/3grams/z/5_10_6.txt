@@ -1,0 +1,4 @@
+zeroes everywhere except 58
+zeros everywhere except 765
+zonal boundaries should 99
+zones immediately around 43

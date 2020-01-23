@@ -1,0 +1,3 @@
+judge stranger 44 judge position 65
+judge correct 47 judge national 260
+jumping carriage 161 jumps process 47

@@ -1,0 +1,2 @@
+w angular 199 w number
+139 w vector 96 w

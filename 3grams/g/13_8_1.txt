@@ -1,7 +1,0 @@
-generalization a 132 generalization
-a 49 generalization a
-232 generalization a 76
-generalization a 162 generalization
-a 165 generalization a
-57 grandchildren a 68
-granddaughter i 99 granddaughter

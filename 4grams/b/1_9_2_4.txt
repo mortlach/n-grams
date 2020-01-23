@@ -1,3 +1,0 @@
-b true 227 b line
-46 b length 344 b
-same 272 b width 148

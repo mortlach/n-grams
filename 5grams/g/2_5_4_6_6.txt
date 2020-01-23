@@ -1,2 +1,0 @@
-go nurses 43 go without 111
-go duties 106 go office 80

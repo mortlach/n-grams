@@ -1,0 +1,5 @@
+qf america . 81
+qf ireland . 45
+qi vacuity . 954
+qr complex . 151
+qr pattern . 231

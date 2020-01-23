@@ -1,6 +1,0 @@
-machine accepting 65 marriage emperor 43
-material average 107 material parties 120
-material position 89 material present 118
-material results 64 material company 467
-maximum highest 89 maximum measured 140
-maximum results 76 meaningful officer 128

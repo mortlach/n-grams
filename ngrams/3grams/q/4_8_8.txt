@@ -1,0 +1,5 @@
+quit business entirely 105
+quit internet explorer 102
+quit licensed premises 51
+quit politics entirely 64
+quit practicing medicine 118

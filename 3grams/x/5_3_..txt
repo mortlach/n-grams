@@ -1,6 +1,0 @@
-xenon . 795 xenon
-. 1422 xenon .
-309 xviii . 47
-xviii . 47 xxiii
-. 45 xylem .
-398 xylem . 3256

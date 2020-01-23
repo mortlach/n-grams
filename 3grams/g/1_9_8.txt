@@ -1,6 +1,0 @@
-g charcoal 1197 g
-chloride 532 g sulphate
-2217 g chlorate 250
-g chloride 3560 g
-hydrogen 382 g sulphate
-265 g consumed 71

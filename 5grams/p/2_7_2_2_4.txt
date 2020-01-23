@@ -1,3 +1,0 @@
-ph body 117 ph body 120
-ph skin 102 ph ratio 100
-ph acid 92 ph range 347

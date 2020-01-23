@@ -1,3 +1,0 @@
-p variables 268 p
-factorial 1245 p orbitals
-58 p variables 747

@@ -1,0 +1,2 @@
+ft parabolic reflector 163
+ft resistors connected 50

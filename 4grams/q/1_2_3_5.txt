@@ -1,8 +1,0 @@
-q point 413 q point
-45 q point 281 q
-point 106 q change 120
-q empty 65 q equal
-261 q given 44 q
-known 226 q equal 43
-q equal 235 q given
-243 q large 45 q

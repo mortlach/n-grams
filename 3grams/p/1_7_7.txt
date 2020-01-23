@@ -1,6 +1,0 @@
-p smaller 560 p
-junction 122 p devices
-160 p density 412
-p linearly 43 p
-overlap 687 p remains
-217 p against 531

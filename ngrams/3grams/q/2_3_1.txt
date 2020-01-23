@@ -1,0 +1,5 @@
+qr and q 113
+qt and a 114
+qt and p 229
+qt and q 760
+qt and r 148

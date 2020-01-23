@@ -1,3 +1,0 @@
-per school 60 put effect 47
-put effect 170 put effect 177
-put effect 64 put mutiny 73

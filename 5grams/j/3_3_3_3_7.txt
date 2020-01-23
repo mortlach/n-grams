@@ -1,8 +1,0 @@
-job require 69 job welfare 60
-job involve 296 job require 680
-job include 50 job involve 329
-job provide 146 job require 1153
-job satisfy 50 job offered 42
-job offered 54 joy sorrows 60
-joy imagine 57 joy enabled 101
-joy brought 63 joy escaped 75

@@ -1,7 +1,0 @@
-re something 112 re accept
-68 re bolivia 335 re
-quebec 1710 re follow 42
-re report 47 re common
-383 ring oxygen 46 ring
-sample 44 ring pieces 82
-ring building 50 ring gullet

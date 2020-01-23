@@ -1,5 +1,0 @@
-qr a 261 qr
-a 183 qt a
-82 qt a 46
-qt a 80 qt
-a 674 qt a

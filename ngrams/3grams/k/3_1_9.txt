@@ -1,0 +1,4 @@
+key a candidate 120
+key a character 86
+key a deflection 41
+key a different 80

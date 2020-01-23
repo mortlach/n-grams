@@ -1,0 +1,4 @@
+q spread uniformly 90
+q which maximizes 172
+q which minimizes 173
+q which satisfies 246

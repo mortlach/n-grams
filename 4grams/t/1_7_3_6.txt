@@ -1,1 +1,0 @@
-t vowels 105 t handling

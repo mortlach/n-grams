@@ -1,0 +1,4 @@
+quit medical practice 45
+quit private practice 45
+quit shortly thereafter 128
+quit torturing yourself 60

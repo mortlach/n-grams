@@ -1,0 +1,4 @@
+xanthan gums . 53
+xanthic acid . 102
+xylose test . 396
+xylose unit . 57

@@ -1,0 +1,6 @@
+k constant region 215
+k distinct roots 56
+k increases above 95
+k increases until 41
+k mentioned above 124
+k variables which 134

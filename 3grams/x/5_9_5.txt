@@ -1,3 +1,0 @@
-xenon lamps 191 xenon
-method 179 xylem phloem
-127 xylem xylem 517

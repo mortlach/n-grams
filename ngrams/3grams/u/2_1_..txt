@@ -1,0 +1,7 @@
+up a . 2750
+up i . 235
+up th . 258
+ur e . 72
+us a . 448
+us f . 59
+us ing . 61

@@ -1,0 +1,6 @@
+re a . 139
+re f . 97
+re i . 90
+re s . 194
+ri ng . 775
+ring a . 82

@@ -1,0 +1,4 @@
+jurisdictions a defendant 172
+jurisdictions a different 52
+jurisdictions a plaintiff 101
+jurisdictions a statutory 40

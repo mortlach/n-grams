@@ -1,7 +1,0 @@
-c lengths 136 c sides
-192 c speed 54 c
-table 54 c about 107
-c added 110 c equal
-168 c given 110 c
-linear 46 c small 42
-c taken 295 c power

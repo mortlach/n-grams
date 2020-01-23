@@ -1,3 +1,0 @@
-d increases 195 d
-detected 61 d elements
-283 d energies 56

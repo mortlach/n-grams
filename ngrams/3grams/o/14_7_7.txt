@@ -1,0 +1,4 @@
+omnidirectional antenna pattern 58
+omnidirectional radiation pattern 275
+omnidirectional receiving antenna 121
+overdetermined relation between 62

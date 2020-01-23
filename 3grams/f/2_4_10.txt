@@ -1,6 +1,0 @@
-fl resistance 56 foe
-enterprising 49 foe formidable
-417 foe intermingled 73
-ft embankment 48 ft
-resistance 223 ft calculated
-51 ft determined 49

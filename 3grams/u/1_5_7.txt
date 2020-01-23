@@ -1,3 +1,0 @@
-u journal 129 u
-defines 54 u depends
-147 u satisfy 151

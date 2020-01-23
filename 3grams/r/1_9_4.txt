@@ -1,5 +1,0 @@
-r zero 116 r
-band 159 r from
-498 r ways 71
-r from 89 r
-from 51 r from

@@ -1,0 +1,6 @@
+qf christ . 64
+qf england . 104
+qf france . 73
+qi energy . 218
+qq states . 167
+qq system . 160

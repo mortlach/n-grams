@@ -1,4 +1,0 @@
-keep register 130 knew lawgiver 48
-knew standard 63 knew depended 49
-knew depended 61 know district 42
-know conjoint 109 know yourself 76

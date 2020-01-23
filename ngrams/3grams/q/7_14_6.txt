@@ -1,0 +1,3 @@
+quality characteristic should 81
+question satisfactorily without 45
+question unintentionally touching 54

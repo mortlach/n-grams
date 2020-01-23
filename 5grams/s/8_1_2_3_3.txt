@@ -1,4 +1,0 @@
-schedule act 112 schedule act 1373
-schedule act 678 schedule act 337
-schedule act 130 sensation own 89
-situation mean 50 situation see 78

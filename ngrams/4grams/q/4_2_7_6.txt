@@ -1,0 +1,10 @@
+quit station 151 quit before
+77 quit without 103 quit
+church 200 quit before 167
+quit unless 55 quit without
+643 quit groves 96 quit
+office 72 quit before 86
+quit without 72 quit before
+59 quit unless 43 quit
+without 220 quit states 59
+quit without 742 quit ground

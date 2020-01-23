@@ -1,0 +1,4 @@
+ft contour intervals 233
+ft diameter parabolic 105
+ft diameter propeller 132
+ft diameter spherical 53

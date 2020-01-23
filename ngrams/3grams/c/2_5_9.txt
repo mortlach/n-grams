@@ -1,0 +1,6 @@
+cc syringe connected 49
+cm above umbilicus 231
+cm below umbilicus 73
+cm plate separation 49
+cw laser excitation 334
+cw laser irradiation 264

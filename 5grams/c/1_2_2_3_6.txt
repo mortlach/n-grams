@@ -1,1 +1,0 @@
-c number 150 c thermal 43

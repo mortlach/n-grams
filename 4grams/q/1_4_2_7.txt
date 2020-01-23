@@ -1,2 +1,0 @@
-q surface 47 q denoted
-128 q reduced 47 q

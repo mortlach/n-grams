@@ -1,0 +1,5 @@
+c circuits containing 132
+c electron transfer 247
+c incident momentum 114
+c possible outcomes 95
+c voltages required 179

@@ -1,3 +1,0 @@
-quit heroes 56 quit within
-125 quit abode 101 quit
-abode 42 quoth ralph 43

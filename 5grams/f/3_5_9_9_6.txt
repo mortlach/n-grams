@@ -1,2 +1,0 @@
-for lesions 50 for disease 62
-for venous 532 for engaged 120

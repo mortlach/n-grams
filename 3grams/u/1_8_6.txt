@@ -1,3 +1,0 @@
-u energy 150 u
-energy 474 u filter
-304 u strength 70

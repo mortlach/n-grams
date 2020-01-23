@@ -1,0 +1,5 @@
+db frequencies 53 db frequencies 128
+db frequencies 144 do construction 97
+do consequence 75 do obstructions 67
+do particulars 1089 do legislative 50
+do particulars 40 do competitive 58

@@ -1,6 +1,0 @@
-path earth 71 path its 134
-path lead 65 path led 111
-path led 220 path her 41
-path him 150 path them 63
-path nor 64 pay and 44
-put can 61 put them 48

@@ -1,7 +1,0 @@
-king prince 103 king nobles 51
-king priest 100 king prince 1627
-king master 52 king legate 42
-king should 56 king regent 45
-king family 4112 king assent 44
-king county 44 king sleeping 103
-king priest 99 king number 50

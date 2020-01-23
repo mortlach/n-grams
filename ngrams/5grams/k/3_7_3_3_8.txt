@@ -1,0 +1,2 @@
+key critical 74 key essential 45
+key approach 105 key purposes 61

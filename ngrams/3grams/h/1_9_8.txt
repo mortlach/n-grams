@@ -1,0 +1,3 @@
+h boltzmann constant 54
+h inhalation exposure 57
+h intervals thereafter 159

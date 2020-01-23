@@ -1,6 +1,0 @@
-t positive 231 t possible
-118 t possible 121 t
-surprising 171 t probable 53
-t unlikely 90 t apparent
-109 t accepted 43 t
-velocity 105 t beautiful 50

@@ -1,0 +1,7 @@
+gh t . 125
+gi f . 205
+gi n . 54
+go a . 47
+go i ? 350
+go ing . 186
+go v . 111

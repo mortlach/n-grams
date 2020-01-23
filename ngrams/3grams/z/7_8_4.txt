@@ -1,0 +1,7 @@
+zonally averaged data 51
+zonally averaged eddy 602
+zonally averaged flow 287
+zonally averaged heating 189
+zonally averaged ocean 328
+zonally averaged part 291
+zonally averaged wind 245

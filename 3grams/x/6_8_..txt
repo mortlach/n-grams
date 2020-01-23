@@ -1,6 +1,0 @@
-xanthan . 91 xinetd
-. 153 xxviii .
-75 xylene . 57
-xylene . 169 xylene
-. 148 xylose .
-64 xylose . 297

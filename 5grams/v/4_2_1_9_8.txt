@@ -1,9 +1,0 @@
-veer direction 137 vent imitation 66
-view condition 46 view approach 136
-view reporter 43 view situation 121
-view database 56 view observer 253
-view insertion 59 view diffusion 78
-vote majority 54 vote consisting 129
-vote majority 54 vote majority 128
-vote authorizing 111 vote concerning 40
-vote condemning 120 voting majority 93

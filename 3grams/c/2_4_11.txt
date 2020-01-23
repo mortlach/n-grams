@@ -1,6 +1,0 @@
-cm equilibrium 790 cm
-cylindrical 44 cm measurements
-75 cm observations 730
-cm observations 273 cm
-temperature 358 cm polyethylene
-174 cm polystyrene 131

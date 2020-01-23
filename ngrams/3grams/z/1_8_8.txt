@@ -1,0 +1,6 @@
+z direction parallel 183
+z direction relative 123
+z momentum equations 68
+z positive downward 78
+z standard deviations 789
+z vertical distance 57

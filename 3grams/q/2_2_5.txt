@@ -1,4 +1,0 @@
-qr given 116 qt
-terms 61 qt equal
-116 qt given 195
-qt fluid 281 qt

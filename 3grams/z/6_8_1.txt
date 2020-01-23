@@ -1,4 +1,0 @@
-zygote a 530 zygote
-a 284 zygote a
-222 zygote a 80
-zygote a 676 zygote

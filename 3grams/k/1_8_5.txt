@@ -1,4 +1,0 @@
-k region 215 k
-roots 56 k above
-95 k until 41
-k above 124 k

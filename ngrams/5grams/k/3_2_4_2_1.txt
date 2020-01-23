@@ -1,0 +1,13 @@
+keg a 66 keg a 56
+ken i 58 key a 47
+key a 64 key a 526
+key a 45 key a 558
+key a 44 key a 42
+key a 62 key a 96
+key a 64 key a 334
+key a 160 key a 41
+key a 57 key a 170
+key a 94 key a 147
+key a 553 key a 77
+key a 63 kings a 97
+kings a 183 kit a 130

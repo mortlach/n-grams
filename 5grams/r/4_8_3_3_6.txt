@@ -1,9 +1,0 @@
-race should 42 raft station 59
-rare special 45 rate depend 76
-rate reaction 53 rate reaction 59
-rate reaction 2343 rate system 61
-reach england 214 react another 45
-ready likely 44 ready sortie 51
-rent amount 80 rent exceed 175
-rich divide 43 risk likely 86
-rode armies 53 room always 41

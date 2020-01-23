@@ -1,0 +1,4 @@
+qf commerce . 47
+qf medicine . 74
+qf scotland . 43
+qi downward . 138
